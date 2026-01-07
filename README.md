@@ -2,9 +2,27 @@
 
 An AI parliament consisting of 1000+ individual GenAI models, each with different world-class professional expertise.
 
+## 🚀 Now with Real AI-Powered Expertise!
+
+The parliament now supports **actual AI-powered expert consultations** where each expert is backed by Claude AI with specialized system prompts. Get genuine expert analysis instead of simulated responses!
+
+**See [README-AI.md](README-AI.md) for the AI-powered version setup and usage.**
+
 ## Overview
 
 The AI Parliament is a sophisticated system that brings together over 1000 unique AI experts spanning every major field of human knowledge. Each expert has specialized knowledge, experience, and perspective in their domain, enabling collaborative deliberation and consensus-building on complex issues.
+
+### Two Modes Available
+
+1. **AI-Powered Mode** (Recommended): Real Claude AI consultations with each expert
+   - Requires Anthropic API key
+   - Genuine expert-level analysis
+   - See [README-AI.md](README-AI.md)
+
+2. **Simulated Mode**: Fast, free simulations for testing and demos
+   - No API key required
+   - Rule-based responses
+   - This README
 
 ## Features
 
