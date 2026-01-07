@@ -1,0 +1,209 @@
+[
+  {
+    "id": "expert-1072",
+    "name": "Kathleen Owens",
+    "title": "Lead",
+    "credentials": [
+      "OD"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security",
+      "theoretical national security"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Served on editorial boards of leading National Security journals",
+      "Keynote speaker at international National Security conferences",
+      "Led groundbreaking research in national security",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Kathleen Owens is a distinguished expert in National Security with 11 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to national security",
+    "traits": [
+      "holistic",
+      "creative",
+      "traditional",
+      "theoretical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-1073",
+    "name": "David White",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "JD"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in National Security",
+      "Led groundbreaking research in national security"
+    ],
+    "biography": "David White is a distinguished expert in National Security with 41 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to national security",
+    "traits": [
+      "balanced",
+      "systematic",
+      "detail-oriented",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-1074",
+    "name": "Noah Hamilton",
+    "title": "Director",
+    "credentials": [
+      "PhD",
+      "DPhil",
+      "DSc"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security",
+      "theoretical national security"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Served on editorial boards of leading National Security journals",
+      "Led groundbreaking research in national security",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Noah Hamilton is a distinguished expert in National Security with 12 years of experience. Known for groundbreaking contributions to the field, Noah has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to national security",
+    "traits": [
+      "pragmatic",
+      "traditional",
+      "holistic",
+      "empirical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-1075",
+    "name": "Justin Gray",
+    "title": "Director",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security",
+      "theoretical national security"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Developed innovative methodologies in national security",
+      "Served on editorial boards of leading National Security journals",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in National Security"
+    ],
+    "biography": "Justin Gray is a distinguished expert in National Security with 14 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of national security",
+    "traits": [
+      "independent",
+      "conservative",
+      "flexible",
+      "visionary",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-1076",
+    "name": "Austin Perez",
+    "title": "Dr.",
+    "credentials": [
+      "MFA",
+      "MSc",
+      "PharmD"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 48 peer-reviewed papers in National Security",
+      "Led groundbreaking research in national security",
+      "Served on editorial boards of leading National Security journals"
+    ],
+    "biography": "Austin Perez is a distinguished expert in National Security with 24 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of national security",
+    "traits": [
+      "methodical",
+      "creative",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-1077",
+    "name": "Stephen Barnes",
+    "title": "Principal",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security",
+      "theoretical national security"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Recipient of prestigious awards in National Security",
+      "Developed innovative methodologies in national security",
+      "Led groundbreaking research in national security",
+      "Keynote speaker at international National Security conferences"
+    ],
+    "biography": "Stephen Barnes is a distinguished expert in National Security with 28 years of experience. Known for groundbreaking contributions to the field, Stephen has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "practical application of national security principles",
+    "traits": [
+      "methodical",
+      "traditional",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-1078",
+    "name": "Larry Flores",
+    "title": "Chief",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "National Security",
+    "specializations": [
+      "advanced national security",
+      "applied national security",
+      "theoretical national security"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in National Security",
+      "Mentored 10 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in national security",
+      "Recipient of prestigious awards in National Security"
+    ],
+    "biography": "Larry Flores is a distinguished expert in National Security with 21 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of national security through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in national security",
+    "traits": [
+      "holistic",
+      "specialized",
+      "systematic",
+      "reform-minded",
+      "progressive"
+    ]
+  }
+]

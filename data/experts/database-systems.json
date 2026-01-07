@@ -1,0 +1,176 @@
+[
+  {
+    "id": "expert-0435",
+    "name": "Catherine Stevens",
+    "title": "Lead",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Mentored 21 doctoral students",
+      "Keynote speaker at international Database Systems conferences",
+      "Developed innovative methodologies in database systems",
+      "Recipient of prestigious awards in Database Systems"
+    ],
+    "biography": "Catherine Stevens is a distinguished expert in Database Systems with 43 years of experience. Known for groundbreaking contributions to the field, Catherine has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to database systems",
+    "traits": [
+      "data-driven",
+      "analytical",
+      "pragmatic",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0436",
+    "name": "Sharon Romero",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MD",
+      "DPT"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Database Systems journals",
+      "Published 60 peer-reviewed papers in Database Systems",
+      "Led groundbreaking research in database systems"
+    ],
+    "biography": "Sharon Romero is a distinguished expert in Database Systems with 30 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in database systems",
+    "traits": [
+      "conservative",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0437",
+    "name": "Jacqueline Jimenez",
+    "title": "Professor",
+    "credentials": [
+      "MD",
+      "OD",
+      "LLM"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Recipient of prestigious awards in Database Systems",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in database systems",
+      "Served on editorial boards of leading Database Systems journals"
+    ],
+    "biography": "Jacqueline Jimenez is a distinguished expert in Database Systems with 38 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to database systems",
+    "traits": [
+      "theoretical",
+      "practical",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0438",
+    "name": "Heather Cole",
+    "title": "Lead",
+    "credentials": [
+      "DBA",
+      "DSc",
+      "DPhil"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Recipient of prestigious awards in Database Systems",
+      "Published 68 peer-reviewed papers in Database Systems",
+      "Keynote speaker at international Database Systems conferences",
+      "Served on editorial boards of leading Database Systems journals"
+    ],
+    "biography": "Heather Cole is a distinguished expert in Database Systems with 34 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "practical application of database systems principles",
+    "traits": [
+      "principled",
+      "conservative",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0439",
+    "name": "Kathryn Wood",
+    "title": "Assistant Professor",
+    "credentials": [
+      "JD",
+      "DSc",
+      "LLM"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems",
+      "theoretical database systems"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Recipient of prestigious awards in Database Systems",
+      "Led groundbreaking research in database systems",
+      "Keynote speaker at international Database Systems conferences",
+      "Served on editorial boards of leading Database Systems journals",
+      "Mentored 20 doctoral students"
+    ],
+    "biography": "Kathryn Wood is a distinguished expert in Database Systems with 40 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "practical application of database systems principles",
+    "traits": [
+      "conservative",
+      "cautious",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0440",
+    "name": "Virginia Butler",
+    "title": "Senior",
+    "credentials": [
+      "JD",
+      "PsyD"
+    ],
+    "field": "Database Systems",
+    "specializations": [
+      "advanced database systems",
+      "applied database systems",
+      "theoretical database systems"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Keynote speaker at international Database Systems conferences",
+      "Mentored 5 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in database systems",
+      "Recipient of prestigious awards in Database Systems"
+    ],
+    "biography": "Virginia Butler is a distinguished expert in Database Systems with 11 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of database systems through extensive research, teaching, and practice.",
+    "perspective": "practical application of database systems principles",
+    "traits": [
+      "methodical",
+      "strategic",
+      "flexible",
+      "independent"
+    ]
+  }
+]

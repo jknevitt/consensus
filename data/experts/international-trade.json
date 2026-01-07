@@ -1,0 +1,178 @@
+[
+  {
+    "id": "expert-0541",
+    "name": "Christina Stevens",
+    "title": "Director",
+    "credentials": [
+      "DNP",
+      "PhD"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade",
+      "theoretical international trade"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Recipient of prestigious awards in International Trade",
+      "Served on editorial boards of leading International Trade journals",
+      "Led groundbreaking research in international trade",
+      "Published 54 peer-reviewed papers in International Trade"
+    ],
+    "biography": "Christina Stevens is a distinguished expert in International Trade with 27 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in international trade",
+    "traits": [
+      "traditional",
+      "data-driven",
+      "strategic",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0542",
+    "name": "Hannah Burns",
+    "title": "Principal",
+    "credentials": [
+      "OD"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Recipient of prestigious awards in International Trade",
+      "Led groundbreaking research in international trade",
+      "Developed innovative methodologies in international trade"
+    ],
+    "biography": "Hannah Burns is a distinguished expert in International Trade with 16 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international trade",
+    "traits": [
+      "balanced",
+      "visionary",
+      "independent",
+      "principled",
+      "practical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0543",
+    "name": "Barbara Miller",
+    "title": "Professor",
+    "credentials": [
+      "DDS",
+      "DVM",
+      "DPhil"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Keynote speaker at international International Trade conferences",
+      "Developed innovative methodologies in international trade",
+      "Led groundbreaking research in international trade",
+      "Published 52 peer-reviewed papers in International Trade"
+    ],
+    "biography": "Barbara Miller is a distinguished expert in International Trade with 26 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international trade",
+    "traits": [
+      "progressive",
+      "bold",
+      "systematic",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0544",
+    "name": "Katherine Sullivan",
+    "title": "Dr.",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in international trade",
+      "Published 34 peer-reviewed papers in International Trade",
+      "Led groundbreaking research in international trade"
+    ],
+    "biography": "Katherine Sullivan is a distinguished expert in International Trade with 17 years of experience. Known for groundbreaking contributions to the field, Katherine has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of international trade",
+    "traits": [
+      "analytical",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0545",
+    "name": "Emily Patterson",
+    "title": "Dr.",
+    "credentials": [
+      "DBA",
+      "DNP",
+      "MBA"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Published 62 peer-reviewed papers in International Trade",
+      "Led groundbreaking research in international trade",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in International Trade",
+      "Developed innovative methodologies in international trade"
+    ],
+    "biography": "Emily Patterson is a distinguished expert in International Trade with 31 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "practical application of international trade principles",
+    "traits": [
+      "conservative",
+      "practical",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0546",
+    "name": "Daniel Wright",
+    "title": "Professor",
+    "credentials": [
+      "EdD",
+      "DVM"
+    ],
+    "field": "International Trade",
+    "specializations": [
+      "advanced international trade",
+      "applied international trade",
+      "theoretical international trade"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Served on editorial boards of leading International Trade journals",
+      "Led groundbreaking research in international trade",
+      "Published 50 peer-reviewed papers in International Trade",
+      "Keynote speaker at international International Trade conferences"
+    ],
+    "biography": "Daniel Wright is a distinguished expert in International Trade with 25 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of international trade through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of international trade",
+    "traits": [
+      "theoretical",
+      "evidence-based",
+      "cautious",
+      "strategic"
+    ]
+  }
+]

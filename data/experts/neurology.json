@@ -1,0 +1,178 @@
+[
+  {
+    "id": "expert-0007",
+    "name": "Douglas Fisher",
+    "title": "Director",
+    "credentials": [
+      "LLM",
+      "PharmD"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy",
+      "movement disorders"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Served on editorial boards of leading Neurology journals",
+      "Principal investigator on major research grants",
+      "Published 86 peer-reviewed papers in Neurology"
+    ],
+    "biography": "Douglas Fisher is a distinguished expert in Neurology with 43 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on neurology",
+    "traits": [
+      "innovative",
+      "principled",
+      "data-driven",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0008",
+    "name": "Shirley Hayes",
+    "title": "Director",
+    "credentials": [
+      "MPH",
+      "MA"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy",
+      "movement disorders"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Mentored 7 doctoral students",
+      "Published 28 peer-reviewed papers in Neurology",
+      "Served on editorial boards of leading Neurology journals"
+    ],
+    "biography": "Shirley Hayes is a distinguished expert in Neurology with 14 years of experience. Known for groundbreaking contributions to the field, Shirley has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to neurology",
+    "traits": [
+      "traditional",
+      "flexible",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0009",
+    "name": "Dennis Fernandez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "OD",
+      "EdD"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy",
+      "movement disorders"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Led groundbreaking research in neurology",
+      "Served on editorial boards of leading Neurology journals",
+      "Published 68 peer-reviewed papers in Neurology"
+    ],
+    "biography": "Dennis Fernandez is a distinguished expert in Neurology with 34 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on neurology",
+    "traits": [
+      "cautious",
+      "methodical",
+      "reform-minded",
+      "systematic",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0010",
+    "name": "Cheryl Edwards",
+    "title": "Chief",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy",
+      "movement disorders"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Published 54 peer-reviewed papers in Neurology",
+      "Served on editorial boards of leading Neurology journals",
+      "Developed innovative methodologies in neurology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Cheryl Edwards is a distinguished expert in Neurology with 27 years of experience. Known for groundbreaking contributions to the field, Cheryl has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to neurology",
+    "traits": [
+      "methodical",
+      "detail-oriented",
+      "evidence-based",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0011",
+    "name": "Lauren Romero",
+    "title": "Dr.",
+    "credentials": [
+      "JD",
+      "MBA",
+      "DVM"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy",
+      "movement disorders"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Recipient of prestigious awards in Neurology",
+      "Keynote speaker at international Neurology conferences",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Lauren Romero is a distinguished expert in Neurology with 36 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of neurology",
+    "traits": [
+      "data-driven",
+      "bold",
+      "innovative",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0012",
+    "name": "Virginia Harrison",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "MSc",
+      "DSc"
+    ],
+    "field": "Neurology",
+    "specializations": [
+      "stroke",
+      "epilepsy"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 52 peer-reviewed papers in Neurology",
+      "Keynote speaker at international Neurology conferences"
+    ],
+    "biography": "Virginia Harrison is a distinguished expert in Neurology with 26 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of neurology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to neurology",
+    "traits": [
+      "detail-oriented",
+      "theoretical",
+      "practical",
+      "strategic"
+    ]
+  }
+]

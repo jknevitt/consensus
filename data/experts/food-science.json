@@ -1,0 +1,241 @@
+[
+  {
+    "id": "expert-0877",
+    "name": "Adam Jones",
+    "title": "Senior",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in food science",
+      "Led groundbreaking research in food science",
+      "Mentored 8 doctoral students",
+      "Recipient of prestigious awards in Food Science"
+    ],
+    "biography": "Adam Jones is a distinguished expert in Food Science with 16 years of experience. Known for groundbreaking contributions to the field, Adam has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to food science",
+    "traits": [
+      "creative",
+      "data-driven",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0878",
+    "name": "Jonathan Bailey",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DDS",
+      "PhD",
+      "DSc"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science",
+      "theoretical food science"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Developed innovative methodologies in food science",
+      "Keynote speaker at international Food Science conferences",
+      "Served on editorial boards of leading Food Science journals",
+      "Recipient of prestigious awards in Food Science",
+      "Led groundbreaking research in food science"
+    ],
+    "biography": "Jonathan Bailey is a distinguished expert in Food Science with 42 years of experience. Known for groundbreaking contributions to the field, Jonathan has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on food science",
+    "traits": [
+      "creative",
+      "traditional",
+      "cautious",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0879",
+    "name": "Emma Morris",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc",
+      "DSc"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Keynote speaker at international Food Science conferences",
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in food science",
+      "Recipient of prestigious awards in Food Science"
+    ],
+    "biography": "Emma Morris is a distinguished expert in Food Science with 27 years of experience. Known for groundbreaking contributions to the field, Emma has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of food science",
+    "traits": [
+      "methodical",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0880",
+    "name": "Tyler Morales",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MFA",
+      "DNP",
+      "DSc"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science",
+      "theoretical food science"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Food Science",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Food Science journals",
+      "Led groundbreaking research in food science"
+    ],
+    "biography": "Tyler Morales is a distinguished expert in Food Science with 17 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "practical application of food science principles",
+    "traits": [
+      "evidence-based",
+      "traditional",
+      "detail-oriented",
+      "balanced",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0881",
+    "name": "Patrick Gutierrez",
+    "title": "Professor",
+    "credentials": [
+      "DPhil",
+      "LLM",
+      "PsyD"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science",
+      "theoretical food science"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in food science",
+      "Published 76 peer-reviewed papers in Food Science",
+      "Mentored 19 doctoral students",
+      "Recipient of prestigious awards in Food Science"
+    ],
+    "biography": "Patrick Gutierrez is a distinguished expert in Food Science with 38 years of experience. Known for groundbreaking contributions to the field, Patrick has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of food science",
+    "traits": [
+      "flexible",
+      "traditional",
+      "holistic",
+      "tactical",
+      "methodical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0882",
+    "name": "Richard Fisher",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DBA",
+      "DDS"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Published 78 peer-reviewed papers in Food Science",
+      "Led groundbreaking research in food science",
+      "Recipient of prestigious awards in Food Science",
+      "Developed innovative methodologies in food science",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Richard Fisher is a distinguished expert in Food Science with 39 years of experience. Known for groundbreaking contributions to the field, Richard has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of food science",
+    "traits": [
+      "collaborative",
+      "tactical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0883",
+    "name": "Teresa Bennett",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DVM",
+      "PsyD"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Recipient of prestigious awards in Food Science",
+      "Served on editorial boards of leading Food Science journals",
+      "Published 36 peer-reviewed papers in Food Science"
+    ],
+    "biography": "Teresa Bennett is a distinguished expert in Food Science with 18 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to food science",
+    "traits": [
+      "holistic",
+      "creative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0884",
+    "name": "Lisa Rogers",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT",
+      "MFA"
+    ],
+    "field": "Food Science",
+    "specializations": [
+      "advanced food science",
+      "applied food science",
+      "theoretical food science"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Food Science journals",
+      "Developed innovative methodologies in food science",
+      "Recipient of prestigious awards in Food Science",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Lisa Rogers is a distinguished expert in Food Science with 30 years of experience. Known for groundbreaking contributions to the field, Lisa has shaped modern understanding of food science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to food science",
+    "traits": [
+      "analytical",
+      "principled",
+      "independent",
+      "tactical",
+      "empirical",
+      "visionary"
+    ]
+  }
+]

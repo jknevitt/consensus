@@ -1,0 +1,242 @@
+[
+  {
+    "id": "expert-0688",
+    "name": "Susan Young",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA",
+      "OD",
+      "MSc"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Developed innovative methodologies in international relations",
+      "Served on editorial boards of leading International Relations journals",
+      "Keynote speaker at international International Relations conferences",
+      "Recipient of prestigious awards in International Relations"
+    ],
+    "biography": "Susan Young is a distinguished expert in International Relations with 28 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "practical application of international relations principles",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0689",
+    "name": "Mark Ruiz",
+    "title": "Principal",
+    "credentials": [
+      "JD"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Published 72 peer-reviewed papers in International Relations",
+      "Keynote speaker at international International Relations conferences",
+      "Led groundbreaking research in international relations",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Mark Ruiz is a distinguished expert in International Relations with 36 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of international relations",
+    "traits": [
+      "analytical",
+      "flexible",
+      "creative",
+      "reform-minded",
+      "interdisciplinary",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0690",
+    "name": "Teresa Lee",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD",
+      "OD"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations",
+      "theoretical international relations"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Served on editorial boards of leading International Relations journals",
+      "Published 38 peer-reviewed papers in International Relations",
+      "Recipient of prestigious awards in International Relations",
+      "Keynote speaker at international International Relations conferences"
+    ],
+    "biography": "Teresa Lee is a distinguished expert in International Relations with 19 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in international relations",
+    "traits": [
+      "methodical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0691",
+    "name": "Jason Hughes",
+    "title": "Principal",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in international relations",
+      "Published 40 peer-reviewed papers in International Relations",
+      "Mentored 10 doctoral students",
+      "Developed innovative methodologies in international relations"
+    ],
+    "biography": "Jason Hughes is a distinguished expert in International Relations with 20 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to international relations",
+    "traits": [
+      "analytical",
+      "progressive",
+      "reform-minded",
+      "bold",
+      "specialized",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0692",
+    "name": "Deborah Harrison",
+    "title": "Dr.",
+    "credentials": [
+      "MA",
+      "PsyD"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations",
+      "theoretical international relations"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 72 peer-reviewed papers in International Relations",
+      "Led groundbreaking research in international relations",
+      "Keynote speaker at international International Relations conferences"
+    ],
+    "biography": "Deborah Harrison is a distinguished expert in International Relations with 36 years of experience. Known for groundbreaking contributions to the field, Deborah has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "practical application of international relations principles",
+    "traits": [
+      "balanced",
+      "empirical",
+      "independent",
+      "flexible",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0693",
+    "name": "Justin Ramirez",
+    "title": "Lead",
+    "credentials": [
+      "DBA",
+      "JD",
+      "EdD"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations",
+      "theoretical international relations"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Published 44 peer-reviewed papers in International Relations",
+      "Recipient of prestigious awards in International Relations",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Justin Ramirez is a distinguished expert in International Relations with 22 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to international relations",
+    "traits": [
+      "innovative",
+      "principled",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0694",
+    "name": "Karen Thompson",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "MSc",
+      "PsyD"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in international relations",
+      "Published 70 peer-reviewed papers in International Relations",
+      "Keynote speaker at international International Relations conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Karen Thompson is a distinguished expert in International Relations with 35 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to international relations",
+    "traits": [
+      "systematic",
+      "analytical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0695",
+    "name": "Jack Butler",
+    "title": "Lead",
+    "credentials": [
+      "DSc",
+      "PsyD",
+      "DBA"
+    ],
+    "field": "International Relations",
+    "specializations": [
+      "advanced international relations",
+      "applied international relations"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in international relations",
+      "Served on editorial boards of leading International Relations journals",
+      "Recipient of prestigious awards in International Relations"
+    ],
+    "biography": "Jack Butler is a distinguished expert in International Relations with 16 years of experience. Known for groundbreaking contributions to the field, Jack has shaped modern understanding of international relations through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international relations",
+    "traits": [
+      "progressive",
+      "pragmatic",
+      "strategic",
+      "visionary",
+      "practical",
+      "flexible"
+    ]
+  }
+]

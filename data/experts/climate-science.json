@@ -1,0 +1,213 @@
+[
+  {
+    "id": "expert-0857",
+    "name": "Jacqueline Moore",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "DPhil"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Climate Science conferences",
+      "Recipient of prestigious awards in Climate Science",
+      "Published 74 peer-reviewed papers in Climate Science",
+      "Served on editorial boards of leading Climate Science journals"
+    ],
+    "biography": "Jacqueline Moore is a distinguished expert in Climate Science with 37 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of climate science",
+    "traits": [
+      "strategic",
+      "principled",
+      "intuitive",
+      "progressive",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0858",
+    "name": "Helen Martin",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "PsyD",
+      "PharmD"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology",
+      "carbon cycle"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Climate Science journals",
+      "Developed innovative methodologies in climate science",
+      "Led groundbreaking research in climate science"
+    ],
+    "biography": "Helen Martin is a distinguished expert in Climate Science with 23 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "practical application of climate science principles",
+    "traits": [
+      "visionary",
+      "data-driven",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0859",
+    "name": "Richard Morris",
+    "title": "Director",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology",
+      "carbon cycle"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Climate Science",
+      "Mentored 10 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in climate science",
+      "Keynote speaker at international Climate Science conferences"
+    ],
+    "biography": "Richard Morris is a distinguished expert in Climate Science with 20 years of experience. Known for groundbreaking contributions to the field, Richard has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in climate science",
+    "traits": [
+      "cautious",
+      "tactical",
+      "visionary",
+      "strategic",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0860",
+    "name": "Joyce Ramirez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD",
+      "DSc"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Climate Science",
+      "Led groundbreaking research in climate science",
+      "Recipient of prestigious awards in Climate Science"
+    ],
+    "biography": "Joyce Ramirez is a distinguished expert in Climate Science with 20 years of experience. Known for groundbreaking contributions to the field, Joyce has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of climate science",
+    "traits": [
+      "practical",
+      "progressive",
+      "independent",
+      "intuitive",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0861",
+    "name": "Samuel Turner",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology",
+      "carbon cycle"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Climate Science",
+      "Developed innovative methodologies in climate science",
+      "Led groundbreaking research in climate science",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Climate Science journals"
+    ],
+    "biography": "Samuel Turner is a distinguished expert in Climate Science with 13 years of experience. Known for groundbreaking contributions to the field, Samuel has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "practical application of climate science principles",
+    "traits": [
+      "systematic",
+      "strategic",
+      "specialized",
+      "innovative",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0862",
+    "name": "Andrew Ford",
+    "title": "Professor",
+    "credentials": [
+      "PsyD",
+      "DDS",
+      "JD"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Climate Science",
+      "Developed innovative methodologies in climate science",
+      "Led groundbreaking research in climate science",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Climate Science journals"
+    ],
+    "biography": "Andrew Ford is a distinguished expert in Climate Science with 12 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "practical application of climate science principles",
+    "traits": [
+      "balanced",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0863",
+    "name": "Hannah Vargas",
+    "title": "Associate Professor",
+    "credentials": [
+      "LLM",
+      "JD"
+    ],
+    "field": "Climate Science",
+    "specializations": [
+      "climate modeling",
+      "paleoclimatology",
+      "carbon cycle"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Led groundbreaking research in climate science",
+      "Published 70 peer-reviewed papers in Climate Science",
+      "Keynote speaker at international Climate Science conferences",
+      "Mentored 17 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Hannah Vargas is a distinguished expert in Climate Science with 35 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of climate science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on climate science",
+    "traits": [
+      "empirical",
+      "detail-oriented",
+      "visionary",
+      "cautious"
+    ]
+  }
+]

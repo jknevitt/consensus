@@ -1,0 +1,183 @@
+[
+  {
+    "id": "expert-0520",
+    "name": "Frank Richardson",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "EdD",
+      "DPT"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Led groundbreaking research in business strategy",
+      "Served on editorial boards of leading Business Strategy journals",
+      "Published 54 peer-reviewed papers in Business Strategy",
+      "Recipient of prestigious awards in Business Strategy",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Richardson is a distinguished expert in Business Strategy with 27 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "practical application of business strategy principles",
+    "traits": [
+      "bold",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0521",
+    "name": "Elizabeth Adams",
+    "title": "Senior",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Business Strategy",
+      "Published 64 peer-reviewed papers in Business Strategy",
+      "Keynote speaker at international Business Strategy conferences",
+      "Developed innovative methodologies in business strategy",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Elizabeth Adams is a distinguished expert in Business Strategy with 32 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on business strategy",
+    "traits": [
+      "innovative",
+      "evidence-based",
+      "methodical",
+      "visionary",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0522",
+    "name": "Ann Aguilar",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy",
+      "theoretical business strategy"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Published 74 peer-reviewed papers in Business Strategy",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in business strategy",
+      "Led groundbreaking research in business strategy",
+      "Served on editorial boards of leading Business Strategy journals"
+    ],
+    "biography": "Ann Aguilar is a distinguished expert in Business Strategy with 37 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "practical application of business strategy principles",
+    "traits": [
+      "flexible",
+      "cautious",
+      "theoretical",
+      "reform-minded",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0523",
+    "name": "Carol Graham",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MPH",
+      "MD"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Keynote speaker at international Business Strategy conferences",
+      "Served on editorial boards of leading Business Strategy journals",
+      "Developed innovative methodologies in business strategy"
+    ],
+    "biography": "Carol Graham is a distinguished expert in Business Strategy with 31 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in business strategy",
+    "traits": [
+      "holistic",
+      "conservative",
+      "innovative",
+      "flexible",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0524",
+    "name": "Austin Fernandez",
+    "title": "Lead",
+    "credentials": [
+      "JD",
+      "MFA"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy",
+      "theoretical business strategy"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Business Strategy",
+      "Led groundbreaking research in business strategy",
+      "Served on editorial boards of leading Business Strategy journals"
+    ],
+    "biography": "Austin Fernandez is a distinguished expert in Business Strategy with 29 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of business strategy",
+    "traits": [
+      "data-driven",
+      "strategic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0525",
+    "name": "Rachel Patterson",
+    "title": "Dr.",
+    "credentials": [
+      "DDS",
+      "PsyD",
+      "DNP"
+    ],
+    "field": "Business Strategy",
+    "specializations": [
+      "advanced business strategy",
+      "applied business strategy",
+      "theoretical business strategy"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Developed innovative methodologies in business strategy",
+      "Served on editorial boards of leading Business Strategy journals",
+      "Published 20 peer-reviewed papers in Business Strategy",
+      "Led groundbreaking research in business strategy",
+      "Recipient of prestigious awards in Business Strategy"
+    ],
+    "biography": "Rachel Patterson is a distinguished expert in Business Strategy with 10 years of experience. Known for groundbreaking contributions to the field, Rachel has shaped modern understanding of business strategy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of business strategy",
+    "traits": [
+      "cautious",
+      "innovative",
+      "interdisciplinary",
+      "practical",
+      "strategic",
+      "independent"
+    ]
+  }
+]

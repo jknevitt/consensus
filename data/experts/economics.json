@@ -1,0 +1,200 @@
+[
+  {
+    "id": "expert-0462",
+    "name": "Joseph Martinez",
+    "title": "Chief",
+    "credentials": [
+      "DPhil",
+      "DDS"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Recipient of prestigious awards in Economics",
+      "Mentored 12 doctoral students",
+      "Keynote speaker at international Economics conferences",
+      "Served on editorial boards of leading Economics journals"
+    ],
+    "biography": "Joseph Martinez is a distinguished expert in Economics with 25 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to economics",
+    "traits": [
+      "bold",
+      "practical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0463",
+    "name": "Jean Price",
+    "title": "Dr.",
+    "credentials": [
+      "DVM",
+      "MSc"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Keynote speaker at international Economics conferences",
+      "Recipient of prestigious awards in Economics",
+      "Developed innovative methodologies in economics"
+    ],
+    "biography": "Jean Price is a distinguished expert in Economics with 41 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to economics",
+    "traits": [
+      "analytical",
+      "independent",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0464",
+    "name": "Mark Medina",
+    "title": "Professor",
+    "credentials": [
+      "DPhil",
+      "OD"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Keynote speaker at international Economics conferences",
+      "Published 50 peer-reviewed papers in Economics",
+      "Led groundbreaking research in economics",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Economics"
+    ],
+    "biography": "Mark Medina is a distinguished expert in Economics with 25 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on economics",
+    "traits": [
+      "collaborative",
+      "evidence-based",
+      "principled",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0465",
+    "name": "Gerald Webb",
+    "title": "Professor",
+    "credentials": [
+      "PsyD",
+      "MFA"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Keynote speaker at international Economics conferences",
+      "Recipient of prestigious awards in Economics",
+      "Published 40 peer-reviewed papers in Economics",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Gerald Webb is a distinguished expert in Economics with 20 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "practical application of economics principles",
+    "traits": [
+      "specialized",
+      "innovative",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0466",
+    "name": "Andrew Gonzalez",
+    "title": "Director",
+    "credentials": [
+      "EdD",
+      "MSc"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Economics",
+      "Led groundbreaking research in economics",
+      "Developed innovative methodologies in economics"
+    ],
+    "biography": "Andrew Gonzalez is a distinguished expert in Economics with 28 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "practical application of economics principles",
+    "traits": [
+      "methodical",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0467",
+    "name": "Jacob Campbell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Served on editorial boards of leading Economics journals",
+      "Principal investigator on major research grants",
+      "Published 48 peer-reviewed papers in Economics",
+      "Developed innovative methodologies in economics",
+      "Led groundbreaking research in economics"
+    ],
+    "biography": "Jacob Campbell is a distinguished expert in Economics with 24 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in economics",
+    "traits": [
+      "methodical",
+      "tactical",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0468",
+    "name": "Ann Simpson",
+    "title": "Director",
+    "credentials": [
+      "DPT",
+      "MPH",
+      "MD"
+    ],
+    "field": "Economics",
+    "specializations": [
+      "macroeconomics",
+      "microeconomics"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Led groundbreaking research in economics",
+      "Published 54 peer-reviewed papers in Economics",
+      "Served on editorial boards of leading Economics journals",
+      "Keynote speaker at international Economics conferences"
+    ],
+    "biography": "Ann Simpson is a distinguished expert in Economics with 27 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of economics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of economics",
+    "traits": [
+      "principled",
+      "progressive",
+      "bold",
+      "data-driven",
+      "analytical"
+    ]
+  }
+]

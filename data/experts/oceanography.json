@@ -1,0 +1,206 @@
+[
+  {
+    "id": "expert-0308",
+    "name": "Austin Graham",
+    "title": "Lead",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in oceanography",
+      "Keynote speaker at international Oceanography conferences",
+      "Published 78 peer-reviewed papers in Oceanography"
+    ],
+    "biography": "Austin Graham is a distinguished expert in Oceanography with 39 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in oceanography",
+    "traits": [
+      "methodical",
+      "balanced",
+      "holistic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0309",
+    "name": "Anthony Mitchell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Served on editorial boards of leading Oceanography journals",
+      "Published 58 peer-reviewed papers in Oceanography",
+      "Mentored 14 doctoral students",
+      "Developed innovative methodologies in oceanography",
+      "Recipient of prestigious awards in Oceanography"
+    ],
+    "biography": "Anthony Mitchell is a distinguished expert in Oceanography with 29 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to oceanography",
+    "traits": [
+      "evidence-based",
+      "collaborative",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0310",
+    "name": "Barbara Hill",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Led groundbreaking research in oceanography",
+      "Principal investigator on major research grants",
+      "Published 42 peer-reviewed papers in Oceanography",
+      "Served on editorial boards of leading Oceanography journals"
+    ],
+    "biography": "Barbara Hill is a distinguished expert in Oceanography with 21 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of oceanography",
+    "traits": [
+      "holistic",
+      "detail-oriented",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0311",
+    "name": "John Long",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA",
+      "DVM",
+      "PharmD"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Keynote speaker at international Oceanography conferences",
+      "Served on editorial boards of leading Oceanography journals",
+      "Developed innovative methodologies in oceanography"
+    ],
+    "biography": "John Long is a distinguished expert in Oceanography with 41 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in oceanography",
+    "traits": [
+      "systematic",
+      "flexible",
+      "creative",
+      "independent",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0312",
+    "name": "Noah Fernandez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MBA",
+      "JD",
+      "DBA"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Keynote speaker at international Oceanography conferences",
+      "Developed innovative methodologies in oceanography",
+      "Served on editorial boards of leading Oceanography journals"
+    ],
+    "biography": "Noah Fernandez is a distinguished expert in Oceanography with 20 years of experience. Known for groundbreaking contributions to the field, Noah has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to oceanography",
+    "traits": [
+      "tactical",
+      "balanced",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0313",
+    "name": "William Gonzalez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography",
+      "theoretical oceanography"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Oceanography journals",
+      "Published 82 peer-reviewed papers in Oceanography",
+      "Led groundbreaking research in oceanography",
+      "Recipient of prestigious awards in Oceanography",
+      "Developed innovative methodologies in oceanography"
+    ],
+    "biography": "William Gonzalez is a distinguished expert in Oceanography with 41 years of experience. Known for groundbreaking contributions to the field, William has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on oceanography",
+    "traits": [
+      "strategic",
+      "principled",
+      "flexible",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0314",
+    "name": "Madison Castro",
+    "title": "Associate Professor",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Oceanography",
+    "specializations": [
+      "advanced oceanography",
+      "applied oceanography"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Keynote speaker at international Oceanography conferences",
+      "Mentored 12 doctoral students",
+      "Developed innovative methodologies in oceanography",
+      "Recipient of prestigious awards in Oceanography",
+      "Led groundbreaking research in oceanography"
+    ],
+    "biography": "Madison Castro is a distinguished expert in Oceanography with 24 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of oceanography through extensive research, teaching, and practice.",
+    "perspective": "practical application of oceanography principles",
+    "traits": [
+      "independent",
+      "tactical",
+      "progressive",
+      "conservative"
+    ]
+  }
+]

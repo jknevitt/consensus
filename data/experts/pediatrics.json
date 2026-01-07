@@ -1,0 +1,180 @@
+[
+  {
+    "id": "expert-0020",
+    "name": "Raymond Nelson",
+    "title": "Lead",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 76 peer-reviewed papers in Pediatrics",
+      "Led groundbreaking research in pediatrics"
+    ],
+    "biography": "Raymond Nelson is a distinguished expert in Pediatrics with 38 years of experience. Known for groundbreaking contributions to the field, Raymond has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pediatrics",
+    "traits": [
+      "pragmatic",
+      "conservative",
+      "evidence-based",
+      "balanced",
+      "creative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0021",
+    "name": "Virginia Murphy",
+    "title": "Chief",
+    "credentials": [
+      "OD",
+      "DNP",
+      "PharmD"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Served on editorial boards of leading Pediatrics journals",
+      "Keynote speaker at international Pediatrics conferences",
+      "Principal investigator on major research grants",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Virginia Murphy is a distinguished expert in Pediatrics with 15 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pediatrics",
+    "traits": [
+      "intuitive",
+      "specialized",
+      "pragmatic",
+      "strategic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0022",
+    "name": "Robert Bryant",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Developed innovative methodologies in pediatrics",
+      "Led groundbreaking research in pediatrics",
+      "Principal investigator on major research grants",
+      "Mentored 10 doctoral students",
+      "Published 40 peer-reviewed papers in Pediatrics"
+    ],
+    "biography": "Robert Bryant is a distinguished expert in Pediatrics with 20 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "practical application of pediatrics principles",
+    "traits": [
+      "analytical",
+      "traditional",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0023",
+    "name": "Nancy Murphy",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "DNP"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Recipient of prestigious awards in Pediatrics",
+      "Developed innovative methodologies in pediatrics",
+      "Led groundbreaking research in pediatrics"
+    ],
+    "biography": "Nancy Murphy is a distinguished expert in Pediatrics with 38 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pediatrics",
+    "traits": [
+      "detail-oriented",
+      "traditional",
+      "creative",
+      "reform-minded",
+      "systematic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0024",
+    "name": "Kathryn Mendoza",
+    "title": "Lead",
+    "credentials": [
+      "DSc",
+      "MBA"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics",
+      "theoretical pediatrics"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Pediatrics",
+      "Led groundbreaking research in pediatrics",
+      "Recipient of prestigious awards in Pediatrics"
+    ],
+    "biography": "Kathryn Mendoza is a distinguished expert in Pediatrics with 34 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "practical application of pediatrics principles",
+    "traits": [
+      "data-driven",
+      "interdisciplinary",
+      "intuitive",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0025",
+    "name": "Linda Webb",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "JD"
+    ],
+    "field": "Pediatrics",
+    "specializations": [
+      "advanced pediatrics",
+      "applied pediatrics"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Published 38 peer-reviewed papers in Pediatrics",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in pediatrics"
+    ],
+    "biography": "Linda Webb is a distinguished expert in Pediatrics with 19 years of experience. Known for groundbreaking contributions to the field, Linda has shaped modern understanding of pediatrics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on pediatrics",
+    "traits": [
+      "innovative",
+      "systematic",
+      "reform-minded",
+      "evidence-based",
+      "cautious",
+      "theoretical"
+    ]
+  }
+]

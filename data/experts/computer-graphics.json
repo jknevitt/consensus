@@ -1,0 +1,233 @@
+[
+  {
+    "id": "expert-0441",
+    "name": "Evelyn Ramirez",
+    "title": "Senior",
+    "credentials": [
+      "PsyD",
+      "LLM",
+      "MA"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Served on editorial boards of leading Computer Graphics journals",
+      "Published 70 peer-reviewed papers in Computer Graphics",
+      "Keynote speaker at international Computer Graphics conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Evelyn Ramirez is a distinguished expert in Computer Graphics with 35 years of experience. Known for groundbreaking contributions to the field, Evelyn has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of computer graphics",
+    "traits": [
+      "empirical",
+      "principled",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0442",
+    "name": "Martha Robinson",
+    "title": "Associate Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics",
+      "theoretical computer graphics"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Developed innovative methodologies in computer graphics",
+      "Recipient of prestigious awards in Computer Graphics",
+      "Led groundbreaking research in computer graphics",
+      "Served on editorial boards of leading Computer Graphics journals"
+    ],
+    "biography": "Martha Robinson is a distinguished expert in Computer Graphics with 30 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer graphics",
+    "traits": [
+      "progressive",
+      "interdisciplinary",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0443",
+    "name": "Andrew Bryant",
+    "title": "Chief",
+    "credentials": [
+      "MD",
+      "MPH"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in computer graphics",
+      "Served on editorial boards of leading Computer Graphics journals",
+      "Recipient of prestigious awards in Computer Graphics",
+      "Keynote speaker at international Computer Graphics conferences"
+    ],
+    "biography": "Andrew Bryant is a distinguished expert in Computer Graphics with 38 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer graphics",
+    "traits": [
+      "independent",
+      "reform-minded",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0444",
+    "name": "Kyle Garcia",
+    "title": "Associate Professor",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics",
+      "theoretical computer graphics"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Developed innovative methodologies in computer graphics",
+      "Mentored 5 doctoral students",
+      "Served on editorial boards of leading Computer Graphics journals",
+      "Keynote speaker at international Computer Graphics conferences"
+    ],
+    "biography": "Kyle Garcia is a distinguished expert in Computer Graphics with 10 years of experience. Known for groundbreaking contributions to the field, Kyle has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to computer graphics",
+    "traits": [
+      "flexible",
+      "collaborative",
+      "pragmatic",
+      "reform-minded",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0445",
+    "name": "Stephen Garcia",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD",
+      "DNP"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Developed innovative methodologies in computer graphics",
+      "Led groundbreaking research in computer graphics",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Computer Graphics conferences"
+    ],
+    "biography": "Stephen Garcia is a distinguished expert in Computer Graphics with 35 years of experience. Known for groundbreaking contributions to the field, Stephen has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer graphics",
+    "traits": [
+      "pragmatic",
+      "interdisciplinary",
+      "cautious",
+      "conservative",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0446",
+    "name": "Andrew Wallace",
+    "title": "Senior",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Computer Graphics journals",
+      "Keynote speaker at international Computer Graphics conferences",
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in computer graphics"
+    ],
+    "biography": "Andrew Wallace is a distinguished expert in Computer Graphics with 39 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to computer graphics",
+    "traits": [
+      "interdisciplinary",
+      "flexible",
+      "reform-minded",
+      "creative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0447",
+    "name": "Pamela Martinez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DPT",
+      "DDS"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics",
+      "theoretical computer graphics"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in computer graphics",
+      "Mentored 20 doctoral students",
+      "Published 82 peer-reviewed papers in Computer Graphics"
+    ],
+    "biography": "Pamela Martinez is a distinguished expert in Computer Graphics with 41 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer graphics",
+    "traits": [
+      "bold",
+      "evidence-based",
+      "holistic",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0448",
+    "name": "Judith Hunter",
+    "title": "Senior",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Computer Graphics",
+    "specializations": [
+      "advanced computer graphics",
+      "applied computer graphics",
+      "theoretical computer graphics"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Computer Graphics",
+      "Led groundbreaking research in computer graphics",
+      "Developed innovative methodologies in computer graphics"
+    ],
+    "biography": "Judith Hunter is a distinguished expert in Computer Graphics with 30 years of experience. Known for groundbreaking contributions to the field, Judith has shaped modern understanding of computer graphics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer graphics",
+    "traits": [
+      "methodical",
+      "balanced",
+      "visionary"
+    ]
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "expert-0927",
+    "name": "Kimberly Hernandez",
+    "title": "Senior",
+    "credentials": [
+      "LLM",
+      "DSc"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Mentored 6 doctoral students",
+      "Developed innovative methodologies in media studies",
+      "Recipient of prestigious awards in Media Studies",
+      "Principal investigator on major research grants",
+      "Published 26 peer-reviewed papers in Media Studies"
+    ],
+    "biography": "Kimberly Hernandez is a distinguished expert in Media Studies with 13 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in media studies",
+    "traits": [
+      "conservative",
+      "flexible",
+      "analytical",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0928",
+    "name": "Frances Rivera",
+    "title": "Dr.",
+    "credentials": [
+      "JD",
+      "PsyD"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Served on editorial boards of leading Media Studies journals",
+      "Led groundbreaking research in media studies",
+      "Developed innovative methodologies in media studies"
+    ],
+    "biography": "Frances Rivera is a distinguished expert in Media Studies with 37 years of experience. Known for groundbreaking contributions to the field, Frances has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in media studies",
+    "traits": [
+      "pragmatic",
+      "progressive",
+      "balanced",
+      "interdisciplinary",
+      "practical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0929",
+    "name": "Anthony Hughes",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies",
+      "theoretical media studies"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Keynote speaker at international Media Studies conferences",
+      "Served on editorial boards of leading Media Studies journals",
+      "Published 22 peer-reviewed papers in Media Studies",
+      "Led groundbreaking research in media studies",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Anthony Hughes is a distinguished expert in Media Studies with 11 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in media studies",
+    "traits": [
+      "traditional",
+      "principled",
+      "holistic",
+      "creative",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0930",
+    "name": "Megan Ward",
+    "title": "Director",
+    "credentials": [
+      "MA",
+      "MD",
+      "DSc"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Served on editorial boards of leading Media Studies journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Megan Ward is a distinguished expert in Media Studies with 40 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on media studies",
+    "traits": [
+      "balanced",
+      "methodical",
+      "independent",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0931",
+    "name": "Kimberly Gray",
+    "title": "Principal",
+    "credentials": [
+      "LLM",
+      "DNP"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 13 doctoral students",
+      "Keynote speaker at international Media Studies conferences",
+      "Recipient of prestigious awards in Media Studies"
+    ],
+    "biography": "Kimberly Gray is a distinguished expert in Media Studies with 26 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in media studies",
+    "traits": [
+      "principled",
+      "evidence-based",
+      "intuitive",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0932",
+    "name": "Carl Parker",
+    "title": "Chief",
+    "credentials": [
+      "LLM",
+      "PsyD",
+      "DSc"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies",
+      "theoretical media studies"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Recipient of prestigious awards in Media Studies",
+      "Developed innovative methodologies in media studies",
+      "Led groundbreaking research in media studies",
+      "Principal investigator on major research grants",
+      "Published 86 peer-reviewed papers in Media Studies"
+    ],
+    "biography": "Carl Parker is a distinguished expert in Media Studies with 43 years of experience. Known for groundbreaking contributions to the field, Carl has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of media studies",
+    "traits": [
+      "tactical",
+      "intuitive",
+      "systematic",
+      "balanced",
+      "reform-minded",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0933",
+    "name": "Hannah Cook",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "MBA"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Led groundbreaking research in media studies",
+      "Keynote speaker at international Media Studies conferences",
+      "Recipient of prestigious awards in Media Studies"
+    ],
+    "biography": "Hannah Cook is a distinguished expert in Media Studies with 16 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of media studies",
+    "traits": [
+      "reform-minded",
+      "strategic",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0934",
+    "name": "Evelyn Wood",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DNP",
+      "EdD",
+      "MBA"
+    ],
+    "field": "Media Studies",
+    "specializations": [
+      "advanced media studies",
+      "applied media studies"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Media Studies",
+      "Led groundbreaking research in media studies",
+      "Recipient of prestigious awards in Media Studies",
+      "Developed innovative methodologies in media studies",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Evelyn Wood is a distinguished expert in Media Studies with 32 years of experience. Known for groundbreaking contributions to the field, Evelyn has shaped modern understanding of media studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on media studies",
+    "traits": [
+      "detail-oriented",
+      "traditional",
+      "data-driven",
+      "holistic",
+      "progressive"
+    ]
+  }
+]

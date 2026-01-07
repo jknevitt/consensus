@@ -1,0 +1,210 @@
+[
+  {
+    "id": "expert-1086",
+    "name": "Victoria Patel",
+    "title": "Director",
+    "credentials": [
+      "DSc",
+      "EdD"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics",
+      "theoretical logistics"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Recipient of prestigious awards in Logistics",
+      "Served on editorial boards of leading Logistics journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Victoria Patel is a distinguished expert in Logistics with 18 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of logistics",
+    "traits": [
+      "data-driven",
+      "strategic",
+      "analytical",
+      "principled",
+      "progressive",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-1087",
+    "name": "Amanda Kennedy",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics",
+      "theoretical logistics"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Logistics",
+      "Keynote speaker at international Logistics conferences",
+      "Served on editorial boards of leading Logistics journals",
+      "Led groundbreaking research in logistics",
+      "Recipient of prestigious awards in Logistics"
+    ],
+    "biography": "Amanda Kennedy is a distinguished expert in Logistics with 32 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of logistics",
+    "traits": [
+      "methodical",
+      "progressive",
+      "analytical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-1088",
+    "name": "Patricia Gomez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics",
+      "theoretical logistics"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Served on editorial boards of leading Logistics journals",
+      "Published 58 peer-reviewed papers in Logistics",
+      "Led groundbreaking research in logistics"
+    ],
+    "biography": "Patricia Gomez is a distinguished expert in Logistics with 29 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of logistics",
+    "traits": [
+      "evidence-based",
+      "collaborative",
+      "systematic",
+      "data-driven",
+      "practical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-1089",
+    "name": "Richard Chavez",
+    "title": "Chief",
+    "credentials": [
+      "PharmD",
+      "DBA",
+      "DNP"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics",
+      "theoretical logistics"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in Logistics",
+      "Mentored 7 doctoral students",
+      "Led groundbreaking research in logistics",
+      "Recipient of prestigious awards in Logistics"
+    ],
+    "biography": "Richard Chavez is a distinguished expert in Logistics with 14 years of experience. Known for groundbreaking contributions to the field, Richard has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to logistics",
+    "traits": [
+      "independent",
+      "theoretical",
+      "balanced",
+      "interdisciplinary",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-1090",
+    "name": "Jacob McDonald",
+    "title": "Senior",
+    "credentials": [
+      "DPT",
+      "LLM"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Keynote speaker at international Logistics conferences",
+      "Principal investigator on major research grants",
+      "Mentored 15 doctoral students",
+      "Published 62 peer-reviewed papers in Logistics"
+    ],
+    "biography": "Jacob McDonald is a distinguished expert in Logistics with 31 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on logistics",
+    "traits": [
+      "reform-minded",
+      "practical",
+      "flexible",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-1091",
+    "name": "Carl Medina",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Served on editorial boards of leading Logistics journals",
+      "Published 58 peer-reviewed papers in Logistics",
+      "Keynote speaker at international Logistics conferences",
+      "Led groundbreaking research in logistics"
+    ],
+    "biography": "Carl Medina is a distinguished expert in Logistics with 29 years of experience. Known for groundbreaking contributions to the field, Carl has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on logistics",
+    "traits": [
+      "cautious",
+      "reform-minded",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-1092",
+    "name": "Frank Owens",
+    "title": "Lead",
+    "credentials": [
+      "PhD",
+      "MBA"
+    ],
+    "field": "Logistics",
+    "specializations": [
+      "advanced logistics",
+      "applied logistics",
+      "theoretical logistics"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Led groundbreaking research in logistics",
+      "Mentored 15 doctoral students",
+      "Published 62 peer-reviewed papers in Logistics",
+      "Served on editorial boards of leading Logistics journals"
+    ],
+    "biography": "Frank Owens is a distinguished expert in Logistics with 31 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of logistics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to logistics",
+    "traits": [
+      "reform-minded",
+      "traditional",
+      "intuitive"
+    ]
+  }
+]

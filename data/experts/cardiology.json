@@ -1,0 +1,182 @@
+[
+  {
+    "id": "expert-0001",
+    "name": "Austin Clark",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "EdD"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Keynote speaker at international Cardiology conferences",
+      "Published 84 peer-reviewed papers in Cardiology",
+      "Led groundbreaking research in cardiology",
+      "Mentored 21 doctoral students",
+      "Recipient of prestigious awards in Cardiology"
+    ],
+    "biography": "Austin Clark is a distinguished expert in Cardiology with 42 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in cardiology",
+    "traits": [
+      "principled",
+      "independent",
+      "bold",
+      "strategic",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0002",
+    "name": "Bryan Graham",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "MFA"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology",
+      "heart failure"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Keynote speaker at international Cardiology conferences",
+      "Served on editorial boards of leading Cardiology journals",
+      "Published 86 peer-reviewed papers in Cardiology"
+    ],
+    "biography": "Bryan Graham is a distinguished expert in Cardiology with 43 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to cardiology",
+    "traits": [
+      "creative",
+      "independent",
+      "analytical",
+      "traditional",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0003",
+    "name": "Dylan Medina",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "LLM"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology",
+      "heart failure"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Cardiology journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in cardiology"
+    ],
+    "biography": "Dylan Medina is a distinguished expert in Cardiology with 41 years of experience. Known for groundbreaking contributions to the field, Dylan has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to cardiology",
+    "traits": [
+      "traditional",
+      "tactical",
+      "analytical",
+      "intuitive",
+      "creative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0004",
+    "name": "Rachel Chen",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "LLM",
+      "DDS",
+      "MSc"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology",
+      "heart failure"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Recipient of prestigious awards in Cardiology",
+      "Developed innovative methodologies in cardiology",
+      "Keynote speaker at international Cardiology conferences"
+    ],
+    "biography": "Rachel Chen is a distinguished expert in Cardiology with 12 years of experience. Known for groundbreaking contributions to the field, Rachel has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in cardiology",
+    "traits": [
+      "evidence-based",
+      "intuitive",
+      "strategic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0005",
+    "name": "Carl Cole",
+    "title": "Professor",
+    "credentials": [
+      "DSc",
+      "DPT",
+      "MA"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Cardiology",
+      "Led groundbreaking research in cardiology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Carl Cole is a distinguished expert in Cardiology with 33 years of experience. Known for groundbreaking contributions to the field, Carl has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on cardiology",
+    "traits": [
+      "cautious",
+      "tactical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0006",
+    "name": "Justin Miller",
+    "title": "Chief",
+    "credentials": [
+      "PhD",
+      "MD"
+    ],
+    "field": "Cardiology",
+    "specializations": [
+      "interventional cardiology",
+      "electrophysiology"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Recipient of prestigious awards in Cardiology",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Cardiology journals"
+    ],
+    "biography": "Justin Miller is a distinguished expert in Cardiology with 28 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of cardiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on cardiology",
+    "traits": [
+      "collaborative",
+      "bold",
+      "visionary",
+      "balanced",
+      "interdisciplinary",
+      "innovative"
+    ]
+  }
+]

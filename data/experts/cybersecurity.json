@@ -1,0 +1,234 @@
+[
+  {
+    "id": "expert-0386",
+    "name": "William Burns",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD",
+      "MPH"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity",
+      "theoretical cybersecurity"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Led groundbreaking research in cybersecurity",
+      "Served on editorial boards of leading Cybersecurity journals",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "William Burns is a distinguished expert in Cybersecurity with 10 years of experience. Known for groundbreaking contributions to the field, William has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to cybersecurity",
+    "traits": [
+      "interdisciplinary",
+      "progressive",
+      "creative",
+      "conservative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0387",
+    "name": "Andrea Kelly",
+    "title": "Lead",
+    "credentials": [
+      "DDS",
+      "PsyD"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity",
+      "theoretical cybersecurity"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Cybersecurity",
+      "Principal investigator on major research grants",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Andrea Kelly is a distinguished expert in Cybersecurity with 32 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on cybersecurity",
+    "traits": [
+      "systematic",
+      "principled",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0388",
+    "name": "Ethan Peterson",
+    "title": "Dr.",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity",
+      "theoretical cybersecurity"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Developed innovative methodologies in cybersecurity",
+      "Recipient of prestigious awards in Cybersecurity",
+      "Led groundbreaking research in cybersecurity"
+    ],
+    "biography": "Ethan Peterson is a distinguished expert in Cybersecurity with 41 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in cybersecurity",
+    "traits": [
+      "holistic",
+      "analytical",
+      "methodical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0389",
+    "name": "Evelyn Russell",
+    "title": "Lead",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Served on editorial boards of leading Cybersecurity journals",
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in cybersecurity",
+      "Recipient of prestigious awards in Cybersecurity"
+    ],
+    "biography": "Evelyn Russell is a distinguished expert in Cybersecurity with 35 years of experience. Known for groundbreaking contributions to the field, Evelyn has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "practical application of cybersecurity principles",
+    "traits": [
+      "interdisciplinary",
+      "strategic",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0390",
+    "name": "Amanda Brooks",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Recipient of prestigious awards in Cybersecurity",
+      "Led groundbreaking research in cybersecurity",
+      "Served on editorial boards of leading Cybersecurity journals"
+    ],
+    "biography": "Amanda Brooks is a distinguished expert in Cybersecurity with 15 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in cybersecurity",
+    "traits": [
+      "conservative",
+      "detail-oriented",
+      "empirical",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0391",
+    "name": "Ronald Ward",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MD",
+      "MPH",
+      "DVM"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity",
+      "theoretical cybersecurity"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Cybersecurity",
+      "Keynote speaker at international Cybersecurity conferences",
+      "Led groundbreaking research in cybersecurity",
+      "Recipient of prestigious awards in Cybersecurity",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ronald Ward is a distinguished expert in Cybersecurity with 17 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on cybersecurity",
+    "traits": [
+      "collaborative",
+      "intuitive",
+      "independent",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0392",
+    "name": "Nancy Adams",
+    "title": "Senior",
+    "credentials": [
+      "MD",
+      "PharmD"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity",
+      "theoretical cybersecurity"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Cybersecurity conferences",
+      "Published 66 peer-reviewed papers in Cybersecurity"
+    ],
+    "biography": "Nancy Adams is a distinguished expert in Cybersecurity with 33 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to cybersecurity",
+    "traits": [
+      "strategic",
+      "analytical",
+      "interdisciplinary",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0393",
+    "name": "Jean Barnes",
+    "title": "Principal",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Cybersecurity",
+    "specializations": [
+      "advanced cybersecurity",
+      "applied cybersecurity"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Cybersecurity journals",
+      "Developed innovative methodologies in cybersecurity",
+      "Led groundbreaking research in cybersecurity",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Jean Barnes is a distinguished expert in Cybersecurity with 24 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of cybersecurity through extensive research, teaching, and practice.",
+    "perspective": "practical application of cybersecurity principles",
+    "traits": [
+      "data-driven",
+      "interdisciplinary",
+      "principled",
+      "cautious",
+      "evidence-based"
+    ]
+  }
+]

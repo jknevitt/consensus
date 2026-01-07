@@ -1,0 +1,241 @@
+[
+  {
+    "id": "expert-0709",
+    "name": "Sharon Hayes",
+    "title": "Senior",
+    "credentials": [
+      "PsyD",
+      "OD",
+      "EdD"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Demography journals",
+      "Published 60 peer-reviewed papers in Demography",
+      "Led groundbreaking research in demography"
+    ],
+    "biography": "Sharon Hayes is a distinguished expert in Demography with 30 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of demography",
+    "traits": [
+      "innovative",
+      "conservative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0710",
+    "name": "Ruth Gibson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPhil",
+      "PhD"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Developed innovative methodologies in demography",
+      "Published 26 peer-reviewed papers in Demography",
+      "Keynote speaker at international Demography conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ruth Gibson is a distinguished expert in Demography with 13 years of experience. Known for groundbreaking contributions to the field, Ruth has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of demography",
+    "traits": [
+      "balanced",
+      "flexible",
+      "intuitive",
+      "specialized",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0711",
+    "name": "Samuel Morales",
+    "title": "Lead",
+    "credentials": [
+      "PharmD",
+      "PsyD",
+      "MSc"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Demography conferences",
+      "Published 26 peer-reviewed papers in Demography"
+    ],
+    "biography": "Samuel Morales is a distinguished expert in Demography with 13 years of experience. Known for groundbreaking contributions to the field, Samuel has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to demography",
+    "traits": [
+      "methodical",
+      "bold",
+      "evidence-based",
+      "flexible",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0712",
+    "name": "Kathryn Wood",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MFA",
+      "MD",
+      "EdD"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Published 46 peer-reviewed papers in Demography",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in demography",
+      "Recipient of prestigious awards in Demography"
+    ],
+    "biography": "Kathryn Wood is a distinguished expert in Demography with 23 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in demography",
+    "traits": [
+      "traditional",
+      "methodical",
+      "pragmatic",
+      "reform-minded",
+      "specialized",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0713",
+    "name": "Sharon Watson",
+    "title": "Lead",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography",
+      "theoretical demography"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in demography",
+      "Published 54 peer-reviewed papers in Demography",
+      "Led groundbreaking research in demography",
+      "Recipient of prestigious awards in Demography",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Sharon Watson is a distinguished expert in Demography with 27 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on demography",
+    "traits": [
+      "empirical",
+      "progressive",
+      "bold",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0714",
+    "name": "Robert Burns",
+    "title": "Lead",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Demography",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in demography",
+      "Served on editorial boards of leading Demography journals",
+      "Led groundbreaking research in demography"
+    ],
+    "biography": "Robert Burns is a distinguished expert in Demography with 12 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to demography",
+    "traits": [
+      "collaborative",
+      "empirical",
+      "evidence-based",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0715",
+    "name": "Andrea Ramirez",
+    "title": "Chief",
+    "credentials": [
+      "DBA",
+      "PhD",
+      "MBA"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in demography",
+      "Served on editorial boards of leading Demography journals"
+    ],
+    "biography": "Andrea Ramirez is a distinguished expert in Demography with 35 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of demography",
+    "traits": [
+      "collaborative",
+      "tactical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0716",
+    "name": "Jerry Morales",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DNP",
+      "MFA",
+      "DSc"
+    ],
+    "field": "Demography",
+    "specializations": [
+      "advanced demography",
+      "applied demography"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in Demography",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in demography",
+      "Keynote speaker at international Demography conferences"
+    ],
+    "biography": "Jerry Morales is a distinguished expert in Demography with 14 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of demography through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of demography",
+    "traits": [
+      "interdisciplinary",
+      "principled",
+      "traditional",
+      "theoretical",
+      "specialized",
+      "flexible"
+    ]
+  }
+]

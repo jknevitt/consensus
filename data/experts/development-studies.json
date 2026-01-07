@@ -1,0 +1,243 @@
+[
+  {
+    "id": "expert-0723",
+    "name": "Jeffrey Garcia",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Development Studies journals",
+      "Led groundbreaking research in development studies",
+      "Keynote speaker at international Development Studies conferences",
+      "Published 44 peer-reviewed papers in Development Studies"
+    ],
+    "biography": "Jeffrey Garcia is a distinguished expert in Development Studies with 22 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of development studies",
+    "traits": [
+      "methodical",
+      "principled",
+      "analytical",
+      "bold",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0724",
+    "name": "Teresa Reyes",
+    "title": "Lead",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Keynote speaker at international Development Studies conferences",
+      "Mentored 13 doctoral students",
+      "Served on editorial boards of leading Development Studies journals",
+      "Developed innovative methodologies in development studies",
+      "Recipient of prestigious awards in Development Studies"
+    ],
+    "biography": "Teresa Reyes is a distinguished expert in Development Studies with 27 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of development studies principles",
+    "traits": [
+      "methodical",
+      "systematic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0725",
+    "name": "Carol West",
+    "title": "Principal",
+    "credentials": [
+      "DPT",
+      "MFA"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Recipient of prestigious awards in Development Studies",
+      "Served on editorial boards of leading Development Studies journals",
+      "Led groundbreaking research in development studies",
+      "Developed innovative methodologies in development studies",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Carol West is a distinguished expert in Development Studies with 24 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of development studies principles",
+    "traits": [
+      "holistic",
+      "specialized",
+      "progressive",
+      "innovative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0726",
+    "name": "Sharon Williams",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Development Studies",
+      "Keynote speaker at international Development Studies conferences",
+      "Led groundbreaking research in development studies",
+      "Developed innovative methodologies in development studies"
+    ],
+    "biography": "Sharon Williams is a distinguished expert in Development Studies with 25 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on development studies",
+    "traits": [
+      "bold",
+      "balanced",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0727",
+    "name": "Bryan Torres",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "OD",
+      "MPH"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Recipient of prestigious awards in Development Studies",
+      "Developed innovative methodologies in development studies",
+      "Served on editorial boards of leading Development Studies journals"
+    ],
+    "biography": "Bryan Torres is a distinguished expert in Development Studies with 26 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to development studies",
+    "traits": [
+      "analytical",
+      "tactical",
+      "visionary",
+      "innovative",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0728",
+    "name": "Laura Simpson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc",
+      "PsyD",
+      "DBA"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Development Studies conferences",
+      "Recipient of prestigious awards in Development Studies",
+      "Served on editorial boards of leading Development Studies journals"
+    ],
+    "biography": "Laura Simpson is a distinguished expert in Development Studies with 24 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on development studies",
+    "traits": [
+      "flexible",
+      "balanced",
+      "practical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0729",
+    "name": "Emma Russell",
+    "title": "Lead",
+    "credentials": [
+      "PhD",
+      "DSc",
+      "OD"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in development studies",
+      "Led groundbreaking research in development studies",
+      "Published 86 peer-reviewed papers in Development Studies",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Development Studies conferences"
+    ],
+    "biography": "Emma Russell is a distinguished expert in Development Studies with 43 years of experience. Known for groundbreaking contributions to the field, Emma has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in development studies",
+    "traits": [
+      "conservative",
+      "reform-minded",
+      "analytical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0730",
+    "name": "Jose Russell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "MA"
+    ],
+    "field": "Development Studies",
+    "specializations": [
+      "advanced development studies",
+      "applied development studies",
+      "theoretical development studies"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Recipient of prestigious awards in Development Studies",
+      "Developed innovative methodologies in development studies",
+      "Served on editorial boards of leading Development Studies journals"
+    ],
+    "biography": "Jose Russell is a distinguished expert in Development Studies with 18 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of development studies through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to development studies",
+    "traits": [
+      "creative",
+      "methodical",
+      "specialized",
+      "empirical",
+      "holistic"
+    ]
+  }
+]

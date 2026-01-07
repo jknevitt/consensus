@@ -1,0 +1,210 @@
+[
+  {
+    "id": "expert-0056",
+    "name": "Ethan Simpson",
+    "title": "Director",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology",
+      "theoretical pharmacology"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Mentored 12 doctoral students",
+      "Recipient of prestigious awards in Pharmacology",
+      "Led groundbreaking research in pharmacology"
+    ],
+    "biography": "Ethan Simpson is a distinguished expert in Pharmacology with 25 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of pharmacology",
+    "traits": [
+      "innovative",
+      "bold",
+      "traditional",
+      "balanced",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0057",
+    "name": "Scott Guzman",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "DNP",
+      "MFA"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 54 peer-reviewed papers in Pharmacology",
+      "Mentored 13 doctoral students",
+      "Keynote speaker at international Pharmacology conferences",
+      "Recipient of prestigious awards in Pharmacology"
+    ],
+    "biography": "Scott Guzman is a distinguished expert in Pharmacology with 27 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of pharmacology",
+    "traits": [
+      "independent",
+      "evidence-based",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0058",
+    "name": "Kenneth Rodriguez",
+    "title": "Associate Professor",
+    "credentials": [
+      "DDS",
+      "DPT"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in Pharmacology",
+      "Served on editorial boards of leading Pharmacology journals",
+      "Developed innovative methodologies in pharmacology",
+      "Led groundbreaking research in pharmacology",
+      "Recipient of prestigious awards in Pharmacology"
+    ],
+    "biography": "Kenneth Rodriguez is a distinguished expert in Pharmacology with 14 years of experience. Known for groundbreaking contributions to the field, Kenneth has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pharmacology",
+    "traits": [
+      "interdisciplinary",
+      "strategic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0059",
+    "name": "Kathleen Vasquez",
+    "title": "Professor",
+    "credentials": [
+      "PhD",
+      "JD"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology",
+      "theoretical pharmacology"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Served on editorial boards of leading Pharmacology journals",
+      "Published 34 peer-reviewed papers in Pharmacology",
+      "Led groundbreaking research in pharmacology"
+    ],
+    "biography": "Kathleen Vasquez is a distinguished expert in Pharmacology with 17 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pharmacology",
+    "traits": [
+      "data-driven",
+      "evidence-based",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0060",
+    "name": "William Simpson",
+    "title": "Professor",
+    "credentials": [
+      "MA",
+      "MBA",
+      "DNP"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology",
+      "theoretical pharmacology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Keynote speaker at international Pharmacology conferences",
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in pharmacology"
+    ],
+    "biography": "William Simpson is a distinguished expert in Pharmacology with 34 years of experience. Known for groundbreaking contributions to the field, William has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pharmacology",
+    "traits": [
+      "intuitive",
+      "tactical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0061",
+    "name": "Michelle Vargas",
+    "title": "Chief",
+    "credentials": [
+      "PhD",
+      "DPT"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Served on editorial boards of leading Pharmacology journals",
+      "Keynote speaker at international Pharmacology conferences",
+      "Published 72 peer-reviewed papers in Pharmacology",
+      "Led groundbreaking research in pharmacology",
+      "Recipient of prestigious awards in Pharmacology"
+    ],
+    "biography": "Michelle Vargas is a distinguished expert in Pharmacology with 36 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pharmacology",
+    "traits": [
+      "intuitive",
+      "empirical",
+      "creative",
+      "visionary",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0062",
+    "name": "Daniel Jackson",
+    "title": "Lead",
+    "credentials": [
+      "PhD",
+      "PharmD",
+      "DSc"
+    ],
+    "field": "Pharmacology",
+    "specializations": [
+      "advanced pharmacology",
+      "applied pharmacology",
+      "theoretical pharmacology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Keynote speaker at international Pharmacology conferences",
+      "Developed innovative methodologies in pharmacology",
+      "Recipient of prestigious awards in Pharmacology",
+      "Published 46 peer-reviewed papers in Pharmacology"
+    ],
+    "biography": "Daniel Jackson is a distinguished expert in Pharmacology with 23 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of pharmacology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pharmacology",
+    "traits": [
+      "balanced",
+      "data-driven",
+      "interdisciplinary",
+      "bold",
+      "holistic"
+    ]
+  }
+]

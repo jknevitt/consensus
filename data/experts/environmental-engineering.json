@@ -1,0 +1,239 @@
+[
+  {
+    "id": "expert-0246",
+    "name": "Jessica Fisher",
+    "title": "Principal",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Keynote speaker at international Environmental Engineering conferences",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in environmental engineering"
+    ],
+    "biography": "Jessica Fisher is a distinguished expert in Environmental Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in environmental engineering",
+    "traits": [
+      "specialized",
+      "intuitive",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0247",
+    "name": "Anthony Kelly",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Mentored 12 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Environmental Engineering journals",
+      "Published 50 peer-reviewed papers in Environmental Engineering"
+    ],
+    "biography": "Anthony Kelly is a distinguished expert in Environmental Engineering with 25 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of environmental engineering",
+    "traits": [
+      "pragmatic",
+      "practical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0248",
+    "name": "Betty Peterson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MSc",
+      "MFA",
+      "DPhil"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Environmental Engineering",
+      "Developed innovative methodologies in environmental engineering",
+      "Mentored 8 doctoral students",
+      "Led groundbreaking research in environmental engineering",
+      "Keynote speaker at international Environmental Engineering conferences"
+    ],
+    "biography": "Betty Peterson is a distinguished expert in Environmental Engineering with 17 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental engineering principles",
+    "traits": [
+      "intuitive",
+      "traditional",
+      "pragmatic",
+      "practical",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0249",
+    "name": "Carolyn Edwards",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM",
+      "MPH",
+      "DDS"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Developed innovative methodologies in environmental engineering",
+      "Mentored 13 doctoral students",
+      "Keynote speaker at international Environmental Engineering conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Carolyn Edwards is a distinguished expert in Environmental Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Carolyn has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of environmental engineering",
+    "traits": [
+      "tactical",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0250",
+    "name": "Paul Jimenez",
+    "title": "Chief",
+    "credentials": [
+      "MPH",
+      "DVM",
+      "MBA"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Environmental Engineering",
+      "Led groundbreaking research in environmental engineering",
+      "Recipient of prestigious awards in Environmental Engineering",
+      "Developed innovative methodologies in environmental engineering"
+    ],
+    "biography": "Paul Jimenez is a distinguished expert in Environmental Engineering with 16 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental engineering principles",
+    "traits": [
+      "intuitive",
+      "practical",
+      "analytical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0251",
+    "name": "Laura Stewart",
+    "title": "Director",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Keynote speaker at international Environmental Engineering conferences",
+      "Principal investigator on major research grants",
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in environmental engineering"
+    ],
+    "biography": "Laura Stewart is a distinguished expert in Environmental Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to environmental engineering",
+    "traits": [
+      "pragmatic",
+      "practical",
+      "evidence-based",
+      "collaborative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0252",
+    "name": "Edward Diaz",
+    "title": "Director",
+    "credentials": [
+      "PsyD",
+      "LLM"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Developed innovative methodologies in environmental engineering",
+      "Led groundbreaking research in environmental engineering",
+      "Served on editorial boards of leading Environmental Engineering journals",
+      "Keynote speaker at international Environmental Engineering conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Edward Diaz is a distinguished expert in Environmental Engineering with 24 years of experience. Known for groundbreaking contributions to the field, Edward has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental engineering principles",
+    "traits": [
+      "pragmatic",
+      "empirical",
+      "reform-minded",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0253",
+    "name": "Joan Powell",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Environmental Engineering",
+    "specializations": [
+      "advanced environmental engineering",
+      "applied environmental engineering",
+      "theoretical environmental engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Environmental Engineering",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Environmental Engineering journals",
+      "Led groundbreaking research in environmental engineering"
+    ],
+    "biography": "Joan Powell is a distinguished expert in Environmental Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Joan has shaped modern understanding of environmental engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental engineering principles",
+    "traits": [
+      "pragmatic",
+      "theoretical",
+      "intuitive",
+      "cautious"
+    ]
+  }
+]

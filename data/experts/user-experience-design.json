@@ -1,0 +1,241 @@
+[
+  {
+    "id": "expert-0990",
+    "name": "Jessica Taylor",
+    "title": "Lead",
+    "credentials": [
+      "OD",
+      "DDS",
+      "JD"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in User Experience Design",
+      "Led groundbreaking research in user experience design",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in User Experience Design"
+    ],
+    "biography": "Jessica Taylor is a distinguished expert in User Experience Design with 15 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in user experience design",
+    "traits": [
+      "data-driven",
+      "tactical",
+      "cautious",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0991",
+    "name": "Maria Reyes",
+    "title": "Professor",
+    "credentials": [
+      "DBA",
+      "MA"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design",
+      "theoretical user experience design"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Served on editorial boards of leading User Experience Design journals",
+      "Developed innovative methodologies in user experience design",
+      "Principal investigator on major research grants",
+      "Published 68 peer-reviewed papers in User Experience Design"
+    ],
+    "biography": "Maria Reyes is a distinguished expert in User Experience Design with 34 years of experience. Known for groundbreaking contributions to the field, Maria has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to user experience design",
+    "traits": [
+      "data-driven",
+      "tactical",
+      "methodical",
+      "detail-oriented",
+      "progressive",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0992",
+    "name": "Brian Stewart",
+    "title": "Lead",
+    "credentials": [
+      "DDS",
+      "MFA"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design",
+      "theoretical user experience design"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in User Experience Design",
+      "Led groundbreaking research in user experience design",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Brian Stewart is a distinguished expert in User Experience Design with 17 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on user experience design",
+    "traits": [
+      "conservative",
+      "interdisciplinary",
+      "intuitive",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0993",
+    "name": "Christine Reynolds",
+    "title": "Principal",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in user experience design",
+      "Led groundbreaking research in user experience design",
+      "Published 20 peer-reviewed papers in User Experience Design",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Christine Reynolds is a distinguished expert in User Experience Design with 10 years of experience. Known for groundbreaking contributions to the field, Christine has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in user experience design",
+    "traits": [
+      "evidence-based",
+      "strategic",
+      "collaborative",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0994",
+    "name": "Frank Porter",
+    "title": "Chief",
+    "credentials": [
+      "EdD",
+      "MD"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design",
+      "theoretical user experience design"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in User Experience Design",
+      "Mentored 7 doctoral students",
+      "Served on editorial boards of leading User Experience Design journals",
+      "Keynote speaker at international User Experience Design conferences",
+      "Developed innovative methodologies in user experience design"
+    ],
+    "biography": "Frank Porter is a distinguished expert in User Experience Design with 14 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in user experience design",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "systematic",
+      "traditional",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0995",
+    "name": "Eric Bennett",
+    "title": "Principal",
+    "credentials": [
+      "MD"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in User Experience Design",
+      "Led groundbreaking research in user experience design",
+      "Recipient of prestigious awards in User Experience Design",
+      "Developed innovative methodologies in user experience design",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Eric Bennett is a distinguished expert in User Experience Design with 33 years of experience. Known for groundbreaking contributions to the field, Eric has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of user experience design",
+    "traits": [
+      "cautious",
+      "creative",
+      "conservative",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0996",
+    "name": "Donna Lewis",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Recipient of prestigious awards in User Experience Design",
+      "Developed innovative methodologies in user experience design",
+      "Led groundbreaking research in user experience design"
+    ],
+    "biography": "Donna Lewis is a distinguished expert in User Experience Design with 35 years of experience. Known for groundbreaking contributions to the field, Donna has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in user experience design",
+    "traits": [
+      "tactical",
+      "pragmatic",
+      "principled",
+      "methodical",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0997",
+    "name": "Gloria Smith",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "DDS"
+    ],
+    "field": "User Experience Design",
+    "specializations": [
+      "advanced user experience design",
+      "applied user experience design"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Led groundbreaking research in user experience design",
+      "Published 30 peer-reviewed papers in User Experience Design",
+      "Served on editorial boards of leading User Experience Design journals"
+    ],
+    "biography": "Gloria Smith is a distinguished expert in User Experience Design with 15 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of user experience design through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on user experience design",
+    "traits": [
+      "tactical",
+      "bold",
+      "methodical",
+      "data-driven",
+      "conservative"
+    ]
+  }
+]

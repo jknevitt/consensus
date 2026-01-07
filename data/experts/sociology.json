@@ -1,0 +1,232 @@
+[
+  {
+    "id": "expert-0664",
+    "name": "Jean Fernandez",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "DVM"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Served on editorial boards of leading Sociology journals",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in sociology"
+    ],
+    "biography": "Jean Fernandez is a distinguished expert in Sociology with 32 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sociology",
+    "traits": [
+      "systematic",
+      "pragmatic",
+      "theoretical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0665",
+    "name": "Alice Peterson",
+    "title": "Professor",
+    "credentials": [
+      "DBA",
+      "DPT"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology",
+      "theoretical sociology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Recipient of prestigious awards in Sociology",
+      "Developed innovative methodologies in sociology",
+      "Led groundbreaking research in sociology"
+    ],
+    "biography": "Alice Peterson is a distinguished expert in Sociology with 34 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sociology",
+    "traits": [
+      "detail-oriented",
+      "data-driven",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0666",
+    "name": "Thomas Washington",
+    "title": "Principal",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Sociology",
+      "Published 34 peer-reviewed papers in Sociology"
+    ],
+    "biography": "Thomas Washington is a distinguished expert in Sociology with 17 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sociology",
+    "traits": [
+      "pragmatic",
+      "principled",
+      "strategic",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0667",
+    "name": "Ryan McDonald",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "PhD"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology",
+      "theoretical sociology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in sociology",
+      "Published 24 peer-reviewed papers in Sociology",
+      "Keynote speaker at international Sociology conferences",
+      "Led groundbreaking research in sociology"
+    ],
+    "biography": "Ryan McDonald is a distinguished expert in Sociology with 12 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sociology",
+    "traits": [
+      "reform-minded",
+      "evidence-based",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0668",
+    "name": "Hannah Chavez",
+    "title": "Lead",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sociology"
+    ],
+    "biography": "Hannah Chavez is a distinguished expert in Sociology with 37 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sociology",
+    "traits": [
+      "progressive",
+      "conservative",
+      "specialized",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0669",
+    "name": "Janice Torres",
+    "title": "Director",
+    "credentials": [
+      "DVM",
+      "OD"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology",
+      "theoretical sociology"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Keynote speaker at international Sociology conferences",
+      "Mentored 9 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in sociology",
+      "Recipient of prestigious awards in Sociology"
+    ],
+    "biography": "Janice Torres is a distinguished expert in Sociology with 19 years of experience. Known for groundbreaking contributions to the field, Janice has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on sociology",
+    "traits": [
+      "collaborative",
+      "practical",
+      "independent",
+      "holistic",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0670",
+    "name": "Donald Adams",
+    "title": "Chief",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Keynote speaker at international Sociology conferences",
+      "Served on editorial boards of leading Sociology journals",
+      "Mentored 7 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in sociology"
+    ],
+    "biography": "Donald Adams is a distinguished expert in Sociology with 14 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sociology",
+    "traits": [
+      "detail-oriented",
+      "specialized",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0671",
+    "name": "Maria Tran",
+    "title": "Professor",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Sociology",
+    "specializations": [
+      "advanced sociology",
+      "applied sociology",
+      "theoretical sociology"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Published 82 peer-reviewed papers in Sociology",
+      "Developed innovative methodologies in sociology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sociology",
+      "Served on editorial boards of leading Sociology journals"
+    ],
+    "biography": "Maria Tran is a distinguished expert in Sociology with 41 years of experience. Known for groundbreaking contributions to the field, Maria has shaped modern understanding of sociology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sociology",
+    "traits": [
+      "interdisciplinary",
+      "analytical",
+      "conservative",
+      "balanced"
+    ]
+  }
+]

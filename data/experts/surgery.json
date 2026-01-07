@@ -1,0 +1,242 @@
+[
+  {
+    "id": "expert-0032",
+    "name": "Betty Perry",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT",
+      "JD"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Served on editorial boards of leading Surgery journals",
+      "Developed innovative methodologies in surgery",
+      "Recipient of prestigious awards in Surgery",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Betty Perry is a distinguished expert in Surgery with 16 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in surgery",
+    "traits": [
+      "interdisciplinary",
+      "principled",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0033",
+    "name": "Madison Gonzalez",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Published 74 peer-reviewed papers in Surgery",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in surgery",
+      "Served on editorial boards of leading Surgery journals"
+    ],
+    "biography": "Madison Gonzalez is a distinguished expert in Surgery with 37 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of surgery",
+    "traits": [
+      "principled",
+      "data-driven",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0034",
+    "name": "Brenda Adams",
+    "title": "Professor",
+    "credentials": [
+      "EdD",
+      "DSc"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Surgery",
+      "Led groundbreaking research in surgery",
+      "Served on editorial boards of leading Surgery journals",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Brenda Adams is a distinguished expert in Surgery with 21 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of surgery",
+    "traits": [
+      "creative",
+      "data-driven",
+      "flexible",
+      "pragmatic",
+      "progressive",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0035",
+    "name": "Kathleen Fernandez",
+    "title": "Chief",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Recipient of prestigious awards in Surgery",
+      "Led groundbreaking research in surgery",
+      "Mentored 19 doctoral students"
+    ],
+    "biography": "Kathleen Fernandez is a distinguished expert in Surgery with 38 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on surgery",
+    "traits": [
+      "cautious",
+      "flexible",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0036",
+    "name": "Benjamin Edwards",
+    "title": "Lead",
+    "credentials": [
+      "OD",
+      "MD"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Developed innovative methodologies in surgery",
+      "Keynote speaker at international Surgery conferences",
+      "Mentored 17 doctoral students"
+    ],
+    "biography": "Benjamin Edwards is a distinguished expert in Surgery with 34 years of experience. Known for groundbreaking contributions to the field, Benjamin has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of surgery",
+    "traits": [
+      "evidence-based",
+      "conservative",
+      "empirical",
+      "pragmatic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0037",
+    "name": "Joseph Green",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MSc",
+      "DPhil",
+      "EdD"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Keynote speaker at international Surgery conferences",
+      "Principal investigator on major research grants",
+      "Mentored 9 doctoral students",
+      "Recipient of prestigious awards in Surgery",
+      "Led groundbreaking research in surgery"
+    ],
+    "biography": "Joseph Green is a distinguished expert in Surgery with 18 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to surgery",
+    "traits": [
+      "holistic",
+      "strategic",
+      "methodical",
+      "empirical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0038",
+    "name": "Noah Gonzales",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "DNP",
+      "MPH"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Keynote speaker at international Surgery conferences",
+      "Recipient of prestigious awards in Surgery",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Noah Gonzales is a distinguished expert in Surgery with 12 years of experience. Known for groundbreaking contributions to the field, Noah has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to surgery",
+    "traits": [
+      "detail-oriented",
+      "interdisciplinary",
+      "holistic",
+      "cautious",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0039",
+    "name": "Steven Foster",
+    "title": "Dr.",
+    "credentials": [
+      "DDS",
+      "OD"
+    ],
+    "field": "Surgery",
+    "specializations": [
+      "advanced surgery",
+      "applied surgery",
+      "theoretical surgery"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Keynote speaker at international Surgery conferences",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Surgery",
+      "Served on editorial boards of leading Surgery journals",
+      "Led groundbreaking research in surgery"
+    ],
+    "biography": "Steven Foster is a distinguished expert in Surgery with 34 years of experience. Known for groundbreaking contributions to the field, Steven has shaped modern understanding of surgery through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to surgery",
+    "traits": [
+      "interdisciplinary",
+      "balanced",
+      "flexible",
+      "pragmatic",
+      "detail-oriented"
+    ]
+  }
+]

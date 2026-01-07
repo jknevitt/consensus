@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expert-0643",
+    "name": "Kathleen Morgan",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD",
+      "EdD",
+      "DNP"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies",
+      "theoretical medieval studies"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Medieval Studies",
+      "Led groundbreaking research in medieval studies",
+      "Served on editorial boards of leading Medieval Studies journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kathleen Morgan is a distinguished expert in Medieval Studies with 28 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of medieval studies",
+    "traits": [
+      "specialized",
+      "visionary",
+      "cautious",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0644",
+    "name": "Larry Reyes",
+    "title": "Dr.",
+    "credentials": [
+      "DPT",
+      "MPH"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies",
+      "theoretical medieval studies"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Medieval Studies",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in medieval studies",
+      "Developed innovative methodologies in medieval studies"
+    ],
+    "biography": "Larry Reyes is a distinguished expert in Medieval Studies with 33 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in medieval studies",
+    "traits": [
+      "detail-oriented",
+      "innovative",
+      "holistic",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0645",
+    "name": "Katherine Chen",
+    "title": "Principal",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Published 86 peer-reviewed papers in Medieval Studies",
+      "Led groundbreaking research in medieval studies",
+      "Recipient of prestigious awards in Medieval Studies"
+    ],
+    "biography": "Katherine Chen is a distinguished expert in Medieval Studies with 43 years of experience. Known for groundbreaking contributions to the field, Katherine has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of medieval studies principles",
+    "traits": [
+      "progressive",
+      "theoretical",
+      "methodical",
+      "systematic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0646",
+    "name": "David Cox",
+    "title": "Principal",
+    "credentials": [
+      "MD",
+      "OD",
+      "MFA"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Developed innovative methodologies in medieval studies",
+      "Published 72 peer-reviewed papers in Medieval Studies",
+      "Led groundbreaking research in medieval studies",
+      "Recipient of prestigious awards in Medieval Studies"
+    ],
+    "biography": "David Cox is a distinguished expert in Medieval Studies with 36 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to medieval studies",
+    "traits": [
+      "strategic",
+      "creative",
+      "progressive",
+      "methodical",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0647",
+    "name": "Jordan Roberts",
+    "title": "Senior",
+    "credentials": [
+      "DNP",
+      "DVM",
+      "MBA"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies",
+      "theoretical medieval studies"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Medieval Studies",
+      "Led groundbreaking research in medieval studies",
+      "Recipient of prestigious awards in Medieval Studies"
+    ],
+    "biography": "Jordan Roberts is a distinguished expert in Medieval Studies with 32 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of medieval studies",
+    "traits": [
+      "progressive",
+      "independent",
+      "practical",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0648",
+    "name": "Jessica Cooper",
+    "title": "Principal",
+    "credentials": [
+      "MPH",
+      "DPhil",
+      "DSc"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies",
+      "theoretical medieval studies"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Medieval Studies",
+      "Recipient of prestigious awards in Medieval Studies",
+      "Served on editorial boards of leading Medieval Studies journals"
+    ],
+    "biography": "Jessica Cooper is a distinguished expert in Medieval Studies with 34 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in medieval studies",
+    "traits": [
+      "principled",
+      "data-driven",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0649",
+    "name": "Scott White",
+    "title": "Lead",
+    "credentials": [
+      "MSc",
+      "PsyD",
+      "PharmD"
+    ],
+    "field": "Medieval Studies",
+    "specializations": [
+      "advanced medieval studies",
+      "applied medieval studies"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in medieval studies",
+      "Published 86 peer-reviewed papers in Medieval Studies",
+      "Served on editorial boards of leading Medieval Studies journals",
+      "Keynote speaker at international Medieval Studies conferences"
+    ],
+    "biography": "Scott White is a distinguished expert in Medieval Studies with 43 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of medieval studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on medieval studies",
+    "traits": [
+      "visionary",
+      "principled",
+      "collaborative",
+      "flexible"
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "expert-0956",
+    "name": "Donald Bryant",
+    "title": "Director",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design",
+      "theoretical urban design"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Led groundbreaking research in urban design",
+      "Developed innovative methodologies in urban design"
+    ],
+    "biography": "Donald Bryant is a distinguished expert in Urban Design with 35 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of urban design",
+    "traits": [
+      "systematic",
+      "principled",
+      "empirical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0957",
+    "name": "Donald Morris",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design",
+      "theoretical urban design"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Recipient of prestigious awards in Urban Design",
+      "Mentored 10 doctoral students",
+      "Led groundbreaking research in urban design",
+      "Published 42 peer-reviewed papers in Urban Design",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Donald Morris is a distinguished expert in Urban Design with 21 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to urban design",
+    "traits": [
+      "progressive",
+      "reform-minded",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0958",
+    "name": "Daniel Lopez",
+    "title": "Principal",
+    "credentials": [
+      "EdD",
+      "DPT"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Urban Design",
+      "Led groundbreaking research in urban design",
+      "Served on editorial boards of leading Urban Design journals"
+    ],
+    "biography": "Daniel Lopez is a distinguished expert in Urban Design with 28 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in urban design",
+    "traits": [
+      "data-driven",
+      "creative",
+      "strategic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0959",
+    "name": "Gary Diaz",
+    "title": "Senior",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design",
+      "theoretical urban design"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 22 peer-reviewed papers in Urban Design",
+      "Developed innovative methodologies in urban design",
+      "Led groundbreaking research in urban design"
+    ],
+    "biography": "Gary Diaz is a distinguished expert in Urban Design with 11 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of urban design",
+    "traits": [
+      "balanced",
+      "cautious",
+      "methodical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0960",
+    "name": "Melissa Hunter",
+    "title": "Principal",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Recipient of prestigious awards in Urban Design",
+      "Mentored 20 doctoral students",
+      "Keynote speaker at international Urban Design conferences"
+    ],
+    "biography": "Melissa Hunter is a distinguished expert in Urban Design with 40 years of experience. Known for groundbreaking contributions to the field, Melissa has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of urban design",
+    "traits": [
+      "progressive",
+      "systematic",
+      "interdisciplinary",
+      "empirical",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0961",
+    "name": "Jesse Butler",
+    "title": "Chief",
+    "credentials": [
+      "MBA",
+      "PharmD"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design",
+      "theoretical urban design"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in urban design",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Urban Design",
+      "Keynote speaker at international Urban Design conferences"
+    ],
+    "biography": "Jesse Butler is a distinguished expert in Urban Design with 16 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of urban design",
+    "traits": [
+      "strategic",
+      "traditional",
+      "evidence-based",
+      "intuitive",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0962",
+    "name": "Elizabeth Wilson",
+    "title": "Lead",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Led groundbreaking research in urban design",
+      "Published 34 peer-reviewed papers in Urban Design",
+      "Served on editorial boards of leading Urban Design journals"
+    ],
+    "biography": "Elizabeth Wilson is a distinguished expert in Urban Design with 17 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on urban design",
+    "traits": [
+      "bold",
+      "specialized",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0963",
+    "name": "Karen Foster",
+    "title": "Director",
+    "credentials": [
+      "OD",
+      "MBA"
+    ],
+    "field": "Urban Design",
+    "specializations": [
+      "advanced urban design",
+      "applied urban design",
+      "theoretical urban design"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Urban Design",
+      "Led groundbreaking research in urban design",
+      "Developed innovative methodologies in urban design"
+    ],
+    "biography": "Karen Foster is a distinguished expert in Urban Design with 20 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of urban design through extensive research, teaching, and practice.",
+    "perspective": "practical application of urban design principles",
+    "traits": [
+      "data-driven",
+      "analytical",
+      "progressive",
+      "pragmatic",
+      "evidence-based"
+    ]
+  }
+]

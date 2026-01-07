@@ -1,0 +1,181 @@
+[
+  {
+    "id": "expert-1066",
+    "name": "Jack Romero",
+    "title": "Director",
+    "credentials": [
+      "MBA",
+      "PhD",
+      "MFA"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Served on editorial boards of leading Counterterrorism journals",
+      "Principal investigator on major research grants",
+      "Mentored 22 doctoral students",
+      "Recipient of prestigious awards in Counterterrorism"
+    ],
+    "biography": "Jack Romero is a distinguished expert in Counterterrorism with 44 years of experience. Known for groundbreaking contributions to the field, Jack has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "practical application of counterterrorism principles",
+    "traits": [
+      "reform-minded",
+      "detail-oriented",
+      "strategic",
+      "traditional",
+      "conservative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-1067",
+    "name": "Dennis Kim",
+    "title": "Dr.",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 38 peer-reviewed papers in Counterterrorism",
+      "Keynote speaker at international Counterterrorism conferences"
+    ],
+    "biography": "Dennis Kim is a distinguished expert in Counterterrorism with 19 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "practical application of counterterrorism principles",
+    "traits": [
+      "strategic",
+      "holistic",
+      "data-driven",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-1068",
+    "name": "Ashley Thomas",
+    "title": "Dr.",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism",
+      "theoretical counterterrorism"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in counterterrorism",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ashley Thomas is a distinguished expert in Counterterrorism with 38 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of counterterrorism",
+    "traits": [
+      "visionary",
+      "progressive",
+      "bold",
+      "systematic",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-1069",
+    "name": "Anthony Kelly",
+    "title": "Lead",
+    "credentials": [
+      "MSc",
+      "MD"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism",
+      "theoretical counterterrorism"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Counterterrorism",
+      "Recipient of prestigious awards in Counterterrorism",
+      "Served on editorial boards of leading Counterterrorism journals",
+      "Keynote speaker at international Counterterrorism conferences",
+      "Led groundbreaking research in counterterrorism"
+    ],
+    "biography": "Anthony Kelly is a distinguished expert in Counterterrorism with 32 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to counterterrorism",
+    "traits": [
+      "creative",
+      "innovative",
+      "bold",
+      "conservative",
+      "specialized",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-1070",
+    "name": "Sean Cooper",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD",
+      "MPH",
+      "DVM"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in counterterrorism",
+      "Mentored 21 doctoral students",
+      "Keynote speaker at international Counterterrorism conferences"
+    ],
+    "biography": "Sean Cooper is a distinguished expert in Counterterrorism with 43 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of counterterrorism",
+    "traits": [
+      "independent",
+      "progressive",
+      "intuitive",
+      "cautious",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-1071",
+    "name": "Dylan Hill",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD",
+      "MFA"
+    ],
+    "field": "Counterterrorism",
+    "specializations": [
+      "advanced counterterrorism",
+      "applied counterterrorism",
+      "theoretical counterterrorism"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in counterterrorism",
+      "Keynote speaker at international Counterterrorism conferences"
+    ],
+    "biography": "Dylan Hill is a distinguished expert in Counterterrorism with 39 years of experience. Known for groundbreaking contributions to the field, Dylan has shaped modern understanding of counterterrorism through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on counterterrorism",
+    "traits": [
+      "creative",
+      "tactical",
+      "theoretical"
+    ]
+  }
+]

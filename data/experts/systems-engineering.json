@@ -1,0 +1,205 @@
+[
+  {
+    "id": "expert-0254",
+    "name": "Rebecca Harris",
+    "title": "Chief",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Served on editorial boards of leading Systems Engineering journals",
+      "Published 54 peer-reviewed papers in Systems Engineering",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in systems engineering",
+      "Developed innovative methodologies in systems engineering"
+    ],
+    "biography": "Rebecca Harris is a distinguished expert in Systems Engineering with 27 years of experience. Known for groundbreaking contributions to the field, Rebecca has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in systems engineering",
+    "traits": [
+      "reform-minded",
+      "independent",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0255",
+    "name": "Donna Murphy",
+    "title": "Principal",
+    "credentials": [
+      "DPT",
+      "MD"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering",
+      "theoretical systems engineering"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Published 42 peer-reviewed papers in Systems Engineering",
+      "Led groundbreaking research in systems engineering",
+      "Recipient of prestigious awards in Systems Engineering"
+    ],
+    "biography": "Donna Murphy is a distinguished expert in Systems Engineering with 21 years of experience. Known for groundbreaking contributions to the field, Donna has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to systems engineering",
+    "traits": [
+      "interdisciplinary",
+      "systematic",
+      "innovative",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0256",
+    "name": "Kimberly Torres",
+    "title": "Principal",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in systems engineering",
+      "Published 84 peer-reviewed papers in Systems Engineering"
+    ],
+    "biography": "Kimberly Torres is a distinguished expert in Systems Engineering with 42 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of systems engineering",
+    "traits": [
+      "tactical",
+      "specialized",
+      "principled",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0257",
+    "name": "Bryan Lewis",
+    "title": "Director",
+    "credentials": [
+      "MBA",
+      "DSc"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering",
+      "theoretical systems engineering"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Served on editorial boards of leading Systems Engineering journals",
+      "Keynote speaker at international Systems Engineering conferences",
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in systems engineering",
+      "Recipient of prestigious awards in Systems Engineering"
+    ],
+    "biography": "Bryan Lewis is a distinguished expert in Systems Engineering with 35 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to systems engineering",
+    "traits": [
+      "creative",
+      "tactical",
+      "principled",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0258",
+    "name": "Betty Simpson",
+    "title": "Dr.",
+    "credentials": [
+      "PhD",
+      "DVM"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Led groundbreaking research in systems engineering",
+      "Developed innovative methodologies in systems engineering",
+      "Keynote speaker at international Systems Engineering conferences"
+    ],
+    "biography": "Betty Simpson is a distinguished expert in Systems Engineering with 36 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on systems engineering",
+    "traits": [
+      "cautious",
+      "evidence-based",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0259",
+    "name": "Donald Peterson",
+    "title": "Professor",
+    "credentials": [
+      "PsyD",
+      "DPT",
+      "PhD"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Keynote speaker at international Systems Engineering conferences",
+      "Mentored 5 doctoral students",
+      "Served on editorial boards of leading Systems Engineering journals",
+      "Developed innovative methodologies in systems engineering"
+    ],
+    "biography": "Donald Peterson is a distinguished expert in Systems Engineering with 11 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to systems engineering",
+    "traits": [
+      "analytical",
+      "principled",
+      "collaborative",
+      "progressive",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0260",
+    "name": "Virginia Thompson",
+    "title": "Director",
+    "credentials": [
+      "DSc",
+      "DPhil"
+    ],
+    "field": "Systems Engineering",
+    "specializations": [
+      "advanced systems engineering",
+      "applied systems engineering"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Developed innovative methodologies in systems engineering",
+      "Led groundbreaking research in systems engineering",
+      "Recipient of prestigious awards in Systems Engineering",
+      "Published 48 peer-reviewed papers in Systems Engineering"
+    ],
+    "biography": "Virginia Thompson is a distinguished expert in Systems Engineering with 24 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of systems engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in systems engineering",
+    "traits": [
+      "strategic",
+      "pragmatic",
+      "innovative",
+      "balanced"
+    ]
+  }
+]

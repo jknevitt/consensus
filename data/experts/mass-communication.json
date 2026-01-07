@@ -1,0 +1,184 @@
+[
+  {
+    "id": "expert-0921",
+    "name": "Henry Romero",
+    "title": "Lead",
+    "credentials": [
+      "DSc",
+      "JD",
+      "DNP"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Developed innovative methodologies in mass communication",
+      "Published 60 peer-reviewed papers in Mass Communication",
+      "Served on editorial boards of leading Mass Communication journals",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Mass Communication conferences"
+    ],
+    "biography": "Henry Romero is a distinguished expert in Mass Communication with 30 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to mass communication",
+    "traits": [
+      "theoretical",
+      "progressive",
+      "empirical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0922",
+    "name": "Barbara Perez",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP",
+      "DSc",
+      "JD"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Published 62 peer-reviewed papers in Mass Communication",
+      "Led groundbreaking research in mass communication",
+      "Recipient of prestigious awards in Mass Communication",
+      "Developed innovative methodologies in mass communication",
+      "Served on editorial boards of leading Mass Communication journals"
+    ],
+    "biography": "Barbara Perez is a distinguished expert in Mass Communication with 31 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "practical application of mass communication principles",
+    "traits": [
+      "specialized",
+      "intuitive",
+      "reform-minded",
+      "strategic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0923",
+    "name": "Patrick Jordan",
+    "title": "Dr.",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication",
+      "theoretical mass communication"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Led groundbreaking research in mass communication",
+      "Developed innovative methodologies in mass communication",
+      "Keynote speaker at international Mass Communication conferences",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Mass Communication"
+    ],
+    "biography": "Patrick Jordan is a distinguished expert in Mass Communication with 25 years of experience. Known for groundbreaking contributions to the field, Patrick has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to mass communication",
+    "traits": [
+      "conservative",
+      "tactical",
+      "collaborative",
+      "progressive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0924",
+    "name": "Abigail Wallace",
+    "title": "Lead",
+    "credentials": [
+      "PsyD",
+      "MA",
+      "DNP"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 64 peer-reviewed papers in Mass Communication",
+      "Led groundbreaking research in mass communication",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Abigail Wallace is a distinguished expert in Mass Communication with 32 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of mass communication",
+    "traits": [
+      "analytical",
+      "flexible",
+      "conservative",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0925",
+    "name": "Maria Bell",
+    "title": "Lead",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication",
+      "theoretical mass communication"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 72 peer-reviewed papers in Mass Communication",
+      "Led groundbreaking research in mass communication",
+      "Recipient of prestigious awards in Mass Communication",
+      "Developed innovative methodologies in mass communication"
+    ],
+    "biography": "Maria Bell is a distinguished expert in Mass Communication with 36 years of experience. Known for groundbreaking contributions to the field, Maria has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in mass communication",
+    "traits": [
+      "principled",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0926",
+    "name": "Ashley Simmons",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "MA",
+      "MD"
+    ],
+    "field": "Mass Communication",
+    "specializations": [
+      "advanced mass communication",
+      "applied mass communication"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Recipient of prestigious awards in Mass Communication",
+      "Principal investigator on major research grants",
+      "Mentored 8 doctoral students",
+      "Keynote speaker at international Mass Communication conferences"
+    ],
+    "biography": "Ashley Simmons is a distinguished expert in Mass Communication with 17 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of mass communication through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of mass communication",
+    "traits": [
+      "reform-minded",
+      "pragmatic",
+      "holistic",
+      "bold"
+    ]
+  }
+]

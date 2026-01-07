@@ -1,0 +1,178 @@
+[
+  {
+    "id": "expert-0608",
+    "name": "Joshua Parker",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Served on editorial boards of leading Film Studies journals",
+      "Keynote speaker at international Film Studies conferences",
+      "Mentored 21 doctoral students"
+    ],
+    "biography": "Joshua Parker is a distinguished expert in Film Studies with 42 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on film studies",
+    "traits": [
+      "pragmatic",
+      "independent",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0609",
+    "name": "Jeremy Hill",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DPhil",
+      "DNP",
+      "DVM"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies",
+      "theoretical film studies"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in film studies",
+      "Recipient of prestigious awards in Film Studies",
+      "Served on editorial boards of leading Film Studies journals",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Jeremy Hill is a distinguished expert in Film Studies with 27 years of experience. Known for groundbreaking contributions to the field, Jeremy has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in film studies",
+    "traits": [
+      "flexible",
+      "creative",
+      "principled",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0610",
+    "name": "Robert Coleman",
+    "title": "Director",
+    "credentials": [
+      "DNP",
+      "DPhil",
+      "PhD"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies",
+      "theoretical film studies"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in film studies",
+      "Keynote speaker at international Film Studies conferences",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Film Studies journals"
+    ],
+    "biography": "Robert Coleman is a distinguished expert in Film Studies with 16 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in film studies",
+    "traits": [
+      "practical",
+      "conservative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0611",
+    "name": "Justin Nelson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies",
+      "theoretical film studies"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Film Studies",
+      "Led groundbreaking research in film studies",
+      "Recipient of prestigious awards in Film Studies",
+      "Developed innovative methodologies in film studies",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Justin Nelson is a distinguished expert in Film Studies with 16 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in film studies",
+    "traits": [
+      "reform-minded",
+      "innovative",
+      "analytical",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0612",
+    "name": "Martha Patel",
+    "title": "Professor",
+    "credentials": [
+      "MFA",
+      "MPH",
+      "DNP"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Film Studies",
+      "Published 82 peer-reviewed papers in Film Studies",
+      "Keynote speaker at international Film Studies conferences",
+      "Developed innovative methodologies in film studies",
+      "Served on editorial boards of leading Film Studies journals"
+    ],
+    "biography": "Martha Patel is a distinguished expert in Film Studies with 41 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in film studies",
+    "traits": [
+      "cautious",
+      "evidence-based",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0613",
+    "name": "Brian Wilson",
+    "title": "Lead",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Film Studies",
+    "specializations": [
+      "advanced film studies",
+      "applied film studies",
+      "theoretical film studies"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Served on editorial boards of leading Film Studies journals",
+      "Published 24 peer-reviewed papers in Film Studies",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in film studies",
+      "Recipient of prestigious awards in Film Studies"
+    ],
+    "biography": "Brian Wilson is a distinguished expert in Film Studies with 12 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of film studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of film studies principles",
+    "traits": [
+      "systematic",
+      "innovative",
+      "practical"
+    ]
+  }
+]

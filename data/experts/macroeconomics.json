@@ -1,0 +1,182 @@
+[
+  {
+    "id": "expert-0547",
+    "name": "Brian Roberts",
+    "title": "Professor",
+    "credentials": [
+      "PhD",
+      "OD"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Macroeconomics conferences",
+      "Published 88 peer-reviewed papers in Macroeconomics",
+      "Led groundbreaking research in macroeconomics",
+      "Recipient of prestigious awards in Macroeconomics"
+    ],
+    "biography": "Brian Roberts is a distinguished expert in Macroeconomics with 44 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to macroeconomics",
+    "traits": [
+      "tactical",
+      "evidence-based",
+      "systematic",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0548",
+    "name": "Victoria Thompson",
+    "title": "Director",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics",
+      "theoretical macroeconomics"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Led groundbreaking research in macroeconomics",
+      "Developed innovative methodologies in macroeconomics",
+      "Principal investigator on major research grants",
+      "Published 38 peer-reviewed papers in Macroeconomics"
+    ],
+    "biography": "Victoria Thompson is a distinguished expert in Macroeconomics with 19 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on macroeconomics",
+    "traits": [
+      "collaborative",
+      "bold",
+      "strategic",
+      "data-driven",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0549",
+    "name": "Christian Robinson",
+    "title": "Director",
+    "credentials": [
+      "DBA",
+      "DDS",
+      "DSc"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics",
+      "theoretical macroeconomics"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Recipient of prestigious awards in Macroeconomics",
+      "Developed innovative methodologies in macroeconomics",
+      "Mentored 13 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 54 peer-reviewed papers in Macroeconomics"
+    ],
+    "biography": "Christian Robinson is a distinguished expert in Macroeconomics with 27 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on macroeconomics",
+    "traits": [
+      "tactical",
+      "flexible",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0550",
+    "name": "Abigail Ward",
+    "title": "Professor",
+    "credentials": [
+      "PhD",
+      "DPT"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics",
+      "theoretical macroeconomics"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Developed innovative methodologies in macroeconomics",
+      "Recipient of prestigious awards in Macroeconomics",
+      "Keynote speaker at international Macroeconomics conferences"
+    ],
+    "biography": "Abigail Ward is a distinguished expert in Macroeconomics with 37 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to macroeconomics",
+    "traits": [
+      "evidence-based",
+      "flexible",
+      "detail-oriented",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0551",
+    "name": "Christian Hamilton",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Led groundbreaking research in macroeconomics",
+      "Mentored 8 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Macroeconomics journals"
+    ],
+    "biography": "Christian Hamilton is a distinguished expert in Macroeconomics with 16 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of macroeconomics",
+    "traits": [
+      "balanced",
+      "strategic",
+      "intuitive",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0552",
+    "name": "Abigail Phillips",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD",
+      "MPH"
+    ],
+    "field": "Macroeconomics",
+    "specializations": [
+      "advanced macroeconomics",
+      "applied macroeconomics"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Recipient of prestigious awards in Macroeconomics",
+      "Developed innovative methodologies in macroeconomics",
+      "Led groundbreaking research in macroeconomics",
+      "Principal investigator on major research grants",
+      "Published 58 peer-reviewed papers in Macroeconomics"
+    ],
+    "biography": "Abigail Phillips is a distinguished expert in Macroeconomics with 29 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of macroeconomics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to macroeconomics",
+    "traits": [
+      "holistic",
+      "practical",
+      "theoretical",
+      "cautious",
+      "conservative",
+      "empirical"
+    ]
+  }
+]

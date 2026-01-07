@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expert-0636",
+    "name": "Daniel Chen",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "LLM",
+      "DVM"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Led groundbreaking research in classics",
+      "Served on editorial boards of leading Classics journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Daniel Chen is a distinguished expert in Classics with 34 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "practical application of classics principles",
+    "traits": [
+      "cautious",
+      "creative",
+      "bold",
+      "data-driven",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0637",
+    "name": "Kevin Wood",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Classics",
+      "Served on editorial boards of leading Classics journals",
+      "Led groundbreaking research in classics"
+    ],
+    "biography": "Kevin Wood is a distinguished expert in Classics with 10 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on classics",
+    "traits": [
+      "practical",
+      "conservative",
+      "data-driven",
+      "evidence-based",
+      "analytical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0638",
+    "name": "Ryan Reed",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "MA"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Developed innovative methodologies in classics",
+      "Mentored 12 doctoral students",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Classics conferences"
+    ],
+    "biography": "Ryan Reed is a distinguished expert in Classics with 24 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of classics",
+    "traits": [
+      "flexible",
+      "interdisciplinary",
+      "practical",
+      "empirical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0639",
+    "name": "Virginia Garcia",
+    "title": "Chief",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 56 peer-reviewed papers in Classics",
+      "Led groundbreaking research in classics",
+      "Keynote speaker at international Classics conferences",
+      "Recipient of prestigious awards in Classics"
+    ],
+    "biography": "Virginia Garcia is a distinguished expert in Classics with 28 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on classics",
+    "traits": [
+      "reform-minded",
+      "intuitive",
+      "practical",
+      "progressive",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0640",
+    "name": "Abigail Cox",
+    "title": "Director",
+    "credentials": [
+      "LLM",
+      "DSc"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in classics",
+      "Published 32 peer-reviewed papers in Classics",
+      "Served on editorial boards of leading Classics journals",
+      "Led groundbreaking research in classics",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Abigail Cox is a distinguished expert in Classics with 16 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on classics",
+    "traits": [
+      "bold",
+      "pragmatic",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0641",
+    "name": "Sean Wright",
+    "title": "Lead",
+    "credentials": [
+      "MD",
+      "MA"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics",
+      "theoretical classics"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Served on editorial boards of leading Classics journals",
+      "Published 28 peer-reviewed papers in Classics",
+      "Led groundbreaking research in classics",
+      "Keynote speaker at international Classics conferences"
+    ],
+    "biography": "Sean Wright is a distinguished expert in Classics with 14 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of classics",
+    "traits": [
+      "pragmatic",
+      "analytical",
+      "flexible",
+      "methodical",
+      "tactical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0642",
+    "name": "Amanda James",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "DPT",
+      "MBA"
+    ],
+    "field": "Classics",
+    "specializations": [
+      "advanced classics",
+      "applied classics"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Classics",
+      "Keynote speaker at international Classics conferences",
+      "Served on editorial boards of leading Classics journals"
+    ],
+    "biography": "Amanda James is a distinguished expert in Classics with 17 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of classics through extensive research, teaching, and practice.",
+    "perspective": "practical application of classics principles",
+    "traits": [
+      "systematic",
+      "balanced",
+      "tactical"
+    ]
+  }
+]

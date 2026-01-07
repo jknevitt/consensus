@@ -1,0 +1,208 @@
+[
+  {
+    "id": "expert-0076",
+    "name": "Christina Flores",
+    "title": "Associate Professor",
+    "credentials": [
+      "PharmD",
+      "DNP"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Keynote speaker at international Emergency Medicine conferences",
+      "Recipient of prestigious awards in Emergency Medicine",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Christina Flores is a distinguished expert in Emergency Medicine with 22 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to emergency medicine",
+    "traits": [
+      "flexible",
+      "tactical",
+      "collaborative",
+      "pragmatic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0077",
+    "name": "Karen Price",
+    "title": "Senior",
+    "credentials": [
+      "MSc",
+      "DPhil",
+      "MD"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine",
+      "theoretical emergency medicine"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in emergency medicine",
+      "Published 50 peer-reviewed papers in Emergency Medicine"
+    ],
+    "biography": "Karen Price is a distinguished expert in Emergency Medicine with 25 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "practical application of emergency medicine principles",
+    "traits": [
+      "data-driven",
+      "independent",
+      "holistic",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0078",
+    "name": "Jesse Washington",
+    "title": "Chief",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Developed innovative methodologies in emergency medicine",
+      "Recipient of prestigious awards in Emergency Medicine",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Jesse Washington is a distinguished expert in Emergency Medicine with 24 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of emergency medicine",
+    "traits": [
+      "creative",
+      "progressive",
+      "tactical",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0079",
+    "name": "Laura Jordan",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Keynote speaker at international Emergency Medicine conferences",
+      "Developed innovative methodologies in emergency medicine",
+      "Published 82 peer-reviewed papers in Emergency Medicine"
+    ],
+    "biography": "Laura Jordan is a distinguished expert in Emergency Medicine with 41 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to emergency medicine",
+    "traits": [
+      "cautious",
+      "theoretical",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0080",
+    "name": "Charles Patterson",
+    "title": "Chief",
+    "credentials": [
+      "DSc",
+      "MA",
+      "LLM"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine",
+      "theoretical emergency medicine"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Served on editorial boards of leading Emergency Medicine journals",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Emergency Medicine conferences",
+      "Published 66 peer-reviewed papers in Emergency Medicine",
+      "Led groundbreaking research in emergency medicine"
+    ],
+    "biography": "Charles Patterson is a distinguished expert in Emergency Medicine with 33 years of experience. Known for groundbreaking contributions to the field, Charles has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on emergency medicine",
+    "traits": [
+      "balanced",
+      "creative",
+      "analytical",
+      "interdisciplinary",
+      "evidence-based",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0081",
+    "name": "Diane Romero",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD",
+      "MBA",
+      "DVM"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine",
+      "theoretical emergency medicine"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Emergency Medicine conferences",
+      "Served on editorial boards of leading Emergency Medicine journals"
+    ],
+    "biography": "Diane Romero is a distinguished expert in Emergency Medicine with 23 years of experience. Known for groundbreaking contributions to the field, Diane has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to emergency medicine",
+    "traits": [
+      "conservative",
+      "empirical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0082",
+    "name": "Catherine Reed",
+    "title": "Senior",
+    "credentials": [
+      "DSc",
+      "MFA",
+      "LLM"
+    ],
+    "field": "Emergency Medicine",
+    "specializations": [
+      "advanced emergency medicine",
+      "applied emergency medicine",
+      "theoretical emergency medicine"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Emergency Medicine",
+      "Led groundbreaking research in emergency medicine"
+    ],
+    "biography": "Catherine Reed is a distinguished expert in Emergency Medicine with 44 years of experience. Known for groundbreaking contributions to the field, Catherine has shaped modern understanding of emergency medicine through extensive research, teaching, and practice.",
+    "perspective": "practical application of emergency medicine principles",
+    "traits": [
+      "pragmatic",
+      "theoretical",
+      "traditional",
+      "data-driven",
+      "strategic"
+    ]
+  }
+]

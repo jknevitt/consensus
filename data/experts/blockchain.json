@@ -1,0 +1,173 @@
+[
+  {
+    "id": "expert-0394",
+    "name": "Ronald Watson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc",
+      "DVM",
+      "OD"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Published 38 peer-reviewed papers in Blockchain",
+      "Led groundbreaking research in blockchain",
+      "Recipient of prestigious awards in Blockchain",
+      "Developed innovative methodologies in blockchain"
+    ],
+    "biography": "Ronald Watson is a distinguished expert in Blockchain with 19 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of blockchain",
+    "traits": [
+      "reform-minded",
+      "data-driven",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0395",
+    "name": "John Ruiz",
+    "title": "Chief",
+    "credentials": [
+      "DBA",
+      "MD",
+      "EdD"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Blockchain",
+      "Led groundbreaking research in blockchain",
+      "Recipient of prestigious awards in Blockchain"
+    ],
+    "biography": "John Ruiz is a distinguished expert in Blockchain with 25 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on blockchain",
+    "traits": [
+      "strategic",
+      "specialized",
+      "intuitive",
+      "flexible",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0396",
+    "name": "George Ramirez",
+    "title": "Senior",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain",
+      "theoretical blockchain"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Blockchain",
+      "Keynote speaker at international Blockchain conferences",
+      "Developed innovative methodologies in blockchain"
+    ],
+    "biography": "George Ramirez is a distinguished expert in Blockchain with 16 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "practical application of blockchain principles",
+    "traits": [
+      "cautious",
+      "empirical",
+      "evidence-based",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0397",
+    "name": "Brandon Wallace",
+    "title": "Senior",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Recipient of prestigious awards in Blockchain",
+      "Keynote speaker at international Blockchain conferences",
+      "Developed innovative methodologies in blockchain"
+    ],
+    "biography": "Brandon Wallace is a distinguished expert in Blockchain with 44 years of experience. Known for groundbreaking contributions to the field, Brandon has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to blockchain",
+    "traits": [
+      "holistic",
+      "collaborative",
+      "theoretical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0398",
+    "name": "Arthur Olson",
+    "title": "Chief",
+    "credentials": [
+      "PharmD",
+      "PhD"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain",
+      "theoretical blockchain"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Blockchain conferences",
+      "Principal investigator on major research grants",
+      "Published 30 peer-reviewed papers in Blockchain",
+      "Led groundbreaking research in blockchain"
+    ],
+    "biography": "Arthur Olson is a distinguished expert in Blockchain with 15 years of experience. Known for groundbreaking contributions to the field, Arthur has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on blockchain",
+    "traits": [
+      "principled",
+      "empirical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0399",
+    "name": "Paul Wallace",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MD",
+      "MBA"
+    ],
+    "field": "Blockchain",
+    "specializations": [
+      "advanced blockchain",
+      "applied blockchain"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Served on editorial boards of leading Blockchain journals",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Blockchain",
+      "Developed innovative methodologies in blockchain"
+    ],
+    "biography": "Paul Wallace is a distinguished expert in Blockchain with 39 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of blockchain through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on blockchain",
+    "traits": [
+      "theoretical",
+      "data-driven",
+      "cautious"
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "expert-0103",
+    "name": "Bryan Long",
+    "title": "Senior",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers",
+      "federalism"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Keynote speaker at international Constitutional Law conferences",
+      "Recipient of prestigious awards in Constitutional Law",
+      "Published 58 peer-reviewed papers in Constitutional Law"
+    ],
+    "biography": "Bryan Long is a distinguished expert in Constitutional Law with 29 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in constitutional law",
+    "traits": [
+      "traditional",
+      "data-driven",
+      "principled",
+      "conservative",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0104",
+    "name": "Helen Hall",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "MSc"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers",
+      "federalism"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in constitutional law",
+      "Recipient of prestigious awards in Constitutional Law",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Helen Hall is a distinguished expert in Constitutional Law with 39 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on constitutional law",
+    "traits": [
+      "interdisciplinary",
+      "holistic",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0105",
+    "name": "Andrea Hamilton",
+    "title": "Lead",
+    "credentials": [
+      "MPH",
+      "MD",
+      "MBA"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Developed innovative methodologies in constitutional law",
+      "Led groundbreaking research in constitutional law",
+      "Served on editorial boards of leading Constitutional Law journals",
+      "Published 28 peer-reviewed papers in Constitutional Law",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Andrea Hamilton is a distinguished expert in Constitutional Law with 14 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in constitutional law",
+    "traits": [
+      "conservative",
+      "balanced",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0106",
+    "name": "Gloria Kim",
+    "title": "Chief",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Developed innovative methodologies in constitutional law",
+      "Served on editorial boards of leading Constitutional Law journals",
+      "Led groundbreaking research in constitutional law"
+    ],
+    "biography": "Gloria Kim is a distinguished expert in Constitutional Law with 44 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in constitutional law",
+    "traits": [
+      "evidence-based",
+      "progressive",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0107",
+    "name": "Teresa Walker",
+    "title": "Dr.",
+    "credentials": [
+      "MBA",
+      "PhD",
+      "MPH"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Constitutional Law journals",
+      "Keynote speaker at international Constitutional Law conferences",
+      "Published 26 peer-reviewed papers in Constitutional Law"
+    ],
+    "biography": "Teresa Walker is a distinguished expert in Constitutional Law with 13 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "practical application of constitutional law principles",
+    "traits": [
+      "bold",
+      "theoretical",
+      "tactical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0108",
+    "name": "Jessica Rodriguez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "LLM",
+      "MBA"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers",
+      "federalism"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Served on editorial boards of leading Constitutional Law journals",
+      "Recipient of prestigious awards in Constitutional Law",
+      "Led groundbreaking research in constitutional law",
+      "Keynote speaker at international Constitutional Law conferences",
+      "Developed innovative methodologies in constitutional law"
+    ],
+    "biography": "Jessica Rodriguez is a distinguished expert in Constitutional Law with 24 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "practical application of constitutional law principles",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0109",
+    "name": "Zachary Moore",
+    "title": "Senior",
+    "credentials": [
+      "DVM",
+      "MSc",
+      "DDS"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers",
+      "federalism"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Constitutional Law journals"
+    ],
+    "biography": "Zachary Moore is a distinguished expert in Constitutional Law with 26 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on constitutional law",
+    "traits": [
+      "practical",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0110",
+    "name": "Jacqueline Wilson",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "LLM",
+      "MPH"
+    ],
+    "field": "Constitutional Law",
+    "specializations": [
+      "civil rights",
+      "separation of powers"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Keynote speaker at international Constitutional Law conferences",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in constitutional law",
+      "Recipient of prestigious awards in Constitutional Law",
+      "Served on editorial boards of leading Constitutional Law journals"
+    ],
+    "biography": "Jacqueline Wilson is a distinguished expert in Constitutional Law with 14 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of constitutional law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of constitutional law",
+    "traits": [
+      "principled",
+      "intuitive",
+      "data-driven",
+      "empirical",
+      "reform-minded"
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expert-0650",
+    "name": "Joan Ford",
+    "title": "Lead",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages",
+      "theoretical modern languages"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Developed innovative methodologies in modern languages",
+      "Recipient of prestigious awards in Modern Languages",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in modern languages",
+      "Published 80 peer-reviewed papers in Modern Languages"
+    ],
+    "biography": "Joan Ford is a distinguished expert in Modern Languages with 40 years of experience. Known for groundbreaking contributions to the field, Joan has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to modern languages",
+    "traits": [
+      "strategic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0651",
+    "name": "Thomas Allen",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages",
+      "theoretical modern languages"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Modern Languages",
+      "Mentored 15 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Modern Languages journals"
+    ],
+    "biography": "Thomas Allen is a distinguished expert in Modern Languages with 30 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of modern languages",
+    "traits": [
+      "flexible",
+      "principled",
+      "strategic",
+      "visionary",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0652",
+    "name": "Timothy Fernandez",
+    "title": "Chief",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Developed innovative methodologies in modern languages",
+      "Keynote speaker at international Modern Languages conferences",
+      "Published 70 peer-reviewed papers in Modern Languages",
+      "Led groundbreaking research in modern languages",
+      "Served on editorial boards of leading Modern Languages journals"
+    ],
+    "biography": "Timothy Fernandez is a distinguished expert in Modern Languages with 35 years of experience. Known for groundbreaking contributions to the field, Timothy has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on modern languages",
+    "traits": [
+      "evidence-based",
+      "practical",
+      "progressive",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0653",
+    "name": "Emma Carter",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "JD",
+      "DSc"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages",
+      "theoretical modern languages"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Modern Languages",
+      "Recipient of prestigious awards in Modern Languages",
+      "Served on editorial boards of leading Modern Languages journals",
+      "Mentored 12 doctoral students",
+      "Keynote speaker at international Modern Languages conferences"
+    ],
+    "biography": "Emma Carter is a distinguished expert in Modern Languages with 24 years of experience. Known for groundbreaking contributions to the field, Emma has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on modern languages",
+    "traits": [
+      "conservative",
+      "collaborative",
+      "intuitive",
+      "cautious",
+      "bold",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0654",
+    "name": "Melissa Nelson",
+    "title": "Director",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Served on editorial boards of leading Modern Languages journals",
+      "Keynote speaker at international Modern Languages conferences",
+      "Mentored 8 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in modern languages"
+    ],
+    "biography": "Melissa Nelson is a distinguished expert in Modern Languages with 17 years of experience. Known for groundbreaking contributions to the field, Melissa has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in modern languages",
+    "traits": [
+      "flexible",
+      "interdisciplinary",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0655",
+    "name": "Jacqueline Fisher",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "DNP",
+      "PhD"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Led groundbreaking research in modern languages",
+      "Published 36 peer-reviewed papers in Modern Languages",
+      "Keynote speaker at international Modern Languages conferences",
+      "Developed innovative methodologies in modern languages",
+      "Recipient of prestigious awards in Modern Languages"
+    ],
+    "biography": "Jacqueline Fisher is a distinguished expert in Modern Languages with 18 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of modern languages",
+    "traits": [
+      "detail-oriented",
+      "interdisciplinary",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0656",
+    "name": "Thomas Gonzales",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Modern Languages",
+    "specializations": [
+      "advanced modern languages",
+      "applied modern languages"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Published 22 peer-reviewed papers in Modern Languages",
+      "Keynote speaker at international Modern Languages conferences",
+      "Developed innovative methodologies in modern languages",
+      "Served on editorial boards of leading Modern Languages journals"
+    ],
+    "biography": "Thomas Gonzales is a distinguished expert in Modern Languages with 11 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of modern languages through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in modern languages",
+    "traits": [
+      "systematic",
+      "interdisciplinary",
+      "data-driven",
+      "analytical",
+      "evidence-based",
+      "strategic"
+    ]
+  }
+]

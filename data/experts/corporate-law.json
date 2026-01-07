@@ -1,0 +1,239 @@
+[
+  {
+    "id": "expert-0125",
+    "name": "Jean Henry",
+    "title": "Senior",
+    "credentials": [
+      "MPH",
+      "JD",
+      "DNP"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Corporate Law journals",
+      "Keynote speaker at international Corporate Law conferences",
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in corporate law"
+    ],
+    "biography": "Jean Henry is a distinguished expert in Corporate Law with 26 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "practical application of corporate law principles",
+    "traits": [
+      "reform-minded",
+      "tactical",
+      "methodical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0126",
+    "name": "Adam Perez",
+    "title": "Lead",
+    "credentials": [
+      "MA",
+      "MD"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law",
+      "theoretical corporate law"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Corporate Law conferences",
+      "Published 30 peer-reviewed papers in Corporate Law",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in corporate law",
+      "Recipient of prestigious awards in Corporate Law"
+    ],
+    "biography": "Adam Perez is a distinguished expert in Corporate Law with 15 years of experience. Known for groundbreaking contributions to the field, Adam has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in corporate law",
+    "traits": [
+      "conservative",
+      "detail-oriented",
+      "independent",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0127",
+    "name": "Kimberly Powell",
+    "title": "Principal",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Developed innovative methodologies in corporate law",
+      "Published 20 peer-reviewed papers in Corporate Law",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Kimberly Powell is a distinguished expert in Corporate Law with 10 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "practical application of corporate law principles",
+    "traits": [
+      "systematic",
+      "creative",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0128",
+    "name": "Laura Hunter",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "PsyD"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Recipient of prestigious awards in Corporate Law",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Laura Hunter is a distinguished expert in Corporate Law with 20 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on corporate law",
+    "traits": [
+      "theoretical",
+      "pragmatic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0129",
+    "name": "Kevin Walker",
+    "title": "Professor",
+    "credentials": [
+      "DDS",
+      "MBA"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law",
+      "theoretical corporate law"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Corporate Law journals",
+      "Principal investigator on major research grants",
+      "Published 82 peer-reviewed papers in Corporate Law",
+      "Developed innovative methodologies in corporate law"
+    ],
+    "biography": "Kevin Walker is a distinguished expert in Corporate Law with 41 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to corporate law",
+    "traits": [
+      "reform-minded",
+      "innovative",
+      "bold",
+      "intuitive",
+      "independent",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0130",
+    "name": "Jerry Reyes",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "DPhil",
+      "MD"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Served on editorial boards of leading Corporate Law journals",
+      "Keynote speaker at international Corporate Law conferences",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Jerry Reyes is a distinguished expert in Corporate Law with 31 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on corporate law",
+    "traits": [
+      "balanced",
+      "visionary",
+      "data-driven",
+      "analytical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0131",
+    "name": "Mark Ortiz",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MA",
+      "DSc"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in corporate law",
+      "Principal investigator on major research grants",
+      "Published 78 peer-reviewed papers in Corporate Law",
+      "Led groundbreaking research in corporate law",
+      "Recipient of prestigious awards in Corporate Law"
+    ],
+    "biography": "Mark Ortiz is a distinguished expert in Corporate Law with 39 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on corporate law",
+    "traits": [
+      "systematic",
+      "innovative",
+      "strategic",
+      "cautious",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0132",
+    "name": "Ann Wallace",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPhil",
+      "MSc",
+      "DBA"
+    ],
+    "field": "Corporate Law",
+    "specializations": [
+      "advanced corporate law",
+      "applied corporate law"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Corporate Law",
+      "Mentored 16 doctoral students",
+      "Led groundbreaking research in corporate law"
+    ],
+    "biography": "Ann Wallace is a distinguished expert in Corporate Law with 33 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of corporate law through extensive research, teaching, and practice.",
+    "perspective": "practical application of corporate law principles",
+    "traits": [
+      "reform-minded",
+      "systematic",
+      "innovative"
+    ]
+  }
+]

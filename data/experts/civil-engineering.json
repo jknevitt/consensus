@@ -1,0 +1,207 @@
+[
+  {
+    "id": "expert-0188",
+    "name": "Michael West",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "MD",
+      "DPhil"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Keynote speaker at international Civil Engineering conferences",
+      "Published 36 peer-reviewed papers in Civil Engineering",
+      "Mentored 9 doctoral students",
+      "Led groundbreaking research in civil engineering"
+    ],
+    "biography": "Michael West is a distinguished expert in Civil Engineering with 18 years of experience. Known for groundbreaking contributions to the field, Michael has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of civil engineering",
+    "traits": [
+      "balanced",
+      "theoretical",
+      "collaborative",
+      "principled",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0189",
+    "name": "Karen Taylor",
+    "title": "Chief",
+    "credentials": [
+      "MBA",
+      "DSc"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 52 peer-reviewed papers in Civil Engineering",
+      "Led groundbreaking research in civil engineering"
+    ],
+    "biography": "Karen Taylor is a distinguished expert in Civil Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in civil engineering",
+    "traits": [
+      "specialized",
+      "innovative",
+      "empirical",
+      "traditional",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0190",
+    "name": "Sharon Gutierrez",
+    "title": "Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering",
+      "theoretical civil engineering"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Civil Engineering",
+      "Keynote speaker at international Civil Engineering conferences",
+      "Served on editorial boards of leading Civil Engineering journals"
+    ],
+    "biography": "Sharon Gutierrez is a distinguished expert in Civil Engineering with 20 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on civil engineering",
+    "traits": [
+      "interdisciplinary",
+      "collaborative",
+      "cautious",
+      "detail-oriented",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0191",
+    "name": "Karen Turner",
+    "title": "Dr.",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering",
+      "theoretical civil engineering"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Developed innovative methodologies in civil engineering",
+      "Recipient of prestigious awards in Civil Engineering",
+      "Led groundbreaking research in civil engineering",
+      "Served on editorial boards of leading Civil Engineering journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Karen Turner is a distinguished expert in Civil Engineering with 20 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on civil engineering",
+    "traits": [
+      "holistic",
+      "independent",
+      "tactical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0192",
+    "name": "Alexander Reyes",
+    "title": "Chief",
+    "credentials": [
+      "MBA",
+      "DVM"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering",
+      "theoretical civil engineering"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Developed innovative methodologies in civil engineering",
+      "Keynote speaker at international Civil Engineering conferences",
+      "Published 38 peer-reviewed papers in Civil Engineering",
+      "Led groundbreaking research in civil engineering"
+    ],
+    "biography": "Alexander Reyes is a distinguished expert in Civil Engineering with 19 years of experience. Known for groundbreaking contributions to the field, Alexander has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in civil engineering",
+    "traits": [
+      "theoretical",
+      "empirical",
+      "traditional",
+      "data-driven",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0193",
+    "name": "Jacqueline Baker",
+    "title": "Director",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering",
+      "theoretical civil engineering"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in civil engineering",
+      "Mentored 13 doctoral students",
+      "Recipient of prestigious awards in Civil Engineering"
+    ],
+    "biography": "Jacqueline Baker is a distinguished expert in Civil Engineering with 27 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in civil engineering",
+    "traits": [
+      "cautious",
+      "intuitive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0194",
+    "name": "Justin Jones",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Civil Engineering",
+    "specializations": [
+      "advanced civil engineering",
+      "applied civil engineering",
+      "theoretical civil engineering"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Civil Engineering",
+      "Recipient of prestigious awards in Civil Engineering",
+      "Led groundbreaking research in civil engineering"
+    ],
+    "biography": "Justin Jones is a distinguished expert in Civil Engineering with 18 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of civil engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to civil engineering",
+    "traits": [
+      "collaborative",
+      "balanced",
+      "interdisciplinary",
+      "principled"
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "expert-1079",
+    "name": "Madison Stevens",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "PhD",
+      "MSc"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping",
+      "theoretical peacekeeping"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Mentored 9 doctoral students",
+      "Served on editorial boards of leading Peacekeeping journals",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Peacekeeping"
+    ],
+    "biography": "Madison Stevens is a distinguished expert in Peacekeeping with 19 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to peacekeeping",
+    "traits": [
+      "progressive",
+      "detail-oriented",
+      "empirical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-1080",
+    "name": "Ronald Martin",
+    "title": "Professor",
+    "credentials": [
+      "MPH",
+      "DDS",
+      "MSc"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Led groundbreaking research in peacekeeping",
+      "Developed innovative methodologies in peacekeeping",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Ronald Martin is a distinguished expert in Peacekeeping with 30 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of peacekeeping",
+    "traits": [
+      "detail-oriented",
+      "visionary",
+      "methodical",
+      "tactical",
+      "strategic",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-1081",
+    "name": "Jeffrey Cole",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT",
+      "MFA"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping",
+      "theoretical peacekeeping"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Peacekeeping journals",
+      "Principal investigator on major research grants",
+      "Mentored 11 doctoral students",
+      "Led groundbreaking research in peacekeeping",
+      "Published 44 peer-reviewed papers in Peacekeeping"
+    ],
+    "biography": "Jeffrey Cole is a distinguished expert in Peacekeeping with 22 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on peacekeeping",
+    "traits": [
+      "data-driven",
+      "cautious",
+      "practical",
+      "holistic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-1082",
+    "name": "Jordan Patterson",
+    "title": "Principal",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping",
+      "theoretical peacekeeping"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Keynote speaker at international Peacekeeping conferences",
+      "Published 36 peer-reviewed papers in Peacekeeping",
+      "Mentored 9 doctoral students",
+      "Led groundbreaking research in peacekeeping"
+    ],
+    "biography": "Jordan Patterson is a distinguished expert in Peacekeeping with 18 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on peacekeeping",
+    "traits": [
+      "systematic",
+      "interdisciplinary",
+      "balanced",
+      "flexible",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-1083",
+    "name": "Emily James",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MA",
+      "EdD"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Peacekeeping",
+      "Principal investigator on major research grants",
+      "Published 82 peer-reviewed papers in Peacekeeping",
+      "Led groundbreaking research in peacekeeping",
+      "Developed innovative methodologies in peacekeeping"
+    ],
+    "biography": "Emily James is a distinguished expert in Peacekeeping with 41 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on peacekeeping",
+    "traits": [
+      "theoretical",
+      "systematic",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-1084",
+    "name": "Andrea Ortiz",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Keynote speaker at international Peacekeeping conferences",
+      "Mentored 16 doctoral students",
+      "Served on editorial boards of leading Peacekeeping journals",
+      "Developed innovative methodologies in peacekeeping",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Andrea Ortiz is a distinguished expert in Peacekeeping with 32 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on peacekeeping",
+    "traits": [
+      "systematic",
+      "traditional",
+      "reform-minded",
+      "progressive",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-1085",
+    "name": "Janet Cook",
+    "title": "Director",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Peacekeeping",
+    "specializations": [
+      "advanced peacekeeping",
+      "applied peacekeeping"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Recipient of prestigious awards in Peacekeeping",
+      "Served on editorial boards of leading Peacekeeping journals",
+      "Led groundbreaking research in peacekeeping",
+      "Principal investigator on major research grants",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Janet Cook is a distinguished expert in Peacekeeping with 23 years of experience. Known for groundbreaking contributions to the field, Janet has shaped modern understanding of peacekeeping through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to peacekeeping",
+    "traits": [
+      "principled",
+      "flexible",
+      "systematic",
+      "pragmatic"
+    ]
+  }
+]

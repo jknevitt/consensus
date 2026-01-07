@@ -1,0 +1,64 @@
+[
+  {
+    "id": "expert-1099",
+    "name": "Alice Castro",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD",
+      "MA"
+    ],
+    "field": "Planetary Science",
+    "specializations": [
+      "advanced planetary science",
+      "applied planetary science"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Planetary Science",
+      "Led groundbreaking research in planetary science",
+      "Mentored 9 doctoral students",
+      "Recipient of prestigious awards in Planetary Science",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Alice Castro is a distinguished expert in Planetary Science with 18 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of planetary science through extensive research, teaching, and practice.",
+    "perspective": "practical application of planetary science principles",
+    "traits": [
+      "empirical",
+      "reform-minded",
+      "systematic",
+      "conservative",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-1100",
+    "name": "Dorothy Lewis",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Planetary Science",
+    "specializations": [
+      "advanced planetary science",
+      "applied planetary science",
+      "theoretical planetary science"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Planetary Science",
+      "Led groundbreaking research in planetary science",
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in planetary science",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Dorothy Lewis is a distinguished expert in Planetary Science with 38 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of planetary science through extensive research, teaching, and practice.",
+    "perspective": "practical application of planetary science principles",
+    "traits": [
+      "holistic",
+      "evidence-based",
+      "tactical",
+      "collaborative",
+      "traditional"
+    ]
+  }
+]

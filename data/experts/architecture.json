@@ -1,0 +1,183 @@
+[
+  {
+    "id": "expert-0950",
+    "name": "Joseph Washington",
+    "title": "Lead",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Keynote speaker at international Architecture conferences",
+      "Recipient of prestigious awards in Architecture",
+      "Led groundbreaking research in architecture",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Joseph Washington is a distinguished expert in Architecture with 38 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of architecture",
+    "traits": [
+      "innovative",
+      "conservative",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0951",
+    "name": "Mark Mitchell",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Mentored 21 doctoral students",
+      "Led groundbreaking research in architecture",
+      "Developed innovative methodologies in architecture",
+      "Served on editorial boards of leading Architecture journals"
+    ],
+    "biography": "Mark Mitchell is a distinguished expert in Architecture with 43 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on architecture",
+    "traits": [
+      "traditional",
+      "reform-minded",
+      "bold",
+      "theoretical",
+      "independent",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0952",
+    "name": "Scott Cook",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "MPH",
+      "DSc"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Keynote speaker at international Architecture conferences",
+      "Served on editorial boards of leading Architecture journals",
+      "Developed innovative methodologies in architecture",
+      "Recipient of prestigious awards in Architecture",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Scott Cook is a distinguished expert in Architecture with 28 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of architecture",
+    "traits": [
+      "cautious",
+      "balanced",
+      "flexible",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0953",
+    "name": "Ethan Reed",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "PsyD"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture",
+      "theoretical architecture"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Architecture",
+      "Keynote speaker at international Architecture conferences"
+    ],
+    "biography": "Ethan Reed is a distinguished expert in Architecture with 33 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "practical application of architecture principles",
+    "traits": [
+      "independent",
+      "traditional",
+      "systematic",
+      "intuitive",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0954",
+    "name": "Nicholas Diaz",
+    "title": "Lead",
+    "credentials": [
+      "OD",
+      "MA"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture",
+      "theoretical architecture"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Published 78 peer-reviewed papers in Architecture",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in architecture",
+      "Led groundbreaking research in architecture",
+      "Mentored 19 doctoral students"
+    ],
+    "biography": "Nicholas Diaz is a distinguished expert in Architecture with 39 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of architecture",
+    "traits": [
+      "flexible",
+      "tactical",
+      "data-driven",
+      "interdisciplinary",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0955",
+    "name": "Pamela Robinson",
+    "title": "Principal",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Architecture",
+    "specializations": [
+      "advanced architecture",
+      "applied architecture",
+      "theoretical architecture"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Architecture journals",
+      "Developed innovative methodologies in architecture",
+      "Published 40 peer-reviewed papers in Architecture"
+    ],
+    "biography": "Pamela Robinson is a distinguished expert in Architecture with 20 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of architecture through extensive research, teaching, and practice.",
+    "perspective": "practical application of architecture principles",
+    "traits": [
+      "theoretical",
+      "intuitive",
+      "practical",
+      "pragmatic",
+      "creative",
+      "strategic"
+    ]
+  }
+]

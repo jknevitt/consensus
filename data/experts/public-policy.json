@@ -1,0 +1,183 @@
+[
+  {
+    "id": "expert-0162",
+    "name": "Sandra Reed",
+    "title": "Chief",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Recipient of prestigious awards in Public Policy",
+      "Developed innovative methodologies in public policy",
+      "Mentored 16 doctoral students",
+      "Led groundbreaking research in public policy",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Sandra Reed is a distinguished expert in Public Policy with 33 years of experience. Known for groundbreaking contributions to the field, Sandra has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public policy",
+    "traits": [
+      "methodical",
+      "cautious",
+      "progressive",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0163",
+    "name": "Emily Reynolds",
+    "title": "Dr.",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Keynote speaker at international Public Policy conferences",
+      "Led groundbreaking research in public policy",
+      "Developed innovative methodologies in public policy",
+      "Published 54 peer-reviewed papers in Public Policy",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Emily Reynolds is a distinguished expert in Public Policy with 27 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "practical application of public policy principles",
+    "traits": [
+      "specialized",
+      "creative",
+      "empirical",
+      "bold",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0164",
+    "name": "Walter Wallace",
+    "title": "Director",
+    "credentials": [
+      "PhD",
+      "MD"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Public Policy journals",
+      "Led groundbreaking research in public policy",
+      "Published 46 peer-reviewed papers in Public Policy",
+      "Keynote speaker at international Public Policy conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Walter Wallace is a distinguished expert in Public Policy with 23 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of public policy",
+    "traits": [
+      "detail-oriented",
+      "holistic",
+      "flexible",
+      "data-driven",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0165",
+    "name": "Karen Watson",
+    "title": "Dr.",
+    "credentials": [
+      "DPT",
+      "OD"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy",
+      "theoretical public policy"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Keynote speaker at international Public Policy conferences",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in public policy"
+    ],
+    "biography": "Karen Watson is a distinguished expert in Public Policy with 21 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "practical application of public policy principles",
+    "traits": [
+      "cautious",
+      "specialized",
+      "data-driven",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0166",
+    "name": "Jose Russell",
+    "title": "Senior",
+    "credentials": [
+      "MA",
+      "EdD",
+      "DPhil"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy",
+      "theoretical public policy"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Published 86 peer-reviewed papers in Public Policy",
+      "Principal investigator on major research grants",
+      "Mentored 21 doctoral students",
+      "Keynote speaker at international Public Policy conferences"
+    ],
+    "biography": "Jose Russell is a distinguished expert in Public Policy with 43 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in public policy",
+    "traits": [
+      "detail-oriented",
+      "analytical",
+      "balanced",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0167",
+    "name": "Henry Price",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DBA",
+      "PharmD",
+      "DNP"
+    ],
+    "field": "Public Policy",
+    "specializations": [
+      "advanced public policy",
+      "applied public policy"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Public Policy",
+      "Mentored 16 doctoral students",
+      "Led groundbreaking research in public policy",
+      "Recipient of prestigious awards in Public Policy"
+    ],
+    "biography": "Henry Price is a distinguished expert in Public Policy with 33 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of public policy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of public policy",
+    "traits": [
+      "intuitive",
+      "traditional",
+      "creative",
+      "principled",
+      "cautious"
+    ]
+  }
+]

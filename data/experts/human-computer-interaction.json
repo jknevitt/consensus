@@ -1,0 +1,173 @@
+[
+  {
+    "id": "expert-0421",
+    "name": "Christina Porter",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc",
+      "EdD"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction",
+      "theoretical human-computer interaction"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Human-Computer Interaction",
+      "Recipient of prestigious awards in Human-Computer Interaction",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Human-Computer Interaction conferences"
+    ],
+    "biography": "Christina Porter is a distinguished expert in Human-Computer Interaction with 12 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of human-computer interaction",
+    "traits": [
+      "principled",
+      "evidence-based",
+      "cautious",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0422",
+    "name": "Mark Jimenez",
+    "title": "Dr.",
+    "credentials": [
+      "DPT",
+      "DSc"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Human-Computer Interaction journals",
+      "Recipient of prestigious awards in Human-Computer Interaction",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in human-computer interaction",
+      "Keynote speaker at international Human-Computer Interaction conferences"
+    ],
+    "biography": "Mark Jimenez is a distinguished expert in Human-Computer Interaction with 22 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to human-computer interaction",
+    "traits": [
+      "reform-minded",
+      "visionary",
+      "cautious",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0423",
+    "name": "Jesse Lee",
+    "title": "Senior",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Human-Computer Interaction conferences",
+      "Published 46 peer-reviewed papers in Human-Computer Interaction",
+      "Led groundbreaking research in human-computer interaction"
+    ],
+    "biography": "Jesse Lee is a distinguished expert in Human-Computer Interaction with 23 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on human-computer interaction",
+    "traits": [
+      "methodical",
+      "balanced",
+      "cautious",
+      "progressive",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0424",
+    "name": "Betty Jimenez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Led groundbreaking research in human-computer interaction",
+      "Published 68 peer-reviewed papers in Human-Computer Interaction",
+      "Developed innovative methodologies in human-computer interaction",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Betty Jimenez is a distinguished expert in Human-Computer Interaction with 34 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to human-computer interaction",
+    "traits": [
+      "traditional",
+      "systematic",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0425",
+    "name": "Gregory Moreno",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "MSc"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Served on editorial boards of leading Human-Computer Interaction journals",
+      "Published 50 peer-reviewed papers in Human-Computer Interaction",
+      "Keynote speaker at international Human-Computer Interaction conferences"
+    ],
+    "biography": "Gregory Moreno is a distinguished expert in Human-Computer Interaction with 25 years of experience. Known for groundbreaking contributions to the field, Gregory has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on human-computer interaction",
+    "traits": [
+      "flexible",
+      "cautious",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0426",
+    "name": "Roger Chavez",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD",
+      "MFA"
+    ],
+    "field": "Human-Computer Interaction",
+    "specializations": [
+      "advanced human-computer interaction",
+      "applied human-computer interaction"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Published 70 peer-reviewed papers in Human-Computer Interaction",
+      "Keynote speaker at international Human-Computer Interaction conferences"
+    ],
+    "biography": "Roger Chavez is a distinguished expert in Human-Computer Interaction with 35 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of human-computer interaction through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of human-computer interaction",
+    "traits": [
+      "creative",
+      "intuitive",
+      "interdisciplinary",
+      "empirical"
+    ]
+  }
+]

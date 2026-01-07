@@ -1,0 +1,238 @@
+[
+  {
+    "id": "expert-0427",
+    "name": "Angela Myers",
+    "title": "Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Published 72 peer-reviewed papers in Computer Networks",
+      "Led groundbreaking research in computer networks",
+      "Recipient of prestigious awards in Computer Networks",
+      "Keynote speaker at international Computer Networks conferences"
+    ],
+    "biography": "Angela Myers is a distinguished expert in Computer Networks with 36 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "practical application of computer networks principles",
+    "traits": [
+      "interdisciplinary",
+      "conservative",
+      "innovative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0428",
+    "name": "Eric Romero",
+    "title": "Director",
+    "credentials": [
+      "MFA",
+      "DPhil",
+      "DVM"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Developed innovative methodologies in computer networks",
+      "Keynote speaker at international Computer Networks conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Eric Romero is a distinguished expert in Computer Networks with 30 years of experience. Known for groundbreaking contributions to the field, Eric has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "practical application of computer networks principles",
+    "traits": [
+      "independent",
+      "practical",
+      "systematic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0429",
+    "name": "Frank Jimenez",
+    "title": "Dr.",
+    "credentials": [
+      "MPH",
+      "PharmD",
+      "MSc"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Served on editorial boards of leading Computer Networks journals",
+      "Published 20 peer-reviewed papers in Computer Networks",
+      "Led groundbreaking research in computer networks",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Jimenez is a distinguished expert in Computer Networks with 10 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer networks",
+    "traits": [
+      "progressive",
+      "specialized",
+      "strategic",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0430",
+    "name": "Carolyn Morgan",
+    "title": "Dr.",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks",
+      "theoretical computer networks"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Computer Networks",
+      "Developed innovative methodologies in computer networks",
+      "Keynote speaker at international Computer Networks conferences",
+      "Mentored 12 doctoral students",
+      "Served on editorial boards of leading Computer Networks journals"
+    ],
+    "biography": "Carolyn Morgan is a distinguished expert in Computer Networks with 25 years of experience. Known for groundbreaking contributions to the field, Carolyn has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to computer networks",
+    "traits": [
+      "strategic",
+      "progressive",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0431",
+    "name": "Kathleen Torres",
+    "title": "Senior",
+    "credentials": [
+      "DVM",
+      "DPhil",
+      "PhD"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks",
+      "theoretical computer networks"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Recipient of prestigious awards in Computer Networks",
+      "Developed innovative methodologies in computer networks",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in computer networks",
+      "Served on editorial boards of leading Computer Networks journals"
+    ],
+    "biography": "Kathleen Torres is a distinguished expert in Computer Networks with 16 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer networks",
+    "traits": [
+      "holistic",
+      "independent",
+      "detail-oriented",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0432",
+    "name": "Frank Gutierrez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "DPhil"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Computer Networks journals",
+      "Keynote speaker at international Computer Networks conferences"
+    ],
+    "biography": "Frank Gutierrez is a distinguished expert in Computer Networks with 28 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "practical application of computer networks principles",
+    "traits": [
+      "reform-minded",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0433",
+    "name": "Jerry Patel",
+    "title": "Director",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks",
+      "theoretical computer networks"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Computer Networks journals",
+      "Keynote speaker at international Computer Networks conferences",
+      "Mentored 9 doctoral students",
+      "Developed innovative methodologies in computer networks"
+    ],
+    "biography": "Jerry Patel is a distinguished expert in Computer Networks with 19 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of computer networks",
+    "traits": [
+      "cautious",
+      "progressive",
+      "data-driven",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0434",
+    "name": "Margaret Cox",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Computer Networks",
+    "specializations": [
+      "advanced computer networks",
+      "applied computer networks"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Keynote speaker at international Computer Networks conferences",
+      "Recipient of prestigious awards in Computer Networks",
+      "Developed innovative methodologies in computer networks",
+      "Led groundbreaking research in computer networks",
+      "Published 80 peer-reviewed papers in Computer Networks"
+    ],
+    "biography": "Margaret Cox is a distinguished expert in Computer Networks with 40 years of experience. Known for groundbreaking contributions to the field, Margaret has shaped modern understanding of computer networks through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer networks",
+    "traits": [
+      "balanced",
+      "principled",
+      "evidence-based",
+      "interdisciplinary",
+      "cautious",
+      "flexible"
+    ]
+  }
+]

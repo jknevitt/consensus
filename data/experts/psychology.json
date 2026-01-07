@@ -1,0 +1,209 @@
+[
+  {
+    "id": "expert-0657",
+    "name": "Abigail Harris",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "MBA"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Psychology",
+      "Led groundbreaking research in psychology",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Psychology"
+    ],
+    "biography": "Abigail Harris is a distinguished expert in Psychology with 10 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on psychology",
+    "traits": [
+      "evidence-based",
+      "specialized",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0658",
+    "name": "Debra Phillips",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Developed innovative methodologies in psychology",
+      "Served on editorial boards of leading Psychology journals",
+      "Published 24 peer-reviewed papers in Psychology",
+      "Keynote speaker at international Psychology conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Debra Phillips is a distinguished expert in Psychology with 12 years of experience. Known for groundbreaking contributions to the field, Debra has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to psychology",
+    "traits": [
+      "empirical",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0659",
+    "name": "Scott Reynolds",
+    "title": "Director",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Served on editorial boards of leading Psychology journals",
+      "Published 50 peer-reviewed papers in Psychology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in psychology"
+    ],
+    "biography": "Scott Reynolds is a distinguished expert in Psychology with 25 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to psychology",
+    "traits": [
+      "cautious",
+      "systematic",
+      "detail-oriented",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0660",
+    "name": "Lisa Anderson",
+    "title": "Professor",
+    "credentials": [
+      "DDS",
+      "MFA",
+      "MSc"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Psychology",
+      "Keynote speaker at international Psychology conferences",
+      "Led groundbreaking research in psychology",
+      "Mentored 17 doctoral students"
+    ],
+    "biography": "Lisa Anderson is a distinguished expert in Psychology with 34 years of experience. Known for groundbreaking contributions to the field, Lisa has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "practical application of psychology principles",
+    "traits": [
+      "strategic",
+      "analytical",
+      "flexible",
+      "theoretical",
+      "creative",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0661",
+    "name": "Laura Simpson",
+    "title": "Dr.",
+    "credentials": [
+      "DBA",
+      "MFA",
+      "LLM"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Mentored 21 doctoral students",
+      "Developed innovative methodologies in psychology",
+      "Served on editorial boards of leading Psychology journals",
+      "Keynote speaker at international Psychology conferences"
+    ],
+    "biography": "Laura Simpson is a distinguished expert in Psychology with 43 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on psychology",
+    "traits": [
+      "theoretical",
+      "innovative",
+      "data-driven",
+      "bold",
+      "independent",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0662",
+    "name": "Julie Tucker",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Served on editorial boards of leading Psychology journals",
+      "Published 26 peer-reviewed papers in Psychology",
+      "Led groundbreaking research in psychology",
+      "Recipient of prestigious awards in Psychology"
+    ],
+    "biography": "Julie Tucker is a distinguished expert in Psychology with 13 years of experience. Known for groundbreaking contributions to the field, Julie has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "practical application of psychology principles",
+    "traits": [
+      "empirical",
+      "systematic",
+      "balanced",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0663",
+    "name": "Jordan Wells",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "JD"
+    ],
+    "field": "Psychology",
+    "specializations": [
+      "clinical psychology",
+      "cognitive psychology",
+      "developmental psychology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Published 46 peer-reviewed papers in Psychology",
+      "Developed innovative methodologies in psychology",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Jordan Wells is a distinguished expert in Psychology with 23 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of psychology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on psychology",
+    "traits": [
+      "traditional",
+      "principled",
+      "empirical",
+      "innovative",
+      "visionary",
+      "conservative"
+    ]
+  }
+]

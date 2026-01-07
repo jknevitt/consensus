@@ -1,0 +1,215 @@
+[
+  {
+    "id": "expert-1006",
+    "name": "Karen Edwards",
+    "title": "Associate Professor",
+    "credentials": [
+      "JD",
+      "MPH"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology",
+      "theoretical exercise physiology"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Exercise Physiology journals",
+      "Recipient of prestigious awards in Exercise Physiology"
+    ],
+    "biography": "Karen Edwards is a distinguished expert in Exercise Physiology with 28 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in exercise physiology",
+    "traits": [
+      "methodical",
+      "cautious",
+      "collaborative",
+      "strategic",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-1007",
+    "name": "Patricia Long",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD",
+      "MSc"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology",
+      "theoretical exercise physiology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Exercise Physiology",
+      "Led groundbreaking research in exercise physiology",
+      "Recipient of prestigious awards in Exercise Physiology",
+      "Developed innovative methodologies in exercise physiology"
+    ],
+    "biography": "Patricia Long is a distinguished expert in Exercise Physiology with 15 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to exercise physiology",
+    "traits": [
+      "progressive",
+      "tactical",
+      "bold",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-1008",
+    "name": "Roger Morales",
+    "title": "Chief",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology",
+      "theoretical exercise physiology"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Developed innovative methodologies in exercise physiology",
+      "Recipient of prestigious awards in Exercise Physiology",
+      "Mentored 17 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Roger Morales is a distinguished expert in Exercise Physiology with 35 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in exercise physiology",
+    "traits": [
+      "collaborative",
+      "detail-oriented",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-1009",
+    "name": "Michelle Reynolds",
+    "title": "Principal",
+    "credentials": [
+      "PharmD",
+      "MBA",
+      "MPH"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Recipient of prestigious awards in Exercise Physiology",
+      "Served on editorial boards of leading Exercise Physiology journals",
+      "Developed innovative methodologies in exercise physiology",
+      "Mentored 19 doctoral students",
+      "Published 76 peer-reviewed papers in Exercise Physiology"
+    ],
+    "biography": "Michelle Reynolds is a distinguished expert in Exercise Physiology with 38 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on exercise physiology",
+    "traits": [
+      "reform-minded",
+      "pragmatic",
+      "analytical",
+      "conservative",
+      "evidence-based",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-1010",
+    "name": "Harold Ramirez",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology",
+      "theoretical exercise physiology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Recipient of prestigious awards in Exercise Physiology",
+      "Developed innovative methodologies in exercise physiology",
+      "Keynote speaker at international Exercise Physiology conferences",
+      "Mentored 5 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Harold Ramirez is a distinguished expert in Exercise Physiology with 10 years of experience. Known for groundbreaking contributions to the field, Harold has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in exercise physiology",
+    "traits": [
+      "visionary",
+      "pragmatic",
+      "collaborative",
+      "intuitive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-1011",
+    "name": "Amanda Brown",
+    "title": "Principal",
+    "credentials": [
+      "MSc",
+      "MPH",
+      "MA"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology",
+      "theoretical exercise physiology"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Served on editorial boards of leading Exercise Physiology journals",
+      "Principal investigator on major research grants",
+      "Mentored 5 doctoral students",
+      "Developed innovative methodologies in exercise physiology"
+    ],
+    "biography": "Amanda Brown is a distinguished expert in Exercise Physiology with 11 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in exercise physiology",
+    "traits": [
+      "data-driven",
+      "balanced",
+      "pragmatic",
+      "tactical",
+      "progressive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-1012",
+    "name": "Jesse Morgan",
+    "title": "Principal",
+    "credentials": [
+      "MPH",
+      "EdD"
+    ],
+    "field": "Exercise Physiology",
+    "specializations": [
+      "advanced exercise physiology",
+      "applied exercise physiology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Exercise Physiology",
+      "Led groundbreaking research in exercise physiology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jesse Morgan is a distinguished expert in Exercise Physiology with 16 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of exercise physiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on exercise physiology",
+    "traits": [
+      "innovative",
+      "methodical",
+      "bold",
+      "principled"
+    ]
+  }
+]

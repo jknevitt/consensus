@@ -1,0 +1,235 @@
+[
+  {
+    "id": "expert-0680",
+    "name": "Jonathan Stevens",
+    "title": "Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Keynote speaker at international Political Science conferences",
+      "Published 20 peer-reviewed papers in Political Science",
+      "Served on editorial boards of leading Political Science journals"
+    ],
+    "biography": "Jonathan Stevens is a distinguished expert in Political Science with 10 years of experience. Known for groundbreaking contributions to the field, Jonathan has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on political science",
+    "traits": [
+      "theoretical",
+      "pragmatic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0681",
+    "name": "Victoria Kennedy",
+    "title": "Principal",
+    "credentials": [
+      "DDS",
+      "DVM"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in political science",
+      "Mentored 22 doctoral students",
+      "Published 88 peer-reviewed papers in Political Science"
+    ],
+    "biography": "Victoria Kennedy is a distinguished expert in Political Science with 44 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on political science",
+    "traits": [
+      "tactical",
+      "analytical",
+      "flexible",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0682",
+    "name": "Cynthia Griffin",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science",
+      "theoretical political science"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Keynote speaker at international Political Science conferences",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Political Science",
+      "Served on editorial boards of leading Political Science journals",
+      "Led groundbreaking research in political science"
+    ],
+    "biography": "Cynthia Griffin is a distinguished expert in Political Science with 35 years of experience. Known for groundbreaking contributions to the field, Cynthia has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in political science",
+    "traits": [
+      "empirical",
+      "tactical",
+      "traditional",
+      "innovative",
+      "holistic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0683",
+    "name": "Gloria White",
+    "title": "Chief",
+    "credentials": [
+      "DPT",
+      "PsyD",
+      "MD"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Political Science",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in political science",
+      "Recipient of prestigious awards in Political Science"
+    ],
+    "biography": "Gloria White is a distinguished expert in Political Science with 18 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of political science",
+    "traits": [
+      "independent",
+      "tactical",
+      "interdisciplinary",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0684",
+    "name": "George Sullivan",
+    "title": "Senior",
+    "credentials": [
+      "MBA",
+      "DBA"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science",
+      "theoretical political science"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Developed innovative methodologies in political science",
+      "Recipient of prestigious awards in Political Science",
+      "Led groundbreaking research in political science",
+      "Keynote speaker at international Political Science conferences"
+    ],
+    "biography": "George Sullivan is a distinguished expert in Political Science with 10 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "practical application of political science principles",
+    "traits": [
+      "evidence-based",
+      "creative",
+      "cautious",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0685",
+    "name": "Terry Martin",
+    "title": "Senior",
+    "credentials": [
+      "DNP",
+      "PsyD",
+      "PhD"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Political Science",
+      "Led groundbreaking research in political science",
+      "Keynote speaker at international Political Science conferences"
+    ],
+    "biography": "Terry Martin is a distinguished expert in Political Science with 32 years of experience. Known for groundbreaking contributions to the field, Terry has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on political science",
+    "traits": [
+      "holistic",
+      "analytical",
+      "detail-oriented",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0686",
+    "name": "Arthur Walker",
+    "title": "Chief",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Political Science",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Political Science conferences",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Arthur Walker is a distinguished expert in Political Science with 30 years of experience. Known for groundbreaking contributions to the field, Arthur has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to political science",
+    "traits": [
+      "systematic",
+      "data-driven",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0687",
+    "name": "Patricia Thompson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "DBA",
+      "MSc"
+    ],
+    "field": "Political Science",
+    "specializations": [
+      "advanced political science",
+      "applied political science",
+      "theoretical political science"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Led groundbreaking research in political science",
+      "Published 58 peer-reviewed papers in Political Science"
+    ],
+    "biography": "Patricia Thompson is a distinguished expert in Political Science with 29 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of political science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in political science",
+    "traits": [
+      "cautious",
+      "holistic",
+      "conservative",
+      "principled"
+    ]
+  }
+]

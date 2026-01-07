@@ -1,0 +1,185 @@
+[
+  {
+    "id": "expert-0400",
+    "name": "Debra Hill",
+    "title": "Chief",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing",
+      "theoretical quantum computing"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Developed innovative methodologies in quantum computing",
+      "Led groundbreaking research in quantum computing",
+      "Published 56 peer-reviewed papers in Quantum Computing"
+    ],
+    "biography": "Debra Hill is a distinguished expert in Quantum Computing with 28 years of experience. Known for groundbreaking contributions to the field, Debra has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "practical application of quantum computing principles",
+    "traits": [
+      "bold",
+      "progressive",
+      "holistic",
+      "pragmatic",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0401",
+    "name": "Shirley Reynolds",
+    "title": "Associate Professor",
+    "credentials": [
+      "LLM",
+      "JD"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in quantum computing",
+      "Served on editorial boards of leading Quantum Computing journals"
+    ],
+    "biography": "Shirley Reynolds is a distinguished expert in Quantum Computing with 29 years of experience. Known for groundbreaking contributions to the field, Shirley has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "practical application of quantum computing principles",
+    "traits": [
+      "empirical",
+      "pragmatic",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0402",
+    "name": "Jerry Fisher",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DDS",
+      "MPH",
+      "DPhil"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing",
+      "theoretical quantum computing"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Led groundbreaking research in quantum computing",
+      "Served on editorial boards of leading Quantum Computing journals",
+      "Developed innovative methodologies in quantum computing",
+      "Published 68 peer-reviewed papers in Quantum Computing"
+    ],
+    "biography": "Jerry Fisher is a distinguished expert in Quantum Computing with 34 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of quantum computing",
+    "traits": [
+      "analytical",
+      "traditional",
+      "systematic",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0403",
+    "name": "Alice Chavez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "DBA",
+      "MFA"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing",
+      "theoretical quantum computing"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Mentored 21 doctoral students",
+      "Keynote speaker at international Quantum Computing conferences",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Quantum Computing",
+      "Developed innovative methodologies in quantum computing"
+    ],
+    "biography": "Alice Chavez is a distinguished expert in Quantum Computing with 43 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on quantum computing",
+    "traits": [
+      "systematic",
+      "creative",
+      "tactical",
+      "empirical",
+      "principled",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0404",
+    "name": "Nancy Fisher",
+    "title": "Chief",
+    "credentials": [
+      "DVM",
+      "PharmD",
+      "PsyD"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Developed innovative methodologies in quantum computing",
+      "Keynote speaker at international Quantum Computing conferences",
+      "Served on editorial boards of leading Quantum Computing journals",
+      "Led groundbreaking research in quantum computing"
+    ],
+    "biography": "Nancy Fisher is a distinguished expert in Quantum Computing with 15 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in quantum computing",
+    "traits": [
+      "intuitive",
+      "specialized",
+      "data-driven",
+      "collaborative",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0405",
+    "name": "Walter Wood",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD",
+      "LLM",
+      "DPhil"
+    ],
+    "field": "Quantum Computing",
+    "specializations": [
+      "advanced quantum computing",
+      "applied quantum computing",
+      "theoretical quantum computing"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Led groundbreaking research in quantum computing",
+      "Published 24 peer-reviewed papers in Quantum Computing",
+      "Keynote speaker at international Quantum Computing conferences"
+    ],
+    "biography": "Walter Wood is a distinguished expert in Quantum Computing with 12 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of quantum computing through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on quantum computing",
+    "traits": [
+      "reform-minded",
+      "balanced",
+      "visionary",
+      "data-driven",
+      "empirical"
+    ]
+  }
+]

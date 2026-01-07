@@ -1,0 +1,177 @@
+[
+  {
+    "id": "expert-0574",
+    "name": "Kelly Cole",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "PharmD"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Archaeology",
+      "Keynote speaker at international Archaeology conferences",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Archaeology journals"
+    ],
+    "biography": "Kelly Cole is a distinguished expert in Archaeology with 30 years of experience. Known for groundbreaking contributions to the field, Kelly has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on archaeology",
+    "traits": [
+      "data-driven",
+      "tactical",
+      "visionary",
+      "holistic",
+      "empirical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0575",
+    "name": "Kevin Moore",
+    "title": "Dr.",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology",
+      "theoretical archaeology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Developed innovative methodologies in archaeology",
+      "Published 74 peer-reviewed papers in Archaeology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in archaeology"
+    ],
+    "biography": "Kevin Moore is a distinguished expert in Archaeology with 37 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of archaeology",
+    "traits": [
+      "innovative",
+      "creative",
+      "evidence-based",
+      "visionary",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0576",
+    "name": "Kyle Vargas",
+    "title": "Chief",
+    "credentials": [
+      "DSc",
+      "JD"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology",
+      "theoretical archaeology"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Recipient of prestigious awards in Archaeology",
+      "Developed innovative methodologies in archaeology",
+      "Led groundbreaking research in archaeology",
+      "Served on editorial boards of leading Archaeology journals",
+      "Mentored 17 doctoral students"
+    ],
+    "biography": "Kyle Vargas is a distinguished expert in Archaeology with 35 years of experience. Known for groundbreaking contributions to the field, Kyle has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to archaeology",
+    "traits": [
+      "strategic",
+      "theoretical",
+      "analytical",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0577",
+    "name": "Jeremy Castillo",
+    "title": "Senior",
+    "credentials": [
+      "MA",
+      "DPT"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in archaeology",
+      "Served on editorial boards of leading Archaeology journals",
+      "Recipient of prestigious awards in Archaeology",
+      "Led groundbreaking research in archaeology"
+    ],
+    "biography": "Jeremy Castillo is a distinguished expert in Archaeology with 39 years of experience. Known for groundbreaking contributions to the field, Jeremy has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of archaeology",
+    "traits": [
+      "visionary",
+      "empirical",
+      "bold",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0578",
+    "name": "Jordan Williams",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology",
+      "theoretical archaeology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Archaeology conferences",
+      "Published 30 peer-reviewed papers in Archaeology",
+      "Led groundbreaking research in archaeology"
+    ],
+    "biography": "Jordan Williams is a distinguished expert in Archaeology with 15 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in archaeology",
+    "traits": [
+      "specialized",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0579",
+    "name": "Paul Henderson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DVM",
+      "DPT"
+    ],
+    "field": "Archaeology",
+    "specializations": [
+      "advanced archaeology",
+      "applied archaeology",
+      "theoretical archaeology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Led groundbreaking research in archaeology",
+      "Published 74 peer-reviewed papers in Archaeology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Paul Henderson is a distinguished expert in Archaeology with 37 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of archaeology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of archaeology",
+    "traits": [
+      "evidence-based",
+      "visionary",
+      "theoretical"
+    ]
+  }
+]

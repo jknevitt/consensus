@@ -1,0 +1,233 @@
+[
+  {
+    "id": "expert-0935",
+    "name": "Jordan Rogers",
+    "title": "Dr.",
+    "credentials": [
+      "PhD",
+      "JD",
+      "OD"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Advertising",
+      "Led groundbreaking research in advertising",
+      "Keynote speaker at international Advertising conferences",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Jordan Rogers is a distinguished expert in Advertising with 25 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in advertising",
+    "traits": [
+      "practical",
+      "flexible",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0936",
+    "name": "Mark Howard",
+    "title": "Professor",
+    "credentials": [
+      "OD",
+      "PharmD"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising",
+      "theoretical advertising"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Keynote speaker at international Advertising conferences",
+      "Mentored 19 doctoral students",
+      "Served on editorial boards of leading Advertising journals",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in advertising"
+    ],
+    "biography": "Mark Howard is a distinguished expert in Advertising with 39 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of advertising",
+    "traits": [
+      "specialized",
+      "interdisciplinary",
+      "methodical",
+      "visionary",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0937",
+    "name": "Frances Gray",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Mentored 12 doctoral students",
+      "Keynote speaker at international Advertising conferences",
+      "Recipient of prestigious awards in Advertising"
+    ],
+    "biography": "Frances Gray is a distinguished expert in Advertising with 25 years of experience. Known for groundbreaking contributions to the field, Frances has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of advertising",
+    "traits": [
+      "empirical",
+      "progressive",
+      "traditional",
+      "flexible",
+      "methodical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0938",
+    "name": "Justin Richardson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising",
+      "theoretical advertising"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Recipient of prestigious awards in Advertising",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Advertising conferences",
+      "Published 32 peer-reviewed papers in Advertising",
+      "Developed innovative methodologies in advertising"
+    ],
+    "biography": "Justin Richardson is a distinguished expert in Advertising with 16 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in advertising",
+    "traits": [
+      "bold",
+      "traditional",
+      "systematic",
+      "balanced",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0939",
+    "name": "Richard Morgan",
+    "title": "Senior",
+    "credentials": [
+      "DSc",
+      "PhD"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Served on editorial boards of leading Advertising journals",
+      "Published 80 peer-reviewed papers in Advertising",
+      "Led groundbreaking research in advertising"
+    ],
+    "biography": "Richard Morgan is a distinguished expert in Advertising with 40 years of experience. Known for groundbreaking contributions to the field, Richard has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to advertising",
+    "traits": [
+      "analytical",
+      "interdisciplinary",
+      "detail-oriented",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0940",
+    "name": "Betty Gibson",
+    "title": "Principal",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Served on editorial boards of leading Advertising journals",
+      "Developed innovative methodologies in advertising",
+      "Keynote speaker at international Advertising conferences"
+    ],
+    "biography": "Betty Gibson is a distinguished expert in Advertising with 17 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of advertising",
+    "traits": [
+      "empirical",
+      "intuitive",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0941",
+    "name": "Anthony Perry",
+    "title": "Chief",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Advertising journals",
+      "Keynote speaker at international Advertising conferences",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Anthony Perry is a distinguished expert in Advertising with 14 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in advertising",
+    "traits": [
+      "specialized",
+      "evidence-based",
+      "collaborative",
+      "innovative",
+      "principled",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0942",
+    "name": "Adam Kelly",
+    "title": "Chief",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Advertising",
+    "specializations": [
+      "advanced advertising",
+      "applied advertising"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Advertising journals",
+      "Published 44 peer-reviewed papers in Advertising",
+      "Keynote speaker at international Advertising conferences"
+    ],
+    "biography": "Adam Kelly is a distinguished expert in Advertising with 22 years of experience. Known for groundbreaking contributions to the field, Adam has shaped modern understanding of advertising through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on advertising",
+    "traits": [
+      "strategic",
+      "tactical",
+      "reform-minded"
+    ]
+  }
+]

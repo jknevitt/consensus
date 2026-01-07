@@ -1,0 +1,186 @@
+[
+  {
+    "id": "expert-0871",
+    "name": "Sandra Hamilton",
+    "title": "Dr.",
+    "credentials": [
+      "LLM",
+      "MBA",
+      "MD"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management",
+      "theoretical wildlife management"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Wildlife Management",
+      "Published 64 peer-reviewed papers in Wildlife Management",
+      "Led groundbreaking research in wildlife management",
+      "Served on editorial boards of leading Wildlife Management journals",
+      "Keynote speaker at international Wildlife Management conferences"
+    ],
+    "biography": "Sandra Hamilton is a distinguished expert in Wildlife Management with 32 years of experience. Known for groundbreaking contributions to the field, Sandra has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on wildlife management",
+    "traits": [
+      "strategic",
+      "specialized",
+      "reform-minded",
+      "principled",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0872",
+    "name": "Christian Olson",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "DDS",
+      "DSc"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Developed innovative methodologies in wildlife management",
+      "Published 66 peer-reviewed papers in Wildlife Management",
+      "Keynote speaker at international Wildlife Management conferences",
+      "Led groundbreaking research in wildlife management",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Christian Olson is a distinguished expert in Wildlife Management with 33 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in wildlife management",
+    "traits": [
+      "theoretical",
+      "empirical",
+      "systematic",
+      "evidence-based",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0873",
+    "name": "Katherine Wood",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 22 doctoral students",
+      "Keynote speaker at international Wildlife Management conferences",
+      "Recipient of prestigious awards in Wildlife Management",
+      "Led groundbreaking research in wildlife management"
+    ],
+    "biography": "Katherine Wood is a distinguished expert in Wildlife Management with 44 years of experience. Known for groundbreaking contributions to the field, Katherine has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on wildlife management",
+    "traits": [
+      "evidence-based",
+      "cautious",
+      "specialized",
+      "detail-oriented",
+      "visionary",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0874",
+    "name": "Jacob Hernandez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD",
+      "MA"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Wildlife Management",
+      "Led groundbreaking research in wildlife management",
+      "Served on editorial boards of leading Wildlife Management journals",
+      "Keynote speaker at international Wildlife Management conferences",
+      "Recipient of prestigious awards in Wildlife Management"
+    ],
+    "biography": "Jacob Hernandez is a distinguished expert in Wildlife Management with 12 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of wildlife management",
+    "traits": [
+      "theoretical",
+      "empirical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0875",
+    "name": "Stephen Davis",
+    "title": "Senior",
+    "credentials": [
+      "PhD",
+      "EdD"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management",
+      "theoretical wildlife management"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Keynote speaker at international Wildlife Management conferences",
+      "Published 66 peer-reviewed papers in Wildlife Management",
+      "Led groundbreaking research in wildlife management",
+      "Recipient of prestigious awards in Wildlife Management"
+    ],
+    "biography": "Stephen Davis is a distinguished expert in Wildlife Management with 33 years of experience. Known for groundbreaking contributions to the field, Stephen has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of wildlife management",
+    "traits": [
+      "data-driven",
+      "visionary",
+      "cautious",
+      "interdisciplinary",
+      "independent",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0876",
+    "name": "Diane Richardson",
+    "title": "Principal",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Wildlife Management",
+    "specializations": [
+      "advanced wildlife management",
+      "applied wildlife management"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in wildlife management",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Diane Richardson is a distinguished expert in Wildlife Management with 31 years of experience. Known for groundbreaking contributions to the field, Diane has shaped modern understanding of wildlife management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of wildlife management",
+    "traits": [
+      "reform-minded",
+      "intuitive",
+      "strategic",
+      "practical"
+    ]
+  }
+]

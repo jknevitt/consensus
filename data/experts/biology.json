@@ -1,0 +1,210 @@
+[
+  {
+    "id": "expert-0287",
+    "name": "Lauren Bryant",
+    "title": "Associate Professor",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Led groundbreaking research in biology",
+      "Mentored 15 doctoral students",
+      "Keynote speaker at international Biology conferences"
+    ],
+    "biography": "Lauren Bryant is a distinguished expert in Biology with 30 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of biology principles",
+    "traits": [
+      "analytical",
+      "tactical",
+      "holistic",
+      "traditional",
+      "bold",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0288",
+    "name": "Ethan Jackson",
+    "title": "Professor",
+    "credentials": [
+      "MPH",
+      "DPT"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Served on editorial boards of leading Biology journals",
+      "Keynote speaker at international Biology conferences",
+      "Published 26 peer-reviewed papers in Biology",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Ethan Jackson is a distinguished expert in Biology with 13 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of biology principles",
+    "traits": [
+      "principled",
+      "data-driven",
+      "conservative",
+      "innovative",
+      "systematic",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0289",
+    "name": "Charles Murray",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM",
+      "MBA"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Biology conferences",
+      "Recipient of prestigious awards in Biology",
+      "Published 86 peer-reviewed papers in Biology"
+    ],
+    "biography": "Charles Murray is a distinguished expert in Biology with 43 years of experience. Known for groundbreaking contributions to the field, Charles has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biology",
+    "traits": [
+      "flexible",
+      "analytical",
+      "visionary",
+      "detail-oriented",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0290",
+    "name": "Shirley Walker",
+    "title": "Senior",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology",
+      "theoretical biology"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in biology",
+      "Led groundbreaking research in biology",
+      "Recipient of prestigious awards in Biology",
+      "Published 82 peer-reviewed papers in Biology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Shirley Walker is a distinguished expert in Biology with 41 years of experience. Known for groundbreaking contributions to the field, Shirley has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biology",
+    "traits": [
+      "flexible",
+      "intuitive",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0291",
+    "name": "Jack Martin",
+    "title": "Senior",
+    "credentials": [
+      "MBA",
+      "PsyD"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Keynote speaker at international Biology conferences",
+      "Mentored 8 doctoral students",
+      "Published 32 peer-reviewed papers in Biology"
+    ],
+    "biography": "Jack Martin is a distinguished expert in Biology with 16 years of experience. Known for groundbreaking contributions to the field, Jack has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to biology",
+    "traits": [
+      "innovative",
+      "empirical",
+      "interdisciplinary",
+      "visionary",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0292",
+    "name": "Deborah Webb",
+    "title": "Chief",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology",
+      "theoretical biology"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in biology",
+      "Recipient of prestigious awards in Biology",
+      "Served on editorial boards of leading Biology journals"
+    ],
+    "biography": "Deborah Webb is a distinguished expert in Biology with 13 years of experience. Known for groundbreaking contributions to the field, Deborah has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biology",
+    "traits": [
+      "independent",
+      "reform-minded",
+      "progressive",
+      "interdisciplinary",
+      "tactical",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0293",
+    "name": "Dorothy Hall",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "DSc",
+      "DDS"
+    ],
+    "field": "Biology",
+    "specializations": [
+      "advanced biology",
+      "applied biology"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Biology",
+      "Served on editorial boards of leading Biology journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Dorothy Hall is a distinguished expert in Biology with 32 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of biology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of biology",
+    "traits": [
+      "visionary",
+      "interdisciplinary",
+      "conservative",
+      "methodical"
+    ]
+  }
+]

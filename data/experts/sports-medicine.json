@@ -1,0 +1,238 @@
+[
+  {
+    "id": "expert-0998",
+    "name": "Samantha Owens",
+    "title": "Director",
+    "credentials": [
+      "DBA",
+      "DVM"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine",
+      "theoretical sports medicine"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Developed innovative methodologies in sports medicine",
+      "Served on editorial boards of leading Sports Medicine journals",
+      "Published 36 peer-reviewed papers in Sports Medicine"
+    ],
+    "biography": "Samantha Owens is a distinguished expert in Sports Medicine with 18 years of experience. Known for groundbreaking contributions to the field, Samantha has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports medicine",
+    "traits": [
+      "principled",
+      "holistic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0999",
+    "name": "Ashley Williams",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Sports Medicine",
+      "Served on editorial boards of leading Sports Medicine journals",
+      "Led groundbreaking research in sports medicine",
+      "Recipient of prestigious awards in Sports Medicine",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Ashley Williams is a distinguished expert in Sports Medicine with 25 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sports medicine",
+    "traits": [
+      "intuitive",
+      "pragmatic",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-1000",
+    "name": "Rachel Stewart",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MBA",
+      "DBA",
+      "MA"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Sports Medicine",
+      "Led groundbreaking research in sports medicine",
+      "Served on editorial boards of leading Sports Medicine journals"
+    ],
+    "biography": "Rachel Stewart is a distinguished expert in Sports Medicine with 33 years of experience. Known for groundbreaking contributions to the field, Rachel has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports medicine principles",
+    "traits": [
+      "collaborative",
+      "intuitive",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-1001",
+    "name": "Dennis Smith",
+    "title": "Director",
+    "credentials": [
+      "PsyD",
+      "MSc",
+      "DDS"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine",
+      "theoretical sports medicine"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Served on editorial boards of leading Sports Medicine journals",
+      "Recipient of prestigious awards in Sports Medicine",
+      "Published 42 peer-reviewed papers in Sports Medicine"
+    ],
+    "biography": "Dennis Smith is a distinguished expert in Sports Medicine with 21 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports medicine",
+    "traits": [
+      "bold",
+      "holistic",
+      "cautious",
+      "conservative",
+      "collaborative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-1002",
+    "name": "Diane Rivera",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA",
+      "PsyD"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 8 doctoral students",
+      "Keynote speaker at international Sports Medicine conferences",
+      "Developed innovative methodologies in sports medicine"
+    ],
+    "biography": "Diane Rivera is a distinguished expert in Sports Medicine with 16 years of experience. Known for groundbreaking contributions to the field, Diane has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports medicine principles",
+    "traits": [
+      "traditional",
+      "specialized",
+      "principled",
+      "methodical",
+      "data-driven",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-1003",
+    "name": "Ann Roberts",
+    "title": "Dr.",
+    "credentials": [
+      "MA",
+      "DSc"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 72 peer-reviewed papers in Sports Medicine",
+      "Keynote speaker at international Sports Medicine conferences"
+    ],
+    "biography": "Ann Roberts is a distinguished expert in Sports Medicine with 36 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sports medicine",
+    "traits": [
+      "balanced",
+      "visionary",
+      "interdisciplinary",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-1004",
+    "name": "Heather Harris",
+    "title": "Senior",
+    "credentials": [
+      "PsyD",
+      "EdD"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Led groundbreaking research in sports medicine",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Sports Medicine",
+      "Served on editorial boards of leading Sports Medicine journals",
+      "Keynote speaker at international Sports Medicine conferences"
+    ],
+    "biography": "Heather Harris is a distinguished expert in Sports Medicine with 25 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sports medicine",
+    "traits": [
+      "empirical",
+      "holistic",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-1005",
+    "name": "Lauren Gonzales",
+    "title": "Lead",
+    "credentials": [
+      "OD",
+      "MA"
+    ],
+    "field": "Sports Medicine",
+    "specializations": [
+      "advanced sports medicine",
+      "applied sports medicine",
+      "theoretical sports medicine"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Published 82 peer-reviewed papers in Sports Medicine",
+      "Served on editorial boards of leading Sports Medicine journals",
+      "Keynote speaker at international Sports Medicine conferences",
+      "Led groundbreaking research in sports medicine",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Lauren Gonzales is a distinguished expert in Sports Medicine with 41 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of sports medicine through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports medicine principles",
+    "traits": [
+      "detail-oriented",
+      "analytical",
+      "principled",
+      "cautious",
+      "conservative"
+    ]
+  }
+]

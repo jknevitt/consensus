@@ -1,0 +1,173 @@
+[
+  {
+    "id": "expert-0339",
+    "name": "Terry Murray",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "MBA"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology",
+      "theoretical zoology"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Zoology",
+      "Keynote speaker at international Zoology conferences",
+      "Mentored 20 doctoral students"
+    ],
+    "biography": "Terry Murray is a distinguished expert in Zoology with 41 years of experience. Known for groundbreaking contributions to the field, Terry has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to zoology",
+    "traits": [
+      "methodical",
+      "flexible",
+      "independent",
+      "empirical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0340",
+    "name": "Abigail Woods",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD",
+      "DPhil"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Led groundbreaking research in zoology",
+      "Principal investigator on major research grants",
+      "Published 82 peer-reviewed papers in Zoology"
+    ],
+    "biography": "Abigail Woods is a distinguished expert in Zoology with 41 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in zoology",
+    "traits": [
+      "tactical",
+      "conservative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0341",
+    "name": "Kelly Simpson",
+    "title": "Senior",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology",
+      "theoretical zoology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Zoology",
+      "Led groundbreaking research in zoology",
+      "Recipient of prestigious awards in Zoology"
+    ],
+    "biography": "Kelly Simpson is a distinguished expert in Zoology with 42 years of experience. Known for groundbreaking contributions to the field, Kelly has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in zoology",
+    "traits": [
+      "visionary",
+      "innovative",
+      "detail-oriented",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0342",
+    "name": "Gary Anderson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DDS",
+      "OD"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology",
+      "theoretical zoology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Zoology",
+      "Led groundbreaking research in zoology",
+      "Recipient of prestigious awards in Zoology",
+      "Developed innovative methodologies in zoology"
+    ],
+    "biography": "Gary Anderson is a distinguished expert in Zoology with 10 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on zoology",
+    "traits": [
+      "collaborative",
+      "principled",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0343",
+    "name": "Ronald Martinez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD",
+      "DPT",
+      "MPH"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Served on editorial boards of leading Zoology journals",
+      "Developed innovative methodologies in zoology",
+      "Published 26 peer-reviewed papers in Zoology"
+    ],
+    "biography": "Ronald Martinez is a distinguished expert in Zoology with 13 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to zoology",
+    "traits": [
+      "methodical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0344",
+    "name": "Jean Reed",
+    "title": "Senior",
+    "credentials": [
+      "MPH",
+      "LLM",
+      "DNP"
+    ],
+    "field": "Zoology",
+    "specializations": [
+      "advanced zoology",
+      "applied zoology",
+      "theoretical zoology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Zoology",
+      "Led groundbreaking research in zoology",
+      "Recipient of prestigious awards in Zoology"
+    ],
+    "biography": "Jean Reed is a distinguished expert in Zoology with 33 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of zoology through extensive research, teaching, and practice.",
+    "perspective": "practical application of zoology principles",
+    "traits": [
+      "practical",
+      "cautious",
+      "creative",
+      "methodical"
+    ]
+  }
+]

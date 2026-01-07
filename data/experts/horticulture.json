@@ -1,0 +1,203 @@
+[
+  {
+    "id": "expert-0835",
+    "name": "Amanda Martinez",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD",
+      "PsyD"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture",
+      "theoretical horticulture"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Horticulture",
+      "Served on editorial boards of leading Horticulture journals",
+      "Mentored 17 doctoral students"
+    ],
+    "biography": "Amanda Martinez is a distinguished expert in Horticulture with 34 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of horticulture",
+    "traits": [
+      "creative",
+      "principled",
+      "methodical",
+      "innovative",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0836",
+    "name": "Ruth Hayes",
+    "title": "Dr.",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture",
+      "theoretical horticulture"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Keynote speaker at international Horticulture conferences",
+      "Developed innovative methodologies in horticulture",
+      "Led groundbreaking research in horticulture"
+    ],
+    "biography": "Ruth Hayes is a distinguished expert in Horticulture with 33 years of experience. Known for groundbreaking contributions to the field, Ruth has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of horticulture",
+    "traits": [
+      "conservative",
+      "bold",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0837",
+    "name": "George Hill",
+    "title": "Director",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Led groundbreaking research in horticulture",
+      "Developed innovative methodologies in horticulture",
+      "Keynote speaker at international Horticulture conferences"
+    ],
+    "biography": "George Hill is a distinguished expert in Horticulture with 15 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "practical application of horticulture principles",
+    "traits": [
+      "principled",
+      "evidence-based",
+      "data-driven",
+      "independent",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0838",
+    "name": "John Lopez",
+    "title": "Professor",
+    "credentials": [
+      "PharmD",
+      "MSc"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Served on editorial boards of leading Horticulture journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in horticulture"
+    ],
+    "biography": "John Lopez is a distinguished expert in Horticulture with 26 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "practical application of horticulture principles",
+    "traits": [
+      "methodical",
+      "empirical",
+      "reform-minded",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0839",
+    "name": "Heather Nelson",
+    "title": "Principal",
+    "credentials": [
+      "MBA",
+      "MD"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture",
+      "theoretical horticulture"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Horticulture",
+      "Led groundbreaking research in horticulture",
+      "Recipient of prestigious awards in Horticulture"
+    ],
+    "biography": "Heather Nelson is a distinguished expert in Horticulture with 10 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in horticulture",
+    "traits": [
+      "pragmatic",
+      "collaborative",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0840",
+    "name": "Megan Sanchez",
+    "title": "Associate Professor",
+    "credentials": [
+      "PsyD",
+      "DVM",
+      "MSc"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Recipient of prestigious awards in Horticulture",
+      "Developed innovative methodologies in horticulture",
+      "Led groundbreaking research in horticulture",
+      "Published 86 peer-reviewed papers in Horticulture",
+      "Mentored 21 doctoral students"
+    ],
+    "biography": "Megan Sanchez is a distinguished expert in Horticulture with 43 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on horticulture",
+    "traits": [
+      "theoretical",
+      "data-driven",
+      "systematic",
+      "principled",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0841",
+    "name": "Donald Jackson",
+    "title": "Senior",
+    "credentials": [
+      "PharmD",
+      "MA"
+    ],
+    "field": "Horticulture",
+    "specializations": [
+      "advanced horticulture",
+      "applied horticulture"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Horticulture",
+      "Led groundbreaking research in horticulture",
+      "Mentored 19 doctoral students",
+      "Recipient of prestigious awards in Horticulture"
+    ],
+    "biography": "Donald Jackson is a distinguished expert in Horticulture with 38 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of horticulture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of horticulture",
+    "traits": [
+      "holistic",
+      "data-driven",
+      "independent"
+    ]
+  }
+]

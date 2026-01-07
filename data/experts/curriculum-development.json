@@ -1,0 +1,183 @@
+[
+  {
+    "id": "expert-0753",
+    "name": "Alice Wood",
+    "title": "Assistant Professor",
+    "credentials": [
+      "OD",
+      "MFA"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development",
+      "theoretical curriculum development"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in Curriculum Development",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in curriculum development"
+    ],
+    "biography": "Alice Wood is a distinguished expert in Curriculum Development with 14 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to curriculum development",
+    "traits": [
+      "flexible",
+      "cautious",
+      "practical",
+      "traditional",
+      "theoretical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0754",
+    "name": "Alice Porter",
+    "title": "Principal",
+    "credentials": [
+      "MSc",
+      "PharmD",
+      "MPH"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in curriculum development",
+      "Keynote speaker at international Curriculum Development conferences",
+      "Recipient of prestigious awards in Curriculum Development",
+      "Led groundbreaking research in curriculum development"
+    ],
+    "biography": "Alice Porter is a distinguished expert in Curriculum Development with 31 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of curriculum development",
+    "traits": [
+      "bold",
+      "evidence-based",
+      "principled",
+      "interdisciplinary",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0755",
+    "name": "Samuel Peterson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA",
+      "MD",
+      "DPT"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Curriculum Development",
+      "Led groundbreaking research in curriculum development",
+      "Recipient of prestigious awards in Curriculum Development",
+      "Developed innovative methodologies in curriculum development"
+    ],
+    "biography": "Samuel Peterson is a distinguished expert in Curriculum Development with 29 years of experience. Known for groundbreaking contributions to the field, Samuel has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to curriculum development",
+    "traits": [
+      "theoretical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0756",
+    "name": "Douglas Chen",
+    "title": "Associate Professor",
+    "credentials": [
+      "DVM",
+      "MSc"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development",
+      "theoretical curriculum development"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Published 44 peer-reviewed papers in Curriculum Development",
+      "Led groundbreaking research in curriculum development",
+      "Recipient of prestigious awards in Curriculum Development",
+      "Developed innovative methodologies in curriculum development"
+    ],
+    "biography": "Douglas Chen is a distinguished expert in Curriculum Development with 22 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to curriculum development",
+    "traits": [
+      "empirical",
+      "tactical",
+      "evidence-based",
+      "bold",
+      "intuitive",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0757",
+    "name": "Roger James",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development",
+      "theoretical curriculum development"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Developed innovative methodologies in curriculum development",
+      "Recipient of prestigious awards in Curriculum Development",
+      "Published 46 peer-reviewed papers in Curriculum Development",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Roger James is a distinguished expert in Curriculum Development with 23 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of curriculum development",
+    "traits": [
+      "reform-minded",
+      "empirical",
+      "detail-oriented",
+      "progressive",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0758",
+    "name": "Helen Collins",
+    "title": "Lead",
+    "credentials": [
+      "MSc",
+      "PsyD"
+    ],
+    "field": "Curriculum Development",
+    "specializations": [
+      "advanced curriculum development",
+      "applied curriculum development",
+      "theoretical curriculum development"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Recipient of prestigious awards in Curriculum Development",
+      "Led groundbreaking research in curriculum development",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Helen Collins is a distinguished expert in Curriculum Development with 33 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of curriculum development through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of curriculum development",
+    "traits": [
+      "bold",
+      "intuitive",
+      "flexible"
+    ]
+  }
+]

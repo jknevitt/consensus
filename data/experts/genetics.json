@@ -1,0 +1,215 @@
+[
+  {
+    "id": "expert-0069",
+    "name": "Justin Moore",
+    "title": "Director",
+    "credentials": [
+      "DVM",
+      "LLM",
+      "MSc"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Served on editorial boards of leading Genetics journals",
+      "Developed innovative methodologies in genetics",
+      "Published 66 peer-reviewed papers in Genetics"
+    ],
+    "biography": "Justin Moore is a distinguished expert in Genetics with 33 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of genetics",
+    "traits": [
+      "reform-minded",
+      "theoretical",
+      "strategic",
+      "tactical",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0070",
+    "name": "Alice Gray",
+    "title": "Chief",
+    "credentials": [
+      "JD",
+      "LLM",
+      "DDS"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics",
+      "theoretical genetics"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Keynote speaker at international Genetics conferences",
+      "Published 52 peer-reviewed papers in Genetics",
+      "Developed innovative methodologies in genetics"
+    ],
+    "biography": "Alice Gray is a distinguished expert in Genetics with 26 years of experience. Known for groundbreaking contributions to the field, Alice has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on genetics",
+    "traits": [
+      "data-driven",
+      "empirical",
+      "intuitive",
+      "systematic",
+      "reform-minded",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0071",
+    "name": "Terry Cooper",
+    "title": "Dr.",
+    "credentials": [
+      "DNP",
+      "EdD",
+      "DSc"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Developed innovative methodologies in genetics",
+      "Published 52 peer-reviewed papers in Genetics",
+      "Keynote speaker at international Genetics conferences",
+      "Served on editorial boards of leading Genetics journals",
+      "Recipient of prestigious awards in Genetics"
+    ],
+    "biography": "Terry Cooper is a distinguished expert in Genetics with 26 years of experience. Known for groundbreaking contributions to the field, Terry has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "practical application of genetics principles",
+    "traits": [
+      "evidence-based",
+      "strategic",
+      "analytical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0072",
+    "name": "Kathleen Wells",
+    "title": "Director",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Keynote speaker at international Genetics conferences",
+      "Published 56 peer-reviewed papers in Genetics",
+      "Led groundbreaking research in genetics",
+      "Recipient of prestigious awards in Genetics"
+    ],
+    "biography": "Kathleen Wells is a distinguished expert in Genetics with 28 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of genetics",
+    "traits": [
+      "theoretical",
+      "principled",
+      "flexible",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0073",
+    "name": "Joshua Cox",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Recipient of prestigious awards in Genetics",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in genetics",
+      "Led groundbreaking research in genetics"
+    ],
+    "biography": "Joshua Cox is a distinguished expert in Genetics with 20 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of genetics",
+    "traits": [
+      "traditional",
+      "visionary",
+      "systematic",
+      "holistic",
+      "specialized",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0074",
+    "name": "Robert Wood",
+    "title": "Principal",
+    "credentials": [
+      "PharmD",
+      "JD"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Keynote speaker at international Genetics conferences",
+      "Led groundbreaking research in genetics",
+      "Served on editorial boards of leading Genetics journals",
+      "Developed innovative methodologies in genetics",
+      "Published 36 peer-reviewed papers in Genetics"
+    ],
+    "biography": "Robert Wood is a distinguished expert in Genetics with 18 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on genetics",
+    "traits": [
+      "data-driven",
+      "independent",
+      "balanced",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0075",
+    "name": "Emily James",
+    "title": "Director",
+    "credentials": [
+      "DPT",
+      "DVM",
+      "DPhil"
+    ],
+    "field": "Genetics",
+    "specializations": [
+      "advanced genetics",
+      "applied genetics"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in genetics",
+      "Recipient of prestigious awards in Genetics",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Emily James is a distinguished expert in Genetics with 11 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of genetics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to genetics",
+    "traits": [
+      "visionary",
+      "analytical",
+      "pragmatic"
+    ]
+  }
+]

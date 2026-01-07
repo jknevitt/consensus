@@ -1,0 +1,204 @@
+[
+  {
+    "id": "expert-0477",
+    "name": "Austin Butler",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD",
+      "DVM",
+      "MPH"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Keynote speaker at international Accounting conferences",
+      "Published 86 peer-reviewed papers in Accounting",
+      "Served on editorial boards of leading Accounting journals",
+      "Led groundbreaking research in accounting",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Austin Butler is a distinguished expert in Accounting with 43 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in accounting",
+    "traits": [
+      "innovative",
+      "pragmatic",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0478",
+    "name": "Laura White",
+    "title": "Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in accounting",
+      "Published 86 peer-reviewed papers in Accounting",
+      "Recipient of prestigious awards in Accounting"
+    ],
+    "biography": "Laura White is a distinguished expert in Accounting with 43 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to accounting",
+    "traits": [
+      "practical",
+      "creative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0479",
+    "name": "Barbara Campbell",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Developed innovative methodologies in accounting",
+      "Published 74 peer-reviewed papers in Accounting",
+      "Served on editorial boards of leading Accounting journals",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Barbara Campbell is a distinguished expert in Accounting with 37 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to accounting",
+    "traits": [
+      "innovative",
+      "systematic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0480",
+    "name": "David Lopez",
+    "title": "Lead",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Keynote speaker at international Accounting conferences",
+      "Recipient of prestigious awards in Accounting"
+    ],
+    "biography": "David Lopez is a distinguished expert in Accounting with 39 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on accounting",
+    "traits": [
+      "theoretical",
+      "progressive",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0481",
+    "name": "Christopher Bell",
+    "title": "Professor",
+    "credentials": [
+      "JD",
+      "PhD"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in accounting",
+      "Served on editorial boards of leading Accounting journals",
+      "Led groundbreaking research in accounting"
+    ],
+    "biography": "Christopher Bell is a distinguished expert in Accounting with 38 years of experience. Known for groundbreaking contributions to the field, Christopher has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of accounting",
+    "traits": [
+      "principled",
+      "pragmatic",
+      "data-driven",
+      "evidence-based",
+      "visionary",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0482",
+    "name": "Kyle Hayes",
+    "title": "Director",
+    "credentials": [
+      "PharmD",
+      "MPH"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Keynote speaker at international Accounting conferences",
+      "Mentored 21 doctoral students",
+      "Developed innovative methodologies in accounting",
+      "Recipient of prestigious awards in Accounting",
+      "Served on editorial boards of leading Accounting journals"
+    ],
+    "biography": "Kyle Hayes is a distinguished expert in Accounting with 42 years of experience. Known for groundbreaking contributions to the field, Kyle has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on accounting",
+    "traits": [
+      "intuitive",
+      "reform-minded",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0483",
+    "name": "Justin Reyes",
+    "title": "Chief",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Accounting",
+    "specializations": [
+      "advanced accounting",
+      "applied accounting",
+      "theoretical accounting"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Recipient of prestigious awards in Accounting",
+      "Led groundbreaking research in accounting",
+      "Keynote speaker at international Accounting conferences",
+      "Served on editorial boards of leading Accounting journals"
+    ],
+    "biography": "Justin Reyes is a distinguished expert in Accounting with 21 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of accounting through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of accounting",
+    "traits": [
+      "data-driven",
+      "specialized",
+      "practical"
+    ]
+  }
+]

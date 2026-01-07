@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0275",
+    "name": "Justin Stewart",
+    "title": "Dr.",
+    "credentials": [
+      "MPH",
+      "MSc",
+      "DVM"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics",
+      "astrophysics"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Developed innovative methodologies in physics",
+      "Led groundbreaking research in physics",
+      "Principal investigator on major research grants",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Justin Stewart is a distinguished expert in Physics with 25 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of physics",
+    "traits": [
+      "conservative",
+      "cautious",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0276",
+    "name": "Jessica Henry",
+    "title": "Senior",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics",
+      "astrophysics"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 44 peer-reviewed papers in Physics",
+      "Recipient of prestigious awards in Physics",
+      "Keynote speaker at international Physics conferences",
+      "Led groundbreaking research in physics"
+    ],
+    "biography": "Jessica Henry is a distinguished expert in Physics with 22 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of physics",
+    "traits": [
+      "detail-oriented",
+      "independent",
+      "intuitive",
+      "theoretical",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0277",
+    "name": "John Carter",
+    "title": "Professor",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in physics",
+      "Led groundbreaking research in physics",
+      "Served on editorial boards of leading Physics journals",
+      "Published 82 peer-reviewed papers in Physics"
+    ],
+    "biography": "John Carter is a distinguished expert in Physics with 41 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on physics",
+    "traits": [
+      "conservative",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0278",
+    "name": "Michael Nguyen",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "MA"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics",
+      "astrophysics"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Physics journals",
+      "Keynote speaker at international Physics conferences",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Michael Nguyen is a distinguished expert in Physics with 10 years of experience. Known for groundbreaking contributions to the field, Michael has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to physics",
+    "traits": [
+      "detail-oriented",
+      "progressive",
+      "data-driven",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0279",
+    "name": "Olivia Anderson",
+    "title": "Chief",
+    "credentials": [
+      "OD",
+      "DBA",
+      "MD"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics",
+      "astrophysics"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Physics journals",
+      "Keynote speaker at international Physics conferences"
+    ],
+    "biography": "Olivia Anderson is a distinguished expert in Physics with 17 years of experience. Known for groundbreaking contributions to the field, Olivia has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on physics",
+    "traits": [
+      "specialized",
+      "reform-minded",
+      "pragmatic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0280",
+    "name": "Kimberly Simpson",
+    "title": "Chief",
+    "credentials": [
+      "LLM",
+      "MSc"
+    ],
+    "field": "Physics",
+    "specializations": [
+      "quantum mechanics",
+      "particle physics",
+      "astrophysics"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Physics",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Physics conferences"
+    ],
+    "biography": "Kimberly Simpson is a distinguished expert in Physics with 32 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of physics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to physics",
+    "traits": [
+      "theoretical",
+      "visionary",
+      "detail-oriented",
+      "pragmatic"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "expert-0507",
+    "name": "Jesse Martinez",
+    "title": "Senior",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain",
+      "theoretical supply chain"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Supply Chain conferences",
+      "Led groundbreaking research in supply chain",
+      "Recipient of prestigious awards in Supply Chain"
+    ],
+    "biography": "Jesse Martinez is a distinguished expert in Supply Chain with 15 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on supply chain",
+    "traits": [
+      "tactical",
+      "empirical",
+      "traditional",
+      "visionary",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0508",
+    "name": "Nicholas Davis",
+    "title": "Principal",
+    "credentials": [
+      "DBA",
+      "MD",
+      "DDS"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain",
+      "theoretical supply chain"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Developed innovative methodologies in supply chain",
+      "Keynote speaker at international Supply Chain conferences",
+      "Recipient of prestigious awards in Supply Chain"
+    ],
+    "biography": "Nicholas Davis is a distinguished expert in Supply Chain with 21 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in supply chain",
+    "traits": [
+      "holistic",
+      "reform-minded",
+      "visionary",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0509",
+    "name": "Megan Henderson",
+    "title": "Principal",
+    "credentials": [
+      "MA",
+      "LLM",
+      "DVM"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain",
+      "theoretical supply chain"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Led groundbreaking research in supply chain",
+      "Published 46 peer-reviewed papers in Supply Chain",
+      "Recipient of prestigious awards in Supply Chain",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Megan Henderson is a distinguished expert in Supply Chain with 23 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "practical application of supply chain principles",
+    "traits": [
+      "principled",
+      "bold",
+      "flexible",
+      "independent",
+      "specialized",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0510",
+    "name": "Mary Baker",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPhil",
+      "MSc"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain",
+      "theoretical supply chain"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in supply chain",
+      "Led groundbreaking research in supply chain",
+      "Served on editorial boards of leading Supply Chain journals",
+      "Keynote speaker at international Supply Chain conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Mary Baker is a distinguished expert in Supply Chain with 38 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "practical application of supply chain principles",
+    "traits": [
+      "analytical",
+      "conservative",
+      "detail-oriented",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0511",
+    "name": "Roger Clark",
+    "title": "Dr.",
+    "credentials": [
+      "PhD",
+      "DVM",
+      "MFA"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Supply Chain",
+      "Developed innovative methodologies in supply chain",
+      "Recipient of prestigious awards in Supply Chain",
+      "Served on editorial boards of leading Supply Chain journals"
+    ],
+    "biography": "Roger Clark is a distinguished expert in Supply Chain with 24 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to supply chain",
+    "traits": [
+      "evidence-based",
+      "collaborative",
+      "creative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0512",
+    "name": "Stephanie Ortiz",
+    "title": "Senior",
+    "credentials": [
+      "MPH",
+      "DSc"
+    ],
+    "field": "Supply Chain",
+    "specializations": [
+      "advanced supply chain",
+      "applied supply chain",
+      "theoretical supply chain"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Developed innovative methodologies in supply chain",
+      "Recipient of prestigious awards in Supply Chain",
+      "Led groundbreaking research in supply chain",
+      "Keynote speaker at international Supply Chain conferences",
+      "Served on editorial boards of leading Supply Chain journals"
+    ],
+    "biography": "Stephanie Ortiz is a distinguished expert in Supply Chain with 28 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of supply chain through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of supply chain",
+    "traits": [
+      "strategic",
+      "balanced",
+      "reform-minded",
+      "tactical",
+      "principled"
+    ]
+  }
+]

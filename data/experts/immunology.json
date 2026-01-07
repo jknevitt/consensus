@@ -1,0 +1,177 @@
+[
+  {
+    "id": "expert-0063",
+    "name": "Kevin Price",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Led groundbreaking research in immunology",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Immunology journals"
+    ],
+    "biography": "Kevin Price is a distinguished expert in Immunology with 37 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to immunology",
+    "traits": [
+      "specialized",
+      "progressive",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0064",
+    "name": "David Bailey",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology",
+      "theoretical immunology"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Led groundbreaking research in immunology",
+      "Keynote speaker at international Immunology conferences",
+      "Served on editorial boards of leading Immunology journals",
+      "Recipient of prestigious awards in Immunology",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "David Bailey is a distinguished expert in Immunology with 31 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in immunology",
+    "traits": [
+      "tactical",
+      "cautious",
+      "bold",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0065",
+    "name": "Michael Freeman",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH",
+      "PsyD"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology",
+      "theoretical immunology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in immunology",
+      "Recipient of prestigious awards in Immunology",
+      "Led groundbreaking research in immunology"
+    ],
+    "biography": "Michael Freeman is a distinguished expert in Immunology with 23 years of experience. Known for groundbreaking contributions to the field, Michael has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of immunology",
+    "traits": [
+      "traditional",
+      "methodical",
+      "visionary",
+      "innovative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0066",
+    "name": "Jason Perry",
+    "title": "Lead",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Recipient of prestigious awards in Immunology",
+      "Developed innovative methodologies in immunology",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Jason Perry is a distinguished expert in Immunology with 16 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on immunology",
+    "traits": [
+      "tactical",
+      "data-driven",
+      "theoretical",
+      "evidence-based",
+      "cautious",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0067",
+    "name": "Betty Flores",
+    "title": "Chief",
+    "credentials": [
+      "MSc",
+      "JD"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology",
+      "theoretical immunology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Immunology",
+      "Keynote speaker at international Immunology conferences",
+      "Served on editorial boards of leading Immunology journals"
+    ],
+    "biography": "Betty Flores is a distinguished expert in Immunology with 10 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on immunology",
+    "traits": [
+      "evidence-based",
+      "reform-minded",
+      "balanced",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0068",
+    "name": "Raymond Johnson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Immunology",
+    "specializations": [
+      "advanced immunology",
+      "applied immunology",
+      "theoretical immunology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Recipient of prestigious awards in Immunology",
+      "Developed innovative methodologies in immunology",
+      "Keynote speaker at international Immunology conferences",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Raymond Johnson is a distinguished expert in Immunology with 21 years of experience. Known for groundbreaking contributions to the field, Raymond has shaped modern understanding of immunology through extensive research, teaching, and practice.",
+    "perspective": "practical application of immunology principles",
+    "traits": [
+      "data-driven",
+      "independent",
+      "intuitive",
+      "methodical"
+    ]
+  }
+]

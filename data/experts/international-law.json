@@ -1,0 +1,209 @@
+[
+  {
+    "id": "expert-0118",
+    "name": "Anna Perry",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "MFA",
+      "LLM"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law",
+      "theoretical international law"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Led groundbreaking research in international law",
+      "Keynote speaker at international International Law conferences",
+      "Served on editorial boards of leading International Law journals",
+      "Recipient of prestigious awards in International Law"
+    ],
+    "biography": "Anna Perry is a distinguished expert in International Law with 39 years of experience. Known for groundbreaking contributions to the field, Anna has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in international law",
+    "traits": [
+      "collaborative",
+      "bold",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0119",
+    "name": "Abigail Davis",
+    "title": "Lead",
+    "credentials": [
+      "PhD",
+      "MBA",
+      "LLM"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law",
+      "theoretical international law"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Published 54 peer-reviewed papers in International Law",
+      "Led groundbreaking research in international law",
+      "Keynote speaker at international International Law conferences",
+      "Recipient of prestigious awards in International Law"
+    ],
+    "biography": "Abigail Davis is a distinguished expert in International Law with 27 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international law",
+    "traits": [
+      "principled",
+      "bold",
+      "progressive",
+      "strategic",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0120",
+    "name": "Jacqueline Fernandez",
+    "title": "Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law",
+      "theoretical international law"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Keynote speaker at international International Law conferences",
+      "Mentored 6 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 26 peer-reviewed papers in International Law"
+    ],
+    "biography": "Jacqueline Fernandez is a distinguished expert in International Law with 13 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to international law",
+    "traits": [
+      "conservative",
+      "cautious",
+      "balanced",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0121",
+    "name": "Patricia Washington",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PhD",
+      "MD",
+      "PharmD"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in International Law",
+      "Led groundbreaking research in international law",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Patricia Washington is a distinguished expert in International Law with 17 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to international law",
+    "traits": [
+      "detail-oriented",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0122",
+    "name": "Patricia Hayes",
+    "title": "Dr.",
+    "credentials": [
+      "DSc",
+      "MFA"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Mentored 5 doctoral students",
+      "Recipient of prestigious awards in International Law",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in international law",
+      "Led groundbreaking research in international law"
+    ],
+    "biography": "Patricia Hayes is a distinguished expert in International Law with 11 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international law",
+    "traits": [
+      "principled",
+      "creative",
+      "systematic",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0123",
+    "name": "Frances Vasquez",
+    "title": "Senior",
+    "credentials": [
+      "MSc",
+      "DNP",
+      "DBA"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law",
+      "theoretical international law"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Mentored 22 doctoral students",
+      "Keynote speaker at international International Law conferences",
+      "Led groundbreaking research in international law",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frances Vasquez is a distinguished expert in International Law with 44 years of experience. Known for groundbreaking contributions to the field, Frances has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on international law",
+    "traits": [
+      "flexible",
+      "empirical",
+      "tactical",
+      "methodical",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0124",
+    "name": "Joan Thomas",
+    "title": "Dr.",
+    "credentials": [
+      "MA",
+      "MFA"
+    ],
+    "field": "International Law",
+    "specializations": [
+      "advanced international law",
+      "applied international law"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in International Law",
+      "Developed innovative methodologies in international law"
+    ],
+    "biography": "Joan Thomas is a distinguished expert in International Law with 31 years of experience. Known for groundbreaking contributions to the field, Joan has shaped modern understanding of international law through extensive research, teaching, and practice.",
+    "perspective": "practical application of international law principles",
+    "traits": [
+      "holistic",
+      "strategic",
+      "detail-oriented"
+    ]
+  }
+]

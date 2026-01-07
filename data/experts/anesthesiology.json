@@ -1,0 +1,181 @@
+[
+  {
+    "id": "expert-0097",
+    "name": "Jacqueline Powell",
+    "title": "Director",
+    "credentials": [
+      "MA",
+      "DBA"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology",
+      "theoretical anesthesiology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Mentored 7 doctoral students",
+      "Recipient of prestigious awards in Anesthesiology",
+      "Keynote speaker at international Anesthesiology conferences",
+      "Led groundbreaking research in anesthesiology"
+    ],
+    "biography": "Jacqueline Powell is a distinguished expert in Anesthesiology with 15 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of anesthesiology principles",
+    "traits": [
+      "visionary",
+      "reform-minded",
+      "specialized",
+      "collaborative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0098",
+    "name": "Larry Gutierrez",
+    "title": "Principal",
+    "credentials": [
+      "PhD",
+      "DVM",
+      "DPT"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology",
+      "theoretical anesthesiology"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Published 88 peer-reviewed papers in Anesthesiology",
+      "Led groundbreaking research in anesthesiology",
+      "Served on editorial boards of leading Anesthesiology journals",
+      "Mentored 22 doctoral students"
+    ],
+    "biography": "Larry Gutierrez is a distinguished expert in Anesthesiology with 44 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of anesthesiology principles",
+    "traits": [
+      "detail-oriented",
+      "reform-minded",
+      "intuitive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0099",
+    "name": "Lauren Murray",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "DNP",
+      "DDS"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Anesthesiology journals",
+      "Principal investigator on major research grants",
+      "Published 82 peer-reviewed papers in Anesthesiology",
+      "Keynote speaker at international Anesthesiology conferences",
+      "Led groundbreaking research in anesthesiology"
+    ],
+    "biography": "Lauren Murray is a distinguished expert in Anesthesiology with 41 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in anesthesiology",
+    "traits": [
+      "collaborative",
+      "tactical",
+      "traditional",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0100",
+    "name": "George Rivera",
+    "title": "Senior",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Mentored 12 doctoral students",
+      "Published 50 peer-reviewed papers in Anesthesiology",
+      "Led groundbreaking research in anesthesiology",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Anesthesiology journals"
+    ],
+    "biography": "George Rivera is a distinguished expert in Anesthesiology with 25 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on anesthesiology",
+    "traits": [
+      "methodical",
+      "innovative",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0101",
+    "name": "Patrick Campbell",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DSc",
+      "EdD"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Published 28 peer-reviewed papers in Anesthesiology",
+      "Led groundbreaking research in anesthesiology",
+      "Served on editorial boards of leading Anesthesiology journals"
+    ],
+    "biography": "Patrick Campbell is a distinguished expert in Anesthesiology with 14 years of experience. Known for groundbreaking contributions to the field, Patrick has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in anesthesiology",
+    "traits": [
+      "detail-oriented",
+      "evidence-based",
+      "collaborative",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0102",
+    "name": "Donald Webb",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DNP",
+      "PhD",
+      "PsyD"
+    ],
+    "field": "Anesthesiology",
+    "specializations": [
+      "advanced anesthesiology",
+      "applied anesthesiology",
+      "theoretical anesthesiology"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Anesthesiology",
+      "Led groundbreaking research in anesthesiology",
+      "Recipient of prestigious awards in Anesthesiology"
+    ],
+    "biography": "Donald Webb is a distinguished expert in Anesthesiology with 38 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of anesthesiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of anesthesiology principles",
+    "traits": [
+      "pragmatic",
+      "collaborative",
+      "visionary",
+      "traditional"
+    ]
+  }
+]

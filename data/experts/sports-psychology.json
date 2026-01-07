@@ -1,0 +1,244 @@
+[
+  {
+    "id": "expert-1013",
+    "name": "Andrea Parker",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "DPT"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology",
+      "theoretical sports psychology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Mentored 8 doctoral students",
+      "Published 32 peer-reviewed papers in Sports Psychology",
+      "Developed innovative methodologies in sports psychology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Andrea Parker is a distinguished expert in Sports Psychology with 16 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports psychology",
+    "traits": [
+      "creative",
+      "empirical",
+      "detail-oriented",
+      "balanced",
+      "strategic",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-1014",
+    "name": "Linda Barnes",
+    "title": "Chief",
+    "credentials": [
+      "OD",
+      "LLM"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Developed innovative methodologies in sports psychology",
+      "Recipient of prestigious awards in Sports Psychology",
+      "Mentored 11 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Linda Barnes is a distinguished expert in Sports Psychology with 23 years of experience. Known for groundbreaking contributions to the field, Linda has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sports psychology",
+    "traits": [
+      "conservative",
+      "detail-oriented",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-1015",
+    "name": "Teresa Gonzalez",
+    "title": "Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Developed innovative methodologies in sports psychology",
+      "Served on editorial boards of leading Sports Psychology journals",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Sports Psychology conferences"
+    ],
+    "biography": "Teresa Gonzalez is a distinguished expert in Sports Psychology with 29 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports psychology principles",
+    "traits": [
+      "balanced",
+      "collaborative",
+      "theoretical",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-1016",
+    "name": "Kevin Rogers",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD",
+      "DSc"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Sports Psychology",
+      "Keynote speaker at international Sports Psychology conferences",
+      "Led groundbreaking research in sports psychology",
+      "Recipient of prestigious awards in Sports Psychology"
+    ],
+    "biography": "Kevin Rogers is a distinguished expert in Sports Psychology with 33 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports psychology principles",
+    "traits": [
+      "innovative",
+      "conservative",
+      "tactical",
+      "intuitive",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-1017",
+    "name": "Ann Harris",
+    "title": "Director",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in sports psychology",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Sports Psychology conferences",
+      "Led groundbreaking research in sports psychology",
+      "Published 32 peer-reviewed papers in Sports Psychology"
+    ],
+    "biography": "Ann Harris is a distinguished expert in Sports Psychology with 16 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sports psychology",
+    "traits": [
+      "pragmatic",
+      "systematic",
+      "progressive",
+      "reform-minded",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-1018",
+    "name": "Betty Wilson",
+    "title": "Chief",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology",
+      "theoretical sports psychology"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Sports Psychology journals",
+      "Led groundbreaking research in sports psychology",
+      "Developed innovative methodologies in sports psychology"
+    ],
+    "biography": "Betty Wilson is a distinguished expert in Sports Psychology with 38 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports psychology",
+    "traits": [
+      "practical",
+      "data-driven",
+      "collaborative",
+      "methodical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-1019",
+    "name": "Mark Watson",
+    "title": "Director",
+    "credentials": [
+      "LLM",
+      "DNP",
+      "MPH"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology",
+      "theoretical sports psychology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Sports Psychology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sports psychology",
+      "Served on editorial boards of leading Sports Psychology journals",
+      "Mentored 17 doctoral students"
+    ],
+    "biography": "Mark Watson is a distinguished expert in Sports Psychology with 34 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports psychology",
+    "traits": [
+      "conservative",
+      "creative",
+      "reform-minded",
+      "intuitive",
+      "holistic",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-1020",
+    "name": "Ann Marshall",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Sports Psychology",
+    "specializations": [
+      "advanced sports psychology",
+      "applied sports psychology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Keynote speaker at international Sports Psychology conferences",
+      "Published 20 peer-reviewed papers in Sports Psychology",
+      "Led groundbreaking research in sports psychology",
+      "Served on editorial boards of leading Sports Psychology journals"
+    ],
+    "biography": "Ann Marshall is a distinguished expert in Sports Psychology with 10 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of sports psychology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sports psychology",
+    "traits": [
+      "cautious",
+      "strategic",
+      "intuitive",
+      "innovative",
+      "evidence-based",
+      "bold"
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "expert-0230",
+    "name": "Benjamin Ortiz",
+    "title": "Principal",
+    "credentials": [
+      "OD",
+      "LLM",
+      "JD"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering",
+      "theoretical biomedical engineering"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in biomedical engineering",
+      "Keynote speaker at international Biomedical Engineering conferences",
+      "Recipient of prestigious awards in Biomedical Engineering",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Benjamin Ortiz is a distinguished expert in Biomedical Engineering with 14 years of experience. Known for groundbreaking contributions to the field, Benjamin has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of biomedical engineering",
+    "traits": [
+      "empirical",
+      "evidence-based",
+      "flexible",
+      "innovative",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0231",
+    "name": "Ashley Richardson",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "MSc"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering",
+      "theoretical biomedical engineering"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Developed innovative methodologies in biomedical engineering",
+      "Recipient of prestigious awards in Biomedical Engineering",
+      "Keynote speaker at international Biomedical Engineering conferences"
+    ],
+    "biography": "Ashley Richardson is a distinguished expert in Biomedical Engineering with 20 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in biomedical engineering",
+    "traits": [
+      "creative",
+      "analytical",
+      "interdisciplinary",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0232",
+    "name": "Douglas Hughes",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering",
+      "theoretical biomedical engineering"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Keynote speaker at international Biomedical Engineering conferences",
+      "Mentored 20 doctoral students",
+      "Developed innovative methodologies in biomedical engineering"
+    ],
+    "biography": "Douglas Hughes is a distinguished expert in Biomedical Engineering with 40 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of biomedical engineering principles",
+    "traits": [
+      "flexible",
+      "tactical",
+      "pragmatic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0233",
+    "name": "Susan Reynolds",
+    "title": "Professor",
+    "credentials": [
+      "DNP",
+      "LLM",
+      "DVM"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Developed innovative methodologies in biomedical engineering",
+      "Mentored 9 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in biomedical engineering",
+      "Keynote speaker at international Biomedical Engineering conferences"
+    ],
+    "biography": "Susan Reynolds is a distinguished expert in Biomedical Engineering with 19 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to biomedical engineering",
+    "traits": [
+      "theoretical",
+      "pragmatic",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0234",
+    "name": "Bryan Wallace",
+    "title": "Chief",
+    "credentials": [
+      "DVM",
+      "PharmD",
+      "MD"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Led groundbreaking research in biomedical engineering",
+      "Published 66 peer-reviewed papers in Biomedical Engineering",
+      "Keynote speaker at international Biomedical Engineering conferences"
+    ],
+    "biography": "Bryan Wallace is a distinguished expert in Biomedical Engineering with 33 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in biomedical engineering",
+    "traits": [
+      "theoretical",
+      "visionary",
+      "reform-minded",
+      "independent",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0235",
+    "name": "Jessica Edwards",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD",
+      "PsyD"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Served on editorial boards of leading Biomedical Engineering journals",
+      "Keynote speaker at international Biomedical Engineering conferences",
+      "Developed innovative methodologies in biomedical engineering",
+      "Published 72 peer-reviewed papers in Biomedical Engineering"
+    ],
+    "biography": "Jessica Edwards is a distinguished expert in Biomedical Engineering with 36 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biomedical engineering",
+    "traits": [
+      "tactical",
+      "interdisciplinary",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0236",
+    "name": "Tyler Hernandez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DNP",
+      "DSc"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering",
+      "theoretical biomedical engineering"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in biomedical engineering",
+      "Recipient of prestigious awards in Biomedical Engineering",
+      "Keynote speaker at international Biomedical Engineering conferences",
+      "Led groundbreaking research in biomedical engineering"
+    ],
+    "biography": "Tyler Hernandez is a distinguished expert in Biomedical Engineering with 39 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to biomedical engineering",
+    "traits": [
+      "holistic",
+      "innovative",
+      "analytical",
+      "visionary",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0237",
+    "name": "Justin Cruz",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Biomedical Engineering",
+    "specializations": [
+      "advanced biomedical engineering",
+      "applied biomedical engineering",
+      "theoretical biomedical engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Biomedical Engineering",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Biomedical Engineering journals",
+      "Keynote speaker at international Biomedical Engineering conferences",
+      "Led groundbreaking research in biomedical engineering"
+    ],
+    "biography": "Justin Cruz is a distinguished expert in Biomedical Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of biomedical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in biomedical engineering",
+    "traits": [
+      "theoretical",
+      "innovative",
+      "empirical"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "expert-0964",
+    "name": "Pamela Phillips",
+    "title": "Director",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in landscape architecture",
+      "Recipient of prestigious awards in Landscape Architecture",
+      "Led groundbreaking research in landscape architecture"
+    ],
+    "biography": "Pamela Phillips is a distinguished expert in Landscape Architecture with 39 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of landscape architecture",
+    "traits": [
+      "intuitive",
+      "independent",
+      "evidence-based",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0965",
+    "name": "Mary Vasquez",
+    "title": "Associate Professor",
+    "credentials": [
+      "DVM",
+      "MSc"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture",
+      "theoretical landscape architecture"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Landscape Architecture",
+      "Served on editorial boards of leading Landscape Architecture journals",
+      "Led groundbreaking research in landscape architecture"
+    ],
+    "biography": "Mary Vasquez is a distinguished expert in Landscape Architecture with 24 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in landscape architecture",
+    "traits": [
+      "cautious",
+      "reform-minded",
+      "intuitive",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0966",
+    "name": "Ronald Kelly",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "MA",
+      "PharmD"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Landscape Architecture journals",
+      "Led groundbreaking research in landscape architecture",
+      "Published 28 peer-reviewed papers in Landscape Architecture"
+    ],
+    "biography": "Ronald Kelly is a distinguished expert in Landscape Architecture with 14 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "practical application of landscape architecture principles",
+    "traits": [
+      "reform-minded",
+      "creative",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0967",
+    "name": "John Davis",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Landscape Architecture",
+      "Developed innovative methodologies in landscape architecture"
+    ],
+    "biography": "John Davis is a distinguished expert in Landscape Architecture with 19 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "practical application of landscape architecture principles",
+    "traits": [
+      "cautious",
+      "bold",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0968",
+    "name": "Eric Cox",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture",
+      "theoretical landscape architecture"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Landscape Architecture",
+      "Mentored 9 doctoral students",
+      "Keynote speaker at international Landscape Architecture conferences"
+    ],
+    "biography": "Eric Cox is a distinguished expert in Landscape Architecture with 18 years of experience. Known for groundbreaking contributions to the field, Eric has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in landscape architecture",
+    "traits": [
+      "empirical",
+      "analytical",
+      "methodical",
+      "bold",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0969",
+    "name": "Nicholas Barnes",
+    "title": "Director",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Landscape Architecture",
+    "specializations": [
+      "advanced landscape architecture",
+      "applied landscape architecture"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in landscape architecture",
+      "Served on editorial boards of leading Landscape Architecture journals",
+      "Developed innovative methodologies in landscape architecture",
+      "Recipient of prestigious awards in Landscape Architecture"
+    ],
+    "biography": "Nicholas Barnes is a distinguished expert in Landscape Architecture with 36 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of landscape architecture through extensive research, teaching, and practice.",
+    "perspective": "practical application of landscape architecture principles",
+    "traits": [
+      "independent",
+      "flexible"
+    ]
+  }
+]

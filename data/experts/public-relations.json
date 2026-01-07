@@ -1,0 +1,180 @@
+[
+  {
+    "id": "expert-0900",
+    "name": "Christina Brooks",
+    "title": "Principal",
+    "credentials": [
+      "DPT",
+      "MFA"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Public Relations journals",
+      "Published 72 peer-reviewed papers in Public Relations",
+      "Led groundbreaking research in public relations",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Christina Brooks is a distinguished expert in Public Relations with 36 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public relations",
+    "traits": [
+      "detail-oriented",
+      "systematic",
+      "intuitive",
+      "conservative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0901",
+    "name": "Matthew Herrera",
+    "title": "Chief",
+    "credentials": [
+      "MBA",
+      "MD",
+      "MSc"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Public Relations journals",
+      "Published 82 peer-reviewed papers in Public Relations",
+      "Led groundbreaking research in public relations",
+      "Recipient of prestigious awards in Public Relations",
+      "Keynote speaker at international Public Relations conferences"
+    ],
+    "biography": "Matthew Herrera is a distinguished expert in Public Relations with 41 years of experience. Known for groundbreaking contributions to the field, Matthew has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public relations",
+    "traits": [
+      "cautious",
+      "conservative",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0902",
+    "name": "Margaret Tucker",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Public Relations",
+      "Led groundbreaking research in public relations",
+      "Recipient of prestigious awards in Public Relations",
+      "Developed innovative methodologies in public relations",
+      "Served on editorial boards of leading Public Relations journals"
+    ],
+    "biography": "Margaret Tucker is a distinguished expert in Public Relations with 16 years of experience. Known for groundbreaking contributions to the field, Margaret has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in public relations",
+    "traits": [
+      "balanced",
+      "independent",
+      "systematic",
+      "specialized",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0903",
+    "name": "Gerald Edwards",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "MPH"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Public Relations",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Public Relations conferences",
+      "Led groundbreaking research in public relations",
+      "Recipient of prestigious awards in Public Relations"
+    ],
+    "biography": "Gerald Edwards is a distinguished expert in Public Relations with 38 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on public relations",
+    "traits": [
+      "holistic",
+      "evidence-based",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0904",
+    "name": "Jeffrey Tran",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP",
+      "DPhil",
+      "DSc"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations",
+      "theoretical public relations"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Public Relations",
+      "Served on editorial boards of leading Public Relations journals",
+      "Developed innovative methodologies in public relations"
+    ],
+    "biography": "Jeffrey Tran is a distinguished expert in Public Relations with 11 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "practical application of public relations principles",
+    "traits": [
+      "reform-minded",
+      "empirical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0905",
+    "name": "Stephanie Owens",
+    "title": "Associate Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Public Relations",
+    "specializations": [
+      "advanced public relations",
+      "applied public relations"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Public Relations journals",
+      "Developed innovative methodologies in public relations",
+      "Recipient of prestigious awards in Public Relations",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Stephanie Owens is a distinguished expert in Public Relations with 22 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of public relations through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on public relations",
+    "traits": [
+      "bold",
+      "holistic",
+      "methodical"
+    ]
+  }
+]

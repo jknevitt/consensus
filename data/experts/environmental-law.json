@@ -1,0 +1,207 @@
+[
+  {
+    "id": "expert-0133",
+    "name": "Kathryn Simpson",
+    "title": "Chief",
+    "credentials": [
+      "DPhil",
+      "LLM",
+      "DNP"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Environmental Law",
+      "Led groundbreaking research in environmental law",
+      "Recipient of prestigious awards in Environmental Law"
+    ],
+    "biography": "Kathryn Simpson is a distinguished expert in Environmental Law with 38 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in environmental law",
+    "traits": [
+      "visionary",
+      "specialized",
+      "tactical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0134",
+    "name": "Sara Harrison",
+    "title": "Associate Professor",
+    "credentials": [
+      "DVM",
+      "EdD",
+      "MBA"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 52 peer-reviewed papers in Environmental Law",
+      "Led groundbreaking research in environmental law",
+      "Recipient of prestigious awards in Environmental Law",
+      "Developed innovative methodologies in environmental law"
+    ],
+    "biography": "Sara Harrison is a distinguished expert in Environmental Law with 26 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental law principles",
+    "traits": [
+      "tactical",
+      "innovative",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0135",
+    "name": "Teresa Collins",
+    "title": "Chief",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Recipient of prestigious awards in Environmental Law",
+      "Led groundbreaking research in environmental law",
+      "Published 44 peer-reviewed papers in Environmental Law",
+      "Principal investigator on major research grants",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Teresa Collins is a distinguished expert in Environmental Law with 22 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in environmental law",
+    "traits": [
+      "innovative",
+      "intuitive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0136",
+    "name": "Gerald Richardson",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MBA",
+      "EdD"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law",
+      "theoretical environmental law"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Recipient of prestigious awards in Environmental Law",
+      "Mentored 7 doctoral students",
+      "Keynote speaker at international Environmental Law conferences",
+      "Developed innovative methodologies in environmental law",
+      "Served on editorial boards of leading Environmental Law journals"
+    ],
+    "biography": "Gerald Richardson is a distinguished expert in Environmental Law with 14 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of environmental law",
+    "traits": [
+      "flexible",
+      "reform-minded",
+      "principled",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0137",
+    "name": "Christian Lee",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Mentored 5 doctoral students",
+      "Published 22 peer-reviewed papers in Environmental Law",
+      "Led groundbreaking research in environmental law",
+      "Served on editorial boards of leading Environmental Law journals"
+    ],
+    "biography": "Christian Lee is a distinguished expert in Environmental Law with 11 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "practical application of environmental law principles",
+    "traits": [
+      "conservative",
+      "cautious",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0138",
+    "name": "Christian Kim",
+    "title": "Principal",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law",
+      "theoretical environmental law"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Led groundbreaking research in environmental law",
+      "Developed innovative methodologies in environmental law",
+      "Keynote speaker at international Environmental Law conferences",
+      "Recipient of prestigious awards in Environmental Law"
+    ],
+    "biography": "Christian Kim is a distinguished expert in Environmental Law with 40 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to environmental law",
+    "traits": [
+      "reform-minded",
+      "evidence-based",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0139",
+    "name": "Catherine Morgan",
+    "title": "Lead",
+    "credentials": [
+      "MFA",
+      "EdD"
+    ],
+    "field": "Environmental Law",
+    "specializations": [
+      "advanced environmental law",
+      "applied environmental law",
+      "theoretical environmental law"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Mentored 16 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 66 peer-reviewed papers in Environmental Law",
+      "Keynote speaker at international Environmental Law conferences",
+      "Led groundbreaking research in environmental law"
+    ],
+    "biography": "Catherine Morgan is a distinguished expert in Environmental Law with 33 years of experience. Known for groundbreaking contributions to the field, Catherine has shaped modern understanding of environmental law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in environmental law",
+    "traits": [
+      "systematic",
+      "traditional",
+      "balanced",
+      "theoretical"
+    ]
+  }
+]

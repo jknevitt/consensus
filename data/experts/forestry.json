@@ -1,0 +1,238 @@
+[
+  {
+    "id": "expert-0842",
+    "name": "Catherine Jones",
+    "title": "Lead",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry",
+      "theoretical forestry"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Forestry",
+      "Served on editorial boards of leading Forestry journals",
+      "Led groundbreaking research in forestry",
+      "Keynote speaker at international Forestry conferences",
+      "Recipient of prestigious awards in Forestry"
+    ],
+    "biography": "Catherine Jones is a distinguished expert in Forestry with 25 years of experience. Known for groundbreaking contributions to the field, Catherine has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "practical application of forestry principles",
+    "traits": [
+      "methodical",
+      "specialized",
+      "strategic",
+      "intuitive",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0843",
+    "name": "John Martinez",
+    "title": "Lead",
+    "credentials": [
+      "MSc",
+      "MBA"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry",
+      "theoretical forestry"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Recipient of prestigious awards in Forestry",
+      "Led groundbreaking research in forestry",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "John Martinez is a distinguished expert in Forestry with 28 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of forestry",
+    "traits": [
+      "detail-oriented",
+      "practical",
+      "innovative",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0844",
+    "name": "Kathryn Reyes",
+    "title": "Associate Professor",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry",
+      "theoretical forestry"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Forestry",
+      "Led groundbreaking research in forestry",
+      "Developed innovative methodologies in forestry",
+      "Keynote speaker at international Forestry conferences"
+    ],
+    "biography": "Kathryn Reyes is a distinguished expert in Forestry with 32 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "practical application of forestry principles",
+    "traits": [
+      "flexible",
+      "intuitive",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0845",
+    "name": "Henry Taylor",
+    "title": "Director",
+    "credentials": [
+      "PharmD",
+      "PhD"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry",
+      "theoretical forestry"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Published 54 peer-reviewed papers in Forestry",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in forestry",
+      "Recipient of prestigious awards in Forestry"
+    ],
+    "biography": "Henry Taylor is a distinguished expert in Forestry with 27 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "practical application of forestry principles",
+    "traits": [
+      "systematic",
+      "strategic",
+      "independent",
+      "methodical",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0846",
+    "name": "Anthony Edwards",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "PhD",
+      "OD"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Developed innovative methodologies in forestry",
+      "Served on editorial boards of leading Forestry journals",
+      "Led groundbreaking research in forestry",
+      "Published 78 peer-reviewed papers in Forestry"
+    ],
+    "biography": "Anthony Edwards is a distinguished expert in Forestry with 39 years of experience. Known for groundbreaking contributions to the field, Anthony has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in forestry",
+    "traits": [
+      "analytical",
+      "independent",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0847",
+    "name": "Jonathan Gray",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MPH",
+      "PsyD",
+      "LLM"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in forestry",
+      "Recipient of prestigious awards in Forestry",
+      "Led groundbreaking research in forestry",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Jonathan Gray is a distinguished expert in Forestry with 36 years of experience. Known for groundbreaking contributions to the field, Jonathan has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in forestry",
+    "traits": [
+      "principled",
+      "systematic",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0848",
+    "name": "Robert Bryant",
+    "title": "Professor",
+    "credentials": [
+      "DBA",
+      "OD"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Keynote speaker at international Forestry conferences",
+      "Principal investigator on major research grants",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Robert Bryant is a distinguished expert in Forestry with 29 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "practical application of forestry principles",
+    "traits": [
+      "independent",
+      "innovative",
+      "collaborative",
+      "cautious",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0849",
+    "name": "Jason Bryant",
+    "title": "Dr.",
+    "credentials": [
+      "MSc",
+      "DPT"
+    ],
+    "field": "Forestry",
+    "specializations": [
+      "advanced forestry",
+      "applied forestry"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Recipient of prestigious awards in Forestry",
+      "Served on editorial boards of leading Forestry journals",
+      "Keynote speaker at international Forestry conferences",
+      "Led groundbreaking research in forestry",
+      "Mentored 22 doctoral students"
+    ],
+    "biography": "Jason Bryant is a distinguished expert in Forestry with 44 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of forestry through extensive research, teaching, and practice.",
+    "perspective": "practical application of forestry principles",
+    "traits": [
+      "cautious",
+      "evidence-based",
+      "practical"
+    ]
+  }
+]

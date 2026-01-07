@@ -1,0 +1,234 @@
+[
+  {
+    "id": "expert-0600",
+    "name": "Carolyn Rivera",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Performing Arts",
+      "Led groundbreaking research in performing arts",
+      "Recipient of prestigious awards in Performing Arts"
+    ],
+    "biography": "Carolyn Rivera is a distinguished expert in Performing Arts with 32 years of experience. Known for groundbreaking contributions to the field, Carolyn has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of performing arts",
+    "traits": [
+      "principled",
+      "systematic",
+      "methodical",
+      "flexible",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0601",
+    "name": "Scott Fernandez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT",
+      "PharmD"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts",
+      "theoretical performing arts"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in performing arts",
+      "Recipient of prestigious awards in Performing Arts",
+      "Keynote speaker at international Performing Arts conferences"
+    ],
+    "biography": "Scott Fernandez is a distinguished expert in Performing Arts with 28 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on performing arts",
+    "traits": [
+      "balanced",
+      "methodical",
+      "reform-minded",
+      "strategic",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0602",
+    "name": "Nathan Gutierrez",
+    "title": "Senior",
+    "credentials": [
+      "DPT",
+      "EdD"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Performing Arts",
+      "Led groundbreaking research in performing arts",
+      "Principal investigator on major research grants",
+      "Mentored 10 doctoral students",
+      "Served on editorial boards of leading Performing Arts journals"
+    ],
+    "biography": "Nathan Gutierrez is a distinguished expert in Performing Arts with 20 years of experience. Known for groundbreaking contributions to the field, Nathan has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to performing arts",
+    "traits": [
+      "balanced",
+      "visionary",
+      "innovative",
+      "reform-minded",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0603",
+    "name": "Walter Fernandez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Performing Arts",
+      "Led groundbreaking research in performing arts",
+      "Recipient of prestigious awards in Performing Arts"
+    ],
+    "biography": "Walter Fernandez is a distinguished expert in Performing Arts with 16 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in performing arts",
+    "traits": [
+      "theoretical",
+      "evidence-based",
+      "creative",
+      "intuitive",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0604",
+    "name": "Keith Sanchez",
+    "title": "Dr.",
+    "credentials": [
+      "DPhil",
+      "MBA",
+      "DDS"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Mentored 9 doctoral students",
+      "Developed innovative methodologies in performing arts",
+      "Recipient of prestigious awards in Performing Arts"
+    ],
+    "biography": "Keith Sanchez is a distinguished expert in Performing Arts with 18 years of experience. Known for groundbreaking contributions to the field, Keith has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on performing arts",
+    "traits": [
+      "empirical",
+      "creative",
+      "conservative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0605",
+    "name": "Frank Gray",
+    "title": "Dr.",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts",
+      "theoretical performing arts"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Led groundbreaking research in performing arts",
+      "Published 22 peer-reviewed papers in Performing Arts",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Gray is a distinguished expert in Performing Arts with 11 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on performing arts",
+    "traits": [
+      "reform-minded",
+      "balanced",
+      "theoretical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0606",
+    "name": "Walter Patterson",
+    "title": "Professor",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Performing Arts journals",
+      "Mentored 11 doctoral students",
+      "Published 44 peer-reviewed papers in Performing Arts",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in performing arts"
+    ],
+    "biography": "Walter Patterson is a distinguished expert in Performing Arts with 22 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of performing arts",
+    "traits": [
+      "reform-minded",
+      "detail-oriented",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0607",
+    "name": "Douglas Lewis",
+    "title": "Principal",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Performing Arts",
+    "specializations": [
+      "advanced performing arts",
+      "applied performing arts",
+      "theoretical performing arts"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Performing Arts",
+      "Led groundbreaking research in performing arts",
+      "Keynote speaker at international Performing Arts conferences",
+      "Mentored 16 doctoral students",
+      "Recipient of prestigious awards in Performing Arts"
+    ],
+    "biography": "Douglas Lewis is a distinguished expert in Performing Arts with 32 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of performing arts through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on performing arts",
+    "traits": [
+      "systematic",
+      "visionary",
+      "evidence-based"
+    ]
+  }
+]

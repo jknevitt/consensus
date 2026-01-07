@@ -1,0 +1,180 @@
+[
+  {
+    "id": "expert-0456",
+    "name": "Andrew Ramos",
+    "title": "Lead",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision",
+      "theoretical computer vision"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Computer Vision journals",
+      "Published 46 peer-reviewed papers in Computer Vision",
+      "Led groundbreaking research in computer vision",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Andrew Ramos is a distinguished expert in Computer Vision with 23 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer vision",
+    "traits": [
+      "tactical",
+      "evidence-based",
+      "collaborative",
+      "visionary",
+      "independent",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0457",
+    "name": "Sandra Brown",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MA",
+      "JD"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in computer vision",
+      "Keynote speaker at international Computer Vision conferences"
+    ],
+    "biography": "Sandra Brown is a distinguished expert in Computer Vision with 22 years of experience. Known for groundbreaking contributions to the field, Sandra has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer vision",
+    "traits": [
+      "data-driven",
+      "systematic",
+      "theoretical",
+      "principled",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0458",
+    "name": "Joe Hayes",
+    "title": "Chief",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision",
+      "theoretical computer vision"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Computer Vision",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in computer vision",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Joe Hayes is a distinguished expert in Computer Vision with 25 years of experience. Known for groundbreaking contributions to the field, Joe has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on computer vision",
+    "traits": [
+      "balanced",
+      "innovative",
+      "principled",
+      "analytical",
+      "data-driven",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0459",
+    "name": "David Stevens",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PhD",
+      "PharmD"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Published 72 peer-reviewed papers in Computer Vision",
+      "Principal investigator on major research grants",
+      "Mentored 18 doctoral students",
+      "Served on editorial boards of leading Computer Vision journals"
+    ],
+    "biography": "David Stevens is a distinguished expert in Computer Vision with 36 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of computer vision",
+    "traits": [
+      "empirical",
+      "collaborative",
+      "theoretical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0460",
+    "name": "Jesse Jones",
+    "title": "Chief",
+    "credentials": [
+      "DPT",
+      "DDS",
+      "LLM"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision",
+      "theoretical computer vision"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in computer vision",
+      "Recipient of prestigious awards in Computer Vision",
+      "Keynote speaker at international Computer Vision conferences"
+    ],
+    "biography": "Jesse Jones is a distinguished expert in Computer Vision with 38 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer vision",
+    "traits": [
+      "visionary",
+      "evidence-based",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0461",
+    "name": "Thomas Flores",
+    "title": "Chief",
+    "credentials": [
+      "LLM",
+      "DVM",
+      "DPT"
+    ],
+    "field": "Computer Vision",
+    "specializations": [
+      "advanced computer vision",
+      "applied computer vision"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Recipient of prestigious awards in Computer Vision",
+      "Keynote speaker at international Computer Vision conferences",
+      "Served on editorial boards of leading Computer Vision journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Thomas Flores is a distinguished expert in Computer Vision with 22 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of computer vision through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in computer vision",
+    "traits": [
+      "principled",
+      "visionary",
+      "independent"
+    ]
+  }
+]

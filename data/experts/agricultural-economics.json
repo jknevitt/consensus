@@ -1,0 +1,209 @@
+[
+  {
+    "id": "expert-0814",
+    "name": "Martha Gonzalez",
+    "title": "Senior",
+    "credentials": [
+      "DBA",
+      "DNP"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Agricultural Economics",
+      "Led groundbreaking research in agricultural economics",
+      "Mentored 16 doctoral students",
+      "Keynote speaker at international Agricultural Economics conferences"
+    ],
+    "biography": "Martha Gonzalez is a distinguished expert in Agricultural Economics with 33 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agricultural economics",
+    "traits": [
+      "progressive",
+      "systematic",
+      "principled",
+      "strategic",
+      "theoretical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0815",
+    "name": "Helen Fernandez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 30 peer-reviewed papers in Agricultural Economics",
+      "Developed innovative methodologies in agricultural economics",
+      "Keynote speaker at international Agricultural Economics conferences",
+      "Led groundbreaking research in agricultural economics"
+    ],
+    "biography": "Helen Fernandez is a distinguished expert in Agricultural Economics with 15 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural economics",
+    "traits": [
+      "collaborative",
+      "empirical",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0816",
+    "name": "Jessica Freeman",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "MD",
+      "PharmD"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics",
+      "theoretical agricultural economics"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Published 66 peer-reviewed papers in Agricultural Economics",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in agricultural economics",
+      "Recipient of prestigious awards in Agricultural Economics"
+    ],
+    "biography": "Jessica Freeman is a distinguished expert in Agricultural Economics with 33 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on agricultural economics",
+    "traits": [
+      "flexible",
+      "empirical",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0817",
+    "name": "Frank Hunter",
+    "title": "Senior",
+    "credentials": [
+      "OD",
+      "MFA"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Developed innovative methodologies in agricultural economics",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Agricultural Economics journals",
+      "Recipient of prestigious awards in Agricultural Economics",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Frank Hunter is a distinguished expert in Agricultural Economics with 28 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agricultural economics",
+    "traits": [
+      "tactical",
+      "interdisciplinary",
+      "holistic",
+      "progressive",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0818",
+    "name": "Kelly Lopez",
+    "title": "Principal",
+    "credentials": [
+      "OD",
+      "MPH"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics",
+      "theoretical agricultural economics"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Agricultural Economics",
+      "Led groundbreaking research in agricultural economics",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Agricultural Economics conferences",
+      "Recipient of prestigious awards in Agricultural Economics"
+    ],
+    "biography": "Kelly Lopez is a distinguished expert in Agricultural Economics with 26 years of experience. Known for groundbreaking contributions to the field, Kelly has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on agricultural economics",
+    "traits": [
+      "collaborative",
+      "intuitive",
+      "conservative",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0819",
+    "name": "Kathryn Brown",
+    "title": "Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Keynote speaker at international Agricultural Economics conferences",
+      "Developed innovative methodologies in agricultural economics",
+      "Served on editorial boards of leading Agricultural Economics journals",
+      "Mentored 10 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kathryn Brown is a distinguished expert in Agricultural Economics with 21 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "practical application of agricultural economics principles",
+    "traits": [
+      "principled",
+      "creative",
+      "balanced",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0820",
+    "name": "Amy Martinez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Agricultural Economics",
+    "specializations": [
+      "advanced agricultural economics",
+      "applied agricultural economics",
+      "theoretical agricultural economics"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Keynote speaker at international Agricultural Economics conferences",
+      "Recipient of prestigious awards in Agricultural Economics",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Amy Martinez is a distinguished expert in Agricultural Economics with 28 years of experience. Known for groundbreaking contributions to the field, Amy has shaped modern understanding of agricultural economics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agricultural economics",
+    "traits": [
+      "theoretical",
+      "tactical",
+      "innovative"
+    ]
+  }
+]

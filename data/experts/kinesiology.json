@@ -1,0 +1,215 @@
+[
+  {
+    "id": "expert-1021",
+    "name": "Jacqueline Green",
+    "title": "Director",
+    "credentials": [
+      "PsyD",
+      "DNP"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Keynote speaker at international Kinesiology conferences",
+      "Recipient of prestigious awards in Kinesiology",
+      "Mentored 18 doctoral students",
+      "Published 72 peer-reviewed papers in Kinesiology",
+      "Served on editorial boards of leading Kinesiology journals"
+    ],
+    "biography": "Jacqueline Green is a distinguished expert in Kinesiology with 36 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to kinesiology",
+    "traits": [
+      "tactical",
+      "balanced",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-1022",
+    "name": "Jacob Thompson",
+    "title": "Dr.",
+    "credentials": [
+      "DNP",
+      "MPH"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in kinesiology",
+      "Keynote speaker at international Kinesiology conferences",
+      "Recipient of prestigious awards in Kinesiology",
+      "Served on editorial boards of leading Kinesiology journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jacob Thompson is a distinguished expert in Kinesiology with 27 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of kinesiology",
+    "traits": [
+      "balanced",
+      "data-driven",
+      "intuitive",
+      "progressive",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-1023",
+    "name": "Rachel Carter",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "OD",
+      "PsyD",
+      "DNP"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology",
+      "theoretical kinesiology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Kinesiology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in kinesiology"
+    ],
+    "biography": "Rachel Carter is a distinguished expert in Kinesiology with 30 years of experience. Known for groundbreaking contributions to the field, Rachel has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in kinesiology",
+    "traits": [
+      "holistic",
+      "theoretical",
+      "methodical",
+      "cautious",
+      "reform-minded",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-1024",
+    "name": "Frank Rodriguez",
+    "title": "Dr.",
+    "credentials": [
+      "MPH",
+      "LLM"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Led groundbreaking research in kinesiology",
+      "Developed innovative methodologies in kinesiology",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Kinesiology conferences",
+      "Served on editorial boards of leading Kinesiology journals"
+    ],
+    "biography": "Frank Rodriguez is a distinguished expert in Kinesiology with 30 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in kinesiology",
+    "traits": [
+      "balanced",
+      "intuitive",
+      "empirical",
+      "holistic",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-1025",
+    "name": "David Butler",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "MFA"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology",
+      "theoretical kinesiology"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Served on editorial boards of leading Kinesiology journals",
+      "Developed innovative methodologies in kinesiology",
+      "Published 44 peer-reviewed papers in Kinesiology"
+    ],
+    "biography": "David Butler is a distinguished expert in Kinesiology with 22 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on kinesiology",
+    "traits": [
+      "detail-oriented",
+      "conservative",
+      "collaborative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-1026",
+    "name": "Margaret Stevens",
+    "title": "Lead",
+    "credentials": [
+      "PsyD",
+      "DBA"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology",
+      "theoretical kinesiology"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Developed innovative methodologies in kinesiology",
+      "Recipient of prestigious awards in Kinesiology",
+      "Published 64 peer-reviewed papers in Kinesiology",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Margaret Stevens is a distinguished expert in Kinesiology with 32 years of experience. Known for groundbreaking contributions to the field, Margaret has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in kinesiology",
+    "traits": [
+      "specialized",
+      "interdisciplinary",
+      "detail-oriented",
+      "traditional",
+      "flexible",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-1027",
+    "name": "Sean Miller",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "DPhil",
+      "DBA"
+    ],
+    "field": "Kinesiology",
+    "specializations": [
+      "advanced kinesiology",
+      "applied kinesiology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Developed innovative methodologies in kinesiology",
+      "Recipient of prestigious awards in Kinesiology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Sean Miller is a distinguished expert in Kinesiology with 30 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of kinesiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to kinesiology",
+    "traits": [
+      "theoretical",
+      "tactical",
+      "balanced",
+      "intuitive"
+    ]
+  }
+]

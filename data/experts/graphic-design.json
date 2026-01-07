@@ -1,0 +1,180 @@
+[
+  {
+    "id": "expert-0984",
+    "name": "Virginia Sanchez",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "DBA"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Published 82 peer-reviewed papers in Graphic Design",
+      "Led groundbreaking research in graphic design",
+      "Keynote speaker at international Graphic Design conferences",
+      "Recipient of prestigious awards in Graphic Design",
+      "Served on editorial boards of leading Graphic Design journals"
+    ],
+    "biography": "Virginia Sanchez is a distinguished expert in Graphic Design with 41 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in graphic design",
+    "traits": [
+      "creative",
+      "holistic",
+      "strategic",
+      "interdisciplinary",
+      "systematic",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0985",
+    "name": "Brenda Coleman",
+    "title": "Principal",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Recipient of prestigious awards in Graphic Design",
+      "Served on editorial boards of leading Graphic Design journals",
+      "Developed innovative methodologies in graphic design"
+    ],
+    "biography": "Brenda Coleman is a distinguished expert in Graphic Design with 39 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of graphic design",
+    "traits": [
+      "traditional",
+      "systematic",
+      "conservative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0986",
+    "name": "Susan Long",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Led groundbreaking research in graphic design",
+      "Published 20 peer-reviewed papers in Graphic Design",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Graphic Design conferences"
+    ],
+    "biography": "Susan Long is a distinguished expert in Graphic Design with 10 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of graphic design",
+    "traits": [
+      "systematic",
+      "collaborative",
+      "interdisciplinary",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0987",
+    "name": "Larry Foster",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DNP",
+      "OD",
+      "DDS"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design",
+      "theoretical graphic design"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Keynote speaker at international Graphic Design conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in graphic design",
+      "Served on editorial boards of leading Graphic Design journals",
+      "Published 68 peer-reviewed papers in Graphic Design"
+    ],
+    "biography": "Larry Foster is a distinguished expert in Graphic Design with 34 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of graphic design",
+    "traits": [
+      "holistic",
+      "tactical",
+      "theoretical",
+      "traditional",
+      "evidence-based",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0988",
+    "name": "Scott Stewart",
+    "title": "Lead",
+    "credentials": [
+      "PsyD",
+      "PharmD",
+      "MBA"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Published 40 peer-reviewed papers in Graphic Design",
+      "Keynote speaker at international Graphic Design conferences",
+      "Served on editorial boards of leading Graphic Design journals",
+      "Led groundbreaking research in graphic design"
+    ],
+    "biography": "Scott Stewart is a distinguished expert in Graphic Design with 20 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of graphic design",
+    "traits": [
+      "independent",
+      "practical",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0989",
+    "name": "Anna Chavez",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "MSc"
+    ],
+    "field": "Graphic Design",
+    "specializations": [
+      "advanced graphic design",
+      "applied graphic design"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Published 70 peer-reviewed papers in Graphic Design",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in graphic design"
+    ],
+    "biography": "Anna Chavez is a distinguished expert in Graphic Design with 35 years of experience. Known for groundbreaking contributions to the field, Anna has shaped modern understanding of graphic design through extensive research, teaching, and practice.",
+    "perspective": "practical application of graphic design principles",
+    "traits": [
+      "tactical",
+      "pragmatic",
+      "flexible",
+      "strategic"
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "expert-0013",
+    "name": "Nancy Owens",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "MA"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology",
+      "surgical oncology"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Oncology",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Oncology conferences",
+      "Led groundbreaking research in oncology"
+    ],
+    "biography": "Nancy Owens is a distinguished expert in Oncology with 17 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of oncology",
+    "traits": [
+      "pragmatic",
+      "practical",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0014",
+    "name": "Andrew Bennett",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology",
+      "surgical oncology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Oncology",
+      "Led groundbreaking research in oncology",
+      "Served on editorial boards of leading Oncology journals",
+      "Recipient of prestigious awards in Oncology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Andrew Bennett is a distinguished expert in Oncology with 16 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "practical application of oncology principles",
+    "traits": [
+      "traditional",
+      "conservative",
+      "collaborative",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0015",
+    "name": "Joshua Johnson",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Served on editorial boards of leading Oncology journals",
+      "Recipient of prestigious awards in Oncology",
+      "Developed innovative methodologies in oncology",
+      "Led groundbreaking research in oncology"
+    ],
+    "biography": "Joshua Johnson is a distinguished expert in Oncology with 39 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "practical application of oncology principles",
+    "traits": [
+      "tactical",
+      "conservative",
+      "intuitive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0016",
+    "name": "Dorothy Sanders",
+    "title": "Senior",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology",
+      "surgical oncology"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Oncology conferences",
+      "Recipient of prestigious awards in Oncology"
+    ],
+    "biography": "Dorothy Sanders is a distinguished expert in Oncology with 32 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to oncology",
+    "traits": [
+      "collaborative",
+      "bold",
+      "data-driven",
+      "analytical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0017",
+    "name": "Angela Brooks",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DBA",
+      "DVM"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology",
+      "surgical oncology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Oncology journals",
+      "Keynote speaker at international Oncology conferences"
+    ],
+    "biography": "Angela Brooks is a distinguished expert in Oncology with 15 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of oncology",
+    "traits": [
+      "conservative",
+      "creative",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0018",
+    "name": "Kimberly Jones",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "OD",
+      "DDS"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology",
+      "surgical oncology"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Oncology",
+      "Recipient of prestigious awards in Oncology",
+      "Keynote speaker at international Oncology conferences",
+      "Led groundbreaking research in oncology"
+    ],
+    "biography": "Kimberly Jones is a distinguished expert in Oncology with 38 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "practical application of oncology principles",
+    "traits": [
+      "detail-oriented",
+      "progressive",
+      "innovative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0019",
+    "name": "Peter Price",
+    "title": "Director",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Oncology",
+    "specializations": [
+      "medical oncology",
+      "radiation oncology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Developed innovative methodologies in oncology",
+      "Mentored 11 doctoral students",
+      "Served on editorial boards of leading Oncology journals",
+      "Recipient of prestigious awards in Oncology"
+    ],
+    "biography": "Peter Price is a distinguished expert in Oncology with 23 years of experience. Known for groundbreaking contributions to the field, Peter has shaped modern understanding of oncology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on oncology",
+    "traits": [
+      "intuitive",
+      "specialized",
+      "evidence-based",
+      "detail-oriented",
+      "conservative"
+    ]
+  }
+]

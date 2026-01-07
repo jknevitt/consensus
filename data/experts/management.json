@@ -1,0 +1,212 @@
+[
+  {
+    "id": "expert-0492",
+    "name": "Joseph Martin",
+    "title": "Lead",
+    "credentials": [
+      "DPhil",
+      "EdD"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Keynote speaker at international Management conferences",
+      "Recipient of prestigious awards in Management",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in management"
+    ],
+    "biography": "Joseph Martin is a distinguished expert in Management with 35 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "practical application of management principles",
+    "traits": [
+      "conservative",
+      "detail-oriented",
+      "strategic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0493",
+    "name": "Jerry Morgan",
+    "title": "Professor",
+    "credentials": [
+      "MSc",
+      "MD"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management",
+      "theoretical management"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Management journals",
+      "Keynote speaker at international Management conferences"
+    ],
+    "biography": "Jerry Morgan is a distinguished expert in Management with 39 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to management",
+    "traits": [
+      "creative",
+      "empirical",
+      "collaborative",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0494",
+    "name": "Stephanie Anderson",
+    "title": "Lead",
+    "credentials": [
+      "MFA",
+      "OD",
+      "MPH"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Published 38 peer-reviewed papers in Management",
+      "Led groundbreaking research in management",
+      "Recipient of prestigious awards in Management",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in management"
+    ],
+    "biography": "Stephanie Anderson is a distinguished expert in Management with 19 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on management",
+    "traits": [
+      "methodical",
+      "specialized",
+      "analytical",
+      "principled",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0495",
+    "name": "Amanda Wright",
+    "title": "Director",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management",
+      "theoretical management"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Recipient of prestigious awards in Management",
+      "Served on editorial boards of leading Management journals",
+      "Developed innovative methodologies in management"
+    ],
+    "biography": "Amanda Wright is a distinguished expert in Management with 29 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on management",
+    "traits": [
+      "principled",
+      "pragmatic",
+      "specialized",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0496",
+    "name": "Amy Chavez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management",
+      "theoretical management"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Management",
+      "Led groundbreaking research in management",
+      "Mentored 10 doctoral students",
+      "Recipient of prestigious awards in Management"
+    ],
+    "biography": "Amy Chavez is a distinguished expert in Management with 21 years of experience. Known for groundbreaking contributions to the field, Amy has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in management",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "detail-oriented",
+      "principled",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0497",
+    "name": "Stephanie Sanders",
+    "title": "Lead",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Management",
+      "Developed innovative methodologies in management",
+      "Mentored 8 doctoral students",
+      "Led groundbreaking research in management"
+    ],
+    "biography": "Stephanie Sanders is a distinguished expert in Management with 16 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of management",
+    "traits": [
+      "bold",
+      "detail-oriented",
+      "innovative",
+      "flexible",
+      "creative",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0498",
+    "name": "Martha Fernandez",
+    "title": "Chief",
+    "credentials": [
+      "MBA",
+      "DVM",
+      "DNP"
+    ],
+    "field": "Management",
+    "specializations": [
+      "advanced management",
+      "applied management",
+      "theoretical management"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Mentored 16 doctoral students",
+      "Developed innovative methodologies in management",
+      "Recipient of prestigious awards in Management",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in management"
+    ],
+    "biography": "Martha Fernandez is a distinguished expert in Management with 33 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of management through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to management",
+    "traits": [
+      "collaborative",
+      "creative",
+      "cautious",
+      "independent"
+    ]
+  }
+]

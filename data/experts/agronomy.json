@@ -1,0 +1,206 @@
+[
+  {
+    "id": "expert-0807",
+    "name": "Elizabeth Scott",
+    "title": "Associate Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy",
+      "theoretical agronomy"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Recipient of prestigious awards in Agronomy",
+      "Led groundbreaking research in agronomy",
+      "Served on editorial boards of leading Agronomy journals",
+      "Keynote speaker at international Agronomy conferences"
+    ],
+    "biography": "Elizabeth Scott is a distinguished expert in Agronomy with 26 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agronomy",
+    "traits": [
+      "data-driven",
+      "flexible",
+      "systematic",
+      "specialized",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0808",
+    "name": "Larry Vargas",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DVM",
+      "MA"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Led groundbreaking research in agronomy",
+      "Published 56 peer-reviewed papers in Agronomy",
+      "Developed innovative methodologies in agronomy",
+      "Recipient of prestigious awards in Agronomy"
+    ],
+    "biography": "Larry Vargas is a distinguished expert in Agronomy with 28 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agronomy",
+    "traits": [
+      "interdisciplinary",
+      "collaborative",
+      "flexible",
+      "visionary",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0809",
+    "name": "Timothy Gonzales",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "PhD"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy",
+      "theoretical agronomy"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Developed innovative methodologies in agronomy",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Agronomy",
+      "Keynote speaker at international Agronomy conferences"
+    ],
+    "biography": "Timothy Gonzales is a distinguished expert in Agronomy with 32 years of experience. Known for groundbreaking contributions to the field, Timothy has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agronomy",
+    "traits": [
+      "creative",
+      "detail-oriented",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0810",
+    "name": "Jean Scott",
+    "title": "Chief",
+    "credentials": [
+      "MA",
+      "DBA"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy",
+      "theoretical agronomy"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Agronomy",
+      "Developed innovative methodologies in agronomy",
+      "Published 20 peer-reviewed papers in Agronomy",
+      "Led groundbreaking research in agronomy"
+    ],
+    "biography": "Jean Scott is a distinguished expert in Agronomy with 10 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agronomy",
+    "traits": [
+      "reform-minded",
+      "flexible",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0811",
+    "name": "Jerry Watson",
+    "title": "Principal",
+    "credentials": [
+      "DBA",
+      "MPH"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Recipient of prestigious awards in Agronomy",
+      "Led groundbreaking research in agronomy",
+      "Keynote speaker at international Agronomy conferences"
+    ],
+    "biography": "Jerry Watson is a distinguished expert in Agronomy with 31 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in agronomy",
+    "traits": [
+      "data-driven",
+      "traditional",
+      "pragmatic",
+      "principled",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0812",
+    "name": "Raymond Cole",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "LLM",
+      "DNP"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy",
+      "theoretical agronomy"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Recipient of prestigious awards in Agronomy",
+      "Keynote speaker at international Agronomy conferences",
+      "Published 42 peer-reviewed papers in Agronomy",
+      "Developed innovative methodologies in agronomy"
+    ],
+    "biography": "Raymond Cole is a distinguished expert in Agronomy with 21 years of experience. Known for groundbreaking contributions to the field, Raymond has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agronomy",
+    "traits": [
+      "strategic",
+      "evidence-based",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0813",
+    "name": "Brenda Green",
+    "title": "Associate Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Agronomy",
+    "specializations": [
+      "advanced agronomy",
+      "applied agronomy"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Led groundbreaking research in agronomy",
+      "Recipient of prestigious awards in Agronomy",
+      "Mentored 6 doctoral students",
+      "Keynote speaker at international Agronomy conferences"
+    ],
+    "biography": "Brenda Green is a distinguished expert in Agronomy with 12 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of agronomy through extensive research, teaching, and practice.",
+    "perspective": "practical application of agronomy principles",
+    "traits": [
+      "theoretical",
+      "holistic",
+      "visionary"
+    ]
+  }
+]

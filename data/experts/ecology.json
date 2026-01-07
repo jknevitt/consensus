@@ -1,0 +1,242 @@
+[
+  {
+    "id": "expert-0323",
+    "name": "Nancy Miller",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "EdD"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology",
+      "theoretical ecology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Led groundbreaking research in ecology",
+      "Recipient of prestigious awards in Ecology",
+      "Mentored 10 doctoral students",
+      "Developed innovative methodologies in ecology"
+    ],
+    "biography": "Nancy Miller is a distinguished expert in Ecology with 21 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of ecology",
+    "traits": [
+      "principled",
+      "flexible",
+      "reform-minded",
+      "data-driven",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0324",
+    "name": "Christopher Adams",
+    "title": "Lead",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology",
+      "theoretical ecology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in ecology",
+      "Recipient of prestigious awards in Ecology",
+      "Keynote speaker at international Ecology conferences"
+    ],
+    "biography": "Christopher Adams is a distinguished expert in Ecology with 16 years of experience. Known for groundbreaking contributions to the field, Christopher has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in ecology",
+    "traits": [
+      "practical",
+      "intuitive",
+      "systematic",
+      "empirical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0325",
+    "name": "Jeffrey Green",
+    "title": "Chief",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Led groundbreaking research in ecology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in ecology"
+    ],
+    "biography": "Jeffrey Green is a distinguished expert in Ecology with 14 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of ecology",
+    "traits": [
+      "independent",
+      "bold",
+      "practical",
+      "intuitive",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0326",
+    "name": "Gerald Woods",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD",
+      "MSc",
+      "LLM"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology",
+      "theoretical ecology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Served on editorial boards of leading Ecology journals",
+      "Mentored 7 doctoral students",
+      "Keynote speaker at international Ecology conferences",
+      "Published 30 peer-reviewed papers in Ecology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Gerald Woods is a distinguished expert in Ecology with 15 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "practical application of ecology principles",
+    "traits": [
+      "visionary",
+      "holistic",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0327",
+    "name": "Margaret Herrera",
+    "title": "Professor",
+    "credentials": [
+      "MBA",
+      "OD"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Ecology",
+      "Led groundbreaking research in ecology",
+      "Mentored 13 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Margaret Herrera is a distinguished expert in Ecology with 26 years of experience. Known for groundbreaking contributions to the field, Margaret has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "practical application of ecology principles",
+    "traits": [
+      "flexible",
+      "data-driven",
+      "practical",
+      "systematic",
+      "innovative",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0328",
+    "name": "Amy Vargas",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "DBA",
+      "DNP"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology",
+      "theoretical ecology"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Mentored 9 doctoral students",
+      "Developed innovative methodologies in ecology",
+      "Keynote speaker at international Ecology conferences",
+      "Recipient of prestigious awards in Ecology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Amy Vargas is a distinguished expert in Ecology with 18 years of experience. Known for groundbreaking contributions to the field, Amy has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of ecology",
+    "traits": [
+      "traditional",
+      "flexible",
+      "empirical",
+      "systematic",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0329",
+    "name": "Henry Nguyen",
+    "title": "Senior",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Keynote speaker at international Ecology conferences",
+      "Mentored 16 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Henry Nguyen is a distinguished expert in Ecology with 33 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to ecology",
+    "traits": [
+      "intuitive",
+      "visionary",
+      "traditional",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0330",
+    "name": "Jessica Bennett",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "MSc"
+    ],
+    "field": "Ecology",
+    "specializations": [
+      "advanced ecology",
+      "applied ecology",
+      "theoretical ecology"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Published 56 peer-reviewed papers in Ecology",
+      "Keynote speaker at international Ecology conferences"
+    ],
+    "biography": "Jessica Bennett is a distinguished expert in Ecology with 28 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of ecology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to ecology",
+    "traits": [
+      "systematic",
+      "interdisciplinary",
+      "intuitive",
+      "holistic"
+    ]
+  }
+]

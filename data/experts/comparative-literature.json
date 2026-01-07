@@ -1,0 +1,238 @@
+[
+  {
+    "id": "expert-0622",
+    "name": "Pamela McDonald",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in comparative literature",
+      "Keynote speaker at international Comparative Literature conferences",
+      "Published 48 peer-reviewed papers in Comparative Literature",
+      "Served on editorial boards of leading Comparative Literature journals"
+    ],
+    "biography": "Pamela McDonald is a distinguished expert in Comparative Literature with 24 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to comparative literature",
+    "traits": [
+      "creative",
+      "data-driven",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0623",
+    "name": "Jean Jenkins",
+    "title": "Senior",
+    "credentials": [
+      "LLM",
+      "JD"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Comparative Literature",
+      "Keynote speaker at international Comparative Literature conferences",
+      "Published 70 peer-reviewed papers in Comparative Literature"
+    ],
+    "biography": "Jean Jenkins is a distinguished expert in Comparative Literature with 35 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to comparative literature",
+    "traits": [
+      "independent",
+      "interdisciplinary",
+      "principled",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0624",
+    "name": "Mary Stevens",
+    "title": "Senior",
+    "credentials": [
+      "MA",
+      "LLM",
+      "DSc"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Developed innovative methodologies in comparative literature",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Comparative Literature",
+      "Led groundbreaking research in comparative literature"
+    ],
+    "biography": "Mary Stevens is a distinguished expert in Comparative Literature with 42 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of comparative literature",
+    "traits": [
+      "tactical",
+      "creative",
+      "evidence-based",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0625",
+    "name": "Benjamin Russell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MPH",
+      "DDS"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature",
+      "theoretical comparative literature"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 72 peer-reviewed papers in Comparative Literature",
+      "Led groundbreaking research in comparative literature",
+      "Recipient of prestigious awards in Comparative Literature"
+    ],
+    "biography": "Benjamin Russell is a distinguished expert in Comparative Literature with 36 years of experience. Known for groundbreaking contributions to the field, Benjamin has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of comparative literature",
+    "traits": [
+      "holistic",
+      "methodical",
+      "empirical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0626",
+    "name": "John Carter",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP",
+      "MBA",
+      "DSc"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Comparative Literature",
+      "Developed innovative methodologies in comparative literature"
+    ],
+    "biography": "John Carter is a distinguished expert in Comparative Literature with 29 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on comparative literature",
+    "traits": [
+      "strategic",
+      "pragmatic",
+      "reform-minded",
+      "systematic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0627",
+    "name": "Abigail Castro",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT",
+      "DSc",
+      "MA"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature",
+      "theoretical comparative literature"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Led groundbreaking research in comparative literature",
+      "Keynote speaker at international Comparative Literature conferences"
+    ],
+    "biography": "Abigail Castro is a distinguished expert in Comparative Literature with 28 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of comparative literature",
+    "traits": [
+      "bold",
+      "reform-minded",
+      "visionary",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0628",
+    "name": "Gloria Foster",
+    "title": "Director",
+    "credentials": [
+      "DSc",
+      "MFA"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Comparative Literature journals",
+      "Keynote speaker at international Comparative Literature conferences",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Gloria Foster is a distinguished expert in Comparative Literature with 11 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "practical application of comparative literature principles",
+    "traits": [
+      "holistic",
+      "specialized",
+      "independent",
+      "innovative",
+      "data-driven",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0629",
+    "name": "Gregory Jones",
+    "title": "Senior",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Comparative Literature",
+    "specializations": [
+      "advanced comparative literature",
+      "applied comparative literature"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Comparative Literature",
+      "Developed innovative methodologies in comparative literature",
+      "Keynote speaker at international Comparative Literature conferences",
+      "Led groundbreaking research in comparative literature"
+    ],
+    "biography": "Gregory Jones is a distinguished expert in Comparative Literature with 15 years of experience. Known for groundbreaking contributions to the field, Gregory has shaped modern understanding of comparative literature through extensive research, teaching, and practice.",
+    "perspective": "practical application of comparative literature principles",
+    "traits": [
+      "theoretical",
+      "collaborative",
+      "methodical",
+      "tactical"
+    ]
+  }
+]

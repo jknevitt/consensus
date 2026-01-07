@@ -1,0 +1,174 @@
+[
+  {
+    "id": "expert-1035",
+    "name": "Carol James",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "LLM"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in athletic training",
+      "Keynote speaker at international Athletic Training conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Carol James is a distinguished expert in Athletic Training with 41 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on athletic training",
+    "traits": [
+      "specialized",
+      "traditional",
+      "independent",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-1036",
+    "name": "Cynthia Martinez",
+    "title": "Lead",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Mentored 5 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in athletic training",
+      "Keynote speaker at international Athletic Training conferences",
+      "Recipient of prestigious awards in Athletic Training"
+    ],
+    "biography": "Cynthia Martinez is a distinguished expert in Athletic Training with 10 years of experience. Known for groundbreaking contributions to the field, Cynthia has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "practical application of athletic training principles",
+    "traits": [
+      "independent",
+      "pragmatic",
+      "tactical",
+      "methodical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-1037",
+    "name": "Victoria Cooper",
+    "title": "Principal",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Developed innovative methodologies in athletic training",
+      "Served on editorial boards of leading Athletic Training journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Victoria Cooper is a distinguished expert in Athletic Training with 35 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "practical application of athletic training principles",
+    "traits": [
+      "bold",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-1038",
+    "name": "Thomas King",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "MD"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Athletic Training",
+      "Led groundbreaking research in athletic training",
+      "Keynote speaker at international Athletic Training conferences",
+      "Recipient of prestigious awards in Athletic Training"
+    ],
+    "biography": "Thomas King is a distinguished expert in Athletic Training with 13 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on athletic training",
+    "traits": [
+      "specialized",
+      "tactical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-1039",
+    "name": "Angela Simmons",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "LLM",
+      "DVM"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training",
+      "theoretical athletic training"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in athletic training",
+      "Served on editorial boards of leading Athletic Training journals",
+      "Recipient of prestigious awards in Athletic Training"
+    ],
+    "biography": "Angela Simmons is a distinguished expert in Athletic Training with 42 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on athletic training",
+    "traits": [
+      "innovative",
+      "progressive",
+      "independent",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-1040",
+    "name": "Hannah Brooks",
+    "title": "Chief",
+    "credentials": [
+      "DVM",
+      "PharmD"
+    ],
+    "field": "Athletic Training",
+    "specializations": [
+      "advanced athletic training",
+      "applied athletic training"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in athletic training",
+      "Served on editorial boards of leading Athletic Training journals",
+      "Keynote speaker at international Athletic Training conferences"
+    ],
+    "biography": "Hannah Brooks is a distinguished expert in Athletic Training with 31 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of athletic training through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of athletic training",
+    "traits": [
+      "bold",
+      "visionary",
+      "analytical",
+      "flexible",
+      "intuitive"
+    ]
+  }
+]

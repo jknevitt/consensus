@@ -1,0 +1,176 @@
+[
+  {
+    "id": "expert-0358",
+    "name": "Karen Gutierrez",
+    "title": "Senior",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Published 70 peer-reviewed papers in Molecular Biology",
+      "Developed innovative methodologies in molecular biology"
+    ],
+    "biography": "Karen Gutierrez is a distinguished expert in Molecular Biology with 35 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of molecular biology principles",
+    "traits": [
+      "creative",
+      "systematic",
+      "bold",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0359",
+    "name": "Henry Harris",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DDS",
+      "DVM"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology",
+      "theoretical molecular biology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Molecular Biology",
+      "Led groundbreaking research in molecular biology",
+      "Recipient of prestigious awards in Molecular Biology",
+      "Developed innovative methodologies in molecular biology",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Henry Harris is a distinguished expert in Molecular Biology with 21 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of molecular biology principles",
+    "traits": [
+      "analytical",
+      "holistic",
+      "collaborative",
+      "empirical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0360",
+    "name": "Hannah Ruiz",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "MD"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Led groundbreaking research in molecular biology",
+      "Mentored 13 doctoral students",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Molecular Biology conferences"
+    ],
+    "biography": "Hannah Ruiz is a distinguished expert in Molecular Biology with 27 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to molecular biology",
+    "traits": [
+      "systematic",
+      "holistic",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0361",
+    "name": "Jordan Wright",
+    "title": "Dr.",
+    "credentials": [
+      "DVM",
+      "MSc"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology",
+      "theoretical molecular biology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Published 68 peer-reviewed papers in Molecular Biology",
+      "Led groundbreaking research in molecular biology",
+      "Recipient of prestigious awards in Molecular Biology",
+      "Keynote speaker at international Molecular Biology conferences"
+    ],
+    "biography": "Jordan Wright is a distinguished expert in Molecular Biology with 34 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in molecular biology",
+    "traits": [
+      "specialized",
+      "tactical",
+      "cautious",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0362",
+    "name": "Amanda Hamilton",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Molecular Biology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in molecular biology",
+      "Keynote speaker at international Molecular Biology conferences"
+    ],
+    "biography": "Amanda Hamilton is a distinguished expert in Molecular Biology with 10 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of molecular biology",
+    "traits": [
+      "progressive",
+      "theoretical",
+      "flexible",
+      "innovative",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0363",
+    "name": "Megan Vargas",
+    "title": "Chief",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Molecular Biology",
+    "specializations": [
+      "advanced molecular biology",
+      "applied molecular biology",
+      "theoretical molecular biology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Mentored 21 doctoral students",
+      "Keynote speaker at international Molecular Biology conferences",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Molecular Biology journals"
+    ],
+    "biography": "Megan Vargas is a distinguished expert in Molecular Biology with 42 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of molecular biology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of molecular biology",
+    "traits": [
+      "creative",
+      "empirical"
+    ]
+  }
+]

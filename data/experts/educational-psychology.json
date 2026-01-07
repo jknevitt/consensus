@@ -1,0 +1,178 @@
+[
+  {
+    "id": "expert-0759",
+    "name": "Karen Medina",
+    "title": "Assistant Professor",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Developed innovative methodologies in educational psychology",
+      "Served on editorial boards of leading Educational Psychology journals",
+      "Recipient of prestigious awards in Educational Psychology",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Educational Psychology conferences"
+    ],
+    "biography": "Karen Medina is a distinguished expert in Educational Psychology with 33 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of educational psychology",
+    "traits": [
+      "reform-minded",
+      "tactical",
+      "strategic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0760",
+    "name": "Charles Brooks",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "EdD",
+      "DPT",
+      "LLM"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology",
+      "theoretical educational psychology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Keynote speaker at international Educational Psychology conferences",
+      "Published 46 peer-reviewed papers in Educational Psychology",
+      "Developed innovative methodologies in educational psychology",
+      "Mentored 11 doctoral students",
+      "Led groundbreaking research in educational psychology"
+    ],
+    "biography": "Charles Brooks is a distinguished expert in Educational Psychology with 23 years of experience. Known for groundbreaking contributions to the field, Charles has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of educational psychology",
+    "traits": [
+      "cautious",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0761",
+    "name": "Julie Price",
+    "title": "Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Educational Psychology",
+      "Recipient of prestigious awards in Educational Psychology",
+      "Led groundbreaking research in educational psychology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Julie Price is a distinguished expert in Educational Psychology with 30 years of experience. Known for groundbreaking contributions to the field, Julie has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to educational psychology",
+    "traits": [
+      "progressive",
+      "evidence-based",
+      "conservative",
+      "detail-oriented",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0762",
+    "name": "Stephanie Patterson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD",
+      "DPhil"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Educational Psychology journals",
+      "Published 20 peer-reviewed papers in Educational Psychology"
+    ],
+    "biography": "Stephanie Patterson is a distinguished expert in Educational Psychology with 10 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on educational psychology",
+    "traits": [
+      "balanced",
+      "conservative",
+      "cautious",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0763",
+    "name": "Patrick Jordan",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "DDS"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Keynote speaker at international Educational Psychology conferences",
+      "Served on editorial boards of leading Educational Psychology journals",
+      "Led groundbreaking research in educational psychology"
+    ],
+    "biography": "Patrick Jordan is a distinguished expert in Educational Psychology with 24 years of experience. Known for groundbreaking contributions to the field, Patrick has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in educational psychology",
+    "traits": [
+      "tactical",
+      "principled",
+      "cautious",
+      "creative",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0764",
+    "name": "Lawrence Jones",
+    "title": "Assistant Professor",
+    "credentials": [
+      "JD",
+      "PharmD",
+      "PsyD"
+    ],
+    "field": "Educational Psychology",
+    "specializations": [
+      "advanced educational psychology",
+      "applied educational psychology"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Published 44 peer-reviewed papers in Educational Psychology",
+      "Developed innovative methodologies in educational psychology",
+      "Recipient of prestigious awards in Educational Psychology",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Lawrence Jones is a distinguished expert in Educational Psychology with 22 years of experience. Known for groundbreaking contributions to the field, Lawrence has shaped modern understanding of educational psychology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on educational psychology",
+    "traits": [
+      "cautious",
+      "strategic",
+      "data-driven",
+      "holistic",
+      "collaborative"
+    ]
+  }
+]

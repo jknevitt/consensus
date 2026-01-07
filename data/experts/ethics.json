@@ -1,0 +1,207 @@
+[
+  {
+    "id": "expert-0560",
+    "name": "Joseph Richardson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD",
+      "MSc"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics",
+      "theoretical ethics"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Served on editorial boards of leading Ethics journals",
+      "Keynote speaker at international Ethics conferences"
+    ],
+    "biography": "Joseph Richardson is a distinguished expert in Ethics with 41 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "practical application of ethics principles",
+    "traits": [
+      "detail-oriented",
+      "reform-minded",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0561",
+    "name": "Deborah Medina",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics",
+      "theoretical ethics"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Recipient of prestigious awards in Ethics",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Ethics journals",
+      "Led groundbreaking research in ethics",
+      "Keynote speaker at international Ethics conferences"
+    ],
+    "biography": "Deborah Medina is a distinguished expert in Ethics with 10 years of experience. Known for groundbreaking contributions to the field, Deborah has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on ethics",
+    "traits": [
+      "theoretical",
+      "visionary",
+      "specialized",
+      "innovative",
+      "data-driven",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0562",
+    "name": "Jeremy Porter",
+    "title": "Professor",
+    "credentials": [
+      "DPT",
+      "MA",
+      "DDS"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Ethics",
+      "Mentored 6 doctoral students",
+      "Keynote speaker at international Ethics conferences",
+      "Served on editorial boards of leading Ethics journals"
+    ],
+    "biography": "Jeremy Porter is a distinguished expert in Ethics with 12 years of experience. Known for groundbreaking contributions to the field, Jeremy has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "practical application of ethics principles",
+    "traits": [
+      "strategic",
+      "independent",
+      "reform-minded",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0563",
+    "name": "Larry Mitchell",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "MSc"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Published 52 peer-reviewed papers in Ethics",
+      "Keynote speaker at international Ethics conferences"
+    ],
+    "biography": "Larry Mitchell is a distinguished expert in Ethics with 26 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to ethics",
+    "traits": [
+      "empirical",
+      "creative",
+      "independent",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0564",
+    "name": "Peter Webb",
+    "title": "Lead",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Developed innovative methodologies in ethics",
+      "Recipient of prestigious awards in Ethics",
+      "Led groundbreaking research in ethics",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Peter Webb is a distinguished expert in Ethics with 17 years of experience. Known for groundbreaking contributions to the field, Peter has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in ethics",
+    "traits": [
+      "practical",
+      "theoretical",
+      "visionary",
+      "pragmatic",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0565",
+    "name": "Megan Moore",
+    "title": "Principal",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics",
+      "theoretical ethics"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Ethics journals",
+      "Published 64 peer-reviewed papers in Ethics"
+    ],
+    "biography": "Megan Moore is a distinguished expert in Ethics with 32 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to ethics",
+    "traits": [
+      "strategic",
+      "empirical",
+      "data-driven",
+      "intuitive",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0566",
+    "name": "Sharon Simpson",
+    "title": "Lead",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Ethics",
+    "specializations": [
+      "advanced ethics",
+      "applied ethics",
+      "theoretical ethics"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Recipient of prestigious awards in Ethics",
+      "Led groundbreaking research in ethics",
+      "Mentored 8 doctoral students",
+      "Keynote speaker at international Ethics conferences"
+    ],
+    "biography": "Sharon Simpson is a distinguished expert in Ethics with 16 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of ethics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to ethics",
+    "traits": [
+      "strategic",
+      "interdisciplinary",
+      "principled",
+      "innovative"
+    ]
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": "expert-0040",
+    "name": "Douglas Clark",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "MPH"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health",
+      "theoretical public health"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Public Health",
+      "Served on editorial boards of leading Public Health journals",
+      "Developed innovative methodologies in public health",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Douglas Clark is a distinguished expert in Public Health with 21 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public health",
+    "traits": [
+      "evidence-based",
+      "interdisciplinary",
+      "flexible",
+      "conservative",
+      "progressive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0041",
+    "name": "Karen Castillo",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "OD",
+      "DDS",
+      "JD"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Public Health",
+      "Developed innovative methodologies in public health",
+      "Led groundbreaking research in public health",
+      "Mentored 16 doctoral students",
+      "Published 64 peer-reviewed papers in Public Health"
+    ],
+    "biography": "Karen Castillo is a distinguished expert in Public Health with 32 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of public health",
+    "traits": [
+      "tactical",
+      "detail-oriented",
+      "visionary",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0042",
+    "name": "Paul Collins",
+    "title": "Dr.",
+    "credentials": [
+      "MA",
+      "DVM"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health",
+      "theoretical public health"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Public Health journals",
+      "Mentored 11 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in public health"
+    ],
+    "biography": "Paul Collins is a distinguished expert in Public Health with 23 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public health",
+    "traits": [
+      "independent",
+      "holistic",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0043",
+    "name": "Frances James",
+    "title": "Director",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health",
+      "theoretical public health"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Keynote speaker at international Public Health conferences",
+      "Published 62 peer-reviewed papers in Public Health",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Frances James is a distinguished expert in Public Health with 31 years of experience. Known for groundbreaking contributions to the field, Frances has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on public health",
+    "traits": [
+      "flexible",
+      "empirical",
+      "data-driven",
+      "reform-minded",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0044",
+    "name": "Jessica West",
+    "title": "Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health",
+      "theoretical public health"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Led groundbreaking research in public health",
+      "Keynote speaker at international Public Health conferences",
+      "Recipient of prestigious awards in Public Health",
+      "Principal investigator on major research grants",
+      "Published 40 peer-reviewed papers in Public Health"
+    ],
+    "biography": "Jessica West is a distinguished expert in Public Health with 20 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to public health",
+    "traits": [
+      "traditional",
+      "reform-minded",
+      "data-driven",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0045",
+    "name": "Rachel Henry",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD",
+      "DBA",
+      "MPH"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health",
+      "theoretical public health"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Keynote speaker at international Public Health conferences",
+      "Principal investigator on major research grants",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Rachel Henry is a distinguished expert in Public Health with 27 years of experience. Known for groundbreaking contributions to the field, Rachel has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on public health",
+    "traits": [
+      "data-driven",
+      "tactical",
+      "bold",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0046",
+    "name": "Ronald Thomas",
+    "title": "Professor",
+    "credentials": [
+      "EdD",
+      "PharmD",
+      "DVM"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 54 peer-reviewed papers in Public Health",
+      "Recipient of prestigious awards in Public Health",
+      "Keynote speaker at international Public Health conferences"
+    ],
+    "biography": "Ronald Thomas is a distinguished expert in Public Health with 27 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "practical application of public health principles",
+    "traits": [
+      "evidence-based",
+      "interdisciplinary",
+      "intuitive",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0047",
+    "name": "John Phillips",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Public Health",
+    "specializations": [
+      "advanced public health",
+      "applied public health"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Mentored 9 doctoral students",
+      "Served on editorial boards of leading Public Health journals",
+      "Keynote speaker at international Public Health conferences",
+      "Published 38 peer-reviewed papers in Public Health"
+    ],
+    "biography": "John Phillips is a distinguished expert in Public Health with 19 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of public health through extensive research, teaching, and practice.",
+    "perspective": "practical application of public health principles",
+    "traits": [
+      "intuitive",
+      "bold",
+      "specialized",
+      "flexible",
+      "detail-oriented",
+      "traditional"
+    ]
+  }
+]

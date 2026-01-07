@@ -1,0 +1,235 @@
+[
+  {
+    "id": "expert-0331",
+    "name": "Jesse Porter",
+    "title": "Chief",
+    "credentials": [
+      "PharmD",
+      "JD"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Published 72 peer-reviewed papers in Botany",
+      "Keynote speaker at international Botany conferences",
+      "Served on editorial boards of leading Botany journals"
+    ],
+    "biography": "Jesse Porter is a distinguished expert in Botany with 36 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on botany",
+    "traits": [
+      "tactical",
+      "theoretical",
+      "intuitive",
+      "bold",
+      "practical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0332",
+    "name": "Joyce Gutierrez",
+    "title": "Senior",
+    "credentials": [
+      "LLM",
+      "DDS"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany",
+      "theoretical botany"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Recipient of prestigious awards in Botany",
+      "Led groundbreaking research in botany",
+      "Keynote speaker at international Botany conferences",
+      "Served on editorial boards of leading Botany journals",
+      "Developed innovative methodologies in botany"
+    ],
+    "biography": "Joyce Gutierrez is a distinguished expert in Botany with 34 years of experience. Known for groundbreaking contributions to the field, Joyce has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "practical application of botany principles",
+    "traits": [
+      "strategic",
+      "pragmatic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0333",
+    "name": "Cynthia Murphy",
+    "title": "Lead",
+    "credentials": [
+      "DSc",
+      "MBA"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Led groundbreaking research in botany",
+      "Principal investigator on major research grants",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Cynthia Murphy is a distinguished expert in Botany with 30 years of experience. Known for groundbreaking contributions to the field, Cynthia has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on botany",
+    "traits": [
+      "independent",
+      "balanced",
+      "strategic",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0334",
+    "name": "Madison Hayes",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MA",
+      "PhD",
+      "DBA"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany",
+      "theoretical botany"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Served on editorial boards of leading Botany journals",
+      "Keynote speaker at international Botany conferences",
+      "Mentored 19 doctoral students"
+    ],
+    "biography": "Madison Hayes is a distinguished expert in Botany with 39 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in botany",
+    "traits": [
+      "detail-oriented",
+      "evidence-based",
+      "flexible",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0335",
+    "name": "Jean Henry",
+    "title": "Principal",
+    "credentials": [
+      "DSc",
+      "MBA",
+      "OD"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Botany",
+      "Led groundbreaking research in botany",
+      "Recipient of prestigious awards in Botany"
+    ],
+    "biography": "Jean Henry is a distinguished expert in Botany with 13 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of botany",
+    "traits": [
+      "pragmatic",
+      "data-driven",
+      "independent",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0336",
+    "name": "Heather Kim",
+    "title": "Lead",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany",
+      "theoretical botany"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Developed innovative methodologies in botany",
+      "Published 56 peer-reviewed papers in Botany",
+      "Mentored 14 doctoral students",
+      "Led groundbreaking research in botany",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Heather Kim is a distinguished expert in Botany with 28 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to botany",
+    "traits": [
+      "traditional",
+      "detail-oriented",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0337",
+    "name": "Tyler Morgan",
+    "title": "Director",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Published 74 peer-reviewed papers in Botany",
+      "Keynote speaker at international Botany conferences",
+      "Led groundbreaking research in botany"
+    ],
+    "biography": "Tyler Morgan is a distinguished expert in Botany with 37 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to botany",
+    "traits": [
+      "interdisciplinary",
+      "theoretical",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0338",
+    "name": "Anna Miller",
+    "title": "Chief",
+    "credentials": [
+      "DPT",
+      "DNP"
+    ],
+    "field": "Botany",
+    "specializations": [
+      "advanced botany",
+      "applied botany"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Botany",
+      "Mentored 14 doctoral students",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Botany conferences"
+    ],
+    "biography": "Anna Miller is a distinguished expert in Botany with 29 years of experience. Known for groundbreaking contributions to the field, Anna has shaped modern understanding of botany through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on botany",
+    "traits": [
+      "practical",
+      "conservative",
+      "visionary",
+      "systematic"
+    ]
+  }
+]

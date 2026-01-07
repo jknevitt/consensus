@@ -1,0 +1,244 @@
+[
+  {
+    "id": "expert-0413",
+    "name": "Roger Hamilton",
+    "title": "Chief",
+    "credentials": [
+      "JD",
+      "MFA"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science",
+      "theoretical data science"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Keynote speaker at international Data Science conferences",
+      "Recipient of prestigious awards in Data Science",
+      "Led groundbreaking research in data science"
+    ],
+    "biography": "Roger Hamilton is a distinguished expert in Data Science with 23 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in data science",
+    "traits": [
+      "bold",
+      "theoretical",
+      "tactical",
+      "visionary",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0414",
+    "name": "Donna Murphy",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "MPH",
+      "DPT"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science",
+      "theoretical data science"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Data Science journals",
+      "Published 60 peer-reviewed papers in Data Science",
+      "Led groundbreaking research in data science",
+      "Keynote speaker at international Data Science conferences",
+      "Recipient of prestigious awards in Data Science"
+    ],
+    "biography": "Donna Murphy is a distinguished expert in Data Science with 30 years of experience. Known for groundbreaking contributions to the field, Donna has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to data science",
+    "traits": [
+      "practical",
+      "specialized",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0415",
+    "name": "Carol Bryant",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Keynote speaker at international Data Science conferences",
+      "Published 40 peer-reviewed papers in Data Science",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in data science",
+      "Developed innovative methodologies in data science"
+    ],
+    "biography": "Carol Bryant is a distinguished expert in Data Science with 20 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "practical application of data science principles",
+    "traits": [
+      "conservative",
+      "reform-minded",
+      "methodical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0416",
+    "name": "Joseph Henry",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science",
+      "theoretical data science"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Led groundbreaking research in data science",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Data Science"
+    ],
+    "biography": "Joseph Henry is a distinguished expert in Data Science with 13 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in data science",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "specialized",
+      "pragmatic",
+      "practical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0417",
+    "name": "Jordan Wright",
+    "title": "Director",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Published 88 peer-reviewed papers in Data Science",
+      "Keynote speaker at international Data Science conferences",
+      "Led groundbreaking research in data science"
+    ],
+    "biography": "Jordan Wright is a distinguished expert in Data Science with 44 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to data science",
+    "traits": [
+      "traditional",
+      "methodical",
+      "theoretical",
+      "progressive",
+      "pragmatic",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0418",
+    "name": "Amanda Romero",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "DSc"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in data science",
+      "Recipient of prestigious awards in Data Science"
+    ],
+    "biography": "Amanda Romero is a distinguished expert in Data Science with 16 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in data science",
+    "traits": [
+      "practical",
+      "interdisciplinary",
+      "visionary",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0419",
+    "name": "Justin Scott",
+    "title": "Lead",
+    "credentials": [
+      "PsyD",
+      "DPhil"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science",
+      "theoretical data science"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Served on editorial boards of leading Data Science journals",
+      "Led groundbreaking research in data science",
+      "Published 66 peer-reviewed papers in Data Science",
+      "Developed innovative methodologies in data science",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Justin Scott is a distinguished expert in Data Science with 33 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in data science",
+    "traits": [
+      "data-driven",
+      "flexible",
+      "principled",
+      "holistic",
+      "strategic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0420",
+    "name": "Pamela Morris",
+    "title": "Professor",
+    "credentials": [
+      "PharmD",
+      "DPT",
+      "PhD"
+    ],
+    "field": "Data Science",
+    "specializations": [
+      "advanced data science",
+      "applied data science",
+      "theoretical data science"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Recipient of prestigious awards in Data Science",
+      "Keynote speaker at international Data Science conferences",
+      "Mentored 11 doctoral students",
+      "Published 44 peer-reviewed papers in Data Science",
+      "Developed innovative methodologies in data science"
+    ],
+    "biography": "Pamela Morris is a distinguished expert in Data Science with 22 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of data science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in data science",
+    "traits": [
+      "traditional",
+      "empirical",
+      "cautious",
+      "intuitive"
+    ]
+  }
+]

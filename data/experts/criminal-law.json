@@ -1,0 +1,208 @@
+[
+  {
+    "id": "expert-0111",
+    "name": "Martha Brooks",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law",
+      "theoretical criminal law"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Served on editorial boards of leading Criminal Law journals",
+      "Keynote speaker at international Criminal Law conferences",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Martha Brooks is a distinguished expert in Criminal Law with 12 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "practical application of criminal law principles",
+    "traits": [
+      "progressive",
+      "intuitive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0112",
+    "name": "Teresa Clark",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MFA",
+      "OD"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law",
+      "theoretical criminal law"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Criminal Law journals",
+      "Keynote speaker at international Criminal Law conferences"
+    ],
+    "biography": "Teresa Clark is a distinguished expert in Criminal Law with 10 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "practical application of criminal law principles",
+    "traits": [
+      "bold",
+      "tactical",
+      "practical",
+      "intuitive",
+      "balanced",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0113",
+    "name": "Jerry Howard",
+    "title": "Chief",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law",
+      "theoretical criminal law"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in criminal law",
+      "Published 70 peer-reviewed papers in Criminal Law",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jerry Howard is a distinguished expert in Criminal Law with 35 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to criminal law",
+    "traits": [
+      "empirical",
+      "evidence-based",
+      "theoretical",
+      "specialized",
+      "balanced",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0114",
+    "name": "Angela Kennedy",
+    "title": "Professor",
+    "credentials": [
+      "OD",
+      "DBA",
+      "DPT"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law",
+      "theoretical criminal law"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Published 72 peer-reviewed papers in Criminal Law",
+      "Led groundbreaking research in criminal law",
+      "Recipient of prestigious awards in Criminal Law",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Angela Kennedy is a distinguished expert in Criminal Law with 36 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of criminal law",
+    "traits": [
+      "empirical",
+      "tactical",
+      "practical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0115",
+    "name": "Linda Johnson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law",
+      "theoretical criminal law"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Recipient of prestigious awards in Criminal Law",
+      "Led groundbreaking research in criminal law",
+      "Published 34 peer-reviewed papers in Criminal Law"
+    ],
+    "biography": "Linda Johnson is a distinguished expert in Criminal Law with 17 years of experience. Known for groundbreaking contributions to the field, Linda has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of criminal law",
+    "traits": [
+      "pragmatic",
+      "balanced",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0116",
+    "name": "Jacob Webb",
+    "title": "Director",
+    "credentials": [
+      "MD",
+      "DPhil"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Recipient of prestigious awards in Criminal Law",
+      "Developed innovative methodologies in criminal law",
+      "Led groundbreaking research in criminal law"
+    ],
+    "biography": "Jacob Webb is a distinguished expert in Criminal Law with 28 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to criminal law",
+    "traits": [
+      "detail-oriented",
+      "empirical",
+      "data-driven",
+      "independent",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0117",
+    "name": "Jesse Hernandez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MFA",
+      "DBA"
+    ],
+    "field": "Criminal Law",
+    "specializations": [
+      "advanced criminal law",
+      "applied criminal law"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Served on editorial boards of leading Criminal Law journals",
+      "Developed innovative methodologies in criminal law",
+      "Published 24 peer-reviewed papers in Criminal Law",
+      "Keynote speaker at international Criminal Law conferences"
+    ],
+    "biography": "Jesse Hernandez is a distinguished expert in Criminal Law with 12 years of experience. Known for groundbreaking contributions to the field, Jesse has shaped modern understanding of criminal law through extensive research, teaching, and practice.",
+    "perspective": "practical application of criminal law principles",
+    "traits": [
+      "innovative",
+      "reform-minded",
+      "practical",
+      "analytical",
+      "data-driven"
+    ]
+  }
+]

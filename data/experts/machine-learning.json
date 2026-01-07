@@ -1,0 +1,240 @@
+[
+  {
+    "id": "expert-0378",
+    "name": "Roger Guzman",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "MSc"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Recipient of prestigious awards in Machine Learning",
+      "Mentored 6 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Roger Guzman is a distinguished expert in Machine Learning with 13 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to machine learning",
+    "traits": [
+      "innovative",
+      "detail-oriented",
+      "intuitive",
+      "progressive",
+      "data-driven",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0379",
+    "name": "Scott Hayes",
+    "title": "Director",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Keynote speaker at international Machine Learning conferences",
+      "Led groundbreaking research in machine learning",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Scott Hayes is a distinguished expert in Machine Learning with 34 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to machine learning",
+    "traits": [
+      "evidence-based",
+      "bold",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0380",
+    "name": "Virginia Morgan",
+    "title": "Chief",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in machine learning",
+      "Recipient of prestigious awards in Machine Learning",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Virginia Morgan is a distinguished expert in Machine Learning with 27 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on machine learning",
+    "traits": [
+      "balanced",
+      "innovative",
+      "practical",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0381",
+    "name": "Stephanie White",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MPH",
+      "JD",
+      "OD"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 42 peer-reviewed papers in Machine Learning",
+      "Recipient of prestigious awards in Machine Learning",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Stephanie White is a distinguished expert in Machine Learning with 21 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to machine learning",
+    "traits": [
+      "practical",
+      "bold",
+      "independent",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0382",
+    "name": "Teresa Hall",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA",
+      "MSc",
+      "PharmD"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Led groundbreaking research in machine learning",
+      "Keynote speaker at international Machine Learning conferences",
+      "Developed innovative methodologies in machine learning",
+      "Published 42 peer-reviewed papers in Machine Learning"
+    ],
+    "biography": "Teresa Hall is a distinguished expert in Machine Learning with 21 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "practical application of machine learning principles",
+    "traits": [
+      "intuitive",
+      "strategic",
+      "visionary",
+      "traditional",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0383",
+    "name": "Kevin Ramirez",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "DPhil"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Machine Learning",
+      "Led groundbreaking research in machine learning",
+      "Recipient of prestigious awards in Machine Learning",
+      "Developed innovative methodologies in machine learning"
+    ],
+    "biography": "Kevin Ramirez is a distinguished expert in Machine Learning with 29 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on machine learning",
+    "traits": [
+      "traditional",
+      "detail-oriented",
+      "collaborative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0384",
+    "name": "Maria Bailey",
+    "title": "Principal",
+    "credentials": [
+      "DVM",
+      "DNP"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning",
+      "theoretical machine learning"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Recipient of prestigious awards in Machine Learning",
+      "Served on editorial boards of leading Machine Learning journals",
+      "Led groundbreaking research in machine learning"
+    ],
+    "biography": "Maria Bailey is a distinguished expert in Machine Learning with 23 years of experience. Known for groundbreaking contributions to the field, Maria has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on machine learning",
+    "traits": [
+      "tactical",
+      "specialized",
+      "bold",
+      "systematic",
+      "pragmatic",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0385",
+    "name": "Deborah Alexander",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Machine Learning",
+    "specializations": [
+      "advanced machine learning",
+      "applied machine learning"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in machine learning",
+      "Recipient of prestigious awards in Machine Learning",
+      "Keynote speaker at international Machine Learning conferences",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Deborah Alexander is a distinguished expert in Machine Learning with 27 years of experience. Known for groundbreaking contributions to the field, Deborah has shaped modern understanding of machine learning through extensive research, teaching, and practice.",
+    "perspective": "practical application of machine learning principles",
+    "traits": [
+      "creative",
+      "conservative",
+      "reform-minded",
+      "evidence-based"
+    ]
+  }
+]

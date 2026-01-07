@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expert-0850",
+    "name": "Maria Long",
+    "title": "Dr.",
+    "credentials": [
+      "JD",
+      "DBA",
+      "MA"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Led groundbreaking research in conservation biology",
+      "Keynote speaker at international Conservation Biology conferences",
+      "Served on editorial boards of leading Conservation Biology journals",
+      "Mentored 22 doctoral students"
+    ],
+    "biography": "Maria Long is a distinguished expert in Conservation Biology with 44 years of experience. Known for groundbreaking contributions to the field, Maria has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of conservation biology principles",
+    "traits": [
+      "methodical",
+      "balanced",
+      "bold",
+      "innovative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0851",
+    "name": "Ashley Sanchez",
+    "title": "Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Developed innovative methodologies in conservation biology",
+      "Led groundbreaking research in conservation biology",
+      "Served on editorial boards of leading Conservation Biology journals"
+    ],
+    "biography": "Ashley Sanchez is a distinguished expert in Conservation Biology with 23 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on conservation biology",
+    "traits": [
+      "bold",
+      "analytical",
+      "interdisciplinary",
+      "flexible",
+      "methodical",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0852",
+    "name": "Kimberly Sanchez",
+    "title": "Professor",
+    "credentials": [
+      "MBA",
+      "PharmD"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology",
+      "theoretical conservation biology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Developed innovative methodologies in conservation biology",
+      "Mentored 7 doctoral students",
+      "Served on editorial boards of leading Conservation Biology journals",
+      "Published 30 peer-reviewed papers in Conservation Biology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kimberly Sanchez is a distinguished expert in Conservation Biology with 15 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "practical application of conservation biology principles",
+    "traits": [
+      "intuitive",
+      "evidence-based",
+      "detail-oriented",
+      "collaborative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0853",
+    "name": "Jacob Jimenez",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "PhD"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology",
+      "theoretical conservation biology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Mentored 17 doctoral students",
+      "Published 68 peer-reviewed papers in Conservation Biology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in conservation biology"
+    ],
+    "biography": "Jacob Jimenez is a distinguished expert in Conservation Biology with 34 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in conservation biology",
+    "traits": [
+      "specialized",
+      "balanced",
+      "practical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0854",
+    "name": "Peter Fisher",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "DBA"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Conservation Biology",
+      "Led groundbreaking research in conservation biology",
+      "Developed innovative methodologies in conservation biology",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Peter Fisher is a distinguished expert in Conservation Biology with 16 years of experience. Known for groundbreaking contributions to the field, Peter has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of conservation biology",
+    "traits": [
+      "principled",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0855",
+    "name": "James Myers",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH",
+      "MSc",
+      "DPT"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology",
+      "theoretical conservation biology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Developed innovative methodologies in conservation biology",
+      "Principal investigator on major research grants",
+      "Mentored 5 doctoral students",
+      "Published 20 peer-reviewed papers in Conservation Biology",
+      "Led groundbreaking research in conservation biology"
+    ],
+    "biography": "James Myers is a distinguished expert in Conservation Biology with 10 years of experience. Known for groundbreaking contributions to the field, James has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of conservation biology",
+    "traits": [
+      "collaborative",
+      "strategic",
+      "conservative",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0856",
+    "name": "Joseph Olson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DDS",
+      "PharmD"
+    ],
+    "field": "Conservation Biology",
+    "specializations": [
+      "advanced conservation biology",
+      "applied conservation biology"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Served on editorial boards of leading Conservation Biology journals",
+      "Published 20 peer-reviewed papers in Conservation Biology",
+      "Recipient of prestigious awards in Conservation Biology",
+      "Keynote speaker at international Conservation Biology conferences"
+    ],
+    "biography": "Joseph Olson is a distinguished expert in Conservation Biology with 10 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of conservation biology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to conservation biology",
+    "traits": [
+      "cautious",
+      "traditional",
+      "bold"
+    ]
+  }
+]

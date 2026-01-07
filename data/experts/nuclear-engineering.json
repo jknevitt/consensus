@@ -1,0 +1,237 @@
+[
+  {
+    "id": "expert-0238",
+    "name": "Jean Lopez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DDS",
+      "PhD",
+      "OD"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Nuclear Engineering journals",
+      "Keynote speaker at international Nuclear Engineering conferences",
+      "Mentored 18 doctoral students",
+      "Developed innovative methodologies in nuclear engineering"
+    ],
+    "biography": "Jean Lopez is a distinguished expert in Nuclear Engineering with 37 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on nuclear engineering",
+    "traits": [
+      "empirical",
+      "holistic",
+      "principled",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0239",
+    "name": "Joan Butler",
+    "title": "Dr.",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering",
+      "theoretical nuclear engineering"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Developed innovative methodologies in nuclear engineering",
+      "Led groundbreaking research in nuclear engineering",
+      "Recipient of prestigious awards in Nuclear Engineering"
+    ],
+    "biography": "Joan Butler is a distinguished expert in Nuclear Engineering with 19 years of experience. Known for groundbreaking contributions to the field, Joan has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of nuclear engineering principles",
+    "traits": [
+      "conservative",
+      "tactical",
+      "collaborative",
+      "independent",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0240",
+    "name": "Gary Gibson",
+    "title": "Lead",
+    "credentials": [
+      "PharmD",
+      "DPhil"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Developed innovative methodologies in nuclear engineering",
+      "Recipient of prestigious awards in Nuclear Engineering",
+      "Led groundbreaking research in nuclear engineering",
+      "Published 52 peer-reviewed papers in Nuclear Engineering"
+    ],
+    "biography": "Gary Gibson is a distinguished expert in Nuclear Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of nuclear engineering",
+    "traits": [
+      "creative",
+      "theoretical",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0241",
+    "name": "Stephanie Jackson",
+    "title": "Director",
+    "credentials": [
+      "DPT",
+      "MFA"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Led groundbreaking research in nuclear engineering",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Nuclear Engineering"
+    ],
+    "biography": "Stephanie Jackson is a distinguished expert in Nuclear Engineering with 34 years of experience. Known for groundbreaking contributions to the field, Stephanie has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of nuclear engineering principles",
+    "traits": [
+      "tactical",
+      "flexible",
+      "visionary",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0242",
+    "name": "Joe Diaz",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "MFA"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Developed innovative methodologies in nuclear engineering",
+      "Led groundbreaking research in nuclear engineering",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Nuclear Engineering conferences",
+      "Served on editorial boards of leading Nuclear Engineering journals"
+    ],
+    "biography": "Joe Diaz is a distinguished expert in Nuclear Engineering with 21 years of experience. Known for groundbreaking contributions to the field, Joe has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in nuclear engineering",
+    "traits": [
+      "bold",
+      "data-driven",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0243",
+    "name": "Dorothy Campbell",
+    "title": "Dr.",
+    "credentials": [
+      "PhD",
+      "MFA",
+      "PharmD"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering",
+      "theoretical nuclear engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Nuclear Engineering",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in nuclear engineering",
+      "Recipient of prestigious awards in Nuclear Engineering",
+      "Developed innovative methodologies in nuclear engineering"
+    ],
+    "biography": "Dorothy Campbell is a distinguished expert in Nuclear Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of nuclear engineering principles",
+    "traits": [
+      "data-driven",
+      "practical",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0244",
+    "name": "Katherine Burns",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "DVM",
+      "DSc"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Developed innovative methodologies in nuclear engineering",
+      "Recipient of prestigious awards in Nuclear Engineering",
+      "Principal investigator on major research grants",
+      "Mentored 10 doctoral students"
+    ],
+    "biography": "Katherine Burns is a distinguished expert in Nuclear Engineering with 21 years of experience. Known for groundbreaking contributions to the field, Katherine has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on nuclear engineering",
+    "traits": [
+      "collaborative",
+      "detail-oriented",
+      "conservative",
+      "systematic",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0245",
+    "name": "Ethan Ellis",
+    "title": "Senior",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Nuclear Engineering",
+    "specializations": [
+      "advanced nuclear engineering",
+      "applied nuclear engineering"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Published 74 peer-reviewed papers in Nuclear Engineering",
+      "Led groundbreaking research in nuclear engineering",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ethan Ellis is a distinguished expert in Nuclear Engineering with 37 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of nuclear engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on nuclear engineering",
+    "traits": [
+      "principled",
+      "collaborative",
+      "creative",
+      "specialized"
+    ]
+  }
+]

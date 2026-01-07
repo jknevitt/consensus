@@ -1,0 +1,242 @@
+[
+  {
+    "id": "expert-0976",
+    "name": "Dennis Russell",
+    "title": "Associate Professor",
+    "credentials": [
+      "OD",
+      "MFA",
+      "DNP"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design",
+      "theoretical industrial design"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Keynote speaker at international Industrial Design conferences",
+      "Developed innovative methodologies in industrial design",
+      "Published 20 peer-reviewed papers in Industrial Design",
+      "Served on editorial boards of leading Industrial Design journals"
+    ],
+    "biography": "Dennis Russell is a distinguished expert in Industrial Design with 10 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in industrial design",
+    "traits": [
+      "flexible",
+      "theoretical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0977",
+    "name": "Jeffrey Harrison",
+    "title": "Lead",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Served on editorial boards of leading Industrial Design journals",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in industrial design",
+      "Recipient of prestigious awards in Industrial Design"
+    ],
+    "biography": "Jeffrey Harrison is a distinguished expert in Industrial Design with 26 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in industrial design",
+    "traits": [
+      "flexible",
+      "systematic",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0978",
+    "name": "Joseph Gonzalez",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "MSc",
+      "OD"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Industrial Design",
+      "Developed innovative methodologies in industrial design",
+      "Served on editorial boards of leading Industrial Design journals",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Joseph Gonzalez is a distinguished expert in Industrial Design with 13 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in industrial design",
+    "traits": [
+      "creative",
+      "strategic",
+      "innovative",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0979",
+    "name": "Aaron Cooper",
+    "title": "Lead",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Developed innovative methodologies in industrial design",
+      "Keynote speaker at international Industrial Design conferences",
+      "Published 44 peer-reviewed papers in Industrial Design"
+    ],
+    "biography": "Aaron Cooper is a distinguished expert in Industrial Design with 22 years of experience. Known for groundbreaking contributions to the field, Aaron has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of industrial design",
+    "traits": [
+      "systematic",
+      "principled",
+      "visionary",
+      "holistic",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0980",
+    "name": "Sara Hughes",
+    "title": "Professor",
+    "credentials": [
+      "MD",
+      "MPH",
+      "PsyD"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design",
+      "theoretical industrial design"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Industrial Design",
+      "Led groundbreaking research in industrial design",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Industrial Design",
+      "Developed innovative methodologies in industrial design"
+    ],
+    "biography": "Sara Hughes is a distinguished expert in Industrial Design with 17 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "practical application of industrial design principles",
+    "traits": [
+      "flexible",
+      "practical",
+      "visionary",
+      "data-driven",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0981",
+    "name": "Robert Henderson",
+    "title": "Principal",
+    "credentials": [
+      "DNP",
+      "DSc",
+      "MD"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design",
+      "theoretical industrial design"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in industrial design",
+      "Recipient of prestigious awards in Industrial Design",
+      "Published 68 peer-reviewed papers in Industrial Design",
+      "Served on editorial boards of leading Industrial Design journals"
+    ],
+    "biography": "Robert Henderson is a distinguished expert in Industrial Design with 34 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in industrial design",
+    "traits": [
+      "strategic",
+      "analytical",
+      "collaborative",
+      "conservative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0982",
+    "name": "Joshua Smith",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PsyD",
+      "DDS",
+      "JD"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Industrial Design",
+      "Led groundbreaking research in industrial design",
+      "Mentored 12 doctoral students",
+      "Served on editorial boards of leading Industrial Design journals",
+      "Recipient of prestigious awards in Industrial Design"
+    ],
+    "biography": "Joshua Smith is a distinguished expert in Industrial Design with 24 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to industrial design",
+    "traits": [
+      "specialized",
+      "theoretical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0983",
+    "name": "Emily Chavez",
+    "title": "Lead",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Industrial Design",
+    "specializations": [
+      "advanced industrial design",
+      "applied industrial design"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Industrial Design journals",
+      "Published 60 peer-reviewed papers in Industrial Design",
+      "Led groundbreaking research in industrial design",
+      "Developed innovative methodologies in industrial design",
+      "Keynote speaker at international Industrial Design conferences"
+    ],
+    "biography": "Emily Chavez is a distinguished expert in Industrial Design with 30 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of industrial design through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on industrial design",
+    "traits": [
+      "flexible",
+      "pragmatic",
+      "analytical"
+    ]
+  }
+]

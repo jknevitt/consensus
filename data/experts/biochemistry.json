@@ -1,0 +1,216 @@
+[
+  {
+    "id": "expert-0351",
+    "name": "Jose Bell",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH",
+      "DNP"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Keynote speaker at international Biochemistry conferences",
+      "Published 20 peer-reviewed papers in Biochemistry",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in biochemistry",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Jose Bell is a distinguished expert in Biochemistry with 10 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biochemistry",
+    "traits": [
+      "theoretical",
+      "collaborative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0352",
+    "name": "Zachary Bennett",
+    "title": "Dr.",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry",
+      "theoretical biochemistry"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Biochemistry",
+      "Developed innovative methodologies in biochemistry",
+      "Keynote speaker at international Biochemistry conferences"
+    ],
+    "biography": "Zachary Bennett is a distinguished expert in Biochemistry with 17 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to biochemistry",
+    "traits": [
+      "detail-oriented",
+      "balanced",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0353",
+    "name": "Sharon Hall",
+    "title": "Director",
+    "credentials": [
+      "PsyD",
+      "MBA"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry",
+      "theoretical biochemistry"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Published 82 peer-reviewed papers in Biochemistry",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in biochemistry"
+    ],
+    "biography": "Sharon Hall is a distinguished expert in Biochemistry with 41 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of biochemistry",
+    "traits": [
+      "principled",
+      "theoretical",
+      "data-driven",
+      "bold",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0354",
+    "name": "Nancy Jordan",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DBA",
+      "DDS",
+      "MA"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Biochemistry journals",
+      "Keynote speaker at international Biochemistry conferences"
+    ],
+    "biography": "Nancy Jordan is a distinguished expert in Biochemistry with 21 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "practical application of biochemistry principles",
+    "traits": [
+      "progressive",
+      "pragmatic",
+      "principled",
+      "empirical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0355",
+    "name": "Sharon Stewart",
+    "title": "Lead",
+    "credentials": [
+      "MBA",
+      "MA",
+      "MD"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry",
+      "theoretical biochemistry"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Served on editorial boards of leading Biochemistry journals",
+      "Mentored 9 doctoral students",
+      "Published 36 peer-reviewed papers in Biochemistry",
+      "Keynote speaker at international Biochemistry conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Sharon Stewart is a distinguished expert in Biochemistry with 18 years of experience. Known for groundbreaking contributions to the field, Sharon has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in biochemistry",
+    "traits": [
+      "practical",
+      "tactical",
+      "reform-minded",
+      "evidence-based",
+      "specialized",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0356",
+    "name": "Samuel Simmons",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD",
+      "MBA",
+      "OD"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Led groundbreaking research in biochemistry",
+      "Published 30 peer-reviewed papers in Biochemistry",
+      "Served on editorial boards of leading Biochemistry journals",
+      "Keynote speaker at international Biochemistry conferences",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Samuel Simmons is a distinguished expert in Biochemistry with 15 years of experience. Known for groundbreaking contributions to the field, Samuel has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "practical application of biochemistry principles",
+    "traits": [
+      "detail-oriented",
+      "pragmatic",
+      "flexible",
+      "holistic",
+      "conservative",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0357",
+    "name": "Nathan Reynolds",
+    "title": "Professor",
+    "credentials": [
+      "MA",
+      "PhD",
+      "PharmD"
+    ],
+    "field": "Biochemistry",
+    "specializations": [
+      "advanced biochemistry",
+      "applied biochemistry",
+      "theoretical biochemistry"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Recipient of prestigious awards in Biochemistry",
+      "Led groundbreaking research in biochemistry",
+      "Keynote speaker at international Biochemistry conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Nathan Reynolds is a distinguished expert in Biochemistry with 13 years of experience. Known for groundbreaking contributions to the field, Nathan has shaped modern understanding of biochemistry through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on biochemistry",
+    "traits": [
+      "creative",
+      "reform-minded",
+      "specialized",
+      "progressive"
+    ]
+  }
+]

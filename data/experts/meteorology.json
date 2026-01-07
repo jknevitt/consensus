@@ -1,0 +1,239 @@
+[
+  {
+    "id": "expert-0315",
+    "name": "Gary Reed",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Meteorology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in meteorology",
+      "Recipient of prestigious awards in Meteorology"
+    ],
+    "biography": "Gary Reed is a distinguished expert in Meteorology with 25 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on meteorology",
+    "traits": [
+      "data-driven",
+      "collaborative",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0316",
+    "name": "Judith Wallace",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc",
+      "DPhil",
+      "DNP"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Served on editorial boards of leading Meteorology journals",
+      "Principal investigator on major research grants",
+      "Mentored 9 doctoral students",
+      "Published 36 peer-reviewed papers in Meteorology",
+      "Keynote speaker at international Meteorology conferences"
+    ],
+    "biography": "Judith Wallace is a distinguished expert in Meteorology with 18 years of experience. Known for groundbreaking contributions to the field, Judith has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to meteorology",
+    "traits": [
+      "tactical",
+      "strategic",
+      "detail-oriented",
+      "interdisciplinary",
+      "systematic",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0317",
+    "name": "Karen Torres",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "LLM",
+      "DNP",
+      "PhD"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Meteorology",
+      "Led groundbreaking research in meteorology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Karen Torres is a distinguished expert in Meteorology with 30 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of meteorology",
+    "traits": [
+      "specialized",
+      "evidence-based",
+      "balanced",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0318",
+    "name": "Victoria Watson",
+    "title": "Senior",
+    "credentials": [
+      "DPT",
+      "DPhil"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Led groundbreaking research in meteorology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in meteorology",
+      "Served on editorial boards of leading Meteorology journals",
+      "Recipient of prestigious awards in Meteorology"
+    ],
+    "biography": "Victoria Watson is a distinguished expert in Meteorology with 24 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of meteorology",
+    "traits": [
+      "empirical",
+      "progressive",
+      "cautious",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0319",
+    "name": "Kimberly Roberts",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD",
+      "DPhil"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Keynote speaker at international Meteorology conferences",
+      "Led groundbreaking research in meteorology",
+      "Developed innovative methodologies in meteorology",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kimberly Roberts is a distinguished expert in Meteorology with 37 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on meteorology",
+    "traits": [
+      "interdisciplinary",
+      "empirical",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0320",
+    "name": "Mark Cole",
+    "title": "Principal",
+    "credentials": [
+      "DPhil",
+      "PsyD"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Led groundbreaking research in meteorology",
+      "Published 38 peer-reviewed papers in Meteorology",
+      "Mentored 9 doctoral students"
+    ],
+    "biography": "Mark Cole is a distinguished expert in Meteorology with 19 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "practical application of meteorology principles",
+    "traits": [
+      "pragmatic",
+      "cautious",
+      "creative",
+      "systematic",
+      "traditional",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0321",
+    "name": "Emma Mendoza",
+    "title": "Lead",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology",
+      "theoretical meteorology"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in meteorology",
+      "Recipient of prestigious awards in Meteorology"
+    ],
+    "biography": "Emma Mendoza is a distinguished expert in Meteorology with 40 years of experience. Known for groundbreaking contributions to the field, Emma has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on meteorology",
+    "traits": [
+      "evidence-based",
+      "intuitive",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0322",
+    "name": "Samantha Evans",
+    "title": "Dr.",
+    "credentials": [
+      "MFA",
+      "MSc",
+      "PsyD"
+    ],
+    "field": "Meteorology",
+    "specializations": [
+      "advanced meteorology",
+      "applied meteorology",
+      "theoretical meteorology"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Keynote speaker at international Meteorology conferences",
+      "Recipient of prestigious awards in Meteorology",
+      "Led groundbreaking research in meteorology",
+      "Published 88 peer-reviewed papers in Meteorology"
+    ],
+    "biography": "Samantha Evans is a distinguished expert in Meteorology with 44 years of experience. Known for groundbreaking contributions to the field, Samantha has shaped modern understanding of meteorology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of meteorology",
+    "traits": [
+      "interdisciplinary",
+      "pragmatic",
+      "principled",
+      "analytical",
+      "independent"
+    ]
+  }
+]

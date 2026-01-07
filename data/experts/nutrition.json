@@ -1,0 +1,214 @@
+[
+  {
+    "id": "expert-1028",
+    "name": "George Powell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DNP",
+      "MPH",
+      "MD"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition",
+      "theoretical nutrition"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Nutrition",
+      "Served on editorial boards of leading Nutrition journals",
+      "Led groundbreaking research in nutrition"
+    ],
+    "biography": "George Powell is a distinguished expert in Nutrition with 41 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on nutrition",
+    "traits": [
+      "systematic",
+      "independent",
+      "principled",
+      "data-driven",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-1029",
+    "name": "Michelle Cruz",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition",
+      "theoretical nutrition"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Served on editorial boards of leading Nutrition journals",
+      "Developed innovative methodologies in nutrition",
+      "Recipient of prestigious awards in Nutrition"
+    ],
+    "biography": "Michelle Cruz is a distinguished expert in Nutrition with 11 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to nutrition",
+    "traits": [
+      "bold",
+      "visionary",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-1030",
+    "name": "Sean Campbell",
+    "title": "Dr.",
+    "credentials": [
+      "LLM",
+      "DVM",
+      "DSc"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition",
+      "theoretical nutrition"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 13 doctoral students",
+      "Keynote speaker at international Nutrition conferences",
+      "Developed innovative methodologies in nutrition",
+      "Served on editorial boards of leading Nutrition journals"
+    ],
+    "biography": "Sean Campbell is a distinguished expert in Nutrition with 26 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of nutrition",
+    "traits": [
+      "innovative",
+      "collaborative",
+      "bold",
+      "systematic",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-1031",
+    "name": "Roger Hernandez",
+    "title": "Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Developed innovative methodologies in nutrition",
+      "Led groundbreaking research in nutrition",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Nutrition journals"
+    ],
+    "biography": "Roger Hernandez is a distinguished expert in Nutrition with 28 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in nutrition",
+    "traits": [
+      "practical",
+      "independent",
+      "creative",
+      "collaborative",
+      "intuitive",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-1032",
+    "name": "Nicholas Williams",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DSc",
+      "MSc"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Recipient of prestigious awards in Nutrition",
+      "Led groundbreaking research in nutrition",
+      "Served on editorial boards of leading Nutrition journals",
+      "Developed innovative methodologies in nutrition",
+      "Published 68 peer-reviewed papers in Nutrition"
+    ],
+    "biography": "Nicholas Williams is a distinguished expert in Nutrition with 34 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to nutrition",
+    "traits": [
+      "interdisciplinary",
+      "strategic",
+      "systematic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-1033",
+    "name": "Janice Anderson",
+    "title": "Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition",
+      "theoretical nutrition"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Nutrition journals",
+      "Keynote speaker at international Nutrition conferences"
+    ],
+    "biography": "Janice Anderson is a distinguished expert in Nutrition with 37 years of experience. Known for groundbreaking contributions to the field, Janice has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to nutrition",
+    "traits": [
+      "pragmatic",
+      "strategic",
+      "methodical",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-1034",
+    "name": "Victoria Clark",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc",
+      "MPH"
+    ],
+    "field": "Nutrition",
+    "specializations": [
+      "advanced nutrition",
+      "applied nutrition",
+      "theoretical nutrition"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Published 22 peer-reviewed papers in Nutrition",
+      "Developed innovative methodologies in nutrition",
+      "Led groundbreaking research in nutrition"
+    ],
+    "biography": "Victoria Clark is a distinguished expert in Nutrition with 11 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of nutrition through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to nutrition",
+    "traits": [
+      "pragmatic",
+      "detail-oriented",
+      "interdisciplinary",
+      "theoretical",
+      "flexible"
+    ]
+  }
+]

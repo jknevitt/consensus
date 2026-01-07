@@ -1,0 +1,241 @@
+[
+  {
+    "id": "expert-0261",
+    "name": "Jason Jones",
+    "title": "Dr.",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Robotics conferences",
+      "Mentored 7 doctoral students",
+      "Developed innovative methodologies in robotics",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Robotics journals"
+    ],
+    "biography": "Jason Jones is a distinguished expert in Robotics with 15 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of robotics",
+    "traits": [
+      "independent",
+      "analytical",
+      "empirical",
+      "intuitive",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0262",
+    "name": "Christine Nguyen",
+    "title": "Chief",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics",
+      "theoretical robotics"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 64 peer-reviewed papers in Robotics",
+      "Led groundbreaking research in robotics"
+    ],
+    "biography": "Christine Nguyen is a distinguished expert in Robotics with 32 years of experience. Known for groundbreaking contributions to the field, Christine has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in robotics",
+    "traits": [
+      "collaborative",
+      "strategic",
+      "balanced",
+      "visionary",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0263",
+    "name": "Mary Reynolds",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics",
+      "theoretical robotics"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Led groundbreaking research in robotics",
+      "Recipient of prestigious awards in Robotics",
+      "Served on editorial boards of leading Robotics journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Mary Reynolds is a distinguished expert in Robotics with 36 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to robotics",
+    "traits": [
+      "balanced",
+      "systematic",
+      "detail-oriented",
+      "data-driven",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0264",
+    "name": "Zachary Murray",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "DNP",
+      "MPH"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Robotics",
+      "Led groundbreaking research in robotics",
+      "Mentored 8 doctoral students",
+      "Recipient of prestigious awards in Robotics",
+      "Served on editorial boards of leading Robotics journals"
+    ],
+    "biography": "Zachary Murray is a distinguished expert in Robotics with 16 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on robotics",
+    "traits": [
+      "reform-minded",
+      "strategic",
+      "pragmatic",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0265",
+    "name": "Barbara Ruiz",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics",
+      "theoretical robotics"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Served on editorial boards of leading Robotics journals",
+      "Principal investigator on major research grants",
+      "Published 34 peer-reviewed papers in Robotics",
+      "Developed innovative methodologies in robotics"
+    ],
+    "biography": "Barbara Ruiz is a distinguished expert in Robotics with 17 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to robotics",
+    "traits": [
+      "strategic",
+      "pragmatic",
+      "conservative",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0266",
+    "name": "Gerald Hunter",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DVM",
+      "MD",
+      "MSc"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Recipient of prestigious awards in Robotics",
+      "Developed innovative methodologies in robotics",
+      "Served on editorial boards of leading Robotics journals",
+      "Led groundbreaking research in robotics",
+      "Published 38 peer-reviewed papers in Robotics"
+    ],
+    "biography": "Gerald Hunter is a distinguished expert in Robotics with 19 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to robotics",
+    "traits": [
+      "holistic",
+      "cautious",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0267",
+    "name": "Gloria Bryant",
+    "title": "Principal",
+    "credentials": [
+      "OD",
+      "DVM"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Keynote speaker at international Robotics conferences",
+      "Developed innovative methodologies in robotics",
+      "Recipient of prestigious awards in Robotics",
+      "Led groundbreaking research in robotics",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Gloria Bryant is a distinguished expert in Robotics with 20 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on robotics",
+    "traits": [
+      "systematic",
+      "intuitive",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0268",
+    "name": "Kathleen Owens",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "MSc",
+      "EdD"
+    ],
+    "field": "Robotics",
+    "specializations": [
+      "advanced robotics",
+      "applied robotics",
+      "theoretical robotics"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Published 22 peer-reviewed papers in Robotics",
+      "Led groundbreaking research in robotics",
+      "Recipient of prestigious awards in Robotics",
+      "Developed innovative methodologies in robotics"
+    ],
+    "biography": "Kathleen Owens is a distinguished expert in Robotics with 11 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of robotics through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in robotics",
+    "traits": [
+      "holistic",
+      "intuitive",
+      "visionary",
+      "theoretical"
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "expert-1053",
+    "name": "Adam Taylor",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "MSc",
+      "MBA"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in defense policy",
+      "Recipient of prestigious awards in Defense Policy"
+    ],
+    "biography": "Adam Taylor is a distinguished expert in Defense Policy with 27 years of experience. Known for groundbreaking contributions to the field, Adam has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in defense policy",
+    "traits": [
+      "specialized",
+      "cautious",
+      "visionary",
+      "practical",
+      "data-driven",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-1054",
+    "name": "Jacob Bell",
+    "title": "Lead",
+    "credentials": [
+      "MD",
+      "LLM"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy",
+      "theoretical defense policy"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in defense policy",
+      "Published 76 peer-reviewed papers in Defense Policy",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jacob Bell is a distinguished expert in Defense Policy with 38 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on defense policy",
+    "traits": [
+      "tactical",
+      "intuitive",
+      "progressive",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-1055",
+    "name": "Scott Wallace",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MPH",
+      "LLM",
+      "JD"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Defense Policy",
+      "Mentored 20 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in defense policy"
+    ],
+    "biography": "Scott Wallace is a distinguished expert in Defense Policy with 41 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in defense policy",
+    "traits": [
+      "conservative",
+      "specialized",
+      "balanced",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-1056",
+    "name": "Virginia West",
+    "title": "Professor",
+    "credentials": [
+      "DNP",
+      "EdD"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Recipient of prestigious awards in Defense Policy",
+      "Led groundbreaking research in defense policy",
+      "Published 80 peer-reviewed papers in Defense Policy"
+    ],
+    "biography": "Virginia West is a distinguished expert in Defense Policy with 40 years of experience. Known for groundbreaking contributions to the field, Virginia has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in defense policy",
+    "traits": [
+      "principled",
+      "strategic",
+      "theoretical",
+      "innovative",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-1057",
+    "name": "Gerald Stevens",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "MD"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Led groundbreaking research in defense policy",
+      "Recipient of prestigious awards in Defense Policy",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Gerald Stevens is a distinguished expert in Defense Policy with 12 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of defense policy",
+    "traits": [
+      "evidence-based",
+      "independent",
+      "principled",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-1058",
+    "name": "Bryan Cox",
+    "title": "Director",
+    "credentials": [
+      "DBA",
+      "EdD"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Led groundbreaking research in defense policy",
+      "Keynote speaker at international Defense Policy conferences",
+      "Served on editorial boards of leading Defense Policy journals",
+      "Developed innovative methodologies in defense policy",
+      "Published 28 peer-reviewed papers in Defense Policy"
+    ],
+    "biography": "Bryan Cox is a distinguished expert in Defense Policy with 14 years of experience. Known for groundbreaking contributions to the field, Bryan has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on defense policy",
+    "traits": [
+      "tactical",
+      "systematic",
+      "independent",
+      "specialized",
+      "intuitive",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-1059",
+    "name": "Brian Evans",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "MA"
+    ],
+    "field": "Defense Policy",
+    "specializations": [
+      "advanced defense policy",
+      "applied defense policy",
+      "theoretical defense policy"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Mentored 16 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 64 peer-reviewed papers in Defense Policy",
+      "Led groundbreaking research in defense policy"
+    ],
+    "biography": "Brian Evans is a distinguished expert in Defense Policy with 32 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of defense policy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in defense policy",
+    "traits": [
+      "creative",
+      "interdisciplinary",
+      "pragmatic",
+      "reform-minded",
+      "practical"
+    ]
+  }
+]

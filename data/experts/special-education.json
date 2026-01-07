@@ -1,0 +1,216 @@
+[
+  {
+    "id": "expert-0765",
+    "name": "Janice Alexander",
+    "title": "Senior",
+    "credentials": [
+      "MD",
+      "DDS"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education",
+      "theoretical special education"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Special Education",
+      "Led groundbreaking research in special education",
+      "Mentored 16 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in special education"
+    ],
+    "biography": "Janice Alexander is a distinguished expert in Special Education with 32 years of experience. Known for groundbreaking contributions to the field, Janice has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "practical application of special education principles",
+    "traits": [
+      "cautious",
+      "methodical",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0766",
+    "name": "Christina Reyes",
+    "title": "Dr.",
+    "credentials": [
+      "PsyD",
+      "OD",
+      "MPH"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Special Education journals",
+      "Published 60 peer-reviewed papers in Special Education",
+      "Led groundbreaking research in special education"
+    ],
+    "biography": "Christina Reyes is a distinguished expert in Special Education with 30 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to special education",
+    "traits": [
+      "specialized",
+      "systematic",
+      "balanced",
+      "evidence-based",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0767",
+    "name": "Joyce Price",
+    "title": "Lead",
+    "credentials": [
+      "MPH",
+      "MBA"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 19 doctoral students",
+      "Recipient of prestigious awards in Special Education",
+      "Led groundbreaking research in special education",
+      "Served on editorial boards of leading Special Education journals"
+    ],
+    "biography": "Joyce Price is a distinguished expert in Special Education with 39 years of experience. Known for groundbreaking contributions to the field, Joyce has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on special education",
+    "traits": [
+      "conservative",
+      "traditional",
+      "creative",
+      "reform-minded",
+      "theoretical",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0768",
+    "name": "Lawrence Hernandez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "DSc",
+      "MD"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Special Education journals",
+      "Published 38 peer-reviewed papers in Special Education",
+      "Led groundbreaking research in special education"
+    ],
+    "biography": "Lawrence Hernandez is a distinguished expert in Special Education with 19 years of experience. Known for groundbreaking contributions to the field, Lawrence has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "practical application of special education principles",
+    "traits": [
+      "strategic",
+      "traditional",
+      "evidence-based",
+      "innovative",
+      "pragmatic",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0769",
+    "name": "Victoria Robinson",
+    "title": "Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education",
+      "theoretical special education"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Recipient of prestigious awards in Special Education",
+      "Served on editorial boards of leading Special Education journals",
+      "Developed innovative methodologies in special education"
+    ],
+    "biography": "Victoria Robinson is a distinguished expert in Special Education with 28 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "practical application of special education principles",
+    "traits": [
+      "reform-minded",
+      "independent",
+      "methodical",
+      "visionary",
+      "innovative",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0770",
+    "name": "David Ward",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "MD"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education",
+      "theoretical special education"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Served on editorial boards of leading Special Education journals",
+      "Developed innovative methodologies in special education",
+      "Recipient of prestigious awards in Special Education"
+    ],
+    "biography": "David Ward is a distinguished expert in Special Education with 21 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "practical application of special education principles",
+    "traits": [
+      "innovative",
+      "strategic",
+      "interdisciplinary",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0771",
+    "name": "Anna Howard",
+    "title": "Lead",
+    "credentials": [
+      "MPH",
+      "DDS"
+    ],
+    "field": "Special Education",
+    "specializations": [
+      "advanced special education",
+      "applied special education"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Special Education conferences",
+      "Served on editorial boards of leading Special Education journals",
+      "Developed innovative methodologies in special education",
+      "Recipient of prestigious awards in Special Education"
+    ],
+    "biography": "Anna Howard is a distinguished expert in Special Education with 12 years of experience. Known for groundbreaking contributions to the field, Anna has shaped modern understanding of special education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to special education",
+    "traits": [
+      "specialized",
+      "evidence-based",
+      "holistic",
+      "methodical",
+      "theoretical"
+    ]
+  }
+]

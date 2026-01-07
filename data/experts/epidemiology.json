@@ -1,0 +1,240 @@
+[
+  {
+    "id": "expert-0048",
+    "name": "Dylan Davis",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PharmD",
+      "DPT"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Epidemiology journals",
+      "Led groundbreaking research in epidemiology",
+      "Published 80 peer-reviewed papers in Epidemiology",
+      "Mentored 20 doctoral students"
+    ],
+    "biography": "Dylan Davis is a distinguished expert in Epidemiology with 40 years of experience. Known for groundbreaking contributions to the field, Dylan has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in epidemiology",
+    "traits": [
+      "creative",
+      "flexible",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0049",
+    "name": "Nathan Lopez",
+    "title": "Director",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Served on editorial boards of leading Epidemiology journals",
+      "Published 62 peer-reviewed papers in Epidemiology",
+      "Led groundbreaking research in epidemiology",
+      "Keynote speaker at international Epidemiology conferences",
+      "Recipient of prestigious awards in Epidemiology"
+    ],
+    "biography": "Nathan Lopez is a distinguished expert in Epidemiology with 31 years of experience. Known for groundbreaking contributions to the field, Nathan has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on epidemiology",
+    "traits": [
+      "theoretical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0050",
+    "name": "Daniel White",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "LLM",
+      "DNP"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology",
+      "theoretical epidemiology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 7 doctoral students",
+      "Led groundbreaking research in epidemiology",
+      "Developed innovative methodologies in epidemiology",
+      "Served on editorial boards of leading Epidemiology journals"
+    ],
+    "biography": "Daniel White is a distinguished expert in Epidemiology with 15 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in epidemiology",
+    "traits": [
+      "visionary",
+      "intuitive",
+      "strategic",
+      "flexible",
+      "balanced",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0051",
+    "name": "Kenneth Johnson",
+    "title": "Principal",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology",
+      "theoretical epidemiology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Keynote speaker at international Epidemiology conferences",
+      "Developed innovative methodologies in epidemiology",
+      "Served on editorial boards of leading Epidemiology journals",
+      "Led groundbreaking research in epidemiology",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Kenneth Johnson is a distinguished expert in Epidemiology with 12 years of experience. Known for groundbreaking contributions to the field, Kenneth has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in epidemiology",
+    "traits": [
+      "data-driven",
+      "analytical",
+      "holistic",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0052",
+    "name": "Sara Vargas",
+    "title": "Director",
+    "credentials": [
+      "PhD",
+      "MPH",
+      "PsyD"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology",
+      "theoretical epidemiology"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 40 peer-reviewed papers in Epidemiology",
+      "Led groundbreaking research in epidemiology",
+      "Keynote speaker at international Epidemiology conferences"
+    ],
+    "biography": "Sara Vargas is a distinguished expert in Epidemiology with 20 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on epidemiology",
+    "traits": [
+      "progressive",
+      "bold",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0053",
+    "name": "Christina Webb",
+    "title": "Associate Professor",
+    "credentials": [
+      "PsyD",
+      "DPT"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology",
+      "theoretical epidemiology"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Keynote speaker at international Epidemiology conferences",
+      "Published 56 peer-reviewed papers in Epidemiology",
+      "Led groundbreaking research in epidemiology",
+      "Mentored 14 doctoral students",
+      "Served on editorial boards of leading Epidemiology journals"
+    ],
+    "biography": "Christina Webb is a distinguished expert in Epidemiology with 28 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in epidemiology",
+    "traits": [
+      "detail-oriented",
+      "specialized",
+      "empirical",
+      "conservative",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0054",
+    "name": "Janice Torres",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Epidemiology",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Janice Torres is a distinguished expert in Epidemiology with 22 years of experience. Known for groundbreaking contributions to the field, Janice has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of epidemiology principles",
+    "traits": [
+      "specialized",
+      "flexible",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0055",
+    "name": "Amanda Phillips",
+    "title": "Chief",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Epidemiology",
+    "specializations": [
+      "advanced epidemiology",
+      "applied epidemiology"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Epidemiology conferences",
+      "Mentored 17 doctoral students",
+      "Served on editorial boards of leading Epidemiology journals",
+      "Developed innovative methodologies in epidemiology"
+    ],
+    "biography": "Amanda Phillips is a distinguished expert in Epidemiology with 34 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of epidemiology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of epidemiology",
+    "traits": [
+      "innovative",
+      "theoretical",
+      "interdisciplinary",
+      "systematic",
+      "principled",
+      "empirical"
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "expert-0885",
+    "name": "Hannah Foster",
+    "title": "Chief",
+    "credentials": [
+      "OD",
+      "PharmD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering",
+      "theoretical agricultural engineering"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Mentored 5 doctoral students",
+      "Developed innovative methodologies in agricultural engineering",
+      "Published 20 peer-reviewed papers in Agricultural Engineering",
+      "Recipient of prestigious awards in Agricultural Engineering",
+      "Served on editorial boards of leading Agricultural Engineering journals"
+    ],
+    "biography": "Hannah Foster is a distinguished expert in Agricultural Engineering with 10 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of agricultural engineering",
+    "traits": [
+      "innovative",
+      "analytical",
+      "specialized",
+      "principled",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0886",
+    "name": "Laura James",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Served on editorial boards of leading Agricultural Engineering journals",
+      "Published 84 peer-reviewed papers in Agricultural Engineering",
+      "Led groundbreaking research in agricultural engineering"
+    ],
+    "biography": "Laura James is a distinguished expert in Agricultural Engineering with 42 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural engineering",
+    "traits": [
+      "data-driven",
+      "bold",
+      "collaborative",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0887",
+    "name": "Frank Sanchez",
+    "title": "Senior",
+    "credentials": [
+      "DBA",
+      "MSc",
+      "DNP"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering",
+      "theoretical agricultural engineering"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Keynote speaker at international Agricultural Engineering conferences",
+      "Mentored 17 doctoral students",
+      "Developed innovative methodologies in agricultural engineering"
+    ],
+    "biography": "Frank Sanchez is a distinguished expert in Agricultural Engineering with 34 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural engineering",
+    "traits": [
+      "theoretical",
+      "traditional",
+      "holistic",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0888",
+    "name": "Jason Baker",
+    "title": "Lead",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 46 peer-reviewed papers in Agricultural Engineering",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Jason Baker is a distinguished expert in Agricultural Engineering with 23 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural engineering",
+    "traits": [
+      "visionary",
+      "systematic",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0889",
+    "name": "Paul Powell",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering",
+      "theoretical agricultural engineering"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Agricultural Engineering",
+      "Led groundbreaking research in agricultural engineering",
+      "Served on editorial boards of leading Agricultural Engineering journals",
+      "Recipient of prestigious awards in Agricultural Engineering"
+    ],
+    "biography": "Paul Powell is a distinguished expert in Agricultural Engineering with 25 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural engineering",
+    "traits": [
+      "reform-minded",
+      "conservative",
+      "empirical",
+      "bold",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0890",
+    "name": "Robert Nelson",
+    "title": "Dr.",
+    "credentials": [
+      "DPhil",
+      "PsyD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Recipient of prestigious awards in Agricultural Engineering",
+      "Developed innovative methodologies in agricultural engineering",
+      "Published 64 peer-reviewed papers in Agricultural Engineering",
+      "Led groundbreaking research in agricultural engineering",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Robert Nelson is a distinguished expert in Agricultural Engineering with 32 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to agricultural engineering",
+    "traits": [
+      "flexible",
+      "conservative",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0891",
+    "name": "Raymond Mendoza",
+    "title": "Professor",
+    "credentials": [
+      "DPhil",
+      "EdD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering",
+      "theoretical agricultural engineering"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Published 76 peer-reviewed papers in Agricultural Engineering",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in agricultural engineering"
+    ],
+    "biography": "Raymond Mendoza is a distinguished expert in Agricultural Engineering with 38 years of experience. Known for groundbreaking contributions to the field, Raymond has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on agricultural engineering",
+    "traits": [
+      "holistic",
+      "analytical",
+      "balanced",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0892",
+    "name": "Harold Jackson",
+    "title": "Principal",
+    "credentials": [
+      "JD",
+      "PhD"
+    ],
+    "field": "Agricultural Engineering",
+    "specializations": [
+      "advanced agricultural engineering",
+      "applied agricultural engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Agricultural Engineering journals",
+      "Published 60 peer-reviewed papers in Agricultural Engineering",
+      "Developed innovative methodologies in agricultural engineering",
+      "Led groundbreaking research in agricultural engineering"
+    ],
+    "biography": "Harold Jackson is a distinguished expert in Agricultural Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Harold has shaped modern understanding of agricultural engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of agricultural engineering principles",
+    "traits": [
+      "holistic",
+      "intuitive",
+      "principled",
+      "independent",
+      "strategic",
+      "specialized"
+    ]
+  }
+]

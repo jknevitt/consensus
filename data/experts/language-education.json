@@ -1,0 +1,245 @@
+[
+  {
+    "id": "expert-0792",
+    "name": "Abigail Garcia",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education",
+      "theoretical language education"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in language education",
+      "Published 32 peer-reviewed papers in Language Education",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Abigail Garcia is a distinguished expert in Language Education with 16 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to language education",
+    "traits": [
+      "interdisciplinary",
+      "collaborative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0793",
+    "name": "Christina Nelson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc",
+      "MBA",
+      "DPhil"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education",
+      "theoretical language education"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Language Education",
+      "Led groundbreaking research in language education",
+      "Mentored 9 doctoral students",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Language Education conferences"
+    ],
+    "biography": "Christina Nelson is a distinguished expert in Language Education with 18 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in language education",
+    "traits": [
+      "reform-minded",
+      "collaborative",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0794",
+    "name": "Jennifer Moreno",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD",
+      "MD",
+      "PsyD"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Language Education journals",
+      "Published 60 peer-reviewed papers in Language Education",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jennifer Moreno is a distinguished expert in Language Education with 30 years of experience. Known for groundbreaking contributions to the field, Jennifer has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to language education",
+    "traits": [
+      "theoretical",
+      "detail-oriented",
+      "strategic",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0795",
+    "name": "Walter Fisher",
+    "title": "Director",
+    "credentials": [
+      "JD",
+      "PharmD"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education",
+      "theoretical language education"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Language Education conferences",
+      "Published 84 peer-reviewed papers in Language Education",
+      "Developed innovative methodologies in language education",
+      "Led groundbreaking research in language education"
+    ],
+    "biography": "Walter Fisher is a distinguished expert in Language Education with 42 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of language education",
+    "traits": [
+      "principled",
+      "detail-oriented",
+      "theoretical",
+      "bold",
+      "methodical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0796",
+    "name": "Mary Cruz",
+    "title": "Lead",
+    "credentials": [
+      "DDS",
+      "DBA",
+      "MD"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Served on editorial boards of leading Language Education journals",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Language Education conferences"
+    ],
+    "biography": "Mary Cruz is a distinguished expert in Language Education with 25 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to language education",
+    "traits": [
+      "reform-minded",
+      "independent",
+      "interdisciplinary",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0797",
+    "name": "Henry Herrera",
+    "title": "Senior",
+    "credentials": [
+      "DBA",
+      "MFA",
+      "PsyD"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Recipient of prestigious awards in Language Education",
+      "Developed innovative methodologies in language education",
+      "Served on editorial boards of leading Language Education journals",
+      "Mentored 18 doctoral students",
+      "Led groundbreaking research in language education"
+    ],
+    "biography": "Henry Herrera is a distinguished expert in Language Education with 37 years of experience. Known for groundbreaking contributions to the field, Henry has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "practical application of language education principles",
+    "traits": [
+      "conservative",
+      "bold",
+      "reform-minded",
+      "empirical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0798",
+    "name": "Hannah Brown",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "DPhil"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education",
+      "theoretical language education"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Recipient of prestigious awards in Language Education",
+      "Developed innovative methodologies in language education",
+      "Led groundbreaking research in language education",
+      "Served on editorial boards of leading Language Education journals",
+      "Keynote speaker at international Language Education conferences"
+    ],
+    "biography": "Hannah Brown is a distinguished expert in Language Education with 11 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "practical application of language education principles",
+    "traits": [
+      "visionary",
+      "flexible",
+      "theoretical",
+      "reform-minded",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0799",
+    "name": "Hannah West",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPhil",
+      "JD"
+    ],
+    "field": "Language Education",
+    "specializations": [
+      "advanced language education",
+      "applied language education"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Recipient of prestigious awards in Language Education",
+      "Keynote speaker at international Language Education conferences",
+      "Developed innovative methodologies in language education",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Hannah West is a distinguished expert in Language Education with 11 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of language education through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in language education",
+    "traits": [
+      "innovative",
+      "visionary",
+      "creative",
+      "interdisciplinary",
+      "theoretical"
+    ]
+  }
+]

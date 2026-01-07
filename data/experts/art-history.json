@@ -1,0 +1,230 @@
+[
+  {
+    "id": "expert-0586",
+    "name": "Joan Stewart",
+    "title": "Principal",
+    "credentials": [
+      "PhD",
+      "MD"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Art History journals",
+      "Developed innovative methodologies in art history"
+    ],
+    "biography": "Joan Stewart is a distinguished expert in Art History with 35 years of experience. Known for groundbreaking contributions to the field, Joan has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of art history",
+    "traits": [
+      "reform-minded",
+      "analytical",
+      "traditional",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0587",
+    "name": "Douglas Castro",
+    "title": "Senior",
+    "credentials": [
+      "OD",
+      "PharmD",
+      "MD"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Keynote speaker at international Art History conferences",
+      "Developed innovative methodologies in art history",
+      "Recipient of prestigious awards in Art History",
+      "Led groundbreaking research in art history"
+    ],
+    "biography": "Douglas Castro is a distinguished expert in Art History with 22 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to art history",
+    "traits": [
+      "visionary",
+      "innovative",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0588",
+    "name": "Kathleen Morales",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in art history",
+      "Recipient of prestigious awards in Art History",
+      "Mentored 20 doctoral students",
+      "Keynote speaker at international Art History conferences"
+    ],
+    "biography": "Kathleen Morales is a distinguished expert in Art History with 41 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in art history",
+    "traits": [
+      "evidence-based",
+      "empirical",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0589",
+    "name": "Brian Baker",
+    "title": "Principal",
+    "credentials": [
+      "DPT",
+      "PhD",
+      "MD"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Developed innovative methodologies in art history",
+      "Mentored 11 doctoral students",
+      "Recipient of prestigious awards in Art History",
+      "Keynote speaker at international Art History conferences"
+    ],
+    "biography": "Brian Baker is a distinguished expert in Art History with 23 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on art history",
+    "traits": [
+      "traditional",
+      "bold",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0590",
+    "name": "Austin Howard",
+    "title": "Director",
+    "credentials": [
+      "JD",
+      "MBA"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 66 peer-reviewed papers in Art History",
+      "Led groundbreaking research in art history",
+      "Recipient of prestigious awards in Art History",
+      "Served on editorial boards of leading Art History journals"
+    ],
+    "biography": "Austin Howard is a distinguished expert in Art History with 33 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "practical application of art history principles",
+    "traits": [
+      "visionary",
+      "strategic",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0591",
+    "name": "Olivia Crawford",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Led groundbreaking research in art history",
+      "Principal investigator on major research grants",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Olivia Crawford is a distinguished expert in Art History with 22 years of experience. Known for groundbreaking contributions to the field, Olivia has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in art history",
+    "traits": [
+      "reform-minded",
+      "cautious",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0592",
+    "name": "Richard Harrison",
+    "title": "Senior",
+    "credentials": [
+      "OD",
+      "PharmD",
+      "PhD"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history",
+      "theoretical art history"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Keynote speaker at international Art History conferences",
+      "Developed innovative methodologies in art history",
+      "Recipient of prestigious awards in Art History"
+    ],
+    "biography": "Richard Harrison is a distinguished expert in Art History with 17 years of experience. Known for groundbreaking contributions to the field, Richard has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "practical application of art history principles",
+    "traits": [
+      "holistic",
+      "bold",
+      "systematic",
+      "principled",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0593",
+    "name": "Sara Webb",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Art History",
+    "specializations": [
+      "advanced art history",
+      "applied art history",
+      "theoretical art history"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Art History journals",
+      "Developed innovative methodologies in art history",
+      "Recipient of prestigious awards in Art History"
+    ],
+    "biography": "Sara Webb is a distinguished expert in Art History with 30 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of art history through extensive research, teaching, and practice.",
+    "perspective": "practical application of art history principles",
+    "traits": [
+      "systematic",
+      "creative",
+      "visionary",
+      "analytical",
+      "principled"
+    ]
+  }
+]

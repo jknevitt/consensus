@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0026",
+    "name": "Michael Cook",
+    "title": "Associate Professor",
+    "credentials": [
+      "PhD",
+      "LLM",
+      "DPhil"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry",
+      "theoretical psychiatry"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Keynote speaker at international Psychiatry conferences",
+      "Published 60 peer-reviewed papers in Psychiatry",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in psychiatry",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Michael Cook is a distinguished expert in Psychiatry with 30 years of experience. Known for groundbreaking contributions to the field, Michael has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of psychiatry",
+    "traits": [
+      "interdisciplinary",
+      "cautious",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0027",
+    "name": "Gerald Sullivan",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "DDS"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Led groundbreaking research in psychiatry",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Psychiatry"
+    ],
+    "biography": "Gerald Sullivan is a distinguished expert in Psychiatry with 18 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on psychiatry",
+    "traits": [
+      "collaborative",
+      "specialized",
+      "balanced",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0028",
+    "name": "Susan Williams",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry",
+      "theoretical psychiatry"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Psychiatry",
+      "Published 60 peer-reviewed papers in Psychiatry",
+      "Keynote speaker at international Psychiatry conferences",
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in psychiatry"
+    ],
+    "biography": "Susan Williams is a distinguished expert in Psychiatry with 30 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to psychiatry",
+    "traits": [
+      "bold",
+      "specialized",
+      "strategic",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0029",
+    "name": "Margaret Lee",
+    "title": "Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Psychiatry",
+      "Served on editorial boards of leading Psychiatry journals",
+      "Led groundbreaking research in psychiatry",
+      "Keynote speaker at international Psychiatry conferences",
+      "Recipient of prestigious awards in Psychiatry"
+    ],
+    "biography": "Margaret Lee is a distinguished expert in Psychiatry with 10 years of experience. Known for groundbreaking contributions to the field, Margaret has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in psychiatry",
+    "traits": [
+      "evidence-based",
+      "detail-oriented",
+      "interdisciplinary",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0030",
+    "name": "Matthew Price",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry",
+      "theoretical psychiatry"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Led groundbreaking research in psychiatry",
+      "Principal investigator on major research grants",
+      "Published 32 peer-reviewed papers in Psychiatry"
+    ],
+    "biography": "Matthew Price is a distinguished expert in Psychiatry with 16 years of experience. Known for groundbreaking contributions to the field, Matthew has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in psychiatry",
+    "traits": [
+      "analytical",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0031",
+    "name": "Sean Davis",
+    "title": "Chief",
+    "credentials": [
+      "EdD",
+      "MBA",
+      "PharmD"
+    ],
+    "field": "Psychiatry",
+    "specializations": [
+      "advanced psychiatry",
+      "applied psychiatry",
+      "theoretical psychiatry"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Keynote speaker at international Psychiatry conferences",
+      "Mentored 9 doctoral students",
+      "Developed innovative methodologies in psychiatry",
+      "Recipient of prestigious awards in Psychiatry",
+      "Led groundbreaking research in psychiatry"
+    ],
+    "biography": "Sean Davis is a distinguished expert in Psychiatry with 19 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of psychiatry through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on psychiatry",
+    "traits": [
+      "empirical",
+      "intuitive",
+      "detail-oriented",
+      "traditional",
+      "balanced"
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "expert-0800",
+    "name": "Hannah Gomez",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DSc",
+      "MA",
+      "MPH"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in stem education",
+      "Recipient of prestigious awards in STEM Education",
+      "Served on editorial boards of leading STEM Education journals"
+    ],
+    "biography": "Hannah Gomez is a distinguished expert in STEM Education with 24 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to stem education",
+    "traits": [
+      "strategic",
+      "independent",
+      "data-driven",
+      "visionary",
+      "analytical",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0801",
+    "name": "Noah Ward",
+    "title": "Associate Professor",
+    "credentials": [
+      "MD",
+      "MFA"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Led groundbreaking research in stem education",
+      "Published 60 peer-reviewed papers in STEM Education",
+      "Recipient of prestigious awards in STEM Education"
+    ],
+    "biography": "Noah Ward is a distinguished expert in STEM Education with 30 years of experience. Known for groundbreaking contributions to the field, Noah has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "practical application of stem education principles",
+    "traits": [
+      "cautious",
+      "interdisciplinary",
+      "detail-oriented",
+      "tactical",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0802",
+    "name": "Brenda Washington",
+    "title": "Principal",
+    "credentials": [
+      "PhD",
+      "LLM"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education",
+      "theoretical stem education"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in STEM Education",
+      "Led groundbreaking research in stem education",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Brenda Washington is a distinguished expert in STEM Education with 33 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to stem education",
+    "traits": [
+      "pragmatic",
+      "strategic",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0803",
+    "name": "Adam Watson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education",
+      "theoretical stem education"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Published 78 peer-reviewed papers in STEM Education",
+      "Led groundbreaking research in stem education",
+      "Recipient of prestigious awards in STEM Education"
+    ],
+    "biography": "Adam Watson is a distinguished expert in STEM Education with 39 years of experience. Known for groundbreaking contributions to the field, Adam has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "practical application of stem education principles",
+    "traits": [
+      "interdisciplinary",
+      "specialized",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0804",
+    "name": "Donna Diaz",
+    "title": "Director",
+    "credentials": [
+      "PharmD",
+      "PsyD"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education",
+      "theoretical stem education"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Developed innovative methodologies in stem education",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading STEM Education journals",
+      "Published 52 peer-reviewed papers in STEM Education"
+    ],
+    "biography": "Donna Diaz is a distinguished expert in STEM Education with 26 years of experience. Known for groundbreaking contributions to the field, Donna has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of stem education",
+    "traits": [
+      "analytical",
+      "interdisciplinary",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0805",
+    "name": "Ethan Castillo",
+    "title": "Senior",
+    "credentials": [
+      "PhD",
+      "JD"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education",
+      "theoretical stem education"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Keynote speaker at international STEM Education conferences",
+      "Developed innovative methodologies in stem education",
+      "Recipient of prestigious awards in STEM Education",
+      "Mentored 15 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ethan Castillo is a distinguished expert in STEM Education with 31 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "practical application of stem education principles",
+    "traits": [
+      "data-driven",
+      "pragmatic",
+      "collaborative",
+      "tactical",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0806",
+    "name": "Lawrence Thompson",
+    "title": "Chief",
+    "credentials": [
+      "DPhil",
+      "PhD"
+    ],
+    "field": "STEM Education",
+    "specializations": [
+      "advanced stem education",
+      "applied stem education",
+      "theoretical stem education"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Developed innovative methodologies in stem education",
+      "Mentored 22 doctoral students",
+      "Recipient of prestigious awards in STEM Education",
+      "Keynote speaker at international STEM Education conferences"
+    ],
+    "biography": "Lawrence Thompson is a distinguished expert in STEM Education with 44 years of experience. Known for groundbreaking contributions to the field, Lawrence has shaped modern understanding of stem education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to stem education",
+    "traits": [
+      "methodical",
+      "data-driven"
+    ]
+  }
+]

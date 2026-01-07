@@ -1,0 +1,202 @@
+[
+  {
+    "id": "expert-0216",
+    "name": "Tyler Kennedy",
+    "title": "Lead",
+    "credentials": [
+      "DNP",
+      "MSc",
+      "PharmD"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Keynote speaker at international Aerospace Engineering conferences",
+      "Published 82 peer-reviewed papers in Aerospace Engineering",
+      "Recipient of prestigious awards in Aerospace Engineering",
+      "Served on editorial boards of leading Aerospace Engineering journals"
+    ],
+    "biography": "Tyler Kennedy is a distinguished expert in Aerospace Engineering with 41 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of aerospace engineering principles",
+    "traits": [
+      "traditional",
+      "visionary",
+      "bold",
+      "independent",
+      "practical",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0217",
+    "name": "Ruth Crawford",
+    "title": "Chief",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Aerospace Engineering",
+      "Mentored 14 doctoral students",
+      "Developed innovative methodologies in aerospace engineering",
+      "Recipient of prestigious awards in Aerospace Engineering"
+    ],
+    "biography": "Ruth Crawford is a distinguished expert in Aerospace Engineering with 28 years of experience. Known for groundbreaking contributions to the field, Ruth has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to aerospace engineering",
+    "traits": [
+      "bold",
+      "analytical",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0218",
+    "name": "Teresa Coleman",
+    "title": "Professor",
+    "credentials": [
+      "LLM",
+      "MBA"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 9 doctoral students",
+      "Published 36 peer-reviewed papers in Aerospace Engineering",
+      "Keynote speaker at international Aerospace Engineering conferences",
+      "Recipient of prestigious awards in Aerospace Engineering"
+    ],
+    "biography": "Teresa Coleman is a distinguished expert in Aerospace Engineering with 18 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of aerospace engineering principles",
+    "traits": [
+      "traditional",
+      "progressive",
+      "pragmatic",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0219",
+    "name": "Timothy Wallace",
+    "title": "Senior",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering",
+      "theoretical aerospace engineering"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in aerospace engineering",
+      "Recipient of prestigious awards in Aerospace Engineering",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Aerospace Engineering conferences"
+    ],
+    "biography": "Timothy Wallace is a distinguished expert in Aerospace Engineering with 41 years of experience. Known for groundbreaking contributions to the field, Timothy has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in aerospace engineering",
+    "traits": [
+      "evidence-based",
+      "intuitive",
+      "principled",
+      "strategic",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0220",
+    "name": "Sara Reed",
+    "title": "Dr.",
+    "credentials": [
+      "DDS",
+      "DPT"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Keynote speaker at international Aerospace Engineering conferences",
+      "Recipient of prestigious awards in Aerospace Engineering",
+      "Led groundbreaking research in aerospace engineering",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Sara Reed is a distinguished expert in Aerospace Engineering with 29 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to aerospace engineering",
+    "traits": [
+      "innovative",
+      "pragmatic",
+      "methodical",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0221",
+    "name": "Amanda Moore",
+    "title": "Associate Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Aerospace Engineering",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in aerospace engineering"
+    ],
+    "biography": "Amanda Moore is a distinguished expert in Aerospace Engineering with 34 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of aerospace engineering principles",
+    "traits": [
+      "methodical",
+      "interdisciplinary",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0222",
+    "name": "John King",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Aerospace Engineering",
+    "specializations": [
+      "advanced aerospace engineering",
+      "applied aerospace engineering"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Recipient of prestigious awards in Aerospace Engineering",
+      "Served on editorial boards of leading Aerospace Engineering journals",
+      "Published 46 peer-reviewed papers in Aerospace Engineering"
+    ],
+    "biography": "John King is a distinguished expert in Aerospace Engineering with 23 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of aerospace engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to aerospace engineering",
+    "traits": [
+      "flexible",
+      "evidence-based",
+      "holistic"
+    ]
+  }
+]

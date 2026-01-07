@@ -1,0 +1,246 @@
+[
+  {
+    "id": "expert-0906",
+    "name": "Jack Morgan",
+    "title": "Principal",
+    "credentials": [
+      "DSc",
+      "PhD"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Recipient of prestigious awards in Broadcasting",
+      "Published 20 peer-reviewed papers in Broadcasting",
+      "Keynote speaker at international Broadcasting conferences",
+      "Mentored 5 doctoral students",
+      "Developed innovative methodologies in broadcasting"
+    ],
+    "biography": "Jack Morgan is a distinguished expert in Broadcasting with 10 years of experience. Known for groundbreaking contributions to the field, Jack has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to broadcasting",
+    "traits": [
+      "intuitive",
+      "empirical",
+      "visionary",
+      "collaborative",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0907",
+    "name": "Robert Evans",
+    "title": "Principal",
+    "credentials": [
+      "PharmD",
+      "MPH"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Keynote speaker at international Broadcasting conferences",
+      "Published 28 peer-reviewed papers in Broadcasting",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in broadcasting",
+      "Led groundbreaking research in broadcasting"
+    ],
+    "biography": "Robert Evans is a distinguished expert in Broadcasting with 14 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on broadcasting",
+    "traits": [
+      "specialized",
+      "balanced",
+      "analytical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0908",
+    "name": "Scott Collins",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting",
+      "theoretical broadcasting"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in broadcasting",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Broadcasting",
+      "Served on editorial boards of leading Broadcasting journals",
+      "Keynote speaker at international Broadcasting conferences"
+    ],
+    "biography": "Scott Collins is a distinguished expert in Broadcasting with 41 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in broadcasting",
+    "traits": [
+      "pragmatic",
+      "principled",
+      "progressive",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0909",
+    "name": "Ethan Price",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PharmD",
+      "MFA",
+      "DSc"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Broadcasting journals",
+      "Developed innovative methodologies in broadcasting",
+      "Led groundbreaking research in broadcasting",
+      "Recipient of prestigious awards in Broadcasting"
+    ],
+    "biography": "Ethan Price is a distinguished expert in Broadcasting with 30 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "practical application of broadcasting principles",
+    "traits": [
+      "intuitive",
+      "analytical",
+      "specialized",
+      "innovative",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0910",
+    "name": "Thomas Olson",
+    "title": "Senior",
+    "credentials": [
+      "PsyD",
+      "LLM",
+      "DVM"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Keynote speaker at international Broadcasting conferences",
+      "Recipient of prestigious awards in Broadcasting",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Thomas Olson is a distinguished expert in Broadcasting with 36 years of experience. Known for groundbreaking contributions to the field, Thomas has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in broadcasting",
+    "traits": [
+      "holistic",
+      "systematic",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0911",
+    "name": "Barbara Gray",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT",
+      "DNP"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting",
+      "theoretical broadcasting"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Led groundbreaking research in broadcasting",
+      "Served on editorial boards of leading Broadcasting journals",
+      "Published 82 peer-reviewed papers in Broadcasting",
+      "Mentored 20 doctoral students",
+      "Developed innovative methodologies in broadcasting"
+    ],
+    "biography": "Barbara Gray is a distinguished expert in Broadcasting with 41 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in broadcasting",
+    "traits": [
+      "methodical",
+      "bold",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0912",
+    "name": "Alexander Lopez",
+    "title": "Chief",
+    "credentials": [
+      "DPT",
+      "LLM",
+      "MPH"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Mentored 8 doctoral students",
+      "Keynote speaker at international Broadcasting conferences",
+      "Served on editorial boards of leading Broadcasting journals",
+      "Developed innovative methodologies in broadcasting",
+      "Recipient of prestigious awards in Broadcasting"
+    ],
+    "biography": "Alexander Lopez is a distinguished expert in Broadcasting with 17 years of experience. Known for groundbreaking contributions to the field, Alexander has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of broadcasting",
+    "traits": [
+      "practical",
+      "innovative",
+      "detail-oriented",
+      "tactical",
+      "traditional",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0913",
+    "name": "Tyler Flores",
+    "title": "Senior",
+    "credentials": [
+      "DSc",
+      "OD"
+    ],
+    "field": "Broadcasting",
+    "specializations": [
+      "advanced broadcasting",
+      "applied broadcasting",
+      "theoretical broadcasting"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Led groundbreaking research in broadcasting",
+      "Recipient of prestigious awards in Broadcasting",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Tyler Flores is a distinguished expert in Broadcasting with 17 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of broadcasting through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in broadcasting",
+    "traits": [
+      "innovative",
+      "pragmatic",
+      "evidence-based",
+      "principled",
+      "reform-minded",
+      "methodical"
+    ]
+  }
+]

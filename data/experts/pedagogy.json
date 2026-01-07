@@ -1,0 +1,213 @@
+[
+  {
+    "id": "expert-0746",
+    "name": "Betty James",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "PsyD"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Led groundbreaking research in pedagogy",
+      "Recipient of prestigious awards in Pedagogy",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in pedagogy"
+    ],
+    "biography": "Betty James is a distinguished expert in Pedagogy with 28 years of experience. Known for groundbreaking contributions to the field, Betty has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pedagogy",
+    "traits": [
+      "practical",
+      "analytical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0747",
+    "name": "Alexander Henry",
+    "title": "Chief",
+    "credentials": [
+      "LLM",
+      "DNP"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 54 peer-reviewed papers in Pedagogy",
+      "Mentored 13 doctoral students",
+      "Recipient of prestigious awards in Pedagogy"
+    ],
+    "biography": "Alexander Henry is a distinguished expert in Pedagogy with 27 years of experience. Known for groundbreaking contributions to the field, Alexander has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pedagogy",
+    "traits": [
+      "tactical",
+      "evidence-based",
+      "systematic",
+      "collaborative",
+      "holistic",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0748",
+    "name": "Kenneth Lewis",
+    "title": "Professor",
+    "credentials": [
+      "DPhil",
+      "LLM"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Developed innovative methodologies in pedagogy",
+      "Recipient of prestigious awards in Pedagogy",
+      "Keynote speaker at international Pedagogy conferences",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kenneth Lewis is a distinguished expert in Pedagogy with 37 years of experience. Known for groundbreaking contributions to the field, Kenneth has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pedagogy",
+    "traits": [
+      "intuitive",
+      "strategic",
+      "progressive",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0749",
+    "name": "Megan Walker",
+    "title": "Principal",
+    "credentials": [
+      "MPH",
+      "PhD"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Mentored 16 doctoral students",
+      "Published 64 peer-reviewed papers in Pedagogy",
+      "Served on editorial boards of leading Pedagogy journals",
+      "Led groundbreaking research in pedagogy"
+    ],
+    "biography": "Megan Walker is a distinguished expert in Pedagogy with 32 years of experience. Known for groundbreaking contributions to the field, Megan has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pedagogy",
+    "traits": [
+      "intuitive",
+      "interdisciplinary",
+      "analytical",
+      "holistic",
+      "balanced",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0750",
+    "name": "Kathryn Stevens",
+    "title": "Principal",
+    "credentials": [
+      "OD",
+      "MA"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy",
+      "theoretical pedagogy"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 46 peer-reviewed papers in Pedagogy",
+      "Keynote speaker at international Pedagogy conferences",
+      "Recipient of prestigious awards in Pedagogy"
+    ],
+    "biography": "Kathryn Stevens is a distinguished expert in Pedagogy with 23 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on pedagogy",
+    "traits": [
+      "bold",
+      "creative",
+      "balanced",
+      "empirical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0751",
+    "name": "Dorothy Martin",
+    "title": "Chief",
+    "credentials": [
+      "MSc",
+      "EdD",
+      "DSc"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Recipient of prestigious awards in Pedagogy",
+      "Principal investigator on major research grants",
+      "Published 76 peer-reviewed papers in Pedagogy",
+      "Served on editorial boards of leading Pedagogy journals",
+      "Keynote speaker at international Pedagogy conferences"
+    ],
+    "biography": "Dorothy Martin is a distinguished expert in Pedagogy with 38 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on pedagogy",
+    "traits": [
+      "visionary",
+      "strategic",
+      "principled",
+      "innovative",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0752",
+    "name": "Angela James",
+    "title": "Director",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Pedagogy",
+    "specializations": [
+      "advanced pedagogy",
+      "applied pedagogy",
+      "theoretical pedagogy"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Developed innovative methodologies in pedagogy",
+      "Published 58 peer-reviewed papers in Pedagogy",
+      "Keynote speaker at international Pedagogy conferences",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Pedagogy journals"
+    ],
+    "biography": "Angela James is a distinguished expert in Pedagogy with 29 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of pedagogy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of pedagogy",
+    "traits": [
+      "flexible",
+      "traditional"
+    ]
+  }
+]

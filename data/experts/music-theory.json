@@ -1,0 +1,174 @@
+[
+  {
+    "id": "expert-0594",
+    "name": "Nicholas Sanders",
+    "title": "Lead",
+    "credentials": [
+      "DNP",
+      "OD"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory",
+      "theoretical music theory"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Recipient of prestigious awards in Music Theory",
+      "Mentored 14 doctoral students",
+      "Led groundbreaking research in music theory",
+      "Developed innovative methodologies in music theory",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Nicholas Sanders is a distinguished expert in Music Theory with 29 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "practical application of music theory principles",
+    "traits": [
+      "analytical",
+      "cautious",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0595",
+    "name": "Austin Ramos",
+    "title": "Professor",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory",
+      "theoretical music theory"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Music Theory",
+      "Led groundbreaking research in music theory",
+      "Keynote speaker at international Music Theory conferences"
+    ],
+    "biography": "Austin Ramos is a distinguished expert in Music Theory with 17 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in music theory",
+    "traits": [
+      "interdisciplinary",
+      "conservative",
+      "progressive",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0596",
+    "name": "Elizabeth Moreno",
+    "title": "Director",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Keynote speaker at international Music Theory conferences",
+      "Published 74 peer-reviewed papers in Music Theory"
+    ],
+    "biography": "Elizabeth Moreno is a distinguished expert in Music Theory with 37 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of music theory",
+    "traits": [
+      "independent",
+      "strategic",
+      "bold",
+      "theoretical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0597",
+    "name": "Elizabeth Patterson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "MD"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Published 74 peer-reviewed papers in Music Theory",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in music theory"
+    ],
+    "biography": "Elizabeth Patterson is a distinguished expert in Music Theory with 37 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in music theory",
+    "traits": [
+      "interdisciplinary",
+      "data-driven",
+      "flexible",
+      "conservative",
+      "innovative",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0598",
+    "name": "Hannah Aguilar",
+    "title": "Senior",
+    "credentials": [
+      "OD",
+      "MD"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory",
+      "theoretical music theory"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Served on editorial boards of leading Music Theory journals",
+      "Published 56 peer-reviewed papers in Music Theory",
+      "Led groundbreaking research in music theory"
+    ],
+    "biography": "Hannah Aguilar is a distinguished expert in Music Theory with 28 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "practical application of music theory principles",
+    "traits": [
+      "strategic",
+      "interdisciplinary",
+      "theoretical",
+      "evidence-based",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0599",
+    "name": "Samantha Simpson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Music Theory",
+    "specializations": [
+      "advanced music theory",
+      "applied music theory"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 7 doctoral students",
+      "Led groundbreaking research in music theory"
+    ],
+    "biography": "Samantha Simpson is a distinguished expert in Music Theory with 14 years of experience. Known for groundbreaking contributions to the field, Samantha has shaped modern understanding of music theory through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to music theory",
+    "traits": [
+      "reform-minded",
+      "independent",
+      "visionary"
+    ]
+  }
+]

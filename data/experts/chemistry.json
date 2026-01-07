@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0281",
+    "name": "Harold Clark",
+    "title": "Director",
+    "credentials": [
+      "DSc",
+      "EdD",
+      "MFA"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry",
+      "theoretical chemistry"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 60 peer-reviewed papers in Chemistry",
+      "Led groundbreaking research in chemistry",
+      "Keynote speaker at international Chemistry conferences",
+      "Developed innovative methodologies in chemistry"
+    ],
+    "biography": "Harold Clark is a distinguished expert in Chemistry with 30 years of experience. Known for groundbreaking contributions to the field, Harold has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to chemistry",
+    "traits": [
+      "cautious",
+      "collaborative",
+      "specialized",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0282",
+    "name": "Teresa Sanders",
+    "title": "Director",
+    "credentials": [
+      "MA",
+      "PharmD",
+      "DVM"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Served on editorial boards of leading Chemistry journals",
+      "Published 80 peer-reviewed papers in Chemistry",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in chemistry"
+    ],
+    "biography": "Teresa Sanders is a distinguished expert in Chemistry with 40 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to chemistry",
+    "traits": [
+      "cautious",
+      "practical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0283",
+    "name": "Abigail Herrera",
+    "title": "Principal",
+    "credentials": [
+      "DDS",
+      "JD"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Keynote speaker at international Chemistry conferences",
+      "Served on editorial boards of leading Chemistry journals",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Abigail Herrera is a distinguished expert in Chemistry with 32 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of chemistry",
+    "traits": [
+      "holistic",
+      "intuitive",
+      "data-driven",
+      "evidence-based",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0284",
+    "name": "Carol Wood",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Chemistry",
+      "Led groundbreaking research in chemistry",
+      "Developed innovative methodologies in chemistry"
+    ],
+    "biography": "Carol Wood is a distinguished expert in Chemistry with 42 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to chemistry",
+    "traits": [
+      "creative",
+      "visionary",
+      "methodical",
+      "specialized",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0285",
+    "name": "Arthur Richardson",
+    "title": "Lead",
+    "credentials": [
+      "EdD",
+      "DPhil"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Recipient of prestigious awards in Chemistry",
+      "Led groundbreaking research in chemistry",
+      "Published 72 peer-reviewed papers in Chemistry"
+    ],
+    "biography": "Arthur Richardson is a distinguished expert in Chemistry with 36 years of experience. Known for groundbreaking contributions to the field, Arthur has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "practical application of chemistry principles",
+    "traits": [
+      "holistic",
+      "cautious",
+      "traditional",
+      "independent",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0286",
+    "name": "Kimberly Castillo",
+    "title": "Dr.",
+    "credentials": [
+      "MFA",
+      "PharmD"
+    ],
+    "field": "Chemistry",
+    "specializations": [
+      "advanced chemistry",
+      "applied chemistry",
+      "theoretical chemistry"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Chemistry",
+      "Led groundbreaking research in chemistry",
+      "Developed innovative methodologies in chemistry",
+      "Served on editorial boards of leading Chemistry journals",
+      "Keynote speaker at international Chemistry conferences"
+    ],
+    "biography": "Kimberly Castillo is a distinguished expert in Chemistry with 21 years of experience. Known for groundbreaking contributions to the field, Kimberly has shaped modern understanding of chemistry through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on chemistry",
+    "traits": [
+      "visionary",
+      "detail-oriented",
+      "conservative"
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0630",
+    "name": "Angela Perry",
+    "title": "Professor",
+    "credentials": [
+      "DSc",
+      "DPT"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies",
+      "theoretical religious studies"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Religious Studies",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in religious studies",
+      "Recipient of prestigious awards in Religious Studies",
+      "Developed innovative methodologies in religious studies"
+    ],
+    "biography": "Angela Perry is a distinguished expert in Religious Studies with 42 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on religious studies",
+    "traits": [
+      "flexible",
+      "bold",
+      "interdisciplinary",
+      "innovative",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0631",
+    "name": "Kevin Hernandez",
+    "title": "Lead",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies",
+      "theoretical religious studies"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Published 74 peer-reviewed papers in Religious Studies",
+      "Recipient of prestigious awards in Religious Studies",
+      "Mentored 18 doctoral students",
+      "Served on editorial boards of leading Religious Studies journals",
+      "Led groundbreaking research in religious studies"
+    ],
+    "biography": "Kevin Hernandez is a distinguished expert in Religious Studies with 37 years of experience. Known for groundbreaking contributions to the field, Kevin has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to religious studies",
+    "traits": [
+      "empirical",
+      "analytical",
+      "practical",
+      "collaborative",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0632",
+    "name": "Karen Thompson",
+    "title": "Principal",
+    "credentials": [
+      "PhD",
+      "DPT"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Keynote speaker at international Religious Studies conferences",
+      "Served on editorial boards of leading Religious Studies journals",
+      "Recipient of prestigious awards in Religious Studies",
+      "Developed innovative methodologies in religious studies"
+    ],
+    "biography": "Karen Thompson is a distinguished expert in Religious Studies with 12 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in religious studies",
+    "traits": [
+      "strategic",
+      "cautious",
+      "detail-oriented",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0633",
+    "name": "Jose Robinson",
+    "title": "Director",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies",
+      "theoretical religious studies"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 78 peer-reviewed papers in Religious Studies",
+      "Developed innovative methodologies in religious studies"
+    ],
+    "biography": "Jose Robinson is a distinguished expert in Religious Studies with 39 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of religious studies principles",
+    "traits": [
+      "conservative",
+      "tactical",
+      "flexible",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0634",
+    "name": "Walter Turner",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies",
+      "theoretical religious studies"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Served on editorial boards of leading Religious Studies journals",
+      "Led groundbreaking research in religious studies",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Walter Turner is a distinguished expert in Religious Studies with 26 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on religious studies",
+    "traits": [
+      "strategic",
+      "detail-oriented",
+      "cautious",
+      "pragmatic",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0635",
+    "name": "Diane Nguyen",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "DNP"
+    ],
+    "field": "Religious Studies",
+    "specializations": [
+      "advanced religious studies",
+      "applied religious studies",
+      "theoretical religious studies"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Served on editorial boards of leading Religious Studies journals",
+      "Keynote speaker at international Religious Studies conferences",
+      "Published 62 peer-reviewed papers in Religious Studies"
+    ],
+    "biography": "Diane Nguyen is a distinguished expert in Religious Studies with 31 years of experience. Known for groundbreaking contributions to the field, Diane has shaped modern understanding of religious studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of religious studies principles",
+    "traits": [
+      "intuitive",
+      "detail-oriented",
+      "conservative"
+    ]
+  }
+]

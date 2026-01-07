@@ -1,0 +1,186 @@
+[
+  {
+    "id": "expert-0970",
+    "name": "Ronald Jimenez",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MSc",
+      "DNP",
+      "PsyD"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design",
+      "theoretical interior design"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 54 peer-reviewed papers in Interior Design",
+      "Led groundbreaking research in interior design"
+    ],
+    "biography": "Ronald Jimenez is a distinguished expert in Interior Design with 27 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to interior design",
+    "traits": [
+      "systematic",
+      "reform-minded",
+      "innovative",
+      "intuitive",
+      "independent",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0971",
+    "name": "Pamela Anderson",
+    "title": "Associate Professor",
+    "credentials": [
+      "PsyD",
+      "DDS"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Interior Design",
+      "Led groundbreaking research in interior design",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Pamela Anderson is a distinguished expert in Interior Design with 24 years of experience. Known for groundbreaking contributions to the field, Pamela has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to interior design",
+    "traits": [
+      "traditional",
+      "intuitive",
+      "bold",
+      "holistic",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0972",
+    "name": "Jeremy Myers",
+    "title": "Professor",
+    "credentials": [
+      "MFA",
+      "DVM"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Served on editorial boards of leading Interior Design journals",
+      "Principal investigator on major research grants",
+      "Published 78 peer-reviewed papers in Interior Design"
+    ],
+    "biography": "Jeremy Myers is a distinguished expert in Interior Design with 39 years of experience. Known for groundbreaking contributions to the field, Jeremy has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "practical application of interior design principles",
+    "traits": [
+      "principled",
+      "creative",
+      "data-driven",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0973",
+    "name": "Judith Peterson",
+    "title": "Lead",
+    "credentials": [
+      "MA",
+      "DBA",
+      "DPhil"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in interior design",
+      "Led groundbreaking research in interior design",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Interior Design",
+      "Mentored 21 doctoral students"
+    ],
+    "biography": "Judith Peterson is a distinguished expert in Interior Design with 43 years of experience. Known for groundbreaking contributions to the field, Judith has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in interior design",
+    "traits": [
+      "detail-oriented",
+      "balanced",
+      "analytical",
+      "flexible",
+      "empirical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0974",
+    "name": "Christine Jones",
+    "title": "Lead",
+    "credentials": [
+      "JD",
+      "LLM",
+      "DDS"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design",
+      "theoretical interior design"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Published 62 peer-reviewed papers in Interior Design",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Interior Design journals"
+    ],
+    "biography": "Christine Jones is a distinguished expert in Interior Design with 31 years of experience. Known for groundbreaking contributions to the field, Christine has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in interior design",
+    "traits": [
+      "interdisciplinary",
+      "pragmatic",
+      "empirical",
+      "tactical",
+      "practical",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0975",
+    "name": "Sandra Henderson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Interior Design",
+    "specializations": [
+      "advanced interior design",
+      "applied interior design",
+      "theoretical interior design"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Mentored 15 doctoral students",
+      "Keynote speaker at international Interior Design conferences",
+      "Served on editorial boards of leading Interior Design journals",
+      "Published 60 peer-reviewed papers in Interior Design"
+    ],
+    "biography": "Sandra Henderson is a distinguished expert in Interior Design with 30 years of experience. Known for groundbreaking contributions to the field, Sandra has shaped modern understanding of interior design through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of interior design",
+    "traits": [
+      "principled",
+      "collaborative",
+      "analytical"
+    ]
+  }
+]

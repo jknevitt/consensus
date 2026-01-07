@@ -1,0 +1,206 @@
+[
+  {
+    "id": "expert-0914",
+    "name": "Jacob Richardson",
+    "title": "Principal",
+    "credentials": [
+      "MA",
+      "MPH"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media",
+      "theoretical digital media"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Served on editorial boards of leading Digital Media journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in digital media"
+    ],
+    "biography": "Jacob Richardson is a distinguished expert in Digital Media with 44 years of experience. Known for groundbreaking contributions to the field, Jacob has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on digital media",
+    "traits": [
+      "balanced",
+      "practical",
+      "pragmatic",
+      "principled",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0915",
+    "name": "Nathan Freeman",
+    "title": "Chief",
+    "credentials": [
+      "MSc",
+      "DVM"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media",
+      "theoretical digital media"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Published 80 peer-reviewed papers in Digital Media",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in digital media",
+      "Recipient of prestigious awards in Digital Media"
+    ],
+    "biography": "Nathan Freeman is a distinguished expert in Digital Media with 40 years of experience. Known for groundbreaking contributions to the field, Nathan has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of digital media",
+    "traits": [
+      "strategic",
+      "collaborative",
+      "holistic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0916",
+    "name": "Janice Stevens",
+    "title": "Dr.",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media",
+      "theoretical digital media"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Developed innovative methodologies in digital media",
+      "Principal investigator on major research grants",
+      "Published 84 peer-reviewed papers in Digital Media",
+      "Mentored 21 doctoral students",
+      "Served on editorial boards of leading Digital Media journals"
+    ],
+    "biography": "Janice Stevens is a distinguished expert in Digital Media with 42 years of experience. Known for groundbreaking contributions to the field, Janice has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on digital media",
+    "traits": [
+      "cautious",
+      "collaborative",
+      "empirical",
+      "practical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0917",
+    "name": "Douglas Hamilton",
+    "title": "Chief",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in digital media",
+      "Published 58 peer-reviewed papers in Digital Media",
+      "Developed innovative methodologies in digital media",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Douglas Hamilton is a distinguished expert in Digital Media with 29 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of digital media",
+    "traits": [
+      "pragmatic",
+      "methodical",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0918",
+    "name": "Brandon Aguilar",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPhil",
+      "DPT"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Served on editorial boards of leading Digital Media journals",
+      "Published 30 peer-reviewed papers in Digital Media",
+      "Led groundbreaking research in digital media"
+    ],
+    "biography": "Brandon Aguilar is a distinguished expert in Digital Media with 15 years of experience. Known for groundbreaking contributions to the field, Brandon has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "practical application of digital media principles",
+    "traits": [
+      "strategic",
+      "independent",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0919",
+    "name": "Emily Young",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MA",
+      "DSc"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Served on editorial boards of leading Digital Media journals",
+      "Developed innovative methodologies in digital media",
+      "Mentored 19 doctoral students",
+      "Led groundbreaking research in digital media",
+      "Published 76 peer-reviewed papers in Digital Media"
+    ],
+    "biography": "Emily Young is a distinguished expert in Digital Media with 38 years of experience. Known for groundbreaking contributions to the field, Emily has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "practical application of digital media principles",
+    "traits": [
+      "data-driven",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0920",
+    "name": "Peter Martinez",
+    "title": "Lead",
+    "credentials": [
+      "MFA",
+      "DBA"
+    ],
+    "field": "Digital Media",
+    "specializations": [
+      "advanced digital media",
+      "applied digital media"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in digital media",
+      "Recipient of prestigious awards in Digital Media",
+      "Led groundbreaking research in digital media"
+    ],
+    "biography": "Peter Martinez is a distinguished expert in Digital Media with 23 years of experience. Known for groundbreaking contributions to the field, Peter has shaped modern understanding of digital media through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of digital media",
+    "traits": [
+      "independent",
+      "analytical",
+      "balanced",
+      "conservative"
+    ]
+  }
+]

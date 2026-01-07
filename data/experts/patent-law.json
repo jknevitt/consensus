@@ -1,0 +1,214 @@
+[
+  {
+    "id": "expert-0148",
+    "name": "Lauren Bailey",
+    "title": "Lead",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Patent Law",
+      "Served on editorial boards of leading Patent Law journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in patent law",
+      "Keynote speaker at international Patent Law conferences"
+    ],
+    "biography": "Lauren Bailey is a distinguished expert in Patent Law with 30 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "practical application of patent law principles",
+    "traits": [
+      "reform-minded",
+      "traditional",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0149",
+    "name": "Ronald Vasquez",
+    "title": "Lead",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law",
+      "theoretical patent law"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Developed innovative methodologies in patent law",
+      "Keynote speaker at international Patent Law conferences",
+      "Led groundbreaking research in patent law",
+      "Published 36 peer-reviewed papers in Patent Law"
+    ],
+    "biography": "Ronald Vasquez is a distinguished expert in Patent Law with 18 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "practical application of patent law principles",
+    "traits": [
+      "traditional",
+      "principled",
+      "bold",
+      "collaborative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0150",
+    "name": "Lauren Mendoza",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "DPT"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law",
+      "theoretical patent law"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Mentored 8 doctoral students",
+      "Developed innovative methodologies in patent law",
+      "Served on editorial boards of leading Patent Law journals",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Patent Law"
+    ],
+    "biography": "Lauren Mendoza is a distinguished expert in Patent Law with 17 years of experience. Known for groundbreaking contributions to the field, Lauren has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to patent law",
+    "traits": [
+      "data-driven",
+      "innovative",
+      "theoretical",
+      "interdisciplinary",
+      "balanced",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0151",
+    "name": "Barbara Jackson",
+    "title": "Associate Professor",
+    "credentials": [
+      "MA",
+      "JD",
+      "PhD"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Patent Law",
+      "Keynote speaker at international Patent Law conferences",
+      "Led groundbreaking research in patent law"
+    ],
+    "biography": "Barbara Jackson is a distinguished expert in Patent Law with 25 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of patent law",
+    "traits": [
+      "flexible",
+      "intuitive",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0152",
+    "name": "Tyler Adams",
+    "title": "Professor",
+    "credentials": [
+      "MD",
+      "OD"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law",
+      "theoretical patent law"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 76 peer-reviewed papers in Patent Law",
+      "Led groundbreaking research in patent law"
+    ],
+    "biography": "Tyler Adams is a distinguished expert in Patent Law with 38 years of experience. Known for groundbreaking contributions to the field, Tyler has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in patent law",
+    "traits": [
+      "bold",
+      "evidence-based",
+      "reform-minded",
+      "theoretical",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0153",
+    "name": "Amanda Green",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "JD",
+      "MSc"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law",
+      "theoretical patent law"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in patent law",
+      "Recipient of prestigious awards in Patent Law"
+    ],
+    "biography": "Amanda Green is a distinguished expert in Patent Law with 30 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of patent law",
+    "traits": [
+      "practical",
+      "conservative",
+      "strategic",
+      "bold",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0154",
+    "name": "Katherine Flores",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Patent Law",
+    "specializations": [
+      "advanced patent law",
+      "applied patent law",
+      "theoretical patent law"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Patent Law",
+      "Developed innovative methodologies in patent law",
+      "Keynote speaker at international Patent Law conferences",
+      "Mentored 14 doctoral students",
+      "Recipient of prestigious awards in Patent Law"
+    ],
+    "biography": "Katherine Flores is a distinguished expert in Patent Law with 29 years of experience. Known for groundbreaking contributions to the field, Katherine has shaped modern understanding of patent law through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to patent law",
+    "traits": [
+      "cautious",
+      "principled",
+      "practical",
+      "flexible",
+      "tactical",
+      "empirical"
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "expert-0484",
+    "name": "Gary Ross",
+    "title": "Associate Professor",
+    "credentials": [
+      "DVM",
+      "MPH"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing",
+      "theoretical marketing"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in marketing",
+      "Keynote speaker at international Marketing conferences",
+      "Published 86 peer-reviewed papers in Marketing"
+    ],
+    "biography": "Gary Ross is a distinguished expert in Marketing with 43 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of marketing",
+    "traits": [
+      "conservative",
+      "progressive",
+      "visionary",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0485",
+    "name": "Peter Young",
+    "title": "Lead",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Led groundbreaking research in marketing",
+      "Published 48 peer-reviewed papers in Marketing",
+      "Keynote speaker at international Marketing conferences"
+    ],
+    "biography": "Peter Young is a distinguished expert in Marketing with 24 years of experience. Known for groundbreaking contributions to the field, Peter has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of marketing",
+    "traits": [
+      "holistic",
+      "empirical",
+      "detail-oriented",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0486",
+    "name": "Jacqueline McDonald",
+    "title": "Dr.",
+    "credentials": [
+      "DNP",
+      "OD"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing",
+      "theoretical marketing"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Marketing",
+      "Led groundbreaking research in marketing",
+      "Developed innovative methodologies in marketing",
+      "Principal investigator on major research grants",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Jacqueline McDonald is a distinguished expert in Marketing with 28 years of experience. Known for groundbreaking contributions to the field, Jacqueline has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to marketing",
+    "traits": [
+      "pragmatic",
+      "balanced",
+      "analytical",
+      "traditional",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0487",
+    "name": "Edward Price",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "PharmD",
+      "MBA"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing",
+      "theoretical marketing"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Served on editorial boards of leading Marketing journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in marketing",
+      "Mentored 13 doctoral students",
+      "Recipient of prestigious awards in Marketing"
+    ],
+    "biography": "Edward Price is a distinguished expert in Marketing with 26 years of experience. Known for groundbreaking contributions to the field, Edward has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "practical application of marketing principles",
+    "traits": [
+      "innovative",
+      "specialized",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0488",
+    "name": "Ryan Fernandez",
+    "title": "Lead",
+    "credentials": [
+      "OD",
+      "DPT",
+      "DVM"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Marketing",
+      "Developed innovative methodologies in marketing",
+      "Led groundbreaking research in marketing"
+    ],
+    "biography": "Ryan Fernandez is a distinguished expert in Marketing with 13 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of marketing",
+    "traits": [
+      "systematic",
+      "tactical",
+      "collaborative",
+      "data-driven"
+    ]
+  },
+  {
+    "id": "expert-0489",
+    "name": "Cynthia Gray",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "DVM"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing",
+      "theoretical marketing"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Served on editorial boards of leading Marketing journals",
+      "Published 82 peer-reviewed papers in Marketing",
+      "Led groundbreaking research in marketing"
+    ],
+    "biography": "Cynthia Gray is a distinguished expert in Marketing with 41 years of experience. Known for groundbreaking contributions to the field, Cynthia has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to marketing",
+    "traits": [
+      "conservative",
+      "methodical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0490",
+    "name": "Brandon Garcia",
+    "title": "Chief",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing",
+      "theoretical marketing"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Served on editorial boards of leading Marketing journals",
+      "Published 42 peer-reviewed papers in Marketing",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Brandon Garcia is a distinguished expert in Marketing with 21 years of experience. Known for groundbreaking contributions to the field, Brandon has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to marketing",
+    "traits": [
+      "pragmatic",
+      "empirical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0491",
+    "name": "Elizabeth Walker",
+    "title": "Senior",
+    "credentials": [
+      "PhD",
+      "MSc",
+      "MBA"
+    ],
+    "field": "Marketing",
+    "specializations": [
+      "advanced marketing",
+      "applied marketing"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Keynote speaker at international Marketing conferences",
+      "Led groundbreaking research in marketing",
+      "Developed innovative methodologies in marketing"
+    ],
+    "biography": "Elizabeth Walker is a distinguished expert in Marketing with 43 years of experience. Known for groundbreaking contributions to the field, Elizabeth has shaped modern understanding of marketing through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of marketing",
+    "traits": [
+      "interdisciplinary",
+      "evidence-based",
+      "holistic"
+    ]
+  }
+]

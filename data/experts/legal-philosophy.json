@@ -1,0 +1,205 @@
+[
+  {
+    "id": "expert-0181",
+    "name": "Ryan Gonzales",
+    "title": "Lead",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Keynote speaker at international Legal Philosophy conferences",
+      "Published 26 peer-reviewed papers in Legal Philosophy",
+      "Led groundbreaking research in legal philosophy",
+      "Principal investigator on major research grants",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Ryan Gonzales is a distinguished expert in Legal Philosophy with 13 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on legal philosophy",
+    "traits": [
+      "creative",
+      "holistic",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0182",
+    "name": "Nicole Guzman",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PhD",
+      "MSc",
+      "MA"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy",
+      "theoretical legal philosophy"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Led groundbreaking research in legal philosophy",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in legal philosophy",
+      "Recipient of prestigious awards in Legal Philosophy"
+    ],
+    "biography": "Nicole Guzman is a distinguished expert in Legal Philosophy with 19 years of experience. Known for groundbreaking contributions to the field, Nicole has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "practical application of legal philosophy principles",
+    "traits": [
+      "data-driven",
+      "intuitive",
+      "innovative",
+      "collaborative",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0183",
+    "name": "Ronald McDonald",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DNP",
+      "MD"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy",
+      "theoretical legal philosophy"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Legal Philosophy journals",
+      "Keynote speaker at international Legal Philosophy conferences"
+    ],
+    "biography": "Ronald McDonald is a distinguished expert in Legal Philosophy with 14 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on legal philosophy",
+    "traits": [
+      "methodical",
+      "practical",
+      "flexible",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0184",
+    "name": "Debra Baker",
+    "title": "Senior",
+    "credentials": [
+      "PsyD",
+      "MPH"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Keynote speaker at international Legal Philosophy conferences",
+      "Published 74 peer-reviewed papers in Legal Philosophy",
+      "Led groundbreaking research in legal philosophy"
+    ],
+    "biography": "Debra Baker is a distinguished expert in Legal Philosophy with 37 years of experience. Known for groundbreaking contributions to the field, Debra has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of legal philosophy",
+    "traits": [
+      "evidence-based",
+      "progressive",
+      "independent",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0185",
+    "name": "Terry Mitchell",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy",
+      "theoretical legal philosophy"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Served on editorial boards of leading Legal Philosophy journals",
+      "Developed innovative methodologies in legal philosophy",
+      "Recipient of prestigious awards in Legal Philosophy"
+    ],
+    "biography": "Terry Mitchell is a distinguished expert in Legal Philosophy with 12 years of experience. Known for groundbreaking contributions to the field, Terry has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of legal philosophy",
+    "traits": [
+      "principled",
+      "strategic",
+      "detail-oriented",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0186",
+    "name": "Rebecca Cooper",
+    "title": "Lead",
+    "credentials": [
+      "DSc",
+      "MSc"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Served on editorial boards of leading Legal Philosophy journals",
+      "Mentored 6 doctoral students",
+      "Developed innovative methodologies in legal philosophy",
+      "Recipient of prestigious awards in Legal Philosophy"
+    ],
+    "biography": "Rebecca Cooper is a distinguished expert in Legal Philosophy with 13 years of experience. Known for groundbreaking contributions to the field, Rebecca has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "practical application of legal philosophy principles",
+    "traits": [
+      "traditional",
+      "methodical",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0187",
+    "name": "James Olson",
+    "title": "Dr.",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Legal Philosophy",
+    "specializations": [
+      "advanced legal philosophy",
+      "applied legal philosophy",
+      "theoretical legal philosophy"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Keynote speaker at international Legal Philosophy conferences",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in legal philosophy",
+      "Recipient of prestigious awards in Legal Philosophy"
+    ],
+    "biography": "James Olson is a distinguished expert in Legal Philosophy with 18 years of experience. Known for groundbreaking contributions to the field, James has shaped modern understanding of legal philosophy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to legal philosophy",
+    "traits": [
+      "independent",
+      "detail-oriented",
+      "strategic",
+      "visionary",
+      "practical"
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0703",
+    "name": "Mary Carter",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MSc",
+      "JD",
+      "DDS"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Social Work journals",
+      "Keynote speaker at international Social Work conferences"
+    ],
+    "biography": "Mary Carter is a distinguished expert in Social Work with 35 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of social work",
+    "traits": [
+      "theoretical",
+      "intuitive",
+      "pragmatic",
+      "balanced",
+      "innovative",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0704",
+    "name": "Susan Butler",
+    "title": "Lead",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Mentored 14 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Social Work journals",
+      "Published 56 peer-reviewed papers in Social Work",
+      "Led groundbreaking research in social work"
+    ],
+    "biography": "Susan Butler is a distinguished expert in Social Work with 28 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on social work",
+    "traits": [
+      "collaborative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0705",
+    "name": "Douglas Woods",
+    "title": "Chief",
+    "credentials": [
+      "MFA",
+      "DPT",
+      "DNP"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Mentored 7 doctoral students",
+      "Developed innovative methodologies in social work",
+      "Served on editorial boards of leading Social Work journals"
+    ],
+    "biography": "Douglas Woods is a distinguished expert in Social Work with 15 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to social work",
+    "traits": [
+      "evidence-based",
+      "cautious",
+      "tactical",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0706",
+    "name": "Julie Rivera",
+    "title": "Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work",
+      "theoretical social work"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Led groundbreaking research in social work",
+      "Recipient of prestigious awards in Social Work",
+      "Published 40 peer-reviewed papers in Social Work",
+      "Developed innovative methodologies in social work"
+    ],
+    "biography": "Julie Rivera is a distinguished expert in Social Work with 20 years of experience. Known for groundbreaking contributions to the field, Julie has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to social work",
+    "traits": [
+      "evidence-based",
+      "strategic",
+      "flexible",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0707",
+    "name": "Daniel Murphy",
+    "title": "Principal",
+    "credentials": [
+      "DVM",
+      "DPT"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Principal investigator on major research grants",
+      "Published 82 peer-reviewed papers in Social Work"
+    ],
+    "biography": "Daniel Murphy is a distinguished expert in Social Work with 41 years of experience. Known for groundbreaking contributions to the field, Daniel has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of social work",
+    "traits": [
+      "methodical",
+      "tactical",
+      "intuitive",
+      "creative",
+      "detail-oriented",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0708",
+    "name": "Ethan Bennett",
+    "title": "Principal",
+    "credentials": [
+      "DPhil",
+      "PsyD"
+    ],
+    "field": "Social Work",
+    "specializations": [
+      "advanced social work",
+      "applied social work",
+      "theoretical social work"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 36 peer-reviewed papers in Social Work",
+      "Led groundbreaking research in social work",
+      "Keynote speaker at international Social Work conferences",
+      "Developed innovative methodologies in social work"
+    ],
+    "biography": "Ethan Bennett is a distinguished expert in Social Work with 18 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of social work through extensive research, teaching, and practice.",
+    "perspective": "practical application of social work principles",
+    "traits": [
+      "conservative",
+      "creative",
+      "strategic",
+      "interdisciplinary"
+    ]
+  }
+]

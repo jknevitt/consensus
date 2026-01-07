@@ -1,0 +1,183 @@
+[
+  {
+    "id": "expert-0294",
+    "name": "Karen Adams",
+    "title": "Director",
+    "credentials": [
+      "PsyD",
+      "DPT"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Served on editorial boards of leading Astronomy journals",
+      "Recipient of prestigious awards in Astronomy",
+      "Led groundbreaking research in astronomy"
+    ],
+    "biography": "Karen Adams is a distinguished expert in Astronomy with 39 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of astronomy",
+    "traits": [
+      "creative",
+      "reform-minded",
+      "innovative",
+      "analytical",
+      "progressive",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0295",
+    "name": "Diane Rogers",
+    "title": "Chief",
+    "credentials": [
+      "DPhil",
+      "MBA"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Developed innovative methodologies in astronomy",
+      "Principal investigator on major research grants",
+      "Mentored 14 doctoral students",
+      "Published 58 peer-reviewed papers in Astronomy"
+    ],
+    "biography": "Diane Rogers is a distinguished expert in Astronomy with 29 years of experience. Known for groundbreaking contributions to the field, Diane has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in astronomy",
+    "traits": [
+      "empirical",
+      "independent",
+      "creative",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0296",
+    "name": "Victoria Cruz",
+    "title": "Chief",
+    "credentials": [
+      "JD",
+      "DNP",
+      "PsyD"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy",
+      "theoretical astronomy"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Published 46 peer-reviewed papers in Astronomy",
+      "Recipient of prestigious awards in Astronomy",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in astronomy"
+    ],
+    "biography": "Victoria Cruz is a distinguished expert in Astronomy with 23 years of experience. Known for groundbreaking contributions to the field, Victoria has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of astronomy",
+    "traits": [
+      "empirical",
+      "collaborative",
+      "interdisciplinary",
+      "reform-minded",
+      "innovative",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0297",
+    "name": "Anna Gonzalez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT",
+      "MBA",
+      "LLM"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy",
+      "theoretical astronomy"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Served on editorial boards of leading Astronomy journals",
+      "Published 86 peer-reviewed papers in Astronomy",
+      "Recipient of prestigious awards in Astronomy",
+      "Mentored 21 doctoral students"
+    ],
+    "biography": "Anna Gonzalez is a distinguished expert in Astronomy with 43 years of experience. Known for groundbreaking contributions to the field, Anna has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of astronomy",
+    "traits": [
+      "traditional",
+      "theoretical",
+      "principled",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0298",
+    "name": "Christopher Phillips",
+    "title": "Dr.",
+    "credentials": [
+      "JD"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy",
+      "theoretical astronomy"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Published 34 peer-reviewed papers in Astronomy",
+      "Led groundbreaking research in astronomy",
+      "Recipient of prestigious awards in Astronomy",
+      "Developed innovative methodologies in astronomy"
+    ],
+    "biography": "Christopher Phillips is a distinguished expert in Astronomy with 17 years of experience. Known for groundbreaking contributions to the field, Christopher has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to astronomy",
+    "traits": [
+      "principled",
+      "flexible",
+      "strategic",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0299",
+    "name": "Douglas Miller",
+    "title": "Director",
+    "credentials": [
+      "DNP",
+      "MD"
+    ],
+    "field": "Astronomy",
+    "specializations": [
+      "advanced astronomy",
+      "applied astronomy",
+      "theoretical astronomy"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Astronomy",
+      "Led groundbreaking research in astronomy",
+      "Recipient of prestigious awards in Astronomy",
+      "Developed innovative methodologies in astronomy"
+    ],
+    "biography": "Douglas Miller is a distinguished expert in Astronomy with 38 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of astronomy through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on astronomy",
+    "traits": [
+      "strategic",
+      "evidence-based",
+      "intuitive"
+    ]
+  }
+]

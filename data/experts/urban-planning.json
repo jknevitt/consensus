@@ -1,0 +1,173 @@
+[
+  {
+    "id": "expert-0717",
+    "name": "Austin Kim",
+    "title": "Lead",
+    "credentials": [
+      "DNP",
+      "MSc"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning",
+      "theoretical urban planning"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Urban Planning",
+      "Developed innovative methodologies in urban planning",
+      "Keynote speaker at international Urban Planning conferences",
+      "Led groundbreaking research in urban planning"
+    ],
+    "biography": "Austin Kim is a distinguished expert in Urban Planning with 15 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in urban planning",
+    "traits": [
+      "bold",
+      "balanced",
+      "interdisciplinary",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0718",
+    "name": "Kathleen Patterson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "EdD"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning",
+      "theoretical urban planning"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Urban Planning",
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in urban planning",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Kathleen Patterson is a distinguished expert in Urban Planning with 26 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to urban planning",
+    "traits": [
+      "practical",
+      "collaborative",
+      "independent",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0719",
+    "name": "Olivia Lee",
+    "title": "Dr.",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning",
+      "theoretical urban planning"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in urban planning",
+      "Served on editorial boards of leading Urban Planning journals",
+      "Recipient of prestigious awards in Urban Planning"
+    ],
+    "biography": "Olivia Lee is a distinguished expert in Urban Planning with 16 years of experience. Known for groundbreaking contributions to the field, Olivia has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on urban planning",
+    "traits": [
+      "reform-minded",
+      "bold",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0720",
+    "name": "Jennifer Thompson",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning",
+      "theoretical urban planning"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Served on editorial boards of leading Urban Planning journals",
+      "Keynote speaker at international Urban Planning conferences",
+      "Developed innovative methodologies in urban planning",
+      "Recipient of prestigious awards in Urban Planning"
+    ],
+    "biography": "Jennifer Thompson is a distinguished expert in Urban Planning with 43 years of experience. Known for groundbreaking contributions to the field, Jennifer has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of urban planning",
+    "traits": [
+      "practical",
+      "data-driven",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0721",
+    "name": "Nicholas King",
+    "title": "Chief",
+    "credentials": [
+      "MD",
+      "PharmD"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Urban Planning",
+      "Led groundbreaking research in urban planning",
+      "Keynote speaker at international Urban Planning conferences"
+    ],
+    "biography": "Nicholas King is a distinguished expert in Urban Planning with 42 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on urban planning",
+    "traits": [
+      "innovative",
+      "independent",
+      "visionary",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0722",
+    "name": "Helen Morgan",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Urban Planning",
+    "specializations": [
+      "advanced urban planning",
+      "applied urban planning"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Keynote speaker at international Urban Planning conferences",
+      "Served on editorial boards of leading Urban Planning journals",
+      "Published 38 peer-reviewed papers in Urban Planning"
+    ],
+    "biography": "Helen Morgan is a distinguished expert in Urban Planning with 19 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of urban planning through extensive research, teaching, and practice.",
+    "perspective": "practical application of urban planning principles",
+    "traits": [
+      "conservative",
+      "cautious",
+      "visionary",
+      "detail-oriented"
+    ]
+  }
+]

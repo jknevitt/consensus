@@ -1,0 +1,171 @@
+[
+  {
+    "id": "expert-0780",
+    "name": "Christian Scott",
+    "title": "Director",
+    "credentials": [
+      "MPH",
+      "DBA"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education",
+      "theoretical higher education"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Higher Education",
+      "Served on editorial boards of leading Higher Education journals",
+      "Developed innovative methodologies in higher education"
+    ],
+    "biography": "Christian Scott is a distinguished expert in Higher Education with 31 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on higher education",
+    "traits": [
+      "flexible",
+      "progressive",
+      "bold",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0781",
+    "name": "Andrea Owens",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Led groundbreaking research in higher education",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Higher Education conferences"
+    ],
+    "biography": "Andrea Owens is a distinguished expert in Higher Education with 18 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of higher education",
+    "traits": [
+      "empirical",
+      "specialized",
+      "strategic",
+      "bold",
+      "interdisciplinary",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0782",
+    "name": "Brian Green",
+    "title": "Chief",
+    "credentials": [
+      "MD",
+      "DVM"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Led groundbreaking research in higher education",
+      "Developed innovative methodologies in higher education",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Brian Green is a distinguished expert in Higher Education with 17 years of experience. Known for groundbreaking contributions to the field, Brian has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in higher education",
+    "traits": [
+      "data-driven",
+      "visionary",
+      "creative",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0783",
+    "name": "Larry Russell",
+    "title": "Chief",
+    "credentials": [
+      "MD",
+      "JD"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education",
+      "theoretical higher education"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Higher Education",
+      "Led groundbreaking research in higher education",
+      "Recipient of prestigious awards in Higher Education"
+    ],
+    "biography": "Larry Russell is a distinguished expert in Higher Education with 15 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in higher education",
+    "traits": [
+      "visionary",
+      "traditional",
+      "collaborative",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0784",
+    "name": "Michael Moreno",
+    "title": "Chief",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Published 78 peer-reviewed papers in Higher Education",
+      "Mentored 19 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Michael Moreno is a distinguished expert in Higher Education with 39 years of experience. Known for groundbreaking contributions to the field, Michael has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on higher education",
+    "traits": [
+      "traditional",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0785",
+    "name": "Douglas Butler",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Higher Education",
+    "specializations": [
+      "advanced higher education",
+      "applied higher education"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Recipient of prestigious awards in Higher Education",
+      "Led groundbreaking research in higher education",
+      "Served on editorial boards of leading Higher Education journals"
+    ],
+    "biography": "Douglas Butler is a distinguished expert in Higher Education with 11 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of higher education through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to higher education",
+    "traits": [
+      "strategic",
+      "innovative",
+      "tactical",
+      "methodical",
+      "progressive"
+    ]
+  }
+]

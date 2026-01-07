@@ -1,0 +1,207 @@
+[
+  {
+    "id": "expert-0943",
+    "name": "Alexander Roberts",
+    "title": "Dr.",
+    "credentials": [
+      "EdD",
+      "DNP"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Mentored 16 doctoral students",
+      "Keynote speaker at international Communication Theory conferences",
+      "Served on editorial boards of leading Communication Theory journals"
+    ],
+    "biography": "Alexander Roberts is a distinguished expert in Communication Theory with 32 years of experience. Known for groundbreaking contributions to the field, Alexander has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of communication theory",
+    "traits": [
+      "principled",
+      "systematic",
+      "interdisciplinary",
+      "collaborative",
+      "methodical",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0944",
+    "name": "Aaron King",
+    "title": "Director",
+    "credentials": [
+      "DDS",
+      "MD"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Keynote speaker at international Communication Theory conferences",
+      "Published 34 peer-reviewed papers in Communication Theory",
+      "Led groundbreaking research in communication theory",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Aaron King is a distinguished expert in Communication Theory with 17 years of experience. Known for groundbreaking contributions to the field, Aaron has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on communication theory",
+    "traits": [
+      "systematic",
+      "innovative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0945",
+    "name": "Patricia Kelly",
+    "title": "Dr.",
+    "credentials": [
+      "DBA",
+      "DSc"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory",
+      "theoretical communication theory"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Published 78 peer-reviewed papers in Communication Theory",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Communication Theory",
+      "Developed innovative methodologies in communication theory"
+    ],
+    "biography": "Patricia Kelly is a distinguished expert in Communication Theory with 39 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of communication theory",
+    "traits": [
+      "detail-oriented",
+      "innovative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0946",
+    "name": "Christopher Bailey",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MSc",
+      "LLM"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory",
+      "theoretical communication theory"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Keynote speaker at international Communication Theory conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in communication theory",
+      "Developed innovative methodologies in communication theory"
+    ],
+    "biography": "Christopher Bailey is a distinguished expert in Communication Theory with 36 years of experience. Known for groundbreaking contributions to the field, Christopher has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to communication theory",
+    "traits": [
+      "reform-minded",
+      "strategic",
+      "practical",
+      "pragmatic",
+      "principled",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0947",
+    "name": "Melissa Ortiz",
+    "title": "Lead",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory"
+    ],
+    "yearsOfExperience": 44,
+    "achievements": [
+      "Developed innovative methodologies in communication theory",
+      "Led groundbreaking research in communication theory",
+      "Keynote speaker at international Communication Theory conferences"
+    ],
+    "biography": "Melissa Ortiz is a distinguished expert in Communication Theory with 44 years of experience. Known for groundbreaking contributions to the field, Melissa has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in communication theory",
+    "traits": [
+      "conservative",
+      "empirical",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0948",
+    "name": "Kyle Rodriguez",
+    "title": "Senior",
+    "credentials": [
+      "DNP",
+      "LLM",
+      "DPhil"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Developed innovative methodologies in communication theory",
+      "Mentored 7 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Communication Theory journals"
+    ],
+    "biography": "Kyle Rodriguez is a distinguished expert in Communication Theory with 15 years of experience. Known for groundbreaking contributions to the field, Kyle has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "practical application of communication theory principles",
+    "traits": [
+      "interdisciplinary",
+      "systematic",
+      "strategic",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0949",
+    "name": "Karen Edwards",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PsyD",
+      "DVM",
+      "DNP"
+    ],
+    "field": "Communication Theory",
+    "specializations": [
+      "advanced communication theory",
+      "applied communication theory"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Communication Theory",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in communication theory",
+      "Served on editorial boards of leading Communication Theory journals"
+    ],
+    "biography": "Karen Edwards is a distinguished expert in Communication Theory with 41 years of experience. Known for groundbreaking contributions to the field, Karen has shaped modern understanding of communication theory through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on communication theory",
+    "traits": [
+      "traditional",
+      "systematic",
+      "intuitive",
+      "data-driven"
+    ]
+  }
+]

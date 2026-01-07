@@ -1,0 +1,237 @@
+[
+  {
+    "id": "expert-0370",
+    "name": "Jordan Simmons",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD",
+      "MBA",
+      "LLM"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing",
+      "computer vision"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Recipient of prestigious awards in Artificial Intelligence",
+      "Developed innovative methodologies in artificial intelligence",
+      "Led groundbreaking research in artificial intelligence"
+    ],
+    "biography": "Jordan Simmons is a distinguished expert in Artificial Intelligence with 14 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "practical application of artificial intelligence principles",
+    "traits": [
+      "strategic",
+      "flexible",
+      "traditional",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0371",
+    "name": "Christina Ortiz",
+    "title": "Director",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Artificial Intelligence",
+      "Recipient of prestigious awards in Artificial Intelligence",
+      "Keynote speaker at international Artificial Intelligence conferences"
+    ],
+    "biography": "Christina Ortiz is a distinguished expert in Artificial Intelligence with 34 years of experience. Known for groundbreaking contributions to the field, Christina has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of artificial intelligence",
+    "traits": [
+      "intuitive",
+      "pragmatic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0372",
+    "name": "Mark Gomez",
+    "title": "Director",
+    "credentials": [
+      "MA",
+      "MBA",
+      "MSc"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Artificial Intelligence journals",
+      "Keynote speaker at international Artificial Intelligence conferences",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Mark Gomez is a distinguished expert in Artificial Intelligence with 31 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of artificial intelligence",
+    "traits": [
+      "visionary",
+      "pragmatic",
+      "traditional",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0373",
+    "name": "William Hayes",
+    "title": "Lead",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Keynote speaker at international Artificial Intelligence conferences",
+      "Served on editorial boards of leading Artificial Intelligence journals",
+      "Recipient of prestigious awards in Artificial Intelligence"
+    ],
+    "biography": "William Hayes is a distinguished expert in Artificial Intelligence with 43 years of experience. Known for groundbreaking contributions to the field, William has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of artificial intelligence",
+    "traits": [
+      "traditional",
+      "data-driven",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0374",
+    "name": "Teresa Cooper",
+    "title": "Lead",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing",
+      "computer vision"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Keynote speaker at international Artificial Intelligence conferences",
+      "Served on editorial boards of leading Artificial Intelligence journals",
+      "Mentored 10 doctoral students",
+      "Developed innovative methodologies in artificial intelligence"
+    ],
+    "biography": "Teresa Cooper is a distinguished expert in Artificial Intelligence with 20 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in artificial intelligence",
+    "traits": [
+      "conservative",
+      "evidence-based",
+      "tactical",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0375",
+    "name": "Melissa Peterson",
+    "title": "Senior",
+    "credentials": [
+      "DVM",
+      "DNP"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in artificial intelligence",
+      "Served on editorial boards of leading Artificial Intelligence journals",
+      "Recipient of prestigious awards in Artificial Intelligence",
+      "Principal investigator on major research grants",
+      "Mentored 13 doctoral students"
+    ],
+    "biography": "Melissa Peterson is a distinguished expert in Artificial Intelligence with 27 years of experience. Known for groundbreaking contributions to the field, Melissa has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of artificial intelligence",
+    "traits": [
+      "detail-oriented",
+      "traditional",
+      "methodical",
+      "creative",
+      "balanced",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0376",
+    "name": "Kathryn Hernandez",
+    "title": "Professor",
+    "credentials": [
+      "PharmD",
+      "DNP"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Keynote speaker at international Artificial Intelligence conferences",
+      "Developed innovative methodologies in artificial intelligence",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Kathryn Hernandez is a distinguished expert in Artificial Intelligence with 10 years of experience. Known for groundbreaking contributions to the field, Kathryn has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "practical application of artificial intelligence principles",
+    "traits": [
+      "cautious",
+      "holistic",
+      "analytical",
+      "methodical",
+      "tactical",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0377",
+    "name": "Rebecca Wells",
+    "title": "Principal",
+    "credentials": [
+      "PsyD",
+      "DNP"
+    ],
+    "field": "Artificial Intelligence",
+    "specializations": [
+      "deep learning",
+      "natural language processing",
+      "computer vision"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 58 peer-reviewed papers in Artificial Intelligence",
+      "Served on editorial boards of leading Artificial Intelligence journals",
+      "Led groundbreaking research in artificial intelligence"
+    ],
+    "biography": "Rebecca Wells is a distinguished expert in Artificial Intelligence with 29 years of experience. Known for groundbreaking contributions to the field, Rebecca has shaped modern understanding of artificial intelligence through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of artificial intelligence",
+    "traits": [
+      "balanced",
+      "practical",
+      "intuitive",
+      "detail-oriented",
+      "specialized",
+      "traditional"
+    ]
+  }
+]

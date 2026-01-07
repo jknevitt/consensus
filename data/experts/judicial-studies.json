@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0175",
+    "name": "Ethan Jackson",
+    "title": "Senior",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Mentored 19 doctoral students",
+      "Developed innovative methodologies in judicial studies",
+      "Served on editorial boards of leading Judicial Studies journals"
+    ],
+    "biography": "Ethan Jackson is a distinguished expert in Judicial Studies with 38 years of experience. Known for groundbreaking contributions to the field, Ethan has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of judicial studies",
+    "traits": [
+      "holistic",
+      "independent",
+      "creative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0176",
+    "name": "Judith Castro",
+    "title": "Associate Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies",
+      "theoretical judicial studies"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Mentored 12 doctoral students",
+      "Recipient of prestigious awards in Judicial Studies",
+      "Keynote speaker at international Judicial Studies conferences"
+    ],
+    "biography": "Judith Castro is a distinguished expert in Judicial Studies with 25 years of experience. Known for groundbreaking contributions to the field, Judith has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of judicial studies principles",
+    "traits": [
+      "intuitive",
+      "bold",
+      "innovative",
+      "strategic",
+      "data-driven",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0177",
+    "name": "Janet Jackson",
+    "title": "Chief",
+    "credentials": [
+      "PharmD",
+      "MSc"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies",
+      "theoretical judicial studies"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Mentored 9 doctoral students",
+      "Keynote speaker at international Judicial Studies conferences",
+      "Published 38 peer-reviewed papers in Judicial Studies",
+      "Served on editorial boards of leading Judicial Studies journals",
+      "Developed innovative methodologies in judicial studies"
+    ],
+    "biography": "Janet Jackson is a distinguished expert in Judicial Studies with 19 years of experience. Known for groundbreaking contributions to the field, Janet has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of judicial studies principles",
+    "traits": [
+      "cautious",
+      "flexible",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0178",
+    "name": "Sara Woods",
+    "title": "Director",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Recipient of prestigious awards in Judicial Studies",
+      "Served on editorial boards of leading Judicial Studies journals",
+      "Published 78 peer-reviewed papers in Judicial Studies",
+      "Keynote speaker at international Judicial Studies conferences",
+      "Developed innovative methodologies in judicial studies"
+    ],
+    "biography": "Sara Woods is a distinguished expert in Judicial Studies with 39 years of experience. Known for groundbreaking contributions to the field, Sara has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on judicial studies",
+    "traits": [
+      "innovative",
+      "visionary",
+      "evidence-based",
+      "tactical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0179",
+    "name": "Joseph Scott",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies",
+      "theoretical judicial studies"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Developed innovative methodologies in judicial studies",
+      "Recipient of prestigious awards in Judicial Studies",
+      "Mentored 7 doctoral students"
+    ],
+    "biography": "Joseph Scott is a distinguished expert in Judicial Studies with 14 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of judicial studies",
+    "traits": [
+      "bold",
+      "principled",
+      "reform-minded",
+      "practical",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0180",
+    "name": "Zachary Porter",
+    "title": "Chief",
+    "credentials": [
+      "MD",
+      "LLM",
+      "DBA"
+    ],
+    "field": "Judicial Studies",
+    "specializations": [
+      "advanced judicial studies",
+      "applied judicial studies"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Recipient of prestigious awards in Judicial Studies",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in judicial studies",
+      "Led groundbreaking research in judicial studies"
+    ],
+    "biography": "Zachary Porter is a distinguished expert in Judicial Studies with 41 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of judicial studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of judicial studies",
+    "traits": [
+      "principled",
+      "bold",
+      "systematic",
+      "independent",
+      "creative"
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "expert-0499",
+    "name": "Hannah Moreno",
+    "title": "Chief",
+    "credentials": [
+      "JD",
+      "DPT"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship",
+      "theoretical entrepreneurship"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in entrepreneurship",
+      "Published 50 peer-reviewed papers in Entrepreneurship",
+      "Served on editorial boards of leading Entrepreneurship journals",
+      "Keynote speaker at international Entrepreneurship conferences"
+    ],
+    "biography": "Hannah Moreno is a distinguished expert in Entrepreneurship with 25 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of entrepreneurship",
+    "traits": [
+      "strategic",
+      "bold",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0500",
+    "name": "Eric Campbell",
+    "title": "Director",
+    "credentials": [
+      "PhD",
+      "DPT",
+      "MD"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship",
+      "theoretical entrepreneurship"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Recipient of prestigious awards in Entrepreneurship",
+      "Led groundbreaking research in entrepreneurship",
+      "Published 42 peer-reviewed papers in Entrepreneurship"
+    ],
+    "biography": "Eric Campbell is a distinguished expert in Entrepreneurship with 21 years of experience. Known for groundbreaking contributions to the field, Eric has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on entrepreneurship",
+    "traits": [
+      "methodical",
+      "detail-oriented",
+      "interdisciplinary",
+      "flexible",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0501",
+    "name": "Gerald Ramirez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPhil",
+      "PsyD"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship",
+      "theoretical entrepreneurship"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Led groundbreaking research in entrepreneurship",
+      "Published 64 peer-reviewed papers in Entrepreneurship",
+      "Keynote speaker at international Entrepreneurship conferences",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Entrepreneurship"
+    ],
+    "biography": "Gerald Ramirez is a distinguished expert in Entrepreneurship with 32 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "practical application of entrepreneurship principles",
+    "traits": [
+      "theoretical",
+      "balanced",
+      "data-driven",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0502",
+    "name": "Andrew Young",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MFA",
+      "DSc"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Entrepreneurship",
+      "Developed innovative methodologies in entrepreneurship",
+      "Led groundbreaking research in entrepreneurship"
+    ],
+    "biography": "Andrew Young is a distinguished expert in Entrepreneurship with 38 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to entrepreneurship",
+    "traits": [
+      "analytical",
+      "strategic",
+      "empirical",
+      "evidence-based",
+      "flexible",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0503",
+    "name": "Rebecca Aguilar",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "DDS"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship",
+      "theoretical entrepreneurship"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Published 56 peer-reviewed papers in Entrepreneurship",
+      "Led groundbreaking research in entrepreneurship",
+      "Served on editorial boards of leading Entrepreneurship journals",
+      "Recipient of prestigious awards in Entrepreneurship",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Rebecca Aguilar is a distinguished expert in Entrepreneurship with 28 years of experience. Known for groundbreaking contributions to the field, Rebecca has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on entrepreneurship",
+    "traits": [
+      "theoretical",
+      "interdisciplinary",
+      "progressive",
+      "holistic",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0504",
+    "name": "Carolyn Hamilton",
+    "title": "Dr.",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Served on editorial boards of leading Entrepreneurship journals",
+      "Recipient of prestigious awards in Entrepreneurship",
+      "Led groundbreaking research in entrepreneurship"
+    ],
+    "biography": "Carolyn Hamilton is a distinguished expert in Entrepreneurship with 34 years of experience. Known for groundbreaking contributions to the field, Carolyn has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to entrepreneurship",
+    "traits": [
+      "detail-oriented",
+      "balanced",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0505",
+    "name": "Joseph Bailey",
+    "title": "Senior",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship",
+      "theoretical entrepreneurship"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Served on editorial boards of leading Entrepreneurship journals",
+      "Published 30 peer-reviewed papers in Entrepreneurship",
+      "Led groundbreaking research in entrepreneurship",
+      "Mentored 7 doctoral students",
+      "Developed innovative methodologies in entrepreneurship"
+    ],
+    "biography": "Joseph Bailey is a distinguished expert in Entrepreneurship with 15 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to entrepreneurship",
+    "traits": [
+      "evidence-based",
+      "innovative",
+      "creative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0506",
+    "name": "Laura Smith",
+    "title": "Dr.",
+    "credentials": [
+      "PhD",
+      "MPH"
+    ],
+    "field": "Entrepreneurship",
+    "specializations": [
+      "advanced entrepreneurship",
+      "applied entrepreneurship"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Published 46 peer-reviewed papers in Entrepreneurship",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Entrepreneurship conferences"
+    ],
+    "biography": "Laura Smith is a distinguished expert in Entrepreneurship with 23 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of entrepreneurship through extensive research, teaching, and practice.",
+    "perspective": "practical application of entrepreneurship principles",
+    "traits": [
+      "theoretical",
+      "systematic",
+      "detail-oriented",
+      "specialized"
+    ]
+  }
+]

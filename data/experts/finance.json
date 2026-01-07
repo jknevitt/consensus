@@ -1,0 +1,233 @@
+[
+  {
+    "id": "expert-0469",
+    "name": "Kelly Ortiz",
+    "title": "Professor",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance",
+      "theoretical finance"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Developed innovative methodologies in finance",
+      "Recipient of prestigious awards in Finance",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Kelly Ortiz is a distinguished expert in Finance with 30 years of experience. Known for groundbreaking contributions to the field, Kelly has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to finance",
+    "traits": [
+      "independent",
+      "strategic",
+      "theoretical",
+      "progressive",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0470",
+    "name": "David Miller",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DSc",
+      "PhD"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance",
+      "theoretical finance"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Mentored 20 doctoral students",
+      "Keynote speaker at international Finance conferences",
+      "Recipient of prestigious awards in Finance",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "David Miller is a distinguished expert in Finance with 40 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in finance",
+    "traits": [
+      "practical",
+      "visionary",
+      "progressive",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0471",
+    "name": "Sandra Brown",
+    "title": "Principal",
+    "credentials": [
+      "OD",
+      "PhD",
+      "MFA"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance",
+      "theoretical finance"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Finance",
+      "Led groundbreaking research in finance",
+      "Recipient of prestigious awards in Finance",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Sandra Brown is a distinguished expert in Finance with 25 years of experience. Known for groundbreaking contributions to the field, Sandra has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to finance",
+    "traits": [
+      "specialized",
+      "systematic",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0472",
+    "name": "Madison Garcia",
+    "title": "Professor",
+    "credentials": [
+      "DDS",
+      "DNP",
+      "MFA"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance",
+      "theoretical finance"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Served on editorial boards of leading Finance journals",
+      "Mentored 18 doctoral students",
+      "Keynote speaker at international Finance conferences",
+      "Published 74 peer-reviewed papers in Finance"
+    ],
+    "biography": "Madison Garcia is a distinguished expert in Finance with 37 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on finance",
+    "traits": [
+      "holistic",
+      "detail-oriented",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0473",
+    "name": "Jose Martinez",
+    "title": "Director",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance",
+      "theoretical finance"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Served on editorial boards of leading Finance journals",
+      "Keynote speaker at international Finance conferences",
+      "Led groundbreaking research in finance",
+      "Published 42 peer-reviewed papers in Finance"
+    ],
+    "biography": "Jose Martinez is a distinguished expert in Finance with 21 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in finance",
+    "traits": [
+      "reform-minded",
+      "progressive",
+      "intuitive",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-0474",
+    "name": "Roger Cooper",
+    "title": "Senior",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Recipient of prestigious awards in Finance",
+      "Developed innovative methodologies in finance",
+      "Mentored 12 doctoral students"
+    ],
+    "biography": "Roger Cooper is a distinguished expert in Finance with 25 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in finance",
+    "traits": [
+      "balanced",
+      "innovative",
+      "methodical",
+      "holistic",
+      "conservative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0475",
+    "name": "Nicholas Alexander",
+    "title": "Principal",
+    "credentials": [
+      "PharmD",
+      "PsyD"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Recipient of prestigious awards in Finance",
+      "Keynote speaker at international Finance conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in finance"
+    ],
+    "biography": "Nicholas Alexander is a distinguished expert in Finance with 19 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in finance",
+    "traits": [
+      "detail-oriented",
+      "flexible",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0476",
+    "name": "Deborah Hayes",
+    "title": "Director",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Finance",
+    "specializations": [
+      "advanced finance",
+      "applied finance"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Published 76 peer-reviewed papers in Finance",
+      "Keynote speaker at international Finance conferences",
+      "Led groundbreaking research in finance"
+    ],
+    "biography": "Deborah Hayes is a distinguished expert in Finance with 38 years of experience. Known for groundbreaking contributions to the field, Deborah has shaped modern understanding of finance through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in finance",
+    "traits": [
+      "principled",
+      "intuitive",
+      "evidence-based"
+    ]
+  }
+]

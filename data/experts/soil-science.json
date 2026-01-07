@@ -1,0 +1,178 @@
+[
+  {
+    "id": "expert-0821",
+    "name": "Andrew Adams",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "EdD"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Published 64 peer-reviewed papers in Soil Science",
+      "Developed innovative methodologies in soil science",
+      "Led groundbreaking research in soil science"
+    ],
+    "biography": "Andrew Adams is a distinguished expert in Soil Science with 32 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in soil science",
+    "traits": [
+      "reform-minded",
+      "evidence-based",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0822",
+    "name": "Jeffrey Hunter",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "PhD",
+      "MFA"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Mentored 5 doctoral students",
+      "Developed innovative methodologies in soil science",
+      "Recipient of prestigious awards in Soil Science"
+    ],
+    "biography": "Jeffrey Hunter is a distinguished expert in Soil Science with 11 years of experience. Known for groundbreaking contributions to the field, Jeffrey has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in soil science",
+    "traits": [
+      "collaborative",
+      "systematic",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0823",
+    "name": "Abigail Cox",
+    "title": "Chief",
+    "credentials": [
+      "DVM",
+      "OD",
+      "PsyD"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science",
+      "theoretical soil science"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Soil Science",
+      "Led groundbreaking research in soil science",
+      "Served on editorial boards of leading Soil Science journals",
+      "Recipient of prestigious awards in Soil Science",
+      "Keynote speaker at international Soil Science conferences"
+    ],
+    "biography": "Abigail Cox is a distinguished expert in Soil Science with 34 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of soil science",
+    "traits": [
+      "creative",
+      "principled",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0824",
+    "name": "Sean Edwards",
+    "title": "Principal",
+    "credentials": [
+      "DSc",
+      "LLM"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science",
+      "theoretical soil science"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 21 doctoral students",
+      "Published 86 peer-reviewed papers in Soil Science",
+      "Led groundbreaking research in soil science",
+      "Recipient of prestigious awards in Soil Science"
+    ],
+    "biography": "Sean Edwards is a distinguished expert in Soil Science with 43 years of experience. Known for groundbreaking contributions to the field, Sean has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to soil science",
+    "traits": [
+      "balanced",
+      "traditional",
+      "intuitive",
+      "methodical"
+    ]
+  },
+  {
+    "id": "expert-0825",
+    "name": "Jennifer Smith",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MFA",
+      "MPH",
+      "DSc"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science",
+      "theoretical soil science"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Recipient of prestigious awards in Soil Science",
+      "Mentored 17 doctoral students",
+      "Served on editorial boards of leading Soil Science journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in soil science"
+    ],
+    "biography": "Jennifer Smith is a distinguished expert in Soil Science with 34 years of experience. Known for groundbreaking contributions to the field, Jennifer has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in soil science",
+    "traits": [
+      "traditional",
+      "empirical",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0826",
+    "name": "Donna Burns",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DPhil",
+      "DBA"
+    ],
+    "field": "Soil Science",
+    "specializations": [
+      "advanced soil science",
+      "applied soil science"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Developed innovative methodologies in soil science",
+      "Keynote speaker at international Soil Science conferences",
+      "Mentored 18 doctoral students",
+      "Published 72 peer-reviewed papers in Soil Science",
+      "Led groundbreaking research in soil science"
+    ],
+    "biography": "Donna Burns is a distinguished expert in Soil Science with 36 years of experience. Known for groundbreaking contributions to the field, Donna has shaped modern understanding of soil science through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to soil science",
+    "traits": [
+      "empirical",
+      "collaborative",
+      "traditional"
+    ]
+  }
+]

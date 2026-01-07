@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expert-0864",
+    "name": "Ashley Rogers",
+    "title": "Lead",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability",
+      "theoretical sustainability"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Sustainability",
+      "Led groundbreaking research in sustainability",
+      "Recipient of prestigious awards in Sustainability",
+      "Developed innovative methodologies in sustainability",
+      "Mentored 9 doctoral students"
+    ],
+    "biography": "Ashley Rogers is a distinguished expert in Sustainability with 18 years of experience. Known for groundbreaking contributions to the field, Ashley has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sustainability",
+    "traits": [
+      "collaborative",
+      "innovative",
+      "detail-oriented",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0865",
+    "name": "Brenda Wright",
+    "title": "Associate Professor",
+    "credentials": [
+      "JD",
+      "DNP"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability",
+      "theoretical sustainability"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Published 22 peer-reviewed papers in Sustainability",
+      "Developed innovative methodologies in sustainability",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Sustainability conferences",
+      "Led groundbreaking research in sustainability"
+    ],
+    "biography": "Brenda Wright is a distinguished expert in Sustainability with 11 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on sustainability",
+    "traits": [
+      "data-driven",
+      "conservative",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0866",
+    "name": "Gloria Webb",
+    "title": "Principal",
+    "credentials": [
+      "PharmD",
+      "DBA",
+      "PsyD"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Developed innovative methodologies in sustainability",
+      "Published 34 peer-reviewed papers in Sustainability",
+      "Led groundbreaking research in sustainability"
+    ],
+    "biography": "Gloria Webb is a distinguished expert in Sustainability with 17 years of experience. Known for groundbreaking contributions to the field, Gloria has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on sustainability",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "intuitive",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0867",
+    "name": "Sarah Kennedy",
+    "title": "Professor",
+    "credentials": [
+      "PharmD",
+      "PhD",
+      "PsyD"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability",
+      "theoretical sustainability"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Sustainability",
+      "Led groundbreaking research in sustainability",
+      "Recipient of prestigious awards in Sustainability",
+      "Keynote speaker at international Sustainability conferences"
+    ],
+    "biography": "Sarah Kennedy is a distinguished expert in Sustainability with 15 years of experience. Known for groundbreaking contributions to the field, Sarah has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sustainability",
+    "traits": [
+      "holistic",
+      "progressive",
+      "detail-oriented",
+      "independent",
+      "innovative",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0868",
+    "name": "Frank Marshall",
+    "title": "Senior",
+    "credentials": [
+      "MPH",
+      "PsyD"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability",
+      "theoretical sustainability"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Developed innovative methodologies in sustainability",
+      "Led groundbreaking research in sustainability",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Marshall is a distinguished expert in Sustainability with 37 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on sustainability",
+    "traits": [
+      "detail-oriented",
+      "conservative",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0869",
+    "name": "Larry Owens",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Mentored 5 doctoral students",
+      "Developed innovative methodologies in sustainability",
+      "Recipient of prestigious awards in Sustainability"
+    ],
+    "biography": "Larry Owens is a distinguished expert in Sustainability with 11 years of experience. Known for groundbreaking contributions to the field, Larry has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sustainability",
+    "traits": [
+      "collaborative",
+      "holistic",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0870",
+    "name": "Lisa Foster",
+    "title": "Lead",
+    "credentials": [
+      "MFA",
+      "MA"
+    ],
+    "field": "Sustainability",
+    "specializations": [
+      "advanced sustainability",
+      "applied sustainability",
+      "theoretical sustainability"
+    ],
+    "yearsOfExperience": 19,
+    "achievements": [
+      "Published 38 peer-reviewed papers in Sustainability",
+      "Led groundbreaking research in sustainability",
+      "Mentored 9 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Lisa Foster is a distinguished expert in Sustainability with 19 years of experience. Known for groundbreaking contributions to the field, Lisa has shaped modern understanding of sustainability through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sustainability",
+    "traits": [
+      "empirical",
+      "evidence-based",
+      "progressive",
+      "pragmatic",
+      "innovative",
+      "systematic"
+    ]
+  }
+]

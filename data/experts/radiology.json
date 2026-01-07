@@ -1,0 +1,236 @@
+[
+  {
+    "id": "expert-0083",
+    "name": "Martha Rodriguez",
+    "title": "Dr.",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology",
+      "theoretical radiology"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Keynote speaker at international Radiology conferences",
+      "Mentored 12 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Radiology journals",
+      "Led groundbreaking research in radiology"
+    ],
+    "biography": "Martha Rodriguez is a distinguished expert in Radiology with 25 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of radiology principles",
+    "traits": [
+      "conservative",
+      "strategic",
+      "progressive",
+      "tactical",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0084",
+    "name": "Gerald Rivera",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MSc",
+      "MD",
+      "MBA"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology",
+      "theoretical radiology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Radiology",
+      "Served on editorial boards of leading Radiology journals",
+      "Led groundbreaking research in radiology"
+    ],
+    "biography": "Gerald Rivera is a distinguished expert in Radiology with 21 years of experience. Known for groundbreaking contributions to the field, Gerald has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of radiology principles",
+    "traits": [
+      "innovative",
+      "progressive",
+      "reform-minded",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0085",
+    "name": "Christine Diaz",
+    "title": "Lead",
+    "credentials": [
+      "MA",
+      "DDS"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology",
+      "theoretical radiology"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Developed innovative methodologies in radiology",
+      "Recipient of prestigious awards in Radiology",
+      "Served on editorial boards of leading Radiology journals",
+      "Keynote speaker at international Radiology conferences",
+      "Mentored 14 doctoral students"
+    ],
+    "biography": "Christine Diaz is a distinguished expert in Radiology with 29 years of experience. Known for groundbreaking contributions to the field, Christine has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "practical application of radiology principles",
+    "traits": [
+      "data-driven",
+      "detail-oriented",
+      "cautious",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0086",
+    "name": "Christine Thomas",
+    "title": "Principal",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology",
+      "theoretical radiology"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Served on editorial boards of leading Radiology journals",
+      "Developed innovative methodologies in radiology",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Radiology",
+      "Keynote speaker at international Radiology conferences"
+    ],
+    "biography": "Christine Thomas is a distinguished expert in Radiology with 37 years of experience. Known for groundbreaking contributions to the field, Christine has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in radiology",
+    "traits": [
+      "practical",
+      "systematic",
+      "interdisciplinary",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0087",
+    "name": "Carol Fisher",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Recipient of prestigious awards in Radiology",
+      "Principal investigator on major research grants",
+      "Mentored 7 doctoral students",
+      "Keynote speaker at international Radiology conferences"
+    ],
+    "biography": "Carol Fisher is a distinguished expert in Radiology with 15 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in radiology",
+    "traits": [
+      "flexible",
+      "strategic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0088",
+    "name": "Walter Torres",
+    "title": "Lead",
+    "credentials": [
+      "PhD",
+      "MPH"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology",
+      "theoretical radiology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Developed innovative methodologies in radiology",
+      "Recipient of prestigious awards in Radiology",
+      "Led groundbreaking research in radiology",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Walter Torres is a distinguished expert in Radiology with 12 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to radiology",
+    "traits": [
+      "analytical",
+      "interdisciplinary",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0089",
+    "name": "Andrew Clark",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "MA",
+      "PharmD"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Radiology",
+      "Keynote speaker at international Radiology conferences"
+    ],
+    "biography": "Andrew Clark is a distinguished expert in Radiology with 42 years of experience. Known for groundbreaking contributions to the field, Andrew has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in radiology",
+    "traits": [
+      "holistic",
+      "reform-minded",
+      "interdisciplinary",
+      "intuitive",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0090",
+    "name": "Mark Hunter",
+    "title": "Associate Professor",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Radiology",
+    "specializations": [
+      "advanced radiology",
+      "applied radiology"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Keynote speaker at international Radiology conferences",
+      "Principal investigator on major research grants",
+      "Published 80 peer-reviewed papers in Radiology"
+    ],
+    "biography": "Mark Hunter is a distinguished expert in Radiology with 40 years of experience. Known for groundbreaking contributions to the field, Mark has shaped modern understanding of radiology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in radiology",
+    "traits": [
+      "pragmatic",
+      "flexible",
+      "innovative"
+    ]
+  }
+]

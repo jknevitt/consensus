@@ -1,0 +1,209 @@
+[
+  {
+    "id": "expert-0203",
+    "name": "Scott Henry",
+    "title": "Dr.",
+    "credentials": [
+      "DNP",
+      "MBA",
+      "MA"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in electrical engineering",
+      "Served on editorial boards of leading Electrical Engineering journals",
+      "Published 80 peer-reviewed papers in Electrical Engineering",
+      "Led groundbreaking research in electrical engineering"
+    ],
+    "biography": "Scott Henry is a distinguished expert in Electrical Engineering with 40 years of experience. Known for groundbreaking contributions to the field, Scott has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of electrical engineering",
+    "traits": [
+      "detail-oriented",
+      "reform-minded",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0204",
+    "name": "Jason Graham",
+    "title": "Lead",
+    "credentials": [
+      "EdD",
+      "MFA"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Published 44 peer-reviewed papers in Electrical Engineering",
+      "Developed innovative methodologies in electrical engineering",
+      "Mentored 11 doctoral students",
+      "Served on editorial boards of leading Electrical Engineering journals"
+    ],
+    "biography": "Jason Graham is a distinguished expert in Electrical Engineering with 22 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of electrical engineering principles",
+    "traits": [
+      "holistic",
+      "pragmatic",
+      "innovative",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0205",
+    "name": "Abigail King",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in electrical engineering",
+      "Published 60 peer-reviewed papers in Electrical Engineering",
+      "Led groundbreaking research in electrical engineering",
+      "Recipient of prestigious awards in Electrical Engineering"
+    ],
+    "biography": "Abigail King is a distinguished expert in Electrical Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of electrical engineering principles",
+    "traits": [
+      "holistic",
+      "specialized",
+      "practical",
+      "strategic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0206",
+    "name": "Dylan Robinson",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "LLM"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Keynote speaker at international Electrical Engineering conferences",
+      "Recipient of prestigious awards in Electrical Engineering",
+      "Principal investigator on major research grants",
+      "Published 34 peer-reviewed papers in Electrical Engineering",
+      "Led groundbreaking research in electrical engineering"
+    ],
+    "biography": "Dylan Robinson is a distinguished expert in Electrical Engineering with 17 years of experience. Known for groundbreaking contributions to the field, Dylan has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of electrical engineering",
+    "traits": [
+      "detail-oriented",
+      "bold",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0207",
+    "name": "Amy Roberts",
+    "title": "Lead",
+    "credentials": [
+      "MPH",
+      "JD"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering",
+      "theoretical electrical engineering"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Published 36 peer-reviewed papers in Electrical Engineering",
+      "Led groundbreaking research in electrical engineering",
+      "Recipient of prestigious awards in Electrical Engineering",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Electrical Engineering conferences"
+    ],
+    "biography": "Amy Roberts is a distinguished expert in Electrical Engineering with 18 years of experience. Known for groundbreaking contributions to the field, Amy has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to electrical engineering",
+    "traits": [
+      "systematic",
+      "traditional",
+      "progressive",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0208",
+    "name": "Keith Chen",
+    "title": "Professor",
+    "credentials": [
+      "MPH",
+      "JD"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Recipient of prestigious awards in Electrical Engineering",
+      "Led groundbreaking research in electrical engineering",
+      "Developed innovative methodologies in electrical engineering",
+      "Published 62 peer-reviewed papers in Electrical Engineering"
+    ],
+    "biography": "Keith Chen is a distinguished expert in Electrical Engineering with 31 years of experience. Known for groundbreaking contributions to the field, Keith has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of electrical engineering principles",
+    "traits": [
+      "evidence-based",
+      "analytical",
+      "tactical",
+      "data-driven",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0209",
+    "name": "Jose Vargas",
+    "title": "Director",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Electrical Engineering",
+    "specializations": [
+      "advanced electrical engineering",
+      "applied electrical engineering"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Served on editorial boards of leading Electrical Engineering journals",
+      "Developed innovative methodologies in electrical engineering",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Jose Vargas is a distinguished expert in Electrical Engineering with 10 years of experience. Known for groundbreaking contributions to the field, Jose has shaped modern understanding of electrical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of electrical engineering",
+    "traits": [
+      "independent",
+      "intuitive",
+      "conservative",
+      "interdisciplinary",
+      "empirical"
+    ]
+  }
+]

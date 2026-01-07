@@ -1,0 +1,239 @@
+[
+  {
+    "id": "expert-0772",
+    "name": "Hannah Gonzalez",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MFA",
+      "MD"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 22 peer-reviewed papers in Educational Technology",
+      "Led groundbreaking research in educational technology",
+      "Served on editorial boards of leading Educational Technology journals"
+    ],
+    "biography": "Hannah Gonzalez is a distinguished expert in Educational Technology with 11 years of experience. Known for groundbreaking contributions to the field, Hannah has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in educational technology",
+    "traits": [
+      "theoretical",
+      "balanced",
+      "specialized",
+      "reform-minded",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0773",
+    "name": "David Nelson",
+    "title": "Associate Professor",
+    "credentials": [
+      "DNP",
+      "JD"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Keynote speaker at international Educational Technology conferences",
+      "Mentored 7 doctoral students",
+      "Developed innovative methodologies in educational technology",
+      "Recipient of prestigious awards in Educational Technology",
+      "Led groundbreaking research in educational technology"
+    ],
+    "biography": "David Nelson is a distinguished expert in Educational Technology with 15 years of experience. Known for groundbreaking contributions to the field, David has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on educational technology",
+    "traits": [
+      "cautious",
+      "innovative",
+      "intuitive",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0774",
+    "name": "Donald Gray",
+    "title": "Senior",
+    "credentials": [
+      "PhD",
+      "MBA"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Recipient of prestigious awards in Educational Technology",
+      "Developed innovative methodologies in educational technology",
+      "Served on editorial boards of leading Educational Technology journals",
+      "Led groundbreaking research in educational technology"
+    ],
+    "biography": "Donald Gray is a distinguished expert in Educational Technology with 33 years of experience. Known for groundbreaking contributions to the field, Donald has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "practical application of educational technology principles",
+    "traits": [
+      "balanced",
+      "visionary",
+      "flexible",
+      "holistic",
+      "tactical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0775",
+    "name": "Madison Burns",
+    "title": "Director",
+    "credentials": [
+      "MA",
+      "PsyD"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 20,
+    "achievements": [
+      "Mentored 10 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in educational technology",
+      "Keynote speaker at international Educational Technology conferences",
+      "Served on editorial boards of leading Educational Technology journals"
+    ],
+    "biography": "Madison Burns is a distinguished expert in Educational Technology with 20 years of experience. Known for groundbreaking contributions to the field, Madison has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on educational technology",
+    "traits": [
+      "theoretical",
+      "balanced",
+      "independent",
+      "pragmatic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0776",
+    "name": "Heather Harrison",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DSc",
+      "EdD"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Led groundbreaking research in educational technology",
+      "Recipient of prestigious awards in Educational Technology",
+      "Principal investigator on major research grants",
+      "Published 84 peer-reviewed papers in Educational Technology"
+    ],
+    "biography": "Heather Harrison is a distinguished expert in Educational Technology with 42 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in educational technology",
+    "traits": [
+      "reform-minded",
+      "empirical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0777",
+    "name": "Walter Davis",
+    "title": "Chief",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Developed innovative methodologies in educational technology",
+      "Recipient of prestigious awards in Educational Technology",
+      "Led groundbreaking research in educational technology"
+    ],
+    "biography": "Walter Davis is a distinguished expert in Educational Technology with 14 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of educational technology",
+    "traits": [
+      "detail-oriented",
+      "visionary",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0778",
+    "name": "Brenda Barnes",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Mentored 11 doctoral students",
+      "Recipient of prestigious awards in Educational Technology",
+      "Led groundbreaking research in educational technology",
+      "Published 46 peer-reviewed papers in Educational Technology"
+    ],
+    "biography": "Brenda Barnes is a distinguished expert in Educational Technology with 23 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to educational technology",
+    "traits": [
+      "principled",
+      "independent",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0779",
+    "name": "Joshua Baker",
+    "title": "Senior",
+    "credentials": [
+      "PharmD",
+      "DNP"
+    ],
+    "field": "Educational Technology",
+    "specializations": [
+      "advanced educational technology",
+      "applied educational technology",
+      "theoretical educational technology"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Educational Technology",
+      "Recipient of prestigious awards in Educational Technology",
+      "Mentored 8 doctoral students"
+    ],
+    "biography": "Joshua Baker is a distinguished expert in Educational Technology with 16 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of educational technology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in educational technology",
+    "traits": [
+      "flexible",
+      "principled",
+      "data-driven",
+      "progressive"
+    ]
+  }
+]

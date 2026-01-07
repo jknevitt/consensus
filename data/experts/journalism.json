@@ -1,0 +1,210 @@
+[
+  {
+    "id": "expert-0893",
+    "name": "Eric Jenkins",
+    "title": "Director",
+    "credentials": [
+      "MBA",
+      "MA"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism",
+      "theoretical journalism"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Journalism journals",
+      "Keynote speaker at international Journalism conferences"
+    ],
+    "biography": "Eric Jenkins is a distinguished expert in Journalism with 25 years of experience. Known for groundbreaking contributions to the field, Eric has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on journalism",
+    "traits": [
+      "visionary",
+      "principled",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0894",
+    "name": "Patricia Phillips",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Recipient of prestigious awards in Journalism",
+      "Served on editorial boards of leading Journalism journals",
+      "Led groundbreaking research in journalism",
+      "Developed innovative methodologies in journalism"
+    ],
+    "biography": "Patricia Phillips is a distinguished expert in Journalism with 37 years of experience. Known for groundbreaking contributions to the field, Patricia has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in journalism",
+    "traits": [
+      "reform-minded",
+      "innovative",
+      "strategic",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0895",
+    "name": "Martha Kennedy",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "MFA",
+      "PharmD"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism",
+      "theoretical journalism"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Served on editorial boards of leading Journalism journals",
+      "Keynote speaker at international Journalism conferences",
+      "Mentored 8 doctoral students",
+      "Developed innovative methodologies in journalism",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Martha Kennedy is a distinguished expert in Journalism with 16 years of experience. Known for groundbreaking contributions to the field, Martha has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on journalism",
+    "traits": [
+      "intuitive",
+      "systematic",
+      "methodical",
+      "holistic",
+      "detail-oriented",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0896",
+    "name": "Roger Robinson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism",
+      "theoretical journalism"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Led groundbreaking research in journalism",
+      "Published 62 peer-reviewed papers in Journalism",
+      "Developed innovative methodologies in journalism",
+      "Mentored 15 doctoral students"
+    ],
+    "biography": "Roger Robinson is a distinguished expert in Journalism with 31 years of experience. Known for groundbreaking contributions to the field, Roger has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of journalism",
+    "traits": [
+      "theoretical",
+      "creative",
+      "holistic",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0897",
+    "name": "Dennis Fisher",
+    "title": "Lead",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Served on editorial boards of leading Journalism journals",
+      "Keynote speaker at international Journalism conferences",
+      "Developed innovative methodologies in journalism",
+      "Led groundbreaking research in journalism"
+    ],
+    "biography": "Dennis Fisher is a distinguished expert in Journalism with 25 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on journalism",
+    "traits": [
+      "analytical",
+      "strategic",
+      "balanced",
+      "conservative",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0898",
+    "name": "Nicholas Lopez",
+    "title": "Dr.",
+    "credentials": [
+      "DDS",
+      "DPhil"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism",
+      "theoretical journalism"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Journalism",
+      "Led groundbreaking research in journalism",
+      "Recipient of prestigious awards in Journalism",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in journalism"
+    ],
+    "biography": "Nicholas Lopez is a distinguished expert in Journalism with 21 years of experience. Known for groundbreaking contributions to the field, Nicholas has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of journalism",
+    "traits": [
+      "data-driven",
+      "analytical",
+      "progressive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0899",
+    "name": "Kathleen Garcia",
+    "title": "Principal",
+    "credentials": [
+      "MPH",
+      "MBA"
+    ],
+    "field": "Journalism",
+    "specializations": [
+      "advanced journalism",
+      "applied journalism",
+      "theoretical journalism"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in journalism",
+      "Recipient of prestigious awards in Journalism",
+      "Published 22 peer-reviewed papers in Journalism"
+    ],
+    "biography": "Kathleen Garcia is a distinguished expert in Journalism with 11 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of journalism through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in journalism",
+    "traits": [
+      "practical",
+      "analytical",
+      "reform-minded"
+    ]
+  }
+]

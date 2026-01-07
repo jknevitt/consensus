@@ -1,0 +1,202 @@
+[
+  {
+    "id": "expert-0223",
+    "name": "Barbara Hunter",
+    "title": "Chief",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Recipient of prestigious awards in Chemical Engineering",
+      "Published 34 peer-reviewed papers in Chemical Engineering",
+      "Developed innovative methodologies in chemical engineering",
+      "Served on editorial boards of leading Chemical Engineering journals"
+    ],
+    "biography": "Barbara Hunter is a distinguished expert in Chemical Engineering with 17 years of experience. Known for groundbreaking contributions to the field, Barbara has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of chemical engineering principles",
+    "traits": [
+      "independent",
+      "data-driven",
+      "bold",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0224",
+    "name": "Paul Gibson",
+    "title": "Principal",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Keynote speaker at international Chemical Engineering conferences",
+      "Published 52 peer-reviewed papers in Chemical Engineering",
+      "Recipient of prestigious awards in Chemical Engineering"
+    ],
+    "biography": "Paul Gibson is a distinguished expert in Chemical Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Paul has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in chemical engineering",
+    "traits": [
+      "holistic",
+      "creative",
+      "empirical",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0225",
+    "name": "Debra Cole",
+    "title": "Director",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering",
+      "theoretical chemical engineering"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Mentored 11 doctoral students",
+      "Developed innovative methodologies in chemical engineering",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Debra Cole is a distinguished expert in Chemical Engineering with 22 years of experience. Known for groundbreaking contributions to the field, Debra has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to chemical engineering",
+    "traits": [
+      "principled",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0226",
+    "name": "Benjamin Wright",
+    "title": "Senior",
+    "credentials": [
+      "MPH",
+      "DBA"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering",
+      "theoretical chemical engineering"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Developed innovative methodologies in chemical engineering",
+      "Served on editorial boards of leading Chemical Engineering journals",
+      "Keynote speaker at international Chemical Engineering conferences",
+      "Principal investigator on major research grants",
+      "Mentored 21 doctoral students"
+    ],
+    "biography": "Benjamin Wright is a distinguished expert in Chemical Engineering with 43 years of experience. Known for groundbreaking contributions to the field, Benjamin has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in chemical engineering",
+    "traits": [
+      "tactical",
+      "flexible",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0227",
+    "name": "Ronald King",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Published 50 peer-reviewed papers in Chemical Engineering",
+      "Mentored 12 doctoral students",
+      "Led groundbreaking research in chemical engineering",
+      "Developed innovative methodologies in chemical engineering",
+      "Served on editorial boards of leading Chemical Engineering journals"
+    ],
+    "biography": "Ronald King is a distinguished expert in Chemical Engineering with 25 years of experience. Known for groundbreaking contributions to the field, Ronald has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of chemical engineering",
+    "traits": [
+      "principled",
+      "bold",
+      "specialized",
+      "intuitive",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0228",
+    "name": "Laura Sullivan",
+    "title": "Director",
+    "credentials": [
+      "DSc",
+      "DVM",
+      "MA"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering",
+      "theoretical chemical engineering"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Developed innovative methodologies in chemical engineering",
+      "Led groundbreaking research in chemical engineering",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Laura Sullivan is a distinguished expert in Chemical Engineering with 35 years of experience. Known for groundbreaking contributions to the field, Laura has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of chemical engineering",
+    "traits": [
+      "collaborative",
+      "tactical",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0229",
+    "name": "Charles Harrison",
+    "title": "Lead",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Chemical Engineering",
+    "specializations": [
+      "advanced chemical engineering",
+      "applied chemical engineering"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Published 48 peer-reviewed papers in Chemical Engineering",
+      "Led groundbreaking research in chemical engineering",
+      "Developed innovative methodologies in chemical engineering",
+      "Recipient of prestigious awards in Chemical Engineering",
+      "Keynote speaker at international Chemical Engineering conferences"
+    ],
+    "biography": "Charles Harrison is a distinguished expert in Chemical Engineering with 24 years of experience. Known for groundbreaking contributions to the field, Charles has shaped modern understanding of chemical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in chemical engineering",
+    "traits": [
+      "conservative",
+      "empirical",
+      "interdisciplinary",
+      "creative",
+      "independent"
+    ]
+  }
+]

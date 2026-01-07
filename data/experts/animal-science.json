@@ -1,0 +1,238 @@
+[
+  {
+    "id": "expert-0827",
+    "name": "Angela Taylor",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "EdD"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science",
+      "theoretical animal science"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Animal Science journals",
+      "Developed innovative methodologies in animal science",
+      "Keynote speaker at international Animal Science conferences"
+    ],
+    "biography": "Angela Taylor is a distinguished expert in Animal Science with 31 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in animal science",
+    "traits": [
+      "traditional",
+      "pragmatic",
+      "data-driven",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-0828",
+    "name": "Gary Scott",
+    "title": "Assistant Professor",
+    "credentials": [
+      "LLM",
+      "MBA",
+      "DPT"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Developed innovative methodologies in animal science",
+      "Recipient of prestigious awards in Animal Science",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Gary Scott is a distinguished expert in Animal Science with 27 years of experience. Known for groundbreaking contributions to the field, Gary has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of animal science",
+    "traits": [
+      "data-driven",
+      "holistic",
+      "pragmatic",
+      "flexible",
+      "traditional",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0829",
+    "name": "Brenda Washington",
+    "title": "Dr.",
+    "credentials": [
+      "DVM",
+      "OD",
+      "DBA"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Mentored 8 doctoral students",
+      "Developed innovative methodologies in animal science",
+      "Keynote speaker at international Animal Science conferences"
+    ],
+    "biography": "Brenda Washington is a distinguished expert in Animal Science with 16 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on animal science",
+    "traits": [
+      "pragmatic",
+      "detail-oriented",
+      "cautious",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0830",
+    "name": "Ann Wright",
+    "title": "Professor",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Animal Science conferences",
+      "Mentored 17 doctoral students",
+      "Led groundbreaking research in animal science"
+    ],
+    "biography": "Ann Wright is a distinguished expert in Animal Science with 35 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "practical application of animal science principles",
+    "traits": [
+      "innovative",
+      "independent",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0831",
+    "name": "Ann Jackson",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "PsyD",
+      "DSc"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science",
+      "theoretical animal science"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Published 32 peer-reviewed papers in Animal Science",
+      "Mentored 8 doctoral students",
+      "Developed innovative methodologies in animal science",
+      "Led groundbreaking research in animal science",
+      "Recipient of prestigious awards in Animal Science"
+    ],
+    "biography": "Ann Jackson is a distinguished expert in Animal Science with 16 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on animal science",
+    "traits": [
+      "specialized",
+      "traditional",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0832",
+    "name": "Lisa McDonald",
+    "title": "Senior",
+    "credentials": [
+      "DVM",
+      "DPhil",
+      "EdD"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Keynote speaker at international Animal Science conferences",
+      "Developed innovative methodologies in animal science",
+      "Recipient of prestigious awards in Animal Science"
+    ],
+    "biography": "Lisa McDonald is a distinguished expert in Animal Science with 11 years of experience. Known for groundbreaking contributions to the field, Lisa has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "practical application of animal science principles",
+    "traits": [
+      "collaborative",
+      "data-driven",
+      "pragmatic",
+      "visionary",
+      "bold"
+    ]
+  },
+  {
+    "id": "expert-0833",
+    "name": "Jason Brown",
+    "title": "Principal",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Led groundbreaking research in animal science",
+      "Mentored 20 doctoral students",
+      "Keynote speaker at international Animal Science conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Jason Brown is a distinguished expert in Animal Science with 41 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of animal science",
+    "traits": [
+      "collaborative",
+      "intuitive",
+      "methodical",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0834",
+    "name": "Dennis Collins",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Animal Science",
+    "specializations": [
+      "advanced animal science",
+      "applied animal science",
+      "theoretical animal science"
+    ],
+    "yearsOfExperience": 16,
+    "achievements": [
+      "Developed innovative methodologies in animal science",
+      "Mentored 8 doctoral students",
+      "Published 32 peer-reviewed papers in Animal Science",
+      "Led groundbreaking research in animal science",
+      "Recipient of prestigious awards in Animal Science"
+    ],
+    "biography": "Dennis Collins is a distinguished expert in Animal Science with 16 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of animal science through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in animal science",
+    "traits": [
+      "tactical",
+      "evidence-based",
+      "analytical",
+      "strategic"
+    ]
+  }
+]

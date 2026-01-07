@@ -1,0 +1,176 @@
+[
+  {
+    "id": "expert-1041",
+    "name": "Nancy Scott",
+    "title": "Principal",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Recipient of prestigious awards in Sports Management",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sports management"
+    ],
+    "biography": "Nancy Scott is a distinguished expert in Sports Management with 14 years of experience. Known for groundbreaking contributions to the field, Nancy has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "practical application of sports management principles",
+    "traits": [
+      "theoretical",
+      "traditional",
+      "detail-oriented",
+      "strategic",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-1042",
+    "name": "Helen Lewis",
+    "title": "Lead",
+    "credentials": [
+      "DSc"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management",
+      "theoretical sports management"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Served on editorial boards of leading Sports Management journals",
+      "Recipient of prestigious awards in Sports Management",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in sports management"
+    ],
+    "biography": "Helen Lewis is a distinguished expert in Sports Management with 30 years of experience. Known for groundbreaking contributions to the field, Helen has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to sports management",
+    "traits": [
+      "systematic",
+      "balanced",
+      "analytical",
+      "empirical",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-1043",
+    "name": "Julie Burns",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MA",
+      "DPhil"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Sports Management",
+      "Led groundbreaking research in sports management",
+      "Served on editorial boards of leading Sports Management journals",
+      "Recipient of prestigious awards in Sports Management"
+    ],
+    "biography": "Julie Burns is a distinguished expert in Sports Management with 42 years of experience. Known for groundbreaking contributions to the field, Julie has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on sports management",
+    "traits": [
+      "data-driven",
+      "systematic",
+      "practical",
+      "tactical",
+      "balanced"
+    ]
+  },
+  {
+    "id": "expert-1044",
+    "name": "Jean Gomez",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management",
+      "theoretical sports management"
+    ],
+    "yearsOfExperience": 34,
+    "achievements": [
+      "Published 68 peer-reviewed papers in Sports Management",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sports management",
+      "Developed innovative methodologies in sports management"
+    ],
+    "biography": "Jean Gomez is a distinguished expert in Sports Management with 34 years of experience. Known for groundbreaking contributions to the field, Jean has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports management",
+    "traits": [
+      "empirical",
+      "systematic",
+      "data-driven",
+      "bold",
+      "holistic",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-1045",
+    "name": "Michelle Owens",
+    "title": "Principal",
+    "credentials": [
+      "MFA",
+      "DDS"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management",
+      "theoretical sports management"
+    ],
+    "yearsOfExperience": 13,
+    "achievements": [
+      "Published 26 peer-reviewed papers in Sports Management",
+      "Keynote speaker at international Sports Management conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sports management"
+    ],
+    "biography": "Michelle Owens is a distinguished expert in Sports Management with 13 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in sports management",
+    "traits": [
+      "intuitive",
+      "strategic",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-1046",
+    "name": "John Gutierrez",
+    "title": "Director",
+    "credentials": [
+      "MD"
+    ],
+    "field": "Sports Management",
+    "specializations": [
+      "advanced sports management",
+      "applied sports management"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in sports management"
+    ],
+    "biography": "John Gutierrez is a distinguished expert in Sports Management with 36 years of experience. Known for groundbreaking contributions to the field, John has shaped modern understanding of sports management through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of sports management",
+    "traits": [
+      "pragmatic",
+      "progressive",
+      "detail-oriented"
+    ]
+  }
+]

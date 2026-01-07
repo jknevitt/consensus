@@ -1,0 +1,208 @@
+[
+  {
+    "id": "expert-0553",
+    "name": "Mary Cook",
+    "title": "Principal",
+    "credentials": [
+      "DBA",
+      "MPH",
+      "MSc"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy",
+      "theoretical philosophy"
+    ],
+    "yearsOfExperience": 27,
+    "achievements": [
+      "Led groundbreaking research in philosophy",
+      "Served on editorial boards of leading Philosophy journals",
+      "Developed innovative methodologies in philosophy"
+    ],
+    "biography": "Mary Cook is a distinguished expert in Philosophy with 27 years of experience. Known for groundbreaking contributions to the field, Mary has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in philosophy",
+    "traits": [
+      "visionary",
+      "flexible",
+      "tactical",
+      "interdisciplinary",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0554",
+    "name": "Jennifer Nguyen",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy",
+      "theoretical philosophy"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Philosophy",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in philosophy"
+    ],
+    "biography": "Jennifer Nguyen is a distinguished expert in Philosophy with 30 years of experience. Known for groundbreaking contributions to the field, Jennifer has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of philosophy",
+    "traits": [
+      "evidence-based",
+      "intuitive",
+      "balanced",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0555",
+    "name": "Ryan Sanders",
+    "title": "Dr.",
+    "credentials": [
+      "OD",
+      "EdD",
+      "DNP"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Served on editorial boards of leading Philosophy journals",
+      "Developed innovative methodologies in philosophy",
+      "Published 64 peer-reviewed papers in Philosophy",
+      "Keynote speaker at international Philosophy conferences"
+    ],
+    "biography": "Ryan Sanders is a distinguished expert in Philosophy with 32 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "practical application of philosophy principles",
+    "traits": [
+      "pragmatic",
+      "specialized",
+      "independent",
+      "theoretical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0556",
+    "name": "Andrea Griffin",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MBA",
+      "DDS",
+      "LLM"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Led groundbreaking research in philosophy",
+      "Principal investigator on major research grants",
+      "Published 50 peer-reviewed papers in Philosophy"
+    ],
+    "biography": "Andrea Griffin is a distinguished expert in Philosophy with 25 years of experience. Known for groundbreaking contributions to the field, Andrea has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in philosophy",
+    "traits": [
+      "theoretical",
+      "detail-oriented",
+      "reform-minded",
+      "data-driven",
+      "flexible"
+    ]
+  },
+  {
+    "id": "expert-0557",
+    "name": "Susan White",
+    "title": "Principal",
+    "credentials": [
+      "MSc"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Keynote speaker at international Philosophy conferences",
+      "Served on editorial boards of leading Philosophy journals",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Susan White is a distinguished expert in Philosophy with 33 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in philosophy",
+    "traits": [
+      "reform-minded",
+      "principled",
+      "pragmatic",
+      "intuitive"
+    ]
+  },
+  {
+    "id": "expert-0558",
+    "name": "Kathleen Smith",
+    "title": "Principal",
+    "credentials": [
+      "EdD",
+      "DVM",
+      "OD"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy"
+    ],
+    "yearsOfExperience": 17,
+    "achievements": [
+      "Served on editorial boards of leading Philosophy journals",
+      "Published 34 peer-reviewed papers in Philosophy",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Philosophy conferences",
+      "Led groundbreaking research in philosophy"
+    ],
+    "biography": "Kathleen Smith is a distinguished expert in Philosophy with 17 years of experience. Known for groundbreaking contributions to the field, Kathleen has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to philosophy",
+    "traits": [
+      "evidence-based",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0559",
+    "name": "Abigail Sanders",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "LLM"
+    ],
+    "field": "Philosophy",
+    "specializations": [
+      "advanced philosophy",
+      "applied philosophy",
+      "theoretical philosophy"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Published 20 peer-reviewed papers in Philosophy",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Philosophy conferences",
+      "Led groundbreaking research in philosophy",
+      "Developed innovative methodologies in philosophy"
+    ],
+    "biography": "Abigail Sanders is a distinguished expert in Philosophy with 10 years of experience. Known for groundbreaking contributions to the field, Abigail has shaped modern understanding of philosophy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to philosophy",
+    "traits": [
+      "specialized",
+      "traditional",
+      "conservative",
+      "practical"
+    ]
+  }
+]

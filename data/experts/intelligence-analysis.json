@@ -1,0 +1,184 @@
+[
+  {
+    "id": "expert-1060",
+    "name": "Ryan Martin",
+    "title": "Associate Professor",
+    "credentials": [
+      "EdD",
+      "PsyD"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis",
+      "theoretical intelligence analysis"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Mentored 15 doctoral students",
+      "Keynote speaker at international Intelligence Analysis conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ryan Martin is a distinguished expert in Intelligence Analysis with 31 years of experience. Known for groundbreaking contributions to the field, Ryan has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "practical application of intelligence analysis principles",
+    "traits": [
+      "empirical",
+      "intuitive",
+      "innovative",
+      "specialized",
+      "conservative",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-1061",
+    "name": "Jerry Burns",
+    "title": "Senior",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis",
+      "theoretical intelligence analysis"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Developed innovative methodologies in intelligence analysis",
+      "Recipient of prestigious awards in Intelligence Analysis",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Intelligence Analysis conferences",
+      "Led groundbreaking research in intelligence analysis"
+    ],
+    "biography": "Jerry Burns is a distinguished expert in Intelligence Analysis with 24 years of experience. Known for groundbreaking contributions to the field, Jerry has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "practical application of intelligence analysis principles",
+    "traits": [
+      "balanced",
+      "detail-oriented",
+      "conservative",
+      "tactical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-1062",
+    "name": "Teresa Myers",
+    "title": "Chief",
+    "credentials": [
+      "DVM",
+      "DNP",
+      "MA"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis",
+      "theoretical intelligence analysis"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in intelligence analysis",
+      "Mentored 18 doctoral students"
+    ],
+    "biography": "Teresa Myers is a distinguished expert in Intelligence Analysis with 37 years of experience. Known for groundbreaking contributions to the field, Teresa has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in intelligence analysis",
+    "traits": [
+      "innovative",
+      "theoretical",
+      "traditional",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-1063",
+    "name": "Austin Owens",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DVM",
+      "MA"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis"
+    ],
+    "yearsOfExperience": 25,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 50 peer-reviewed papers in Intelligence Analysis",
+      "Led groundbreaking research in intelligence analysis",
+      "Keynote speaker at international Intelligence Analysis conferences"
+    ],
+    "biography": "Austin Owens is a distinguished expert in Intelligence Analysis with 25 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of intelligence analysis",
+    "traits": [
+      "independent",
+      "bold",
+      "reform-minded",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-1064",
+    "name": "Dorothy Hughes",
+    "title": "Assistant Professor",
+    "credentials": [
+      "EdD",
+      "DPT",
+      "PhD"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis",
+      "theoretical intelligence analysis"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Served on editorial boards of leading Intelligence Analysis journals",
+      "Led groundbreaking research in intelligence analysis",
+      "Published 30 peer-reviewed papers in Intelligence Analysis"
+    ],
+    "biography": "Dorothy Hughes is a distinguished expert in Intelligence Analysis with 15 years of experience. Known for groundbreaking contributions to the field, Dorothy has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on intelligence analysis",
+    "traits": [
+      "principled",
+      "collaborative",
+      "practical",
+      "theoretical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-1065",
+    "name": "Joshua Romero",
+    "title": "Director",
+    "credentials": [
+      "MSc",
+      "DSc",
+      "PharmD"
+    ],
+    "field": "Intelligence Analysis",
+    "specializations": [
+      "advanced intelligence analysis",
+      "applied intelligence analysis"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Published 52 peer-reviewed papers in Intelligence Analysis",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in intelligence analysis",
+      "Recipient of prestigious awards in Intelligence Analysis",
+      "Developed innovative methodologies in intelligence analysis"
+    ],
+    "biography": "Joshua Romero is a distinguished expert in Intelligence Analysis with 26 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of intelligence analysis through extensive research, teaching, and practice.",
+    "perspective": "practical application of intelligence analysis principles",
+    "traits": [
+      "flexible",
+      "creative",
+      "conservative"
+    ]
+  }
+]

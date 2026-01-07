@@ -1,0 +1,175 @@
+[
+  {
+    "id": "expert-1047",
+    "name": "Linda Henry",
+    "title": "Senior",
+    "credentials": [
+      "MBA",
+      "MD",
+      "MA"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy"
+    ],
+    "yearsOfExperience": 14,
+    "achievements": [
+      "Led groundbreaking research in military strategy",
+      "Recipient of prestigious awards in Military Strategy",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Linda Henry is a distinguished expert in Military Strategy with 14 years of experience. Known for groundbreaking contributions to the field, Linda has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "practical application of military strategy principles",
+    "traits": [
+      "collaborative",
+      "methodical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-1048",
+    "name": "Douglas Bryant",
+    "title": "Senior",
+    "credentials": [
+      "MD",
+      "MFA"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy",
+      "theoretical military strategy"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Military Strategy journals",
+      "Keynote speaker at international Military Strategy conferences",
+      "Mentored 11 doctoral students",
+      "Developed innovative methodologies in military strategy"
+    ],
+    "biography": "Douglas Bryant is a distinguished expert in Military Strategy with 23 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of military strategy",
+    "traits": [
+      "conservative",
+      "theoretical",
+      "empirical",
+      "principled",
+      "intuitive",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-1049",
+    "name": "Terry Bell",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Led groundbreaking research in military strategy",
+      "Served on editorial boards of leading Military Strategy journals",
+      "Published 66 peer-reviewed papers in Military Strategy"
+    ],
+    "biography": "Terry Bell is a distinguished expert in Military Strategy with 33 years of experience. Known for groundbreaking contributions to the field, Terry has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to military strategy",
+    "traits": [
+      "intuitive",
+      "cautious",
+      "creative",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-1050",
+    "name": "Jonathan Price",
+    "title": "Director",
+    "credentials": [
+      "DBA",
+      "MA"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy"
+    ],
+    "yearsOfExperience": 31,
+    "achievements": [
+      "Led groundbreaking research in military strategy",
+      "Mentored 15 doctoral students",
+      "Developed innovative methodologies in military strategy",
+      "Published 62 peer-reviewed papers in Military Strategy"
+    ],
+    "biography": "Jonathan Price is a distinguished expert in Military Strategy with 31 years of experience. Known for groundbreaking contributions to the field, Jonathan has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to military strategy",
+    "traits": [
+      "data-driven",
+      "balanced",
+      "analytical",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-1051",
+    "name": "Timothy Vasquez",
+    "title": "Dr.",
+    "credentials": [
+      "DPhil",
+      "EdD"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy"
+    ],
+    "yearsOfExperience": 10,
+    "achievements": [
+      "Recipient of prestigious awards in Military Strategy",
+      "Served on editorial boards of leading Military Strategy journals",
+      "Keynote speaker at international Military Strategy conferences"
+    ],
+    "biography": "Timothy Vasquez is a distinguished expert in Military Strategy with 10 years of experience. Known for groundbreaking contributions to the field, Timothy has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to military strategy",
+    "traits": [
+      "empirical",
+      "visionary",
+      "bold",
+      "strategic"
+    ]
+  },
+  {
+    "id": "expert-1052",
+    "name": "Frank Jimenez",
+    "title": "Associate Professor",
+    "credentials": [
+      "MFA",
+      "OD"
+    ],
+    "field": "Military Strategy",
+    "specializations": [
+      "advanced military strategy",
+      "applied military strategy",
+      "theoretical military strategy"
+    ],
+    "yearsOfExperience": 28,
+    "achievements": [
+      "Served on editorial boards of leading Military Strategy journals",
+      "Developed innovative methodologies in military strategy",
+      "Keynote speaker at international Military Strategy conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Jimenez is a distinguished expert in Military Strategy with 28 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of military strategy through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of military strategy",
+    "traits": [
+      "reform-minded",
+      "tactical",
+      "strategic"
+    ]
+  }
+]

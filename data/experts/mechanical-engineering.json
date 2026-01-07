@@ -1,0 +1,237 @@
+[
+  {
+    "id": "expert-0195",
+    "name": "Joshua Collins",
+    "title": "Lead",
+    "credentials": [
+      "MFA"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering",
+      "theoretical mechanical engineering"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Recipient of prestigious awards in Mechanical Engineering",
+      "Served on editorial boards of leading Mechanical Engineering journals",
+      "Keynote speaker at international Mechanical Engineering conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in mechanical engineering"
+    ],
+    "biography": "Joshua Collins is a distinguished expert in Mechanical Engineering with 15 years of experience. Known for groundbreaking contributions to the field, Joshua has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of mechanical engineering",
+    "traits": [
+      "cautious",
+      "balanced",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0196",
+    "name": "Catherine Gomez",
+    "title": "Lead",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering",
+      "theoretical mechanical engineering"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Recipient of prestigious awards in Mechanical Engineering",
+      "Served on editorial boards of leading Mechanical Engineering journals",
+      "Led groundbreaking research in mechanical engineering",
+      "Mentored 21 doctoral students",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Catherine Gomez is a distinguished expert in Mechanical Engineering with 42 years of experience. Known for groundbreaking contributions to the field, Catherine has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in mechanical engineering",
+    "traits": [
+      "flexible",
+      "independent",
+      "data-driven",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0197",
+    "name": "Justin Harris",
+    "title": "Senior",
+    "credentials": [
+      "MA",
+      "MFA",
+      "OD"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Keynote speaker at international Mechanical Engineering conferences",
+      "Published 52 peer-reviewed papers in Mechanical Engineering",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in mechanical engineering"
+    ],
+    "biography": "Justin Harris is a distinguished expert in Mechanical Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Justin has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in mechanical engineering",
+    "traits": [
+      "analytical",
+      "empirical",
+      "intuitive",
+      "progressive"
+    ]
+  },
+  {
+    "id": "expert-0198",
+    "name": "Julie Adams",
+    "title": "Chief",
+    "credentials": [
+      "PhD"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering",
+      "theoretical mechanical engineering"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Keynote speaker at international Mechanical Engineering conferences",
+      "Published 78 peer-reviewed papers in Mechanical Engineering",
+      "Served on editorial boards of leading Mechanical Engineering journals"
+    ],
+    "biography": "Julie Adams is a distinguished expert in Mechanical Engineering with 39 years of experience. Known for groundbreaking contributions to the field, Julie has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to mechanical engineering",
+    "traits": [
+      "progressive",
+      "collaborative",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0199",
+    "name": "Evelyn Washington",
+    "title": "Senior",
+    "credentials": [
+      "DBA",
+      "LLM",
+      "OD"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering",
+      "theoretical mechanical engineering"
+    ],
+    "yearsOfExperience": 24,
+    "achievements": [
+      "Recipient of prestigious awards in Mechanical Engineering",
+      "Principal investigator on major research grants",
+      "Mentored 12 doctoral students",
+      "Developed innovative methodologies in mechanical engineering",
+      "Led groundbreaking research in mechanical engineering"
+    ],
+    "biography": "Evelyn Washington is a distinguished expert in Mechanical Engineering with 24 years of experience. Known for groundbreaking contributions to the field, Evelyn has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to mechanical engineering",
+    "traits": [
+      "conservative",
+      "detail-oriented",
+      "balanced",
+      "cautious"
+    ]
+  },
+  {
+    "id": "expert-0200",
+    "name": "Frances Hughes",
+    "title": "Senior",
+    "credentials": [
+      "DBA",
+      "DSc"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering"
+    ],
+    "yearsOfExperience": 29,
+    "achievements": [
+      "Published 58 peer-reviewed papers in Mechanical Engineering",
+      "Led groundbreaking research in mechanical engineering",
+      "Keynote speaker at international Mechanical Engineering conferences",
+      "Recipient of prestigious awards in Mechanical Engineering"
+    ],
+    "biography": "Frances Hughes is a distinguished expert in Mechanical Engineering with 29 years of experience. Known for groundbreaking contributions to the field, Frances has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in mechanical engineering",
+    "traits": [
+      "progressive",
+      "principled",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0201",
+    "name": "Douglas Foster",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD",
+      "LLM",
+      "EdD"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering",
+      "theoretical mechanical engineering"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Served on editorial boards of leading Mechanical Engineering journals",
+      "Published 84 peer-reviewed papers in Mechanical Engineering",
+      "Recipient of prestigious awards in Mechanical Engineering"
+    ],
+    "biography": "Douglas Foster is a distinguished expert in Mechanical Engineering with 42 years of experience. Known for groundbreaking contributions to the field, Douglas has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of mechanical engineering",
+    "traits": [
+      "creative",
+      "reform-minded",
+      "interdisciplinary",
+      "data-driven",
+      "conservative"
+    ]
+  },
+  {
+    "id": "expert-0202",
+    "name": "Jason Olson",
+    "title": "Principal",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Mechanical Engineering",
+    "specializations": [
+      "advanced mechanical engineering",
+      "applied mechanical engineering"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Led groundbreaking research in mechanical engineering",
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Mechanical Engineering"
+    ],
+    "biography": "Jason Olson is a distinguished expert in Mechanical Engineering with 15 years of experience. Known for groundbreaking contributions to the field, Jason has shaped modern understanding of mechanical engineering through extensive research, teaching, and practice.",
+    "perspective": "practical application of mechanical engineering principles",
+    "traits": [
+      "strategic",
+      "pragmatic",
+      "intuitive",
+      "collaborative",
+      "systematic"
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "expert-0731",
+    "name": "Frank Flores",
+    "title": "Assistant Professor",
+    "credentials": [
+      "MA"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies",
+      "theoretical gender studies"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Led groundbreaking research in gender studies",
+      "Developed innovative methodologies in gender studies",
+      "Keynote speaker at international Gender Studies conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Frank Flores is a distinguished expert in Gender Studies with 21 years of experience. Known for groundbreaking contributions to the field, Frank has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on gender studies",
+    "traits": [
+      "tactical",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0732",
+    "name": "Michelle Olson",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "DPhil"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Led groundbreaking research in gender studies",
+      "Served on editorial boards of leading Gender Studies journals",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in gender studies"
+    ],
+    "biography": "Michelle Olson is a distinguished expert in Gender Studies with 41 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of gender studies principles",
+    "traits": [
+      "strategic",
+      "traditional",
+      "creative",
+      "independent",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0733",
+    "name": "Christian Gibson",
+    "title": "Dr.",
+    "credentials": [
+      "DVM"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies",
+      "theoretical gender studies"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Recipient of prestigious awards in Gender Studies",
+      "Published 44 peer-reviewed papers in Gender Studies",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Christian Gibson is a distinguished expert in Gender Studies with 22 years of experience. Known for groundbreaking contributions to the field, Christian has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on gender studies",
+    "traits": [
+      "systematic",
+      "specialized",
+      "independent",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0734",
+    "name": "Angela Cruz",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD",
+      "PharmD"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies"
+    ],
+    "yearsOfExperience": 41,
+    "achievements": [
+      "Developed innovative methodologies in gender studies",
+      "Mentored 20 doctoral students",
+      "Recipient of prestigious awards in Gender Studies",
+      "Led groundbreaking research in gender studies",
+      "Published 82 peer-reviewed papers in Gender Studies"
+    ],
+    "biography": "Angela Cruz is a distinguished expert in Gender Studies with 41 years of experience. Known for groundbreaking contributions to the field, Angela has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on gender studies",
+    "traits": [
+      "intuitive",
+      "visionary",
+      "practical",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "expert-0735",
+    "name": "George Gonzalez",
+    "title": "Lead",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies",
+      "theoretical gender studies"
+    ],
+    "yearsOfExperience": 37,
+    "achievements": [
+      "Recipient of prestigious awards in Gender Studies",
+      "Led groundbreaking research in gender studies",
+      "Mentored 18 doctoral students",
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Gender Studies journals"
+    ],
+    "biography": "George Gonzalez is a distinguished expert in Gender Studies with 37 years of experience. Known for groundbreaking contributions to the field, George has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in gender studies",
+    "traits": [
+      "methodical",
+      "innovative",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0736",
+    "name": "Walter Ross",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PhD",
+      "DPT",
+      "DSc"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies"
+    ],
+    "yearsOfExperience": 33,
+    "achievements": [
+      "Recipient of prestigious awards in Gender Studies",
+      "Mentored 16 doctoral students",
+      "Developed innovative methodologies in gender studies",
+      "Led groundbreaking research in gender studies"
+    ],
+    "biography": "Walter Ross is a distinguished expert in Gender Studies with 33 years of experience. Known for groundbreaking contributions to the field, Walter has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on gender studies",
+    "traits": [
+      "empirical",
+      "cautious",
+      "analytical"
+    ]
+  },
+  {
+    "id": "expert-0737",
+    "name": "Ruth Moreno",
+    "title": "Lead",
+    "credentials": [
+      "MPH",
+      "PsyD"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies",
+      "theoretical gender studies"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Published 80 peer-reviewed papers in Gender Studies",
+      "Led groundbreaking research in gender studies",
+      "Keynote speaker at international Gender Studies conferences",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Ruth Moreno is a distinguished expert in Gender Studies with 40 years of experience. Known for groundbreaking contributions to the field, Ruth has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "practical application of gender studies principles",
+    "traits": [
+      "conservative",
+      "holistic",
+      "reform-minded"
+    ]
+  },
+  {
+    "id": "expert-0738",
+    "name": "Robert Wells",
+    "title": "Dr.",
+    "credentials": [
+      "MD",
+      "DPT",
+      "MFA"
+    ],
+    "field": "Gender Studies",
+    "specializations": [
+      "advanced gender studies",
+      "applied gender studies",
+      "theoretical gender studies"
+    ],
+    "yearsOfExperience": 32,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Served on editorial boards of leading Gender Studies journals",
+      "Keynote speaker at international Gender Studies conferences",
+      "Mentored 16 doctoral students"
+    ],
+    "biography": "Robert Wells is a distinguished expert in Gender Studies with 32 years of experience. Known for groundbreaking contributions to the field, Robert has shaped modern understanding of gender studies through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of gender studies",
+    "traits": [
+      "methodical",
+      "conservative",
+      "reform-minded",
+      "systematic",
+      "specialized",
+      "interdisciplinary"
+    ]
+  }
+]

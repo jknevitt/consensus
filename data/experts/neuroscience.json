@@ -1,0 +1,174 @@
+[
+  {
+    "id": "expert-0364",
+    "name": "Stephen Jimenez",
+    "title": "Principal",
+    "credentials": [
+      "DBA",
+      "MD",
+      "OD"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Published 24 peer-reviewed papers in Neuroscience",
+      "Led groundbreaking research in neuroscience",
+      "Principal investigator on major research grants",
+      "Keynote speaker at international Neuroscience conferences"
+    ],
+    "biography": "Stephen Jimenez is a distinguished expert in Neuroscience with 12 years of experience. Known for groundbreaking contributions to the field, Stephen has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in neuroscience",
+    "traits": [
+      "evidence-based",
+      "balanced",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0365",
+    "name": "Austin James",
+    "title": "Associate Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Published 46 peer-reviewed papers in Neuroscience",
+      "Led groundbreaking research in neuroscience",
+      "Principal investigator on major research grants"
+    ],
+    "biography": "Austin James is a distinguished expert in Neuroscience with 23 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to neuroscience",
+    "traits": [
+      "balanced",
+      "interdisciplinary",
+      "intuitive",
+      "innovative",
+      "traditional"
+    ]
+  },
+  {
+    "id": "expert-0366",
+    "name": "Carol Allen",
+    "title": "Principal",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in neuroscience",
+      "Recipient of prestigious awards in Neuroscience"
+    ],
+    "biography": "Carol Allen is a distinguished expert in Neuroscience with 15 years of experience. Known for groundbreaking contributions to the field, Carol has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in neuroscience",
+    "traits": [
+      "visionary",
+      "innovative",
+      "tactical"
+    ]
+  },
+  {
+    "id": "expert-0367",
+    "name": "Jordan Alvarez",
+    "title": "Chief",
+    "credentials": [
+      "PhD",
+      "MD"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience",
+      "theoretical neuroscience"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Keynote speaker at international Neuroscience conferences",
+      "Published 52 peer-reviewed papers in Neuroscience",
+      "Served on editorial boards of leading Neuroscience journals",
+      "Led groundbreaking research in neuroscience"
+    ],
+    "biography": "Jordan Alvarez is a distinguished expert in Neuroscience with 26 years of experience. Known for groundbreaking contributions to the field, Jordan has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in neuroscience",
+    "traits": [
+      "collaborative",
+      "principled",
+      "evidence-based"
+    ]
+  },
+  {
+    "id": "expert-0368",
+    "name": "Michelle Morgan",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience"
+    ],
+    "yearsOfExperience": 22,
+    "achievements": [
+      "Published 44 peer-reviewed papers in Neuroscience",
+      "Led groundbreaking research in neuroscience",
+      "Keynote speaker at international Neuroscience conferences",
+      "Mentored 11 doctoral students"
+    ],
+    "biography": "Michelle Morgan is a distinguished expert in Neuroscience with 22 years of experience. Known for groundbreaking contributions to the field, Michelle has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in neuroscience",
+    "traits": [
+      "theoretical",
+      "collaborative",
+      "flexible",
+      "visionary",
+      "creative",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0369",
+    "name": "Kenneth Lewis",
+    "title": "Dr.",
+    "credentials": [
+      "DBA"
+    ],
+    "field": "Neuroscience",
+    "specializations": [
+      "advanced neuroscience",
+      "applied neuroscience",
+      "theoretical neuroscience"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in neuroscience",
+      "Recipient of prestigious awards in Neuroscience",
+      "Served on editorial boards of leading Neuroscience journals",
+      "Published 70 peer-reviewed papers in Neuroscience"
+    ],
+    "biography": "Kenneth Lewis is a distinguished expert in Neuroscience with 35 years of experience. Known for groundbreaking contributions to the field, Kenneth has shaped modern understanding of neuroscience through extensive research, teaching, and practice.",
+    "perspective": "practical application of neuroscience principles",
+    "traits": [
+      "intuitive",
+      "balanced",
+      "visionary",
+      "systematic"
+    ]
+  }
+]

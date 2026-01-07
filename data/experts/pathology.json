@@ -1,0 +1,179 @@
+[
+  {
+    "id": "expert-0091",
+    "name": "Cynthia Thomas",
+    "title": "Associate Professor",
+    "credentials": [
+      "OD",
+      "EdD",
+      "PsyD"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Published 60 peer-reviewed papers in Pathology",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in pathology",
+      "Keynote speaker at international Pathology conferences"
+    ],
+    "biography": "Cynthia Thomas is a distinguished expert in Pathology with 30 years of experience. Known for groundbreaking contributions to the field, Cynthia has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pathology",
+    "traits": [
+      "data-driven",
+      "balanced",
+      "empirical",
+      "progressive",
+      "pragmatic"
+    ]
+  },
+  {
+    "id": "expert-0092",
+    "name": "Stephen Gonzales",
+    "title": "Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology",
+      "theoretical pathology"
+    ],
+    "yearsOfExperience": 15,
+    "achievements": [
+      "Published 30 peer-reviewed papers in Pathology",
+      "Led groundbreaking research in pathology",
+      "Served on editorial boards of leading Pathology journals"
+    ],
+    "biography": "Stephen Gonzales is a distinguished expert in Pathology with 15 years of experience. Known for groundbreaking contributions to the field, Stephen has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pathology",
+    "traits": [
+      "independent",
+      "flexible",
+      "data-driven",
+      "practical"
+    ]
+  },
+  {
+    "id": "expert-0093",
+    "name": "Brandon Johnson",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "EdD",
+      "PharmD"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology"
+    ],
+    "yearsOfExperience": 40,
+    "achievements": [
+      "Recipient of prestigious awards in Pathology",
+      "Mentored 20 doctoral students",
+      "Led groundbreaking research in pathology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in pathology"
+    ],
+    "biography": "Brandon Johnson is a distinguished expert in Pathology with 40 years of experience. Known for groundbreaking contributions to the field, Brandon has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in pathology",
+    "traits": [
+      "creative",
+      "bold",
+      "practical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0094",
+    "name": "Heather Thompson",
+    "title": "Chief",
+    "credentials": [
+      "EdD",
+      "MFA"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology",
+      "theoretical pathology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Pathology",
+      "Led groundbreaking research in pathology",
+      "Recipient of prestigious awards in Pathology",
+      "Developed innovative methodologies in pathology"
+    ],
+    "biography": "Heather Thompson is a distinguished expert in Pathology with 42 years of experience. Known for groundbreaking contributions to the field, Heather has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "practical application of pathology principles",
+    "traits": [
+      "intuitive",
+      "holistic",
+      "reform-minded",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0095",
+    "name": "Jessica Stewart",
+    "title": "Distinguished Professor",
+    "credentials": [
+      "OD"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology",
+      "theoretical pathology"
+    ],
+    "yearsOfExperience": 36,
+    "achievements": [
+      "Recipient of prestigious awards in Pathology",
+      "Published 72 peer-reviewed papers in Pathology",
+      "Led groundbreaking research in pathology"
+    ],
+    "biography": "Jessica Stewart is a distinguished expert in Pathology with 36 years of experience. Known for groundbreaking contributions to the field, Jessica has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "practical application of pathology principles",
+    "traits": [
+      "systematic",
+      "holistic",
+      "methodical",
+      "flexible",
+      "traditional",
+      "creative"
+    ]
+  },
+  {
+    "id": "expert-0096",
+    "name": "Amanda Fisher",
+    "title": "Senior",
+    "credentials": [
+      "PharmD"
+    ],
+    "field": "Pathology",
+    "specializations": [
+      "advanced pathology",
+      "applied pathology"
+    ],
+    "yearsOfExperience": 35,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 70 peer-reviewed papers in Pathology",
+      "Led groundbreaking research in pathology",
+      "Keynote speaker at international Pathology conferences"
+    ],
+    "biography": "Amanda Fisher is a distinguished expert in Pathology with 35 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of pathology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to pathology",
+    "traits": [
+      "analytical",
+      "innovative",
+      "independent",
+      "reform-minded"
+    ]
+  }
+]

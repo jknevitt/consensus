@@ -1,0 +1,181 @@
+[
+  {
+    "id": "expert-0210",
+    "name": "Joyce Anderson",
+    "title": "Principal",
+    "credentials": [
+      "MBA"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Keynote speaker at international Software Engineering conferences",
+      "Served on editorial boards of leading Software Engineering journals",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in software engineering"
+    ],
+    "biography": "Joyce Anderson is a distinguished expert in Software Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Joyce has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "integrative perspective on software engineering",
+    "traits": [
+      "reform-minded",
+      "independent",
+      "practical",
+      "specialized"
+    ]
+  },
+  {
+    "id": "expert-0211",
+    "name": "Zachary Flores",
+    "title": "Chief",
+    "credentials": [
+      "MA",
+      "DNP"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering",
+      "theoretical software engineering"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Developed innovative methodologies in software engineering",
+      "Published 22 peer-reviewed papers in Software Engineering",
+      "Mentored 5 doctoral students",
+      "Served on editorial boards of leading Software Engineering journals",
+      "Led groundbreaking research in software engineering"
+    ],
+    "biography": "Zachary Flores is a distinguished expert in Software Engineering with 11 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in software engineering",
+    "traits": [
+      "balanced",
+      "collaborative",
+      "empirical",
+      "visionary"
+    ]
+  },
+  {
+    "id": "expert-0212",
+    "name": "Ann Hughes",
+    "title": "Assistant Professor",
+    "credentials": [
+      "PsyD"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering",
+      "theoretical software engineering"
+    ],
+    "yearsOfExperience": 43,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Published 86 peer-reviewed papers in Software Engineering",
+      "Developed innovative methodologies in software engineering",
+      "Served on editorial boards of leading Software Engineering journals"
+    ],
+    "biography": "Ann Hughes is a distinguished expert in Software Engineering with 43 years of experience. Known for groundbreaking contributions to the field, Ann has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to software engineering",
+    "traits": [
+      "innovative",
+      "detail-oriented",
+      "systematic"
+    ]
+  },
+  {
+    "id": "expert-0213",
+    "name": "Susan Gonzalez",
+    "title": "Professor",
+    "credentials": [
+      "MPH"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering",
+      "theoretical software engineering"
+    ],
+    "yearsOfExperience": 23,
+    "achievements": [
+      "Served on editorial boards of leading Software Engineering journals",
+      "Published 46 peer-reviewed papers in Software Engineering",
+      "Led groundbreaking research in software engineering"
+    ],
+    "biography": "Susan Gonzalez is a distinguished expert in Software Engineering with 23 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to software engineering",
+    "traits": [
+      "theoretical",
+      "systematic",
+      "pragmatic",
+      "tactical",
+      "innovative"
+    ]
+  },
+  {
+    "id": "expert-0214",
+    "name": "Susan Reynolds",
+    "title": "Lead",
+    "credentials": [
+      "LLM",
+      "PharmD",
+      "DPhil"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering"
+    ],
+    "yearsOfExperience": 26,
+    "achievements": [
+      "Mentored 13 doctoral students",
+      "Developed innovative methodologies in software engineering",
+      "Recipient of prestigious awards in Software Engineering",
+      "Led groundbreaking research in software engineering",
+      "Published 52 peer-reviewed papers in Software Engineering"
+    ],
+    "biography": "Susan Reynolds is a distinguished expert in Software Engineering with 26 years of experience. Known for groundbreaking contributions to the field, Susan has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in software engineering",
+    "traits": [
+      "pragmatic",
+      "empirical",
+      "cautious",
+      "innovative",
+      "evidence-based",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0215",
+    "name": "Dennis Freeman",
+    "title": "Chief",
+    "credentials": [
+      "DDS",
+      "DVM"
+    ],
+    "field": "Software Engineering",
+    "specializations": [
+      "advanced software engineering",
+      "applied software engineering",
+      "theoretical software engineering"
+    ],
+    "yearsOfExperience": 30,
+    "achievements": [
+      "Recipient of prestigious awards in Software Engineering",
+      "Developed innovative methodologies in software engineering",
+      "Served on editorial boards of leading Software Engineering journals",
+      "Mentored 15 doctoral students",
+      "Published 60 peer-reviewed papers in Software Engineering"
+    ],
+    "biography": "Dennis Freeman is a distinguished expert in Software Engineering with 30 years of experience. Known for groundbreaking contributions to the field, Dennis has shaped modern understanding of software engineering through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in software engineering",
+    "traits": [
+      "conservative",
+      "visionary",
+      "innovative"
+    ]
+  }
+]

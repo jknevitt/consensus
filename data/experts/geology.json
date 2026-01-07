@@ -1,0 +1,236 @@
+[
+  {
+    "id": "expert-0300",
+    "name": "Brenda Howard",
+    "title": "Emeritus Professor",
+    "credentials": [
+      "MD",
+      "DSc",
+      "OD"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Published 42 peer-reviewed papers in Geology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in geology",
+      "Keynote speaker at international Geology conferences"
+    ],
+    "biography": "Brenda Howard is a distinguished expert in Geology with 21 years of experience. Known for groundbreaking contributions to the field, Brenda has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of geology",
+    "traits": [
+      "cautious",
+      "tactical",
+      "empirical",
+      "theoretical"
+    ]
+  },
+  {
+    "id": "expert-0301",
+    "name": "Lisa Vasquez",
+    "title": "Senior",
+    "credentials": [
+      "DDS",
+      "DPT"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology"
+    ],
+    "yearsOfExperience": 39,
+    "achievements": [
+      "Keynote speaker at international Geology conferences",
+      "Mentored 19 doctoral students",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in geology"
+    ],
+    "biography": "Lisa Vasquez is a distinguished expert in Geology with 39 years of experience. Known for groundbreaking contributions to the field, Lisa has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "innovative solutions in geology",
+    "traits": [
+      "strategic",
+      "cautious",
+      "interdisciplinary",
+      "principled"
+    ]
+  },
+  {
+    "id": "expert-0302",
+    "name": "Zachary Martinez",
+    "title": "Associate Professor",
+    "credentials": [
+      "DPT"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 42,
+    "achievements": [
+      "Published 84 peer-reviewed papers in Geology",
+      "Principal investigator on major research grants",
+      "Developed innovative methodologies in geology"
+    ],
+    "biography": "Zachary Martinez is a distinguished expert in Geology with 42 years of experience. Known for groundbreaking contributions to the field, Zachary has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to geology",
+    "traits": [
+      "tactical",
+      "methodical",
+      "visionary",
+      "empirical"
+    ]
+  },
+  {
+    "id": "expert-0303",
+    "name": "Joseph Reyes",
+    "title": "Professor",
+    "credentials": [
+      "DDS"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 12,
+    "achievements": [
+      "Principal investigator on major research grants",
+      "Recipient of prestigious awards in Geology",
+      "Mentored 6 doctoral students"
+    ],
+    "biography": "Joseph Reyes is a distinguished expert in Geology with 12 years of experience. Known for groundbreaking contributions to the field, Joseph has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of geology",
+    "traits": [
+      "independent",
+      "detail-oriented",
+      "cautious",
+      "balanced",
+      "collaborative"
+    ]
+  },
+  {
+    "id": "expert-0304",
+    "name": "Austin Fernandez",
+    "title": "Director",
+    "credentials": [
+      "DDS",
+      "MSc"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 18,
+    "achievements": [
+      "Developed innovative methodologies in geology",
+      "Recipient of prestigious awards in Geology",
+      "Keynote speaker at international Geology conferences",
+      "Principal investigator on major research grants",
+      "Led groundbreaking research in geology"
+    ],
+    "biography": "Austin Fernandez is a distinguished expert in Geology with 18 years of experience. Known for groundbreaking contributions to the field, Austin has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to geology",
+    "traits": [
+      "evidence-based",
+      "empirical",
+      "independent",
+      "analytical",
+      "holistic"
+    ]
+  },
+  {
+    "id": "expert-0305",
+    "name": "Carolyn Myers",
+    "title": "Assistant Professor",
+    "credentials": [
+      "DNP"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 21,
+    "achievements": [
+      "Developed innovative methodologies in geology",
+      "Mentored 10 doctoral students",
+      "Served on editorial boards of leading Geology journals"
+    ],
+    "biography": "Carolyn Myers is a distinguished expert in Geology with 21 years of experience. Known for groundbreaking contributions to the field, Carolyn has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "practical application of geology principles",
+    "traits": [
+      "strategic",
+      "data-driven",
+      "balanced",
+      "independent"
+    ]
+  },
+  {
+    "id": "expert-0306",
+    "name": "Keith Wilson",
+    "title": "Professor",
+    "credentials": [
+      "MSc",
+      "MBA"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology",
+      "theoretical geology"
+    ],
+    "yearsOfExperience": 38,
+    "achievements": [
+      "Developed innovative methodologies in geology",
+      "Published 76 peer-reviewed papers in Geology",
+      "Keynote speaker at international Geology conferences",
+      "Served on editorial boards of leading Geology journals"
+    ],
+    "biography": "Keith Wilson is a distinguished expert in Geology with 38 years of experience. Known for groundbreaking contributions to the field, Keith has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "critical analysis of geology",
+    "traits": [
+      "strategic",
+      "traditional",
+      "analytical",
+      "detail-oriented"
+    ]
+  },
+  {
+    "id": "expert-0307",
+    "name": "Amanda Owens",
+    "title": "Senior",
+    "credentials": [
+      "DSc",
+      "MBA"
+    ],
+    "field": "Geology",
+    "specializations": [
+      "advanced geology",
+      "applied geology"
+    ],
+    "yearsOfExperience": 11,
+    "achievements": [
+      "Led groundbreaking research in geology",
+      "Published 22 peer-reviewed papers in Geology",
+      "Mentored 5 doctoral students"
+    ],
+    "biography": "Amanda Owens is a distinguished expert in Geology with 11 years of experience. Known for groundbreaking contributions to the field, Amanda has shaped modern understanding of geology through extensive research, teaching, and practice.",
+    "perspective": "evidence-based approach to geology",
+    "traits": [
+      "pragmatic",
+      "systematic",
+      "holistic"
+    ]
+  }
+]
