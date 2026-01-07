@@ -6,3 +6,8 @@ dist/
 coverage/
 .vscode/
 .idea/
+
+# Web frontend
+web/node_modules/
+web/dist/
+web/.vite/

@@ -24,6 +24,31 @@ npm run build
 
 ## Usage
 
+### Web Interface (Recommended)
+
+The AI Parliament includes a modern web interface for easy interaction:
+
+1. **Start the backend API server:**
+```bash
+npm run server
+```
+
+2. **Start the frontend (in a separate terminal):**
+```bash
+cd web
+npm run dev
+```
+
+3. **Open in browser:** Navigate to `http://localhost:3000`
+
+The web interface allows you to:
+- Submit questions or proposals to the parliament
+- View real-time deliberation results
+- Expand vote categories to see which experts voted
+- View individual expert reasoning and credentials
+
+See [web/README.md](web/README.md) for more details.
+
 ### CLI Interface
 
 ```bash
